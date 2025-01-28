@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .prose li > a,
+  .prose p > a {
+    color: #463eda !important;
+    word-break: break-all !important;
+  }
+}
