@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>秘密鍵を複数の人と共有する</pre>\n",
+			"option_html": "<pre>秘密鍵を複数の人と共有する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セキュリティが強化されたウォレットを使用する</pre>\n",
+			"option_html": "<pre>セキュリティが強化されたウォレットを使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>常にオンラインウォレットだけを使う</pre>\n",
+			"option_html": "<pre>常にオンラインウォレットだけを使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨を定期的に換金する</pre>\n",
+			"option_html": "<pre>仮想通貨を定期的に換金する</pre>\n"
+		}
+	]
+}

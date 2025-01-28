@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "4時間\n",
+			"option_html": "<p>4時間</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "6時間\n",
+			"option_html": "<p>6時間</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "8時間\n",
+			"option_html": "<p>8時間</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "10時間\n",
+			"option_html": "<p>10時間</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ビットコイン（Bitcoin）</pre>\n",
+			"option_html": "<pre>ビットコイン（Bitcoin）</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>金（Gold）</pre>\n",
+			"option_html": "<pre>金（Gold）</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>米ドル（USD）</pre>\n",
+			"option_html": "<pre>米ドル（USD）</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>イーサリアム（Ethereum）</pre>\n",
+			"option_html": "<pre>イーサリアム（Ethereum）</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>別の保存先を選択する</pre>\n",
+			"option_html": "<pre>別の保存先を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル形式を変更する</pre>\n",
+			"option_html": "<pre>ファイル形式を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>保存するフォルダのアクセス権限を確認する</pre>\n",
+			"option_html": "<pre>保存するフォルダのアクセス権限を確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Photoshopを管理者として実行する</pre>\n",
+			"option_html": "<pre>Photoshopを管理者として実行する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > 書き出し > JPEG</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; JPEG</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > エクスポート > 書き出し形式 > JPEG</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; 書き出し形式 &gt; JPEG</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 保存 > JPEG形式</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存 &gt; JPEG形式</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > エクスポート > アートボードとしてJPEG</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; アートボードとしてJPEG</pre>\n"
+		}
+	]
+}

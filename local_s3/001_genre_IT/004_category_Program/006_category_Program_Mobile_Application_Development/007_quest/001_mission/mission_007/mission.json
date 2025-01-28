@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Google Play Certificate</pre>\n",
+			"option_html": "<pre>Google Play Certificate</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Apple Developer Certificate</pre>\n",
+			"option_html": "<pre>Apple Developer Certificate</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Microsoft Development Certificate</pre>\n",
+			"option_html": "<pre>Microsoft Development Certificate</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Adobe Certificate</pre>\n",
+			"option_html": "<pre>Adobe Certificate</pre>\n"
+		}
+	]
+}

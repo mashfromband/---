@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スナップが有効になっている</pre>\n",
+			"option_html": "<pre>スナップが有効になっている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不透明度が低すぎる</pre>\n",
+			"option_html": "<pre>不透明度が低すぎる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ブラシサイズが小さすぎる</pre>\n",
+			"option_html": "<pre>ブラシサイズが小さすぎる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>流量が低すぎる</pre>\n",
+			"option_html": "<pre>流量が低すぎる</pre>\n"
+		}
+	]
+}

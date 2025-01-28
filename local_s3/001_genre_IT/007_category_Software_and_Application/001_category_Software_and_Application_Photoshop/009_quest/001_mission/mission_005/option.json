@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>彩度を調整しても色が過度に強調されない</pre>\n",
+			"option_html": "<pre>彩度を調整しても色が過度に強調されない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色相を変更する</pre>\n",
+			"option_html": "<pre>色相を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>明度を下げる</pre>\n",
+			"option_html": "<pre>明度を下げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		}
+	]
+}

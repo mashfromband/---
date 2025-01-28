@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスワードをプレーンテキストで保存する</pre>\n",
+			"option_html": "<pre>パスワードをプレーンテキストで保存する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスワードをデバイスのローカルストレージに保存する</pre>\n",
+			"option_html": "<pre>パスワードをデバイスのローカルストレージに保存する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスワードをハッシュ化して保存する</pre>\n",
+			"option_html": "<pre>パスワードをハッシュ化して保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスワードをメールでユーザーに送信する</pre>\n",
+			"option_html": "<pre>パスワードをメールでユーザーに送信する</pre>\n"
+		}
+	]
+}

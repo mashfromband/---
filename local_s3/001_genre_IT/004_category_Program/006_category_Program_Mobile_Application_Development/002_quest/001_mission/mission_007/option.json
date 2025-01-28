@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>iOSは全デバイスで一斉にアップデートされるが、Androidはメーカーによってタイミングが異なる</pre>\n",
+			"option_html": "<pre>iOSは全デバイスで一斉にアップデートされるが、Androidはメーカーによってタイミングが異なる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>iOSはアップデートを個別に設定するが、Androidは全デバイスで一斉にアップデートされる</pre>\n",
+			"option_html": "<pre>iOSはアップデートを個別に設定するが、Androidは全デバイスで一斉にアップデートされる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>iOSのアップデートはGoogleが管理しているが、AndroidはAppleが管理している</pre>\n",
+			"option_html": "<pre>iOSのアップデートはGoogleが管理しているが、AndroidはAppleが管理している</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>iOSとAndroidのシステムアップデートに仕組みの違いはない</pre>\n",
+			"option_html": "<pre>iOSとAndroidのシステムアップデートに仕組みの違いはない</pre>\n"
+		}
+	]
+}

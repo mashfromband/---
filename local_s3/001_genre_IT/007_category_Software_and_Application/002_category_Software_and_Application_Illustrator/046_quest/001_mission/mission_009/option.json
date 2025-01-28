@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDFエクスポート時に「アートボードの枠線を表示」を選択する</pre>\n",
+			"option_html": "<pre>PDFエクスポート時に「アートボードの枠線を表示」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 保存時に枠線を選択する</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存時に枠線を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>エクスポート設定で「枠線を含める」を選択する</pre>\n",
+			"option_html": "<pre>エクスポート設定で「枠線を含める」を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 書き出し時に枠線を含める設定を選ぶ</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し時に枠線を含める設定を選ぶ</pre>\n"
+		}
+	]
+}

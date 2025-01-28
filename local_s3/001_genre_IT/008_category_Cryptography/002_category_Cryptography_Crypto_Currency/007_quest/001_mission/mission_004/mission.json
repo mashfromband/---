@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨を購入するための複数の注文</pre>\n",
+			"option_html": "<pre>仮想通貨を購入するための複数の注文</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>売り手と買い手のペアを指す</pre>\n",
+			"option_html": "<pre>売り手と買い手のペアを指す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨と法定通貨を交換する際の価格差</pre>\n",
+			"option_html": "<pre>仮想通貨と法定通貨を交換する際の価格差</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引所で特定の仮想通貨同士を交換するための組み合わせ</pre>\n",
+			"option_html": "<pre>取引所で特定の仮想通貨同士を交換するための組み合わせ</pre>\n"
+		}
+	]
+}

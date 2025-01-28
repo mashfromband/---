@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>内容を確認する</pre>\n",
+			"option_html": "<pre>内容を確認する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>分からなくてもそのまま作業する</pre>\n",
+			"option_html": "<pre>分からなくてもそのまま作業する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>同僚に丸投げする</pre>\n",
+			"option_html": "<pre>同僚に丸投げする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分の判断で変更する</pre>\n",
+			"option_html": "<pre>自分の判断で変更する</pre>\n"
+		}
+	]
+}

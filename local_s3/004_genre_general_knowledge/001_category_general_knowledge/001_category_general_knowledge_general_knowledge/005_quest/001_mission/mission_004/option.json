@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>通路側の席</pre>\n",
+			"option_html": "<pre>通路側の席</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>真ん中の席</pre>\n",
+			"option_html": "<pre>真ん中の席</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>窓側の席</pre>\n",
+			"option_html": "<pre>窓側の席</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>どの席でも同じ</pre>\n",
+			"option_html": "<pre>どの席でも同じ</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"ショートカット"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイルを削除する</pre>\n",
+			"option_html": "<pre>ファイルを削除する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイルを閉じる</pre>\n",
+			"option_html": "<pre>ファイルを閉じる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイルを開く</pre>\n",
+			"option_html": "<pre>ファイルを開く</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイルを保存する</pre>\n",
+			"option_html": "<pre>ファイルを保存する</pre>\n"
+		}
+	]
+}

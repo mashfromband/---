@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>整列パネルで「等間隔に配分」を使用する</pre>\n",
+			"option_html": "<pre>整列パネルで「等間隔に配分」を使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>目測で間隔を調整する</pre>\n",
+			"option_html": "<pre>目測で間隔を調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクトを1つずつ並べ直す</pre>\n",
+			"option_html": "<pre>オブジェクトを1つずつ並べ直す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グリッドを無視して適当に配置する</pre>\n",
+			"option_html": "<pre>グリッドを無視して適当に配置する</pre>\n"
+		}
+	]
+}

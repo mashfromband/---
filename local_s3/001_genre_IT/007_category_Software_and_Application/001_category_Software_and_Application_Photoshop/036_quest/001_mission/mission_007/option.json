@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ファイル」メニューの「新規ブラシ」</pre>\n",
+			"option_html": "<pre>「ファイル」メニューの「新規ブラシ」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「編集」メニューの「ブラシを定義」</pre>\n",
+			"option_html": "<pre>「編集」メニューの「ブラシを定義」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ウィンドウ」メニューの「ブラシ設定」</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「ブラシ設定」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤー」メニューの「ブラシを作成」</pre>\n",
+			"option_html": "<pre>「レイヤー」メニューの「ブラシを作成」</pre>\n"
+		}
+	]
+}

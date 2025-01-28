@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "リスクアセスメント\n",
+			"option_html": "<p>リスクアセスメント</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "BCP\n",
+			"option_html": "<p>BCP</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "環境アセスメント\n",
+			"option_html": "<p>環境アセスメント</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "セキュリティポリシー\n",
+			"option_html": "<p>セキュリティポリシー</p>\n"
+		}
+	]
+}

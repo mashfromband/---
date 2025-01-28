@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリケーションコードがイベントの発生時にのみ実行されるため</pre>\n",
+			"option_html": "<pre>アプリケーションコードがイベントの発生時にのみ実行されるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サーバーが定常的に動作するため</pre>\n",
+			"option_html": "<pre>サーバーが定常的に動作するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>物理サーバーの動作をリアルタイムで監視するため</pre>\n",
+			"option_html": "<pre>物理サーバーの動作をリアルタイムで監視するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>複数の仮想マシンが自動的に起動されるため</pre>\n",
+			"option_html": "<pre>複数の仮想マシンが自動的に起動されるため</pre>\n"
+		}
+	]
+}

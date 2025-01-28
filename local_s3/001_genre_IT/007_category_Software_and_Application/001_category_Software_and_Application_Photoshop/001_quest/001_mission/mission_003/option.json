@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーマスク</pre>\n",
+			"option_html": "<pre>レイヤーマスク</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを結合</pre>\n",
+			"option_html": "<pre>レイヤーを結合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーをリンク</pre>\n",
+			"option_html": "<pre>レイヤーをリンク</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを削除</pre>\n",
+			"option_html": "<pre>レイヤーを削除</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ビジネスマナー",
+		"服装・身だしなみ（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>白や淡い色</pre>\n",
+			"option_html": "<pre>白や淡い色</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>原色や派手な柄物</pre>\n",
+			"option_html": "<pre>原色や派手な柄物</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>黒一色</pre>\n",
+			"option_html": "<pre>黒一色</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>何色でもよい</pre>\n",
+			"option_html": "<pre>何色でもよい</pre>\n"
+		}
+	]
+}

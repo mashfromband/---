@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Russia</pre>\n",
+			"option_html": "<pre>Russia</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>(男性名詞に使う)this</pre>\n",
+			"option_html": "<pre>(男性名詞に使う)this</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>(中性名詞に使う)this</pre>\n",
+			"option_html": "<pre>(中性名詞に使う)this</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>(女性名詞に使う)this</pre>\n",
+			"option_html": "<pre>(女性名詞に使う)this</pre>\n"
+		}
+	]
+}

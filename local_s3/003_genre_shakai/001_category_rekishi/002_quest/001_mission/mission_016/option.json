@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "法隆寺\n",
+			"option_html": "<p>法隆寺</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "金閣寺\n",
+			"option_html": "<p>金閣寺</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "銀閣寺\n",
+			"option_html": "<p>銀閣寺</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "平等院鳳凰堂\n",
+			"option_html": "<p>平等院鳳凰堂</p>\n"
+		}
+	]
+}

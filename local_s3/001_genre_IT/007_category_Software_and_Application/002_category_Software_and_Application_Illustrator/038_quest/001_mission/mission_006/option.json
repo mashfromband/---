@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでロックアイコンをクリック</pre>\n",
+			"option_html": "<pre>レイヤーパネルでロックアイコンをクリック</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > ロック > すべてのオブジェクトをロック</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; ロック &gt; すべてのオブジェクトをロック</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで目のアイコンをクリック</pre>\n",
+			"option_html": "<pre>レイヤーパネルで目のアイコンをクリック</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで「ロック解除」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「ロック解除」を選択</pre>\n"
+		}
+	]
+}

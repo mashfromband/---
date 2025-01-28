@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>エッジコンピューティングは大容量データを長期間保存する</pre>\n",
+			"option_html": "<pre>エッジコンピューティングは大容量データを長期間保存する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>エッジコンピューティングはデバイスの近くでデータを処理する</pre>\n",
+			"option_html": "<pre>エッジコンピューティングはデバイスの近くでデータを処理する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>エッジコンピューティングはインターネット接続が不要である</pre>\n",
+			"option_html": "<pre>エッジコンピューティングはインターネット接続が不要である</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>エッジコンピューティングはリアルタイム処理が不可能である</pre>\n",
+			"option_html": "<pre>エッジコンピューティングはリアルタイム処理が不可能である</pre>\n"
+		}
+	]
+}

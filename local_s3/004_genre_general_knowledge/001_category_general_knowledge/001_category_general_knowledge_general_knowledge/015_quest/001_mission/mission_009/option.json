@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>確定申告</pre>\n",
+			"option_html": "<pre>確定申告</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>年末調整</pre>\n",
+			"option_html": "<pre>年末調整</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>人事考課</pre>\n",
+			"option_html": "<pre>人事考課</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>賞与査定</pre>\n",
+			"option_html": "<pre>賞与査定</pre>\n"
+		}
+	]
+}

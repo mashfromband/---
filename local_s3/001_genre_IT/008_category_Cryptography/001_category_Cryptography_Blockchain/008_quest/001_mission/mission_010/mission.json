@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>音楽作品を完全に無料で配布できる</pre>\n",
+			"option_html": "<pre>音楽作品を完全に無料で配布できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>著作権情報を改ざんできない形で記録する</pre>\n",
+			"option_html": "<pre>著作権情報を改ざんできない形で記録する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>音楽の再生履歴を中央機関が管理する</pre>\n",
+			"option_html": "<pre>音楽の再生履歴を中央機関が管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アーティストの収益を削減する</pre>\n",
+			"option_html": "<pre>アーティストの収益を削減する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"フィルター"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルター > ピクセレート > ハーフトーン</pre>\n",
+			"option_html": "<pre>フィルター &gt; ピクセレート &gt; ハーフトーン</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > スタイライズ > ハーフトーン</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; ハーフトーン</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > アーティスティック > ハーフトーン</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック &gt; ハーフトーン</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 変形 > ハーフトーン</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; ハーフトーン</pre>\n"
+		}
+	]
+}

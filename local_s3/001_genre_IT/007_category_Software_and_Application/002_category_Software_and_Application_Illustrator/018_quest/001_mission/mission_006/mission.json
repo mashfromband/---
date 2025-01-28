@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"ツール"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グリッドにスナップ</pre>\n",
+			"option_html": "<pre>グリッドにスナップ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスにスナップ</pre>\n",
+			"option_html": "<pre>パスにスナップ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ガイドを表示</pre>\n",
+			"option_html": "<pre>ガイドを表示</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートガイド</pre>\n",
+			"option_html": "<pre>スマートガイド</pre>\n"
+		}
+	]
+}

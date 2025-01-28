@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>調整レイヤー作成後にAlt（Windows） / Option（Mac）を押しながらクリックする</pre>\n",
+			"option_html": "<pre>調整レイヤー作成後にAlt（Windows） / Option（Mac）を押しながらクリックする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>調整レイヤーを作成する際にCtrl（Windows） / Command（Mac）キーを押し続ける</pre>\n",
+			"option_html": "<pre>調整レイヤーを作成する際にCtrl（Windows） / Command（Mac）キーを押し続ける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>調整レイヤーを特定のレイヤーにドラッグする</pre>\n",
+			"option_html": "<pre>調整レイヤーを特定のレイヤーにドラッグする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>調整レイヤーの設定で「特定のレイヤーを選択」を有効にする</pre>\n",
+			"option_html": "<pre>調整レイヤーの設定で「特定のレイヤーを選択」を有効にする</pre>\n"
+		}
+	]
+}

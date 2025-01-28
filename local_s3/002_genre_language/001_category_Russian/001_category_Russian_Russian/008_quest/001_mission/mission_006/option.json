@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>You in cafe?</pre>\n",
+			"option_html": "<pre>You in cafe?</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Where're actors?</pre>\n",
+			"option_html": "<pre>Where're actors?</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>You sisiters?</pre>\n",
+			"option_html": "<pre>You sisiters?</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Whrere're girls?</pre>\n",
+			"option_html": "<pre>Whrere're girls?</pre>\n"
+		}
+	]
+}

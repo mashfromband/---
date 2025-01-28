@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>リソースの増減が簡単にできる性質</pre>\n",
+			"option_html": "<pre>リソースの増減が簡単にできる性質</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データをすべてローカルに保存する性質</pre>\n",
+			"option_html": "<pre>データをすべてローカルに保存する性質</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サーバーが壊れても自動修復されない性質</pre>\n",
+			"option_html": "<pre>サーバーが壊れても自動修復されない性質</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>リソースを固定的に管理する性質</pre>\n",
+			"option_html": "<pre>リソースを固定的に管理する性質</pre>\n"
+		}
+	]
+}

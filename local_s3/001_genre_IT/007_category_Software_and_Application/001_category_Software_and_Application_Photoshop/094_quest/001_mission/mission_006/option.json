@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>視認性とバランス</pre>\n",
+			"option_html": "<pre>視認性とバランス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色合いの調整</pre>\n",
+			"option_html": "<pre>色合いの調整</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像の解像度</pre>\n",
+			"option_html": "<pre>画像の解像度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フォントスタイル</pre>\n",
+			"option_html": "<pre>フォントスタイル</pre>\n"
+		}
+	]
+}

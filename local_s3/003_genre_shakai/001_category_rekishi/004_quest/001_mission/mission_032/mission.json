@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "併合\n",
+			"option_html": "<p>併合</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "滅亡\n",
+			"option_html": "<p>滅亡</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "分裂\n",
+			"option_html": "<p>分裂</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "建国\n",
+			"option_html": "<p>建国</p>\n"
+		}
+	]
+}

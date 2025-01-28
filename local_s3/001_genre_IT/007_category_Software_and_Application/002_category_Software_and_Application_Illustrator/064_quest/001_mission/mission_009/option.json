@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字 > アウトラインを作成</pre>\n",
+			"option_html": "<pre>文字 &gt; アウトラインを作成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルでアウトラインを作成する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでアウトラインを作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スウォッチパネルでアウトラインを追加する</pre>\n",
+			"option_html": "<pre>スウォッチパネルでアウトラインを追加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > アウトラインを作成</pre>\n",
+			"option_html": "<pre>効果 &gt; アウトラインを作成</pre>\n"
+		}
+	]
+}

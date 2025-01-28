@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ピボットテーブル</pre>\n",
+			"option_html": "<pre>ピボットテーブル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルの書式設定</pre>\n",
+			"option_html": "<pre>セルの書式設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの並べ替え</pre>\n",
+			"option_html": "<pre>データの並べ替え</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>条件付き書式</pre>\n",
+			"option_html": "<pre>条件付き書式</pre>\n"
+		}
+	]
+}

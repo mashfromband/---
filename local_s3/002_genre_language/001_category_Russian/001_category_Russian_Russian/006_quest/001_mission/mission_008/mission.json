@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"文法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ты хорошо играешь на гитаре.</pre>\n",
+			"option_html": "<pre>Ты хорошо играешь на гитаре.</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Я хочу поехать в Японию.</pre>\n",
+			"option_html": "<pre>Я хочу поехать в Японию.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ты очень красивый.</pre>\n",
+			"option_html": "<pre>Ты очень красивый.</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Я учу русский язык.</pre>\n",
+			"option_html": "<pre>Я учу русский язык.</pre>\n"
+		}
+	]
+}

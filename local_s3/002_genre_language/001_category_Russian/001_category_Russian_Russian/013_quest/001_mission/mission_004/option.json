@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>а または ы</pre>\n",
+			"option_html": "<pre>а または ы</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>е または я</pre>\n",
+			"option_html": "<pre>е または я</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ьまたは и</pre>\n",
+			"option_html": "<pre>ьまたは и</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>子音または ь</pre>\n",
+			"option_html": "<pre>子音または ь</pre>\n"
+		}
+	]
+}

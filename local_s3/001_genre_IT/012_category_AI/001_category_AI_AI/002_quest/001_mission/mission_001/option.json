@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Vrew</pre>\n",
+			"option_html": "<pre>Vrew</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Canva AI</pre>\n",
+			"option_html": "<pre>Canva AI</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Tome</pre>\n",
+			"option_html": "<pre>Tome</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Numerous.ai</pre>\n",
+			"option_html": "<pre>Numerous.ai</pre>\n"
+		}
+	]
+}

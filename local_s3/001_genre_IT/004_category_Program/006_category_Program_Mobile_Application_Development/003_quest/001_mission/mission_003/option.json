@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>開発コストが高くなる</pre>\n",
+			"option_html": "<pre>開発コストが高くなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>OS固有の機能を完全にサポートするのが難しい</pre>\n",
+			"option_html": "<pre>OS固有の機能を完全にサポートするのが難しい</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリのUIデザインが自動で作成される</pre>\n",
+			"option_html": "<pre>アプリのUIデザインが自動で作成される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>複数のプログラミング言語が必要になる</pre>\n",
+			"option_html": "<pre>複数のプログラミング言語が必要になる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>テストレポート</pre>\n",
+			"option_html": "<pre>テストレポート</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デザインモックアップ</pre>\n",
+			"option_html": "<pre>デザインモックアップ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>開発環境とプログラミング言語</pre>\n",
+			"option_html": "<pre>開発環境とプログラミング言語</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリストアのレビュー</pre>\n",
+			"option_html": "<pre>アプリストアのレビュー</pre>\n"
+		}
+	]
+}

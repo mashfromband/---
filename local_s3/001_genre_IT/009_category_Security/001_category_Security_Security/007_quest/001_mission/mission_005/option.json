@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>正規のソフトウェアをインストールする</pre>\n",
+			"option_html": "<pre>正規のソフトウェアをインストールする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不正なウェブサイトや添付ファイルを開く</pre>\n",
+			"option_html": "<pre>不正なウェブサイトや添付ファイルを開く</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>高速なネットワークに接続する</pre>\n",
+			"option_html": "<pre>高速なネットワークに接続する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>コンピュータの電源を切る</pre>\n",
+			"option_html": "<pre>コンピュータの電源を切る</pre>\n"
+		}
+	]
+}

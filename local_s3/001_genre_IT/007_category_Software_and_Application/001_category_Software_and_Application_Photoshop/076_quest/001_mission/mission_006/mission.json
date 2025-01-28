@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"実践・応用"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色温度ツール</pre>\n",
+			"option_html": "<pre>色温度ツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色相・彩度</pre>\n",
+			"option_html": "<pre>色相・彩度</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シャープネス</pre>\n",
+			"option_html": "<pre>シャープネス</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レベル補正</pre>\n",
+			"option_html": "<pre>レベル補正</pre>\n"
+		}
+	]
+}

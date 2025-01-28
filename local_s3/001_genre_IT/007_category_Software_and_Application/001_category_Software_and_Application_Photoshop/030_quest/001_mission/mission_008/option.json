@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>中間トーンの明るさ</pre>\n",
+			"option_html": "<pre>中間トーンの明るさ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度</pre>\n",
+			"option_html": "<pre>彩度</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲の透明度</pre>\n",
+			"option_html": "<pre>選択範囲の透明度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像のサイズ</pre>\n",
+			"option_html": "<pre>画像のサイズ</pre>\n"
+		}
+	]
+}

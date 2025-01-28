@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引記録を暗号化するプロセス</pre>\n",
+			"option_html": "<pre>取引記録を暗号化するプロセス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>取引記録を連結して保存する分散型台帳</pre>\n",
+			"option_html": "<pre>取引記録を連結して保存する分散型台帳</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨を生成するためのアルゴリズム</pre>\n",
+			"option_html": "<pre>仮想通貨を生成するためのアルゴリズム</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>中央銀行が提供する管理システム</pre>\n",
+			"option_html": "<pre>中央銀行が提供する管理システム</pre>\n"
+		}
+	]
+}

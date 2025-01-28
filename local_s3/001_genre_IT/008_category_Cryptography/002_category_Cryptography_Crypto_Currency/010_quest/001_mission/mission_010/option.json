@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>過去のトランザクションを再利用される攻撃</pre>\n",
+			"option_html": "<pre>過去のトランザクションを再利用される攻撃</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ブロックチェーンを停止させる攻撃</pre>\n",
+			"option_html": "<pre>ブロックチェーンを停止させる攻撃</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>秘密鍵を盗まれる攻撃</pre>\n",
+			"option_html": "<pre>秘密鍵を盗まれる攻撃</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>新しいブロック生成を妨害する攻撃</pre>\n",
+			"option_html": "<pre>新しいブロック生成を妨害する攻撃</pre>\n"
+		}
+	]
+}

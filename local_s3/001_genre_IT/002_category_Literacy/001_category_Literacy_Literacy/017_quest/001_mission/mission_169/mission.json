@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"セキュリティ",
+		"暗号化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "共通鍵暗号\n",
+			"option_html": "<p>共通鍵暗号</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ハッシュ暗号\n",
+			"option_html": "<p>ハッシュ暗号</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "公開鍵暗号\n",
+			"option_html": "<p>公開鍵暗号</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "対称鍵暗号\n",
+			"option_html": "<p>対称鍵暗号</p>\n"
+		}
+	]
+}

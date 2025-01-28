@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サービスが停止し、ユーザーが利用できなくなる</pre>\n",
+			"option_html": "<pre>サービスが停止し、ユーザーが利用できなくなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サーバーのデータが暗号化される</pre>\n",
+			"option_html": "<pre>サーバーのデータが暗号化される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コンピュータが物理的に破壊される</pre>\n",
+			"option_html": "<pre>コンピュータが物理的に破壊される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワークの通信速度が向上する</pre>\n",
+			"option_html": "<pre>ネットワークの通信速度が向上する</pre>\n"
+		}
+	]
+}

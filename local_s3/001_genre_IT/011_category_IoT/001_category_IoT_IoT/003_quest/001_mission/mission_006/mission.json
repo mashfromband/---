@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>長距離通信が必要な農業モニタリング</pre>\n",
+			"option_html": "<pre>長距離通信が必要な農業モニタリング</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>低電力で短距離のセンサー通信</pre>\n",
+			"option_html": "<pre>低電力で短距離のセンサー通信</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>高速で大容量データの動画ストリーミング</pre>\n",
+			"option_html": "<pre>高速で大容量データの動画ストリーミング</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>衛星通信を利用した広域ネットワーク</pre>\n",
+			"option_html": "<pre>衛星通信を利用した広域ネットワーク</pre>\n"
+		}
+	]
+}

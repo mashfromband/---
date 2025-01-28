@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"セキュリティ",
+		"情報セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "DDoS攻撃\n",
+			"option_html": "<p>DDoS攻撃</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "DNSキャッシュポイズニング\n",
+			"option_html": "<p>DNSキャッシュポイズニング</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ソーシャルエンジニアリング\n",
+			"option_html": "<p>ソーシャルエンジニアリング</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ドライブバイダウンロード\n",
+			"option_html": "<p>ドライブバイダウンロード</p>\n"
+		}
+	]
+}

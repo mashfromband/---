@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ストラテジ系",
+		"経営戦略マネジメント",
+		"経営戦略手法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "デジタルサイネージ\n",
+			"option_html": "<p>デジタルサイネージ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "デジタルディスラプション\n",
+			"option_html": "<p>デジタルディスラプション</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "デジタルディバイド\n",
+			"option_html": "<p>デジタルディバイド</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "デジタルトランスフォーメーション\n",
+			"option_html": "<p>デジタルトランスフォーメーション</p>\n"
+		}
+	]
+}

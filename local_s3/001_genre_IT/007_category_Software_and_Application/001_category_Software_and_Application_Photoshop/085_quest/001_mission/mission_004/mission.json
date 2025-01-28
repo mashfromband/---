@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>複数のレイヤーをまとめて管理するため</pre>\n",
+			"option_html": "<pre>複数のレイヤーをまとめて管理するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーの順序を変更するため</pre>\n",
+			"option_html": "<pre>レイヤーの順序を変更するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーの不透明度を調整するため</pre>\n",
+			"option_html": "<pre>レイヤーの不透明度を調整するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを非表示にするため</pre>\n",
+			"option_html": "<pre>レイヤーを非表示にするため</pre>\n"
+		}
+	]
+}

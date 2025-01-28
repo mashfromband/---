@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Maven</pre>\n",
+			"option_html": "<pre>Maven</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ant</pre>\n",
+			"option_html": "<pre>Ant</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Gradle</pre>\n",
+			"option_html": "<pre>Gradle</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Bazel</pre>\n",
+			"option_html": "<pre>Bazel</pre>\n"
+		}
+	]
+}

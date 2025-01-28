@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "Secure Socket Layer\n",
+			"option_html": "<p>Secure Socket Layer</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "Secure Simple Layer\n",
+			"option_html": "<p>Secure Simple Layer</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "Safe Secure Link\n",
+			"option_html": "<p>Safe Secure Link</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "Secure Software Layer\n",
+			"option_html": "<p>Secure Software Layer</p>\n"
+		}
+	]
+}

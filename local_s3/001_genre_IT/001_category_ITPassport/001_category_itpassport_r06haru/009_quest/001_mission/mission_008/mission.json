@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"アルゴリズムとプログラミング",
+		"プログラム言語"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "Webブラウザ上に，動的な振る舞いなどを組み込むことができる。\n",
+			"option_html": "<p>Webブラウザ上に，動的な振る舞いなどを組み込むことができる。</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "Webブラウザではなく，Webサーバ上だけで動作する。\n",
+			"option_html": "<p>Webブラウザではなく，Webサーバ上だけで動作する。</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "実行するためには，あらかじめコンパイルする必要がある。\n",
+			"option_html": "<p>実行するためには，あらかじめコンパイルする必要がある。</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "名前のとおり，Javaのスクリプト版である。\n",
+			"option_html": "<p>名前のとおり，Javaのスクリプト版である。</p>\n"
+		}
+	]
+}

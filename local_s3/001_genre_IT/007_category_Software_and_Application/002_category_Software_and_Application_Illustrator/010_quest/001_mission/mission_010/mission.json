@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「アートボードごとに保存」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「アートボードごとに保存」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 書き出し > アートボード</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; アートボード</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > エクスポート > アートボードとしてPDF保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; アートボードとしてPDF保存</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>印刷設定でアートボードごとに保存を選択</pre>\n",
+			"option_html": "<pre>印刷設定でアートボードごとに保存を選択</pre>\n"
+		}
+	]
+}

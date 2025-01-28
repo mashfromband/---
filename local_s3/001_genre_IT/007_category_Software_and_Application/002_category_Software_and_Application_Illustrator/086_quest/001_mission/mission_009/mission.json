@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"ツール"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > クリッピングマスク > 作成</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; クリッピングマスク &gt; 作成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで「クリッピングマスクを適用」</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「クリッピングマスクを適用」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダー > 合体</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 合体</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シェイプ形成ツールで結合</pre>\n",
+			"option_html": "<pre>シェイプ形成ツールで結合</pre>\n"
+		}
+	]
+}

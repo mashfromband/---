@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>移行中にシステムが完全に停止し、業務に大きな影響が出る場合</pre>\n",
+			"option_html": "<pre>移行中にシステムが完全に停止し、業務に大きな影響が出る場合</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウドプロバイダーが提供するサービスの料金が上昇する場合</pre>\n",
+			"option_html": "<pre>クラウドプロバイダーが提供するサービスの料金が上昇する場合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの移行が完全に自動化される場合</pre>\n",
+			"option_html": "<pre>データの移行が完全に自動化される場合</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>移行後にオンプレミスのシステムを完全に廃止する場合</pre>\n",
+			"option_html": "<pre>移行後にオンプレミスのシステムを完全に廃止する場合</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"倫理",
+		"社会",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "第一の誕生\n",
+			"option_html": "<p>第一の誕生</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "第二の誕生\n",
+			"option_html": "<p>第二の誕生</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "第三の誕生\n",
+			"option_html": "<p>第三の誕生</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "第四の誕生\n",
+			"option_html": "<p>第四の誕生</p>\n"
+		}
+	]
+}

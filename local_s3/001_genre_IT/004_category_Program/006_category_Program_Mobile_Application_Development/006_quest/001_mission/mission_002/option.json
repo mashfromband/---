@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>デザインの作成</pre>\n",
+			"option_html": "<pre>デザインの作成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザーのニーズを明確にする</pre>\n",
+			"option_html": "<pre>ユーザーのニーズを明確にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>テストシナリオを作成する</pre>\n",
+			"option_html": "<pre>テストシナリオを作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリをリリースする</pre>\n",
+			"option_html": "<pre>アプリをリリースする</pre>\n"
+		}
+	]
+}

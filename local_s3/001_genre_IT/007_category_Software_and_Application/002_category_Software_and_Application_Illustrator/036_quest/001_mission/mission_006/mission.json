@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > グループ化を選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; グループ化を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルでレイヤーを右クリックして「グループ化」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーを右クリックして「グループ化」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルでCtrl + Gを押す</pre>\n",
+			"option_html": "<pre>レイヤーパネルでCtrl + Gを押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルでオブジェクトをドラッグしてグループ化する</pre>\n",
+			"option_html": "<pre>レイヤーパネルでオブジェクトをドラッグしてグループ化する</pre>\n"
+		}
+	]
+}

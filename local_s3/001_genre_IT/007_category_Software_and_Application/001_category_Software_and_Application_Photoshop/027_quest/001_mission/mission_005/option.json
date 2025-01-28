@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>緑色が黄色に近づく</pre>\n",
+			"option_html": "<pre>緑色が黄色に近づく</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>緑色が青に近づく</pre>\n",
+			"option_html": "<pre>緑色が青に近づく</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>緑色が明るくなる</pre>\n",
+			"option_html": "<pre>緑色が明るくなる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>緑色が暗くなる</pre>\n",
+			"option_html": "<pre>緑色が暗くなる</pre>\n"
+		}
+	]
+}

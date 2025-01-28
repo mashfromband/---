@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリの動作を確認するテストを実施する</pre>\n",
+			"option_html": "<pre>アプリの動作を確認するテストを実施する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリをアプリストアやサーバーに公開する</pre>\n",
+			"option_html": "<pre>アプリをアプリストアやサーバーに公開する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリのコードを修正し、機能を追加する</pre>\n",
+			"option_html": "<pre>アプリのコードを修正し、機能を追加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザーのニーズを収集して要件を決定する</pre>\n",
+			"option_html": "<pre>ユーザーのニーズを収集して要件を決定する</pre>\n"
+		}
+	]
+}

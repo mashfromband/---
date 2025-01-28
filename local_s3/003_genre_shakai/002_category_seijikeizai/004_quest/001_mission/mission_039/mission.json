@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"国際",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "国民\n",
+			"option_html": "<p>国民</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "自由\n",
+			"option_html": "<p>自由</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "主権\n",
+			"option_html": "<p>主権</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "領域\n",
+			"option_html": "<p>領域</p>\n"
+		}
+	]
+}

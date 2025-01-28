@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>同僚には敬語を使わない</pre>\n",
+			"option_html": "<pre>同僚には敬語を使わない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>社外の人にもカジュアルな言葉を使う</pre>\n",
+			"option_html": "<pre>社外の人にもカジュアルな言葉を使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>上司に対して敬語を使う</pre>\n",
+			"option_html": "<pre>上司に対して敬語を使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>敬語は省略してよい</pre>\n",
+			"option_html": "<pre>敬語は省略してよい</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像をモノクロに変換できる</pre>\n",
+			"option_html": "<pre>画像をモノクロに変換できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを統合できる</pre>\n",
+			"option_html": "<pre>レイヤーを統合できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイルサイズを軽量化できる</pre>\n",
+			"option_html": "<pre>ファイルサイズを軽量化できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>非破壊的に編集できる</pre>\n",
+			"option_html": "<pre>非破壊的に編集できる</pre>\n"
+		}
+	]
+}

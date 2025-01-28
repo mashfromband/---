@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"オブジェクト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アラインパネル</pre>\n",
+			"option_html": "<pre>アラインパネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スマートガイド</pre>\n",
+			"option_html": "<pre>スマートガイド</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダー > 配列</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 配列</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クリッピングマスク</pre>\n",
+			"option_html": "<pre>クリッピングマスク</pre>\n"
+		}
+	]
+}

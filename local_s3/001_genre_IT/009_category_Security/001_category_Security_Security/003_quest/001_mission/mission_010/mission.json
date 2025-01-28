@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>設定が不要で誰でも利用できる</pre>\n",
+			"option_html": "<pre>設定が不要で誰でも利用できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>他人に知られるリスクが少ない</pre>\n",
+			"option_html": "<pre>他人に知られるリスクが少ない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>複数の認証要素を組み合わせる必要がある</pre>\n",
+			"option_html": "<pre>複数の認証要素を組み合わせる必要がある</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>生体情報が変更されることがある</pre>\n",
+			"option_html": "<pre>生体情報が変更されることがある</pre>\n"
+		}
+	]
+}

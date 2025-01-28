@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>デバイスが電源供給なしで動作できるようにするため</pre>\n",
+			"option_html": "<pre>デバイスが電源供給なしで動作できるようにするため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データをクラウドに保存するため</pre>\n",
+			"option_html": "<pre>データをクラウドに保存するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>センサーの機能を拡張するため</pre>\n",
+			"option_html": "<pre>センサーの機能を拡張するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバイスのネットワーク速度を向上させるため</pre>\n",
+			"option_html": "<pre>デバイスのネットワーク速度を向上させるため</pre>\n"
+		}
+	]
+}

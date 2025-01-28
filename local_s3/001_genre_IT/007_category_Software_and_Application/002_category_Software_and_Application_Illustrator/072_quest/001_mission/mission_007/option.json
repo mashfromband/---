@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツールでパスに沿ったテキストを入力する</pre>\n",
+			"option_html": "<pre>文字ツールでパスに沿ったテキストを入力する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ダイレクト選択ツールでテキストを配置する</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツールでテキストを配置する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文字 > パスにテキストを沿わせるを選択する</pre>\n",
+			"option_html": "<pre>文字 &gt; パスにテキストを沿わせるを選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ペンツールでテキストを配置する</pre>\n",
+			"option_html": "<pre>ペンツールでテキストを配置する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>#,##0.00</pre>\n",
+			"option_html": "<pre>#,##0.00</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>\"@※\"</pre>\n",
+			"option_html": "<pre>\"@※\"</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>\"※\"@</pre>\n",
+			"option_html": "<pre>\"※\"@</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>[赤]#,##0</pre>\n",
+			"option_html": "<pre>[赤]#,##0</pre>\n"
+		}
+	]
+}

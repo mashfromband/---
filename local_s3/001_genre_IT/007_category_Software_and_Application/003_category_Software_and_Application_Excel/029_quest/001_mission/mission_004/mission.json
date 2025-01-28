@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ファイル」→「名前を付けて保存」→「オプション」→パスワード設定</pre>\n",
+			"option_html": "<pre>「ファイル」→「名前を付けて保存」→「オプション」→パスワード設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ファイル」→「保存」→「シート保護」</pre>\n",
+			"option_html": "<pre>「ファイル」→「保存」→「シート保護」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「データ」タブ→「並べ替えとフィルタ」→「パスワード保護」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「並べ替えとフィルタ」→「パスワード保護」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ホーム」タブ→「表示」→「シート非表示」</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「表示」→「シート非表示」</pre>\n"
+		}
+	]
+}

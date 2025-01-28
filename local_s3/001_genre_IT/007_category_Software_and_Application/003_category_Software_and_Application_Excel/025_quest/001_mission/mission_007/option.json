@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルを範囲選択して新しい値を入力する</pre>\n",
+			"option_html": "<pre>セルを範囲選択して新しい値を入力する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター機能を使う</pre>\n",
+			"option_html": "<pre>フィルター機能を使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ピボットテーブルを使う</pre>\n",
+			"option_html": "<pre>ピボットテーブルを使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルの書式設定を変更する</pre>\n",
+			"option_html": "<pre>セルの書式設定を変更する</pre>\n"
+		}
+	]
+}

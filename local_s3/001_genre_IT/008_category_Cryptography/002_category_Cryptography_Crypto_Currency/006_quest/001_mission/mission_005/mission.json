@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ビットコイン（Bitcoin）</pre>\n",
+			"option_html": "<pre>ビットコイン（Bitcoin）</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>イーサリアム（Ethereum）</pre>\n",
+			"option_html": "<pre>イーサリアム（Ethereum）</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>モネロ（Monero）</pre>\n",
+			"option_html": "<pre>モネロ（Monero）</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>リップル（Ripple）</pre>\n",
+			"option_html": "<pre>リップル（Ripple）</pre>\n"
+		}
+	]
+}

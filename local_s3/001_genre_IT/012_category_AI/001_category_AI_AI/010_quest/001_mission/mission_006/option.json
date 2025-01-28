@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>時間管理の方法を学ぶ</pre>\n",
+			"option_html": "<pre>時間管理の方法を学ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スケジュール管理やタスク管理を支援してくれるツールを使う</pre>\n",
+			"option_html": "<pre>スケジュール管理やタスク管理を支援してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>部活動の先輩に相談する</pre>\n",
+			"option_html": "<pre>部活動の先輩に相談する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>部活動の時間を減らす</pre>\n",
+			"option_html": "<pre>部活動の時間を減らす</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"カラー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラデーションパネルで複数のストップを設定する</pre>\n",
+			"option_html": "<pre>グラデーションパネルで複数のストップを設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルでグラデーションを選択する</pre>\n",
+			"option_html": "<pre>スウォッチパネルでグラデーションを選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>カラーパネルでグラデーションを適用する</pre>\n",
+			"option_html": "<pre>カラーパネルでグラデーションを適用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルでグラデーションを追加する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでグラデーションを追加する</pre>\n"
+		}
+	]
+}

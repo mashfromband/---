@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アセットのエクスポート</pre>\n",
+			"option_html": "<pre>アセットのエクスポート</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーの統合</pre>\n",
+			"option_html": "<pre>レイヤーの統合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>カラーバランス</pre>\n",
+			"option_html": "<pre>カラーバランス</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲の保存</pre>\n",
+			"option_html": "<pre>選択範囲の保存</pre>\n"
+		}
+	]
+}

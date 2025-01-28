@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Vrew</pre>\n",
+			"option_html": "<pre>Vrew</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Canva AI</pre>\n",
+			"option_html": "<pre>Canva AI</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ChatGPT</pre>\n",
+			"option_html": "<pre>ChatGPT</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Gemini</pre>\n",
+			"option_html": "<pre>Gemini</pre>\n"
+		}
+	]
+}

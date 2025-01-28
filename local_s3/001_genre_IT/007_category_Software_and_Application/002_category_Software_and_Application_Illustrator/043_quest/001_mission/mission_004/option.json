@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>必要なパネルをその都度開く</pre>\n",
+			"option_html": "<pre>必要なパネルをその都度開く</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ワークスペースをカスタマイズする</pre>\n",
+			"option_html": "<pre>ワークスペースをカスタマイズする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>使用するたびにパネルを閉じて整理する</pre>\n",
+			"option_html": "<pre>使用するたびにパネルを閉じて整理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>すべてのパネルをデフォルト状態に戻す</pre>\n",
+			"option_html": "<pre>すべてのパネルをデフォルト状態に戻す</pre>\n"
+		}
+	]
+}

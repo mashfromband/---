@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>消しゴムツールを使用する</pre>\n",
+			"option_html": "<pre>消しゴムツールを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不透明度を調整する</pre>\n",
+			"option_html": "<pre>不透明度を調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーマスクを適用する</pre>\n",
+			"option_html": "<pre>レイヤーマスクを適用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを削除する</pre>\n",
+			"option_html": "<pre>レイヤーを削除する</pre>\n"
+		}
+	]
+}

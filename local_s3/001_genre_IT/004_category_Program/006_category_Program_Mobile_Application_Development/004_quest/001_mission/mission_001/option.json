@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリの操作性や使いやすさを向上させる設計</pre>\n",
+			"option_html": "<pre>アプリの操作性や使いやすさを向上させる設計</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリの画面や視覚的な要素のデザイン</pre>\n",
+			"option_html": "<pre>アプリの画面や視覚的な要素のデザイン</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリのコードを効率的に記述する方法</pre>\n",
+			"option_html": "<pre>アプリのコードを効率的に記述する方法</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリのセキュリティを強化する手法</pre>\n",
+			"option_html": "<pre>アプリのセキュリティを強化する手法</pre>\n"
+		}
+	]
+}

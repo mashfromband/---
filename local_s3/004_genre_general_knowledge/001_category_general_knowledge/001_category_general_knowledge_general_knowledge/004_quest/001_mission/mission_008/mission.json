@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ビジネスマナー",
+		"言葉遣い（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>折り返し電話お願いします</pre>\n",
+			"option_html": "<pre>折り返し電話お願いします</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>お電話いただけませんでしょうか</pre>\n",
+			"option_html": "<pre>お電話いただけませんでしょうか</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>連絡お願い致します</pre>\n",
+			"option_html": "<pre>連絡お願い致します</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>お電話いただくと幸いです</pre>\n",
+			"option_html": "<pre>お電話いただくと幸いです</pre>\n"
+		}
+	]
+}

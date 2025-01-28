@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択ツールやグループ機能を活用する</pre>\n",
+			"option_html": "<pre>選択ツールやグループ機能を活用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクトを1つずつ選択する</pre>\n",
+			"option_html": "<pre>オブジェクトを1つずつ選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを分割せずに操作する</pre>\n",
+			"option_html": "<pre>レイヤーを分割せずに操作する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>コピーを取らずに作業する</pre>\n",
+			"option_html": "<pre>コピーを取らずに作業する</pre>\n"
+		}
+	]
+}

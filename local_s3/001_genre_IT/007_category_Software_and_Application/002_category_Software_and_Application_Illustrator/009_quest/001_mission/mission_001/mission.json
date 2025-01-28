@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > 印刷設定 > アートボードの設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷設定 &gt; アートボードの設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > プリント > アートボード選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; プリント &gt; アートボード選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>編集 > 印刷設定</pre>\n",
+			"option_html": "<pre>編集 &gt; 印刷設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 印刷設定 > ページ設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷設定 &gt; ページ設定</pre>\n"
+		}
+	]
+}

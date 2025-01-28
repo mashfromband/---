@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルで対象オブジェクトをクリックする</pre>\n",
+			"option_html": "<pre>レイヤーパネルで対象オブジェクトをクリックする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべてのオブジェクトを一括選択する</pre>\n",
+			"option_html": "<pre>すべてのオブジェクトを一括選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクトを新たに描き直す</pre>\n",
+			"option_html": "<pre>オブジェクトを新たに描き直す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーをすべてロックして作業する</pre>\n",
+			"option_html": "<pre>レイヤーをすべてロックして作業する</pre>\n"
+		}
+	]
+}

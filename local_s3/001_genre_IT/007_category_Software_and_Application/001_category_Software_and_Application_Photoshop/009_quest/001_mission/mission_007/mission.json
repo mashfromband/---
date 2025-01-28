@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像全体の明るさ</pre>\n",
+			"option_html": "<pre>画像全体の明るさ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シャドウの明るさのみ</pre>\n",
+			"option_html": "<pre>シャドウの明るさのみ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲の不透明度</pre>\n",
+			"option_html": "<pre>選択範囲の不透明度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>背景色の彩度</pre>\n",
+			"option_html": "<pre>背景色の彩度</pre>\n"
+		}
+	]
+}

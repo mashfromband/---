@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データが第三者に盗聴されたり、不正に改ざんされたりするのを防ぐため</pre>\n",
+			"option_html": "<pre>データが第三者に盗聴されたり、不正に改ざんされたりするのを防ぐため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データをクラウドに保存できなくするため</pre>\n",
+			"option_html": "<pre>データをクラウドに保存できなくするため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイス間の通信を完全に遮断するため</pre>\n",
+			"option_html": "<pre>デバイス間の通信を完全に遮断するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>IoTデバイスが安全にオフラインで動作するため</pre>\n",
+			"option_html": "<pre>IoTデバイスが安全にオフラインで動作するため</pre>\n"
+		}
+	]
+}

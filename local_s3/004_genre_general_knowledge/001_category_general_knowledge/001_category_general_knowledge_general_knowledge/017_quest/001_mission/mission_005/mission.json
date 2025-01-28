@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"良い仕事をする為に",
+		"ノウハウとマインド（25）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>KFS（KSF）</pre>\n",
+			"option_html": "<pre>KFS（KSF）</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>KPI</pre>\n",
+			"option_html": "<pre>KPI</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>KGI</pre>\n",
+			"option_html": "<pre>KGI</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>OKR</pre>\n",
+			"option_html": "<pre>OKR</pre>\n"
+		}
+	]
+}

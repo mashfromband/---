@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クラウド上で画像を保存する</pre>\n",
+			"option_html": "<pre>クラウド上で画像を保存する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>インターネットを通じて大規模なオンラインゲームを提供する</pre>\n",
+			"option_html": "<pre>インターネットを通じて大規模なオンラインゲームを提供する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスをインターネットに接続してデータを収集・活用する</pre>\n",
+			"option_html": "<pre>デバイスをインターネットに接続してデータを収集・活用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>人間の手を介さずに機械を設計する</pre>\n",
+			"option_html": "<pre>人間の手を介さずに機械を設計する</pre>\n"
+		}
+	]
+}

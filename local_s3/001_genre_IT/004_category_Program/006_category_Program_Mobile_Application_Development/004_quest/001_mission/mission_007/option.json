@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>複数の画面サイズに対応し、快適な表示を提供できる</pre>\n",
+			"option_html": "<pre>複数の画面サイズに対応し、快適な表示を提供できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリのパフォーマンスが必ず向上する</pre>\n",
+			"option_html": "<pre>アプリのパフォーマンスが必ず向上する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリのインターフェースが自動で作成される</pre>\n",
+			"option_html": "<pre>アプリのインターフェースが自動で作成される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザーが常に最新バージョンを利用できる</pre>\n",
+			"option_html": "<pre>ユーザーが常に最新バージョンを利用できる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"コミュニケーション",
+		"人の話を聞く14）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「それは大変でしたね」</pre>\n",
+			"option_html": "<pre>「それは大変でしたね」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「それがどうしたのですか？」</pre>\n",
+			"option_html": "<pre>「それがどうしたのですか？」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「だから何ですか？」</pre>\n",
+			"option_html": "<pre>「だから何ですか？」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「私のほうが大変でしたよ」</pre>\n",
+			"option_html": "<pre>「私のほうが大変でしたよ」</pre>\n"
+		}
+	]
+}

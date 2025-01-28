@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>常にオフラインで動作する安定性</pre>\n",
+			"option_html": "<pre>常にオフラインで動作する安定性</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>高速性と低遅延</pre>\n",
+			"option_html": "<pre>高速性と低遅延</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データ転送量を制限する能力</pre>\n",
+			"option_html": "<pre>データ転送量を制限する能力</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>センサーを必要としない設計</pre>\n",
+			"option_html": "<pre>センサーを必要としない設計</pre>\n"
+		}
+	]
+}

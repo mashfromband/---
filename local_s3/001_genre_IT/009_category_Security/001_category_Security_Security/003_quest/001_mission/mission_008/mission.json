@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーの生年月日</pre>\n",
+			"option_html": "<pre>ユーザーの生年月日</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザーのパスワード</pre>\n",
+			"option_html": "<pre>ユーザーのパスワード</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザーのアクセス履歴</pre>\n",
+			"option_html": "<pre>ユーザーのアクセス履歴</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザーがアクセス可能なデータ範囲</pre>\n",
+			"option_html": "<pre>ユーザーがアクセス可能なデータ範囲</pre>\n"
+		}
+	]
+}

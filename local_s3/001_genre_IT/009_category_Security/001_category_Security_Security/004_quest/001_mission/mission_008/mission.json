@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ソーシャルエンジニアリング</pre>\n",
+			"option_html": "<pre>ソーシャルエンジニアリング</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ブルートフォース攻撃（総当たり攻撃）</pre>\n",
+			"option_html": "<pre>ブルートフォース攻撃（総当たり攻撃）</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィッシング詐欺</pre>\n",
+			"option_html": "<pre>フィッシング詐欺</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスワードの暗号化</pre>\n",
+			"option_html": "<pre>パスワードの暗号化</pre>\n"
+		}
+	]
+}

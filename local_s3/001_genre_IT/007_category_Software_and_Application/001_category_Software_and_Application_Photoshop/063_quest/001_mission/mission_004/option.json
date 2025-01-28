@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Web用に保存</pre>\n",
+			"option_html": "<pre>Web用に保存</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スライスツール</pre>\n",
+			"option_html": "<pre>スライスツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ヒストリーパネル</pre>\n",
+			"option_html": "<pre>ヒストリーパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グラデーションツール</pre>\n",
+			"option_html": "<pre>グラデーションツール</pre>\n"
+		}
+	]
+}

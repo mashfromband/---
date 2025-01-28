@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤースタイル</pre>\n",
+			"option_html": "<pre>レイヤースタイル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グリッド</pre>\n",
+			"option_html": "<pre>グリッド</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>なげなわツール</pre>\n",
+			"option_html": "<pre>なげなわツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ヒストリーパネル</pre>\n",
+			"option_html": "<pre>ヒストリーパネル</pre>\n"
+		}
+	]
+}

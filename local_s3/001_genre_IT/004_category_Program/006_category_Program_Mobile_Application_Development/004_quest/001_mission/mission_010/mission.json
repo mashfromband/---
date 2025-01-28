@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーがアプリをどれだけ速く操作できるか測定する</pre>\n",
+			"option_html": "<pre>ユーザーがアプリをどれだけ速く操作できるか測定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリのコードが正しく書かれているかを確認する</pre>\n",
+			"option_html": "<pre>アプリのコードが正しく書かれているかを確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザーがアプリを使いやすいかを確認し、問題点を発見する</pre>\n",
+			"option_html": "<pre>ユーザーがアプリを使いやすいかを確認し、問題点を発見する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザーの個人情報を安全に保護する仕組みを確認する</pre>\n",
+			"option_html": "<pre>ユーザーの個人情報を安全に保護する仕組みを確認する</pre>\n"
+		}
+	]
+}

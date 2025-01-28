@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>外部のデータをスマートコントラクトに提供するため</pre>\n",
+			"option_html": "<pre>外部のデータをスマートコントラクトに提供するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の価格を安定させるため</pre>\n",
+			"option_html": "<pre>仮想通貨の価格を安定させるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>分散型ウォレットを監視するため</pre>\n",
+			"option_html": "<pre>分散型ウォレットを監視するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブロックチェーン上のハッキングを防ぐため</pre>\n",
+			"option_html": "<pre>ブロックチェーン上のハッキングを防ぐため</pre>\n"
+		}
+	]
+}

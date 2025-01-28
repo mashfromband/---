@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アドレスが「http://」で始まる\n",
+			"option_html": "<p>アドレスが「http://」で始まる</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アドレスが「https://」で始まる\n",
+			"option_html": "<p>アドレスが「https://」で始まる</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "アドレスにスペースが含まれている\n",
+			"option_html": "<p>アドレスにスペースが含まれている</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アドレスが「ftp://」で始まる\n",
+			"option_html": "<p>アドレスが「ftp://」で始まる</p>\n"
+		}
+	]
+}

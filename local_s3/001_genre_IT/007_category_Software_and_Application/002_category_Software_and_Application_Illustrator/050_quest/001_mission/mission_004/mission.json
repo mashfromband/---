@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"フィルター"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > スタイライズ > ドロップシャドウ</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; ドロップシャドウ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > 3D > ドロップシャドウ</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; ドロップシャドウ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > シャドウ > ドロップシャドウ</pre>\n",
+			"option_html": "<pre>フィルター &gt; シャドウ &gt; ドロップシャドウ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 変形 > ドロップシャドウ</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; ドロップシャドウ</pre>\n"
+		}
+	]
+}

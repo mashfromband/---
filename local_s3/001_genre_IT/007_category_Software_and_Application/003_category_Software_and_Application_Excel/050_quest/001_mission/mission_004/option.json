@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字列が入力されている</pre>\n",
+			"option_html": "<pre>文字列が入力されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>参照しているセルが非表示になっている</pre>\n",
+			"option_html": "<pre>参照しているセルが非表示になっている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルターが有効になっている</pre>\n",
+			"option_html": "<pre>フィルターが有効になっている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>参照しているセルが削除された</pre>\n",
+			"option_html": "<pre>参照しているセルが削除された</pre>\n"
+		}
+	]
+}

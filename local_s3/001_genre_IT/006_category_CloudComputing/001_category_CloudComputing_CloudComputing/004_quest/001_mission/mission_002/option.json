@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>インターネット上でのソフトウェア提供が中心である</pre>\n",
+			"option_html": "<pre>インターネット上でのソフトウェア提供が中心である</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想サーバーやストレージが柔軟に提供される</pre>\n",
+			"option_html": "<pre>仮想サーバーやストレージが柔軟に提供される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>既存のWindows環境との統合に優れている</pre>\n",
+			"option_html": "<pre>既存のWindows環境との統合に優れている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>AIやデータ分析のサービスが主力である</pre>\n",
+			"option_html": "<pre>AIやデータ分析のサービスが主力である</pre>\n"
+		}
+	]
+}

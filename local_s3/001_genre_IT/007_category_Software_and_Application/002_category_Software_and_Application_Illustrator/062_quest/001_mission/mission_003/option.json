@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + Shift + [</pre>\n",
+			"option_html": "<pre>Ctrl + Shift + [</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + ]</pre>\n",
+			"option_html": "<pre>Ctrl + ]</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + Alt + [</pre>\n",
+			"option_html": "<pre>Ctrl + Alt + [</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + Shift + ]</pre>\n",
+			"option_html": "<pre>Ctrl + Shift + ]</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ペルシャ\n",
+			"option_html": "<p>ペルシャ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ウルドゥー\n",
+			"option_html": "<p>ウルドゥー</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ユダヤ\n",
+			"option_html": "<p>ユダヤ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アラブ\n",
+			"option_html": "<p>アラブ</p>\n"
+		}
+	]
+}

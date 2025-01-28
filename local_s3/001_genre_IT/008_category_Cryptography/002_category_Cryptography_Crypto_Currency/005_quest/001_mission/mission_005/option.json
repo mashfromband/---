@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>供給量が固定されていること</pre>\n",
+			"option_html": "<pre>供給量が固定されていること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>需要と供給の変化</pre>\n",
+			"option_html": "<pre>需要と供給の変化</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>中央銀行の政策による影響</pre>\n",
+			"option_html": "<pre>中央銀行の政策による影響</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引手数料の変動</pre>\n",
+			"option_html": "<pre>取引手数料の変動</pre>\n"
+		}
+	]
+}

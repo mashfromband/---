@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ISBLANK関数</pre>\n",
+			"option_html": "<pre>ISBLANK関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>IF関数</pre>\n",
+			"option_html": "<pre>IF関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ISNUMBER関数</pre>\n",
+			"option_html": "<pre>ISNUMBER関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ISERROR関数</pre>\n",
+			"option_html": "<pre>ISERROR関数</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「Ctrl + J」を押してコピーした後、移動ツールで位置を変更する</pre>\n",
+			"option_html": "<pre>「Ctrl + J」を押してコピーした後、移動ツールで位置を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤー」メニューから「複製」を選び、移動ツールを使う</pre>\n",
+			"option_html": "<pre>「レイヤー」メニューから「複製」を選び、移動ツールを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「選択範囲ツール」を使ってコピー後、手動で移動する</pre>\n",
+			"option_html": "<pre>「選択範囲ツール」を使ってコピー後、手動で移動する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ペンツール」を使って移動後、レイヤーを複製する</pre>\n",
+			"option_html": "<pre>「ペンツール」を使って移動後、レイヤーを複製する</pre>\n"
+		}
+	]
+}

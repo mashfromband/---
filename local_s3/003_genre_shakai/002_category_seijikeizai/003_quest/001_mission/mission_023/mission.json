@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "歳費特権\n",
+			"option_html": "<p>歳費特権</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "免責特権\n",
+			"option_html": "<p>免責特権</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "不逮捕特権\n",
+			"option_html": "<p>不逮捕特権</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "議員特権\n",
+			"option_html": "<p>議員特権</p>\n"
+		}
+	]
+}

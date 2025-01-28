@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自動選択が無効になっている</pre>\n",
+			"option_html": "<pre>自動選択が無効になっている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>描画モードが適切でない</pre>\n",
+			"option_html": "<pre>描画モードが適切でない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートオブジェクトが適用されている</pre>\n",
+			"option_html": "<pre>スマートオブジェクトが適用されている</pre>\n"
+		}
+	]
+}

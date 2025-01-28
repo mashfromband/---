@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択範囲を解除する</pre>\n",
+			"option_html": "<pre>選択範囲を解除する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択範囲を反転する</pre>\n",
+			"option_html": "<pre>選択範囲を反転する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲を保存する</pre>\n",
+			"option_html": "<pre>選択範囲を保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを複製する</pre>\n",
+			"option_html": "<pre>レイヤーを複製する</pre>\n"
+		}
+	]
+}

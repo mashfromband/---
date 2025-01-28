@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"数式・関数"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>CONCAT関数</pre>\n",
+			"option_html": "<pre>CONCAT関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>CONCATENATE関数</pre>\n",
+			"option_html": "<pre>CONCATENATE関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>JOIN関数</pre>\n",
+			"option_html": "<pre>JOIN関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>TEXT関数</pre>\n",
+			"option_html": "<pre>TEXT関数</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"選択・マスキング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「選択範囲」メニューから「複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「編集」メニューから「複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「編集」メニューから「複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤーパネル」から「複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から「複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「選択範囲」メニューから「新規レイヤーにコピー」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「新規レイヤーにコピー」を選ぶ</pre>\n"
+		}
+	]
+}

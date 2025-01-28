@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パス上文字ツール</pre>\n",
+			"option_html": "<pre>パス上文字ツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>通常のテキストツール</pre>\n",
+			"option_html": "<pre>通常のテキストツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>図形ツールを使って形状を整える</pre>\n",
+			"option_html": "<pre>図形ツールを使って形状を整える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーマスクを作成して配置する</pre>\n",
+			"option_html": "<pre>レイヤーマスクを作成して配置する</pre>\n"
+		}
+	]
+}

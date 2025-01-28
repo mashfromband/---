@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ドキュメントのカラーモード」設定</pre>\n",
+			"option_html": "<pre>「ドキュメントのカラーモード」設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーパネルで手動調整する</pre>\n",
+			"option_html": "<pre>カラーパネルで手動調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>必要な箇所だけ修正する</pre>\n",
+			"option_html": "<pre>必要な箇所だけ修正する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グラデーションの色を変更して対応する</pre>\n",
+			"option_html": "<pre>グラデーションの色を変更して対応する</pre>\n"
+		}
+	]
+}

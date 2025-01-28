@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>塗りつぶしの不透明度</pre>\n",
+			"option_html": "<pre>塗りつぶしの不透明度</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像サイズ</pre>\n",
+			"option_html": "<pre>画像サイズ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーの順序</pre>\n",
+			"option_html": "<pre>レイヤーの順序</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>カラーモード</pre>\n",
+			"option_html": "<pre>カラーモード</pre>\n"
+		}
+	]
+}

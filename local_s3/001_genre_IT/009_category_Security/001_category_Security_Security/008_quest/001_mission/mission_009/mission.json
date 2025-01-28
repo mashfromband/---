@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データが消失した場合に迅速に復旧できるようにするため</pre>\n",
+			"option_html": "<pre>データが消失した場合に迅速に復旧できるようにするため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウドストレージの速度を最適化するため</pre>\n",
+			"option_html": "<pre>クラウドストレージの速度を最適化するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クラウドサービスの利用料金を削減するため</pre>\n",
+			"option_html": "<pre>クラウドサービスの利用料金を削減するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドプロバイダーの責任を回避するため</pre>\n",
+			"option_html": "<pre>クラウドプロバイダーの責任を回避するため</pre>\n"
+		}
+	]
+}

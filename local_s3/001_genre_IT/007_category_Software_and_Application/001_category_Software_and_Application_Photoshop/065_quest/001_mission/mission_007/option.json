@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤースタイル」の「ベベルとエンボス」</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「ベベルとエンボス」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」の「立体文字」オプションを使う</pre>\n",
+			"option_html": "<pre>「文字ツール」の「立体文字」オプションを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「フィルター」メニューの「立体効果」を使う</pre>\n",
+			"option_html": "<pre>「フィルター」メニューの「立体効果」を使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤーパネル」の「立体エフェクト」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」の「立体エフェクト」を選ぶ</pre>\n"
+		}
+	]
+}

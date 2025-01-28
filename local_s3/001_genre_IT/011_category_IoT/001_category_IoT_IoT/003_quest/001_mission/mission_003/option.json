@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>暗号化が不可能だから</pre>\n",
+			"option_html": "<pre>暗号化が不可能だから</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データ転送量が多く、消費電力が高いから</pre>\n",
+			"option_html": "<pre>データ転送量が多く、消費電力が高いから</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイス同士の通信が不安定だから</pre>\n",
+			"option_html": "<pre>デバイス同士の通信が不安定だから</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>短距離通信にしか対応していないから</pre>\n",
+			"option_html": "<pre>短距離通信にしか対応していないから</pre>\n"
+		}
+	]
+}

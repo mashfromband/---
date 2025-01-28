@@ -1,0 +1,5993 @@
+[
+	{
+		"id": "1",
+		"name": "令和6年春(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/001_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"経営戦略マネジメント",
+			"マーケティング",
+			"法務",
+			"セキュリティ関連法規",
+			"技術戦略マネジメント",
+			"技術開発戦略の立案・技術開発計画",
+			"ビジネスインダストリ",
+			"e-ビジネス",
+			"企業活動",
+			"経営・組織論",
+			"システム戦略",
+			"業務プロセス",
+			"会計・財務",
+			"経営戦略手法",
+			"知的財産権"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "2",
+		"name": "令和6年春(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/002_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"法務",
+			"標準化関連",
+			"ビジネスインダストリ",
+			"ビジネスシステム",
+			"e-ビジネス",
+			"企業活動",
+			"業務分析・データ利活用",
+			"エンジニアリングシステム",
+			"システム戦略",
+			"業務プロセス",
+			"技術戦略マネジメント",
+			"技術開発戦略の立案・技術開発計画",
+			"その他の法律・ガイドライン",
+			"会計・財務"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "3",
+		"name": "令和6年春(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/003_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"法務",
+			"知的財産権",
+			"システム戦略",
+			"業務プロセス",
+			"企業活動",
+			"業務分析・データ利活用",
+			"ビジネスインダストリ",
+			"IoTシステム・組込みシステム",
+			"セキュリティ関連法規",
+			"ビジネスシステム",
+			"経営戦略マネジメント",
+			"経営戦略手法",
+			"会計・財務"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "4",
+		"name": "令和6年春(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/004_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"システム企画",
+			"システム化計画",
+			"法務",
+			"労働関連・取引関連法規",
+			"要件定義",
+			"経営戦略マネジメント",
+			"経営管理システム",
+			"知的財産権",
+			"マネジメント系",
+			"プロジェクトマネジメント",
+			"サービスマネジメント",
+			"サービスマネジメントシステム",
+			"ソフトウェア開発管理技術",
+			"開発プロセス・手法"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "5",
+		"name": "令和6年春(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/005_quest/quest",
+		"tags": [
+			"マネジメント系",
+			"プロジェクトマネジメント",
+			"システム監査",
+			"サービスマネジメント",
+			"ファシリティマネジメント",
+			"サービスマネジメントシステム",
+			"ソフトウェア開発管理技術",
+			"開発プロセス・手法",
+			"システム開発技術"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "6",
+		"name": "令和6年春(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/006_quest/quest",
+		"tags": [
+			"マネジメント系",
+			"プロジェクトマネジメント",
+			"システム監査",
+			"内部統制",
+			"テクノロジ系",
+			"コンピュータ構成要素",
+			"メモリ",
+			"セキュリティ",
+			"情報セキュリティ対策・実装技術",
+			"ソフトウェア",
+			"オフィスツール",
+			"ハードウェア",
+			"コンピュータ・入出力装置",
+			"データベース",
+			"データベース設計"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "7",
+		"name": "令和6年春(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/007_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"ネットワーク",
+			"ネットワーク応用",
+			"アルゴリズムとプログラミング",
+			"セキュリティ",
+			"情報セキュリティ対策・実装技術",
+			"情報セキュリティ管理",
+			"基礎理論",
+			"情報に関する理論",
+			"システム構成要素",
+			"システムの評価指標",
+			"情報デザイン",
+			"システムの構成"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "8",
+		"name": "令和6年春(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/008_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"ネットワーク",
+			"ネットワーク応用",
+			"セキュリティ",
+			"情報セキュリティ対策・実装技術",
+			"情報セキュリティ",
+			"データベース",
+			"トランザクション処理",
+			"情報セキュリティ管理",
+			"ハードウェア",
+			"コンピュータ・入出力装置",
+			"基礎理論",
+			"情報に関する理論",
+			"ネットワーク方式",
+			"ソフトウェア",
+			"オープンソースソフトウェア"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "9",
+		"name": "令和6年春(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/009_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"データベース",
+			"データベース設計",
+			"セキュリティ",
+			"情報セキュリティ管理",
+			"基礎理論",
+			"離散数学",
+			"ネットワーク",
+			"ネットワーク方式",
+			"アルゴリズムとプログラミング",
+			"情報セキュリティ",
+			"プログラム言語",
+			"情報セキュリティ対策・実装技術"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "10",
+		"name": "令和6年春(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/010_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"セキュリティ",
+			"情報セキュリティ対策・実装技術",
+			"ネットワーク",
+			"通信プロトコル",
+			"データベース",
+			"データ操作",
+			"情報セキュリティ管理",
+			"基礎理論",
+			"情報に関する理論",
+			"ネットワーク応用",
+			"ソフトウェア",
+			"オープンソースソフトウェア",
+			"情報セキュリティ",
+			"コンピュータ構成要素",
+			"入出力デバイス"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "11",
+		"name": "平成22年春(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/002_category_ITPassport_h21haru/001_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"法務",
+			"その他の法律・ガイドライン",
+			"システム企画",
+			"調達計画・実施",
+			"経営戦略マネジメント",
+			"経営戦略手法",
+			"経営管理システム",
+			"システム戦略",
+			"ソリューションビジネス",
+			"企業活動",
+			"業務分析・データ利活用",
+			"標準化関連",
+			"知的財産権"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "12",
+		"name": "平成22年春(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/002_category_ITPassport_h21haru/002_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"システム戦略",
+			"業務プロセス",
+			"経営戦略マネジメント",
+			"経営管理システム",
+			"企業活動",
+			"経営・組織論",
+			"会計・財務",
+			"法務",
+			"知的財産権",
+			"ビジネスインダストリ",
+			"e-ビジネス",
+			"経営戦略手法"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "13",
+		"name": "平成22年春(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/002_category_ITPassport_h21haru/003_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"ビジネスインダストリ",
+			"e-ビジネス",
+			"企業活動",
+			"経営・組織論",
+			"業務分析・データ利活用",
+			"法務",
+			"セキュリティ関連法規",
+			"システム企画",
+			"要件定義",
+			"経営戦略マネジメント",
+			"経営戦略手法",
+			"エンジニアリングシステム",
+			"システム戦略",
+			"情報システム戦略"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "14",
+		"name": "平成22年春(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/002_category_ITPassport_h21haru/004_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"経営戦略マネジメント",
+			"マーケティング",
+			"マネジメント系",
+			"プロジェクトマネジメント",
+			"サービスマネジメント",
+			"サービスマネジメントシステム",
+			"ソフトウェア開発管理技術",
+			"開発プロセス・手法"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "15",
+		"name": "平成22年春(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/002_category_ITPassport_h21haru/005_quest/quest",
+		"tags": [
+			"マネジメント系",
+			"システム開発技術",
+			"システム監査",
+			"サービスマネジメント",
+			"プロジェクトマネジメント"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "16",
+		"name": "平成22年春(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/002_category_ITPassport_h21haru/006_quest/quest",
+		"tags": [
+			"マネジメント系",
+			"システム開発技術",
+			"システム監査",
+			"内部統制",
+			"テクノロジ系",
+			"セキュリティ",
+			"情報セキュリティ管理",
+			"ソフトウェア",
+			"オープンソースソフトウェア",
+			"ネットワーク",
+			"ネットワーク方式",
+			"ファイルシステム",
+			"データベース",
+			"データベース方式",
+			"ネットワーク応用",
+			"オフィスツール"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "17",
+		"name": "平成22年春(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/002_category_ITPassport_h21haru/007_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"システム構成要素",
+			"システムの評価指標",
+			"セキュリティ",
+			"情報セキュリティ対策・実装技術",
+			"基礎理論",
+			"離散数学",
+			"情報に関する理論",
+			"情報デザイン",
+			"インタフェース設計",
+			"情報セキュリティ",
+			"コンピュータ構成要素",
+			"メモリ"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "18",
+		"name": "平成22年春(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/002_category_ITPassport_h21haru/008_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"基礎理論",
+			"離散数学",
+			"システム構成要素",
+			"システムの構成",
+			"セキュリティ",
+			"情報セキュリティ・実装技術",
+			"ネットワーク",
+			"通信プロトコル",
+			"ソフトウェア",
+			"オフィスツール",
+			"情報セキュリティ対策・実装技術",
+			"情報メディア",
+			"マルチメディア技術",
+			"ハードウェア",
+			"コンピュータ・入出力装置",
+			"応用数学"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "19",
+		"name": "平成22年春(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/002_category_ITPassport_h21haru/009_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"セキュリティ",
+			"情報セキュリティ",
+			"データベース",
+			"トランザクション処理",
+			"アルゴリズムとプログラミング",
+			"その他の言語",
+			"情報セキュリティ対策・実装技術",
+			"アルゴリズムとプログラミングとプログラミング",
+			"ソフトウェア",
+			"オフィスツール",
+			"中間A",
+			""
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "20",
+		"name": "平成22年春(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/001_category_ITPassport/002_category_ITPassport_h21haru/010_quest/quest",
+		"tags": [
+			"中間A",
+			"テクノロジ系",
+			"",
+			"中間B",
+			"ストラテジ系",
+			"中間C",
+			"マネジメント系"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "21",
+		"name": "ITリテラシー(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/001_quest/quest",
+		"tags": [
+			"テクノロジ",
+			"通信技術",
+			"ネットワーク",
+			"ストラテジ",
+			"経営戦略",
+			"ビジネス経営",
+			"セキュリティ",
+			"セキュリティ対策",
+			"システム",
+			"システム開発"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "22",
+		"name": "ITリテラシー(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/002_quest/quest",
+		"tags": [
+			"ストラテジ",
+			"経営戦略",
+			"ビジネス経営",
+			"テクノロジ系",
+			"通信技術",
+			"プロトコル",
+			"システム",
+			"データベース",
+			"マネジメント",
+			"教育マネジメント",
+			"テクノロジ",
+			"ネットワーク",
+			"ストラテジ系",
+			"セキュリティ",
+			"セキュリティ対策",
+			"セキュリティ攻撃"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "23",
+		"name": "ITリテラシー(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/003_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"セキュリティ",
+			"セキュリティ対策",
+			"テクノロジ",
+			"システム",
+			"コンピューター",
+			"法規関連",
+			"ビジネス用語",
+			"セキュリティ攻撃",
+			"テクノロジ系",
+			"システム開発",
+			"プロジェクトマネジメント",
+			"ビジネス戦略"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "24",
+		"name": "ITリテラシー(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/004_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"セキュリティ",
+			"セキュリティ対策",
+			"ストラテジ系",
+			"経営戦略マネジメント",
+			"ビジネス戦略",
+			"クラウド",
+			"セキュリティ攻撃",
+			"ストラテジ",
+			"経営戦略",
+			"ビジネス経営",
+			"システム",
+			"システム開発",
+			"ビジネス用語"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "25",
+		"name": "ITリテラシー(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/005_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"システム",
+			"プロトコル",
+			"データベース",
+			"システム開発",
+			"ストラテジ系",
+			"ビジネス用語",
+			"経営戦略",
+			"経営戦略マネジメント",
+			"ビジネス戦略",
+			"IT用語",
+			"トレンド技術",
+			"クラウドサービス",
+			"コンピューター"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "26",
+		"name": "ITリテラシー(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/006_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"社会的用語",
+			"ビジネス用語",
+			"マネジメント系",
+			"システム監査",
+			"経営戦略マネジメント",
+			"ビジネス戦略",
+			"テクノロジ系",
+			"トレンド技術",
+			"システム",
+			"コンピューター",
+			"セキュリティ",
+			"セキュリティ対策",
+			"システム開発"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "27",
+		"name": "ITリテラシー(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/007_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"セキュリティ",
+			"セキュリティ攻撃",
+			"セキュリティ対策",
+			"システム",
+			"コンピューター",
+			"マネジメント系",
+			"システム監査",
+			"ビジネス戦略",
+			"システム開発",
+			"ストラテジ",
+			"経営戦略",
+			"ビジネス経営",
+			"ビジネス用語",
+			"トレンド技術"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "28",
+		"name": "ITリテラシー(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/008_quest/quest",
+		"tags": [
+			"ストラテジ",
+			"経営戦略",
+			"ビジネス経営",
+			"ストラテジ系",
+			"社会的用語",
+			"ビジネス用語",
+			"テクノロジ系",
+			"システム",
+			"システム開発",
+			"通信技術",
+			"プロトコル",
+			"コンピューター",
+			"セキュリティ",
+			"セキュリティ攻撃",
+			"セキュリティ対策"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "29",
+		"name": "ITリテラシー(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/009_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"セキュリティ",
+			"セキュリティ攻撃",
+			"システム",
+			"システム開発",
+			"ストラテジ",
+			"ビジネス用語",
+			"ビジネス経営",
+			"プロトコル",
+			"クラウドサービス",
+			"トレンド技術",
+			"IoT",
+			"ストラテジ系",
+			"社会的用語"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "30",
+		"name": "ITリテラシー(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/010_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"システム",
+			"システム開発",
+			"ストラテジ系",
+			"ビジネス戦略",
+			"ビジネス用語",
+			"マネジメント系",
+			"プロジェクトマネジメント",
+			"セキュリティ",
+			"セキュリティ攻撃",
+			"プロトコル"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "31",
+		"name": "ITリテラシー(11)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/011_quest/quest",
+		"tags": [
+			"ストラテジ系",
+			"経営戦略",
+			"ITガバナンス",
+			"法務",
+			"セキュリティ関連法規",
+			"コンピュータ系",
+			"メモリ",
+			"RAM",
+			"インターネット系",
+			"アドレス",
+			"URL",
+			"プロトコル",
+			"HTTP",
+			"ネットワーク系",
+			"ネットワーク種類",
+			"LAN",
+			"クラウド"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "32",
+		"name": "ITリテラシー(12)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/012_quest/quest",
+		"tags": [
+			"セキュリティ系",
+			"ネットワーク保護",
+			"ファイアウォール",
+			"インターネット系",
+			"アドレス",
+			"IPアドレス",
+			"マルウェア",
+			"通信",
+			"SSL",
+			"認証",
+			"2要素認証",
+			"テクノロジ系",
+			"ネットワーク",
+			"ネットワークセキュリティ",
+			"ストラテジ系",
+			"経営戦略",
+			"DX（デジタルトランスフォーメーション）",
+			"ITガバナンス",
+			"IT活用",
+			"デジタルツールの活用",
+			"リモートワーク"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "33",
+		"name": "ITリテラシー(13)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/013_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"ネットワーク",
+			"モバイル通信",
+			"ストラテジ系",
+			"IT活用",
+			"クラウドコンピューティング",
+			"セキュリティ系",
+			"情報セキュリティ管理",
+			"セキュリティ対策",
+			"データ分析",
+			"ビジネスインテリジェンス（BI）",
+			"不正アクセス",
+			"データベース",
+			"データベースの基本操作",
+			"プロジェクトマネジメント",
+			"スケジュール管理",
+			"プログラミング",
+			"ソフトウェア開発",
+			"ハードウェア",
+			"コンピュータの構成",
+			"ファイアウォール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "34",
+		"name": "ITリテラシー(14)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/014_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"ネットワーク",
+			"通信プロトコル",
+			"ストラテジ系",
+			"経営戦略",
+			"ITガバナンス",
+			"ハードウェア",
+			"入出力装置",
+			"セキュリティ系",
+			"情報セキュリティ管理",
+			"マルウェア",
+			"デジタルトランスフォーメーション",
+			"インターネット",
+			"クラウドコンピューティング",
+			"パスワード管理",
+			"プロジェクト管理",
+			"データベース",
+			"データベース設計",
+			"リスク管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "35",
+		"name": "ITリテラシー(15)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/015_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"ソフトウェア開発",
+			"システム開発",
+			"セキュリティ系",
+			"情報セキュリティ管理",
+			"情報漏洩対策",
+			"ストラテジ系",
+			"経営戦略",
+			"組織文化",
+			"ネットワーク",
+			"セキュリティ",
+			"プログラミング言語",
+			"セキュリティポリシー",
+			"データベース",
+			"SQL",
+			"サイバーセキュリティ",
+			"マルウェア",
+			"インターネット技術",
+			"データベース管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "36",
+		"name": "ITリテラシー(16)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/016_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"ソフトウェア開発",
+			"システム開発プロセス",
+			"セキュリティ系",
+			"情報セキュリティ管理",
+			"情報漏洩防止",
+			"ストラテジ系",
+			"経営戦略",
+			"イノベーション管理",
+			"データ暗号化",
+			"ネットワーク",
+			"プロトコル",
+			"マーケティング",
+			"アジャイル開発",
+			"サイバー攻撃",
+			"経営資源",
+			"アクセス制御"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "37",
+		"name": "ITリテラシー(17)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/017_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"ネットワーク",
+			"IPアドレス",
+			"ストラテジ系",
+			"ITガバナンス",
+			"情報システムの内部統制",
+			"データ分析",
+			"ビッグデータ",
+			"ハードウェア",
+			"ストレージデバイス",
+			"プログラミング",
+			"基礎",
+			"ソフトウェア開発",
+			"アルゴリズム",
+			"インターネット",
+			"HTTP",
+			"セキュリティ",
+			"暗号化",
+			"データベース",
+			"データの正規化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "38",
+		"name": "ITリテラシー(18)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/018_quest/quest",
+		"tags": [
+			"テクノロジ系",
+			"プログラミング",
+			"エラー処理",
+			"ネットワーク",
+			"DNS",
+			"ハードウェア",
+			"記憶装置",
+			"セキュリティ",
+			"ファイアウォール",
+			"無線LAN",
+			"データベース",
+			"インデックス",
+			"変数とデータ型",
+			"インターネット",
+			"URL",
+			"RAMとROM",
+			"パケットスニッフィング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "39",
+		"name": "ITリテラシー(19)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/019_quest/quest",
+		"tags": [
+			"セキュリティ系",
+			"情報セキュリティ",
+			"デバイス管理",
+			"コンプライアンス",
+			"SNS利用",
+			"基本対策",
+			"パスワード管理",
+			"リスク管理",
+			"ID・パスワード管理",
+			"セキュリティ対策"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "40",
+		"name": "ITリテラシー(20)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/020_quest/quest",
+		"tags": [
+			"セキュリティ系",
+			"情報セキュリティ",
+			"セキュリティ対策",
+			"法律系",
+			"情報法",
+			"プライバシー権"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "41",
+		"name": "ITリテラシー(21)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/021_quest/quest",
+		"tags": [
+			"IT",
+			"リテラシー",
+			"ITリテラシー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "42",
+		"name": "ITリテラシー(22)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/022_quest/quest",
+		"tags": [
+			"IT",
+			"リテラシー",
+			"ITリテラシー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "43",
+		"name": "ITリテラシー(23)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/023_quest/quest",
+		"tags": [
+			"IT",
+			"リテラシー",
+			"ITリテラシー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "44",
+		"name": "ITリテラシー(24)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/002_category_Literacy/001_category_Literacy_Literacy/024_quest/quest",
+		"tags": [
+			"IT",
+			"リテラシー",
+			"ITリテラシー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "45",
+		"name": "モバイルアプリ開発(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/004_category_Program/006_category_Program_Mobile_Application_Development/001_quest/quest",
+		"tags": [
+			"IT",
+			"モバイルアプリ開発"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "46",
+		"name": "モバイルアプリ開発(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/004_category_Program/006_category_Program_Mobile_Application_Development/002_quest/quest",
+		"tags": [
+			"IT",
+			"モバイルアプリ開発"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "47",
+		"name": "モバイルアプリ開発(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/004_category_Program/006_category_Program_Mobile_Application_Development/003_quest/quest",
+		"tags": [
+			"IT",
+			"モバイルアプリ開発"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "48",
+		"name": "モバイルアプリ開発(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/004_category_Program/006_category_Program_Mobile_Application_Development/004_quest/quest",
+		"tags": [
+			"IT",
+			"モバイルアプリ開発"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "49",
+		"name": "モバイルアプリ開発(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/004_category_Program/006_category_Program_Mobile_Application_Development/005_quest/quest",
+		"tags": [
+			"IT",
+			"モバイルアプリ開発"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "50",
+		"name": "モバイルアプリ開発(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/004_category_Program/006_category_Program_Mobile_Application_Development/006_quest/quest",
+		"tags": [
+			"IT",
+			"モバイルアプリ開発"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "51",
+		"name": "モバイルアプリ開発(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/004_category_Program/006_category_Program_Mobile_Application_Development/007_quest/quest",
+		"tags": [
+			"IT",
+			"モバイルアプリ開発"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "52",
+		"name": "モバイルアプリ開発(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/004_category_Program/006_category_Program_Mobile_Application_Development/008_quest/quest",
+		"tags": [
+			"IT",
+			"モバイルアプリ開発"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "53",
+		"name": "クラウドコンピューティング(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/006_category_CloudComputing/001_category_CloudComputing_CloudComputing/001_quest/quest",
+		"tags": [
+			"IT",
+			"クラウドコンピューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "54",
+		"name": "クラウドコンピューティング(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/006_category_CloudComputing/001_category_CloudComputing_CloudComputing/002_quest/quest",
+		"tags": [
+			"IT",
+			"クラウドコンピューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "55",
+		"name": "クラウドコンピューティング(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/006_category_CloudComputing/001_category_CloudComputing_CloudComputing/003_quest/quest",
+		"tags": [
+			"IT",
+			"クラウドコンピューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "56",
+		"name": "クラウドコンピューティング(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/006_category_CloudComputing/001_category_CloudComputing_CloudComputing/004_quest/quest",
+		"tags": [
+			"IT",
+			"クラウドコンピューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "57",
+		"name": "クラウドコンピューティング(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/006_category_CloudComputing/001_category_CloudComputing_CloudComputing/005_quest/quest",
+		"tags": [
+			"IT",
+			"クラウドコンピューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "58",
+		"name": "クラウドコンピューティング(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/006_category_CloudComputing/001_category_CloudComputing_CloudComputing/006_quest/quest",
+		"tags": [
+			"IT",
+			"クラウドコンピューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "59",
+		"name": "クラウドコンピューティング(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/006_category_CloudComputing/001_category_CloudComputing_CloudComputing/007_quest/quest",
+		"tags": [
+			"IT",
+			"クラウドコンピューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "60",
+		"name": "クラウドコンピューティング(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/006_category_CloudComputing/001_category_CloudComputing_CloudComputing/008_quest/quest",
+		"tags": [
+			"IT",
+			"クラウドコンピューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "61",
+		"name": "クラウドコンピューティング(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/006_category_CloudComputing/001_category_CloudComputing_CloudComputing/009_quest/quest",
+		"tags": [
+			"IT",
+			"クラウドコンピューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "62",
+		"name": "クラウドコンピューティング(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/006_category_CloudComputing/001_category_CloudComputing_CloudComputing/010_quest/quest",
+		"tags": [
+			"IT",
+			"クラウドコンピューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "63",
+		"name": "Photoshop(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/001_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "64",
+		"name": "Photoshop(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/002_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "65",
+		"name": "Photoshop(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/003_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "66",
+		"name": "Photoshop(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/004_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "67",
+		"name": "Photoshop(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/005_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "68",
+		"name": "Photoshop(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/006_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "69",
+		"name": "Photoshop(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/007_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "70",
+		"name": "Photoshop(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/008_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "71",
+		"name": "Photoshop(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/009_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "72",
+		"name": "Photoshop(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/010_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "73",
+		"name": "Photoshop(11)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/011_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "74",
+		"name": "Photoshop(12)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/012_quest/quest",
+		"tags": [
+			"Photoshop"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "75",
+		"name": "Photoshop(13)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/013_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "76",
+		"name": "Photoshop(14)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/014_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "77",
+		"name": "Photoshop(15)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/015_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "78",
+		"name": "Photoshop(16)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/016_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "79",
+		"name": "Photoshop(17)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/017_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "80",
+		"name": "Photoshop(18)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/018_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "81",
+		"name": "Photoshop(19)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/019_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "82",
+		"name": "Photoshop(20)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/020_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "83",
+		"name": "Photoshop(21)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/021_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "84",
+		"name": "Photoshop(22)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/022_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調",
+			"ショートカット"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "85",
+		"name": "Photoshop(23)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/023_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "86",
+		"name": "Photoshop(24)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/024_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "87",
+		"name": "Photoshop(25)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/025_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "88",
+		"name": "Photoshop(26)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/026_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "89",
+		"name": "Photoshop(27)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/027_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "90",
+		"name": "Photoshop(28)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/028_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "91",
+		"name": "Photoshop(29)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/029_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調",
+			"ショートカット"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "92",
+		"name": "Photoshop(30)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/030_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ショートカット",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "93",
+		"name": "Photoshop(31)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/031_quest/quest",
+		"tags": [
+			"Photoshop",
+			"色調",
+			"ショートカット"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "94",
+		"name": "Photoshop(32)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/032_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ショートカット",
+			"色調"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "95",
+		"name": "Photoshop(33)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/033_quest/quest",
+		"tags": [
+			"Photoshop",
+			"設定",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "96",
+		"name": "Photoshop(34)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/034_quest/quest",
+		"tags": [
+			"Photoshop",
+			"設定",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "97",
+		"name": "Photoshop(35)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/035_quest/quest",
+		"tags": [
+			"Photoshop",
+			"設定",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "98",
+		"name": "Photoshop(36)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/036_quest/quest",
+		"tags": [
+			"Photoshop",
+			"設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "99",
+		"name": "Photoshop(37)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/037_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング",
+			"設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "100",
+		"name": "Photoshop(38)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/038_quest/quest",
+		"tags": [
+			"Photoshop",
+			"設定",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "101",
+		"name": "Photoshop(39)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/039_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング",
+			"設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "102",
+		"name": "Photoshop(40)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/040_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング",
+			"設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "103",
+		"name": "Photoshop(41)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/041_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング",
+			"設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "104",
+		"name": "Photoshop(42)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/042_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング",
+			"設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "105",
+		"name": "Photoshop(43)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/043_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "106",
+		"name": "Photoshop(44)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/044_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "107",
+		"name": "Photoshop(45)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/045_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "108",
+		"name": "Photoshop(46)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/046_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング",
+			"設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "109",
+		"name": "Photoshop(47)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/047_quest/quest",
+		"tags": [
+			"Photoshop",
+			"設定",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "110",
+		"name": "Photoshop(48)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/048_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング",
+			"設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "111",
+		"name": "Photoshop(49)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/049_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "112",
+		"name": "Photoshop(50)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/050_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング",
+			"設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "113",
+		"name": "Photoshop(51)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/051_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング",
+			"設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "114",
+		"name": "Photoshop(52)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/052_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "115",
+		"name": "Photoshop(53)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/053_quest/quest",
+		"tags": [
+			"Photoshop",
+			"トラブルシューティング",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "116",
+		"name": "Photoshop(54)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/054_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "117",
+		"name": "Photoshop(55)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/055_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "118",
+		"name": "Photoshop(56)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/056_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "119",
+		"name": "Photoshop(57)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/057_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "120",
+		"name": "Photoshop(58)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/058_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "121",
+		"name": "Photoshop(59)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/059_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "122",
+		"name": "Photoshop(60)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/060_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "123",
+		"name": "Photoshop(61)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/061_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "124",
+		"name": "Photoshop(62)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/062_quest/quest",
+		"tags": [
+			"Photoshop",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "125",
+		"name": "Photoshop(63)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/063_quest/quest",
+		"tags": [
+			"Photoshop",
+			"実践・応用"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "126",
+		"name": "Photoshop(64)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/064_quest/quest",
+		"tags": [
+			"Photoshop",
+			"実践・応用",
+			"テキスト・タイポグラフィ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "127",
+		"name": "Photoshop(65)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/065_quest/quest",
+		"tags": [
+			"Photoshop",
+			"テキスト・タイポグラフィ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "128",
+		"name": "Photoshop(66)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/066_quest/quest",
+		"tags": [
+			"Photoshop",
+			"テキスト・タイポグラフィ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "129",
+		"name": "Photoshop(67)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/067_quest/quest",
+		"tags": [
+			"Photoshop",
+			"テキスト・タイポグラフィ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "130",
+		"name": "Photoshop(68)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/068_quest/quest",
+		"tags": [
+			"Photoshop",
+			"テキスト・タイポグラフィ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "131",
+		"name": "Photoshop(69)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/069_quest/quest",
+		"tags": [
+			"Photoshop",
+			"テキスト・タイポグラフィ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "132",
+		"name": "Photoshop(70)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/070_quest/quest",
+		"tags": [
+			"Photoshop",
+			"テキスト・タイポグラフィ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "133",
+		"name": "Photoshop(71)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/071_quest/quest",
+		"tags": [
+			"Photoshop",
+			"テキスト・タイポグラフィ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "134",
+		"name": "Photoshop(72)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/072_quest/quest",
+		"tags": [
+			"Photoshop",
+			"テキスト・タイポグラフィ",
+			"実践・応用"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "135",
+		"name": "Photoshop(73)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/073_quest/quest",
+		"tags": [
+			"Photoshop",
+			"選択・マスキング",
+			"実践・応用"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "136",
+		"name": "Photoshop(74)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/074_quest/quest",
+		"tags": [
+			"Photoshop",
+			"実践・応用"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "137",
+		"name": "Photoshop(75)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/075_quest/quest",
+		"tags": [
+			"Photoshop",
+			"選択・マスキング",
+			"実践・応用"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "138",
+		"name": "Photoshop(76)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/076_quest/quest",
+		"tags": [
+			"Photoshop",
+			"実践・応用"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "139",
+		"name": "Photoshop(77)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/077_quest/quest",
+		"tags": [
+			"Photoshop",
+			"テキスト・タイポグラフィ",
+			"実践・応用",
+			"選択・マスキング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "140",
+		"name": "Photoshop(78)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/078_quest/quest",
+		"tags": [
+			"Photoshop",
+			"選択・マスキング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "141",
+		"name": "Photoshop(79)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/079_quest/quest",
+		"tags": [
+			"Photoshop",
+			"選択・マスキング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "142",
+		"name": "Photoshop(80)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/080_quest/quest",
+		"tags": [
+			"Photoshop",
+			"選択・マスキング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "143",
+		"name": "Photoshop(81)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/081_quest/quest",
+		"tags": [
+			"Photoshop",
+			"選択・マスキング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "144",
+		"name": "Photoshop(82)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/082_quest/quest",
+		"tags": [
+			"Photoshop",
+			"選択・マスキング",
+			"実践・応用"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "145",
+		"name": "Photoshop(83)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/083_quest/quest",
+		"tags": [
+			"Photoshop",
+			"雑学",
+			"レイヤー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "146",
+		"name": "Photoshop(84)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/084_quest/quest",
+		"tags": [
+			"Photoshop",
+			"レイヤー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "147",
+		"name": "Photoshop(85)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/085_quest/quest",
+		"tags": [
+			"Photoshop",
+			"レイヤー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "148",
+		"name": "Photoshop(86)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/086_quest/quest",
+		"tags": [
+			"Photoshop",
+			"レイヤー",
+			"雑学"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "149",
+		"name": "Photoshop(87)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/087_quest/quest",
+		"tags": [
+			"Photoshop",
+			"雑学"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "150",
+		"name": "Photoshop(88)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/088_quest/quest",
+		"tags": [
+			"Photoshop",
+			"雑学",
+			"レイヤー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "151",
+		"name": "Photoshop(89)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/089_quest/quest",
+		"tags": [
+			"Photoshop",
+			"レイヤー",
+			"ファイル管理・出力",
+			"実践・応用",
+			"テキスト・タイポグラフィ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "152",
+		"name": "Photoshop(90)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/090_quest/quest",
+		"tags": [
+			"Photoshop",
+			"実践・応用",
+			"ファイル管理・出力",
+			"テキスト・タイポグラフィ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "153",
+		"name": "Photoshop(91)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/091_quest/quest",
+		"tags": [
+			"Photoshop",
+			"実践・応用",
+			"テキスト・タイポグラフィ",
+			"ファイル管理・出力",
+			"雑学"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "154",
+		"name": "Photoshop(92)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/092_quest/quest",
+		"tags": [
+			"Photoshop",
+			"雑学",
+			"実践・応用"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "155",
+		"name": "Photoshop(93)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/093_quest/quest",
+		"tags": [
+			"Photoshop",
+			"実践・応用",
+			"ファイル管理・出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "156",
+		"name": "Photoshop(94)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/001_category_Software_and_Application_Photoshop/094_quest/quest",
+		"tags": [
+			"Photoshop",
+			"実践・応用",
+			"トラブルシューティング"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "157",
+		"name": "Illustrator(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/001_quest/quest",
+		"tags": [
+			"Illustrator",
+			"豆知識"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "158",
+		"name": "Illustrator(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/002_quest/quest",
+		"tags": [
+			"Illustrator",
+			"豆知識"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "159",
+		"name": "Illustrator(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/003_quest/quest",
+		"tags": [
+			"Illustrator",
+			"豆知識"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "160",
+		"name": "Illustrator(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/004_quest/quest",
+		"tags": [
+			"Illustrator",
+			"豆知識"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "161",
+		"name": "Illustrator(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/005_quest/quest",
+		"tags": [
+			"Illustrator",
+			"豆知識",
+			"テキスト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "162",
+		"name": "Illustrator(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/006_quest/quest",
+		"tags": [
+			"Illustrator",
+			"豆知識",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "163",
+		"name": "Illustrator(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/007_quest/quest",
+		"tags": [
+			"Illustrator",
+			"豆知識",
+			"保存形式",
+			"出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "164",
+		"name": "Illustrator(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/008_quest/quest",
+		"tags": [
+			"Illustrator",
+			"出力",
+			"カラー",
+			"保存形式"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "165",
+		"name": "Illustrator(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/009_quest/quest",
+		"tags": [
+			"Illustrator",
+			"出力",
+			"インターフェース",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "166",
+		"name": "Illustrator(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/010_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "167",
+		"name": "Illustrator(11)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/011_quest/quest",
+		"tags": [
+			"Illustrator",
+			"出力",
+			"効率化",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "168",
+		"name": "Illustrator(12)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/012_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"保存形式",
+			"パス",
+			"ツール",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "169",
+		"name": "Illustrator(13)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/013_quest/quest",
+		"tags": [
+			"Illustrator",
+			"効率化",
+			"出力",
+			"フィルター"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "170",
+		"name": "Illustrator(14)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/014_quest/quest",
+		"tags": [
+			"Illustrator",
+			"フィルター",
+			"効率化",
+			"インターフェース",
+			"オブジェクト",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "171",
+		"name": "Illustrator(15)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/015_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"ツール",
+			"オブジェクト",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "172",
+		"name": "Illustrator(16)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/016_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"カラー",
+			"効率化",
+			"オブジェクト",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "173",
+		"name": "Illustrator(17)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/017_quest/quest",
+		"tags": [
+			"Illustrator",
+			"オブジェクト",
+			"インターフェース",
+			"効率化",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "174",
+		"name": "Illustrator(18)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/018_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"ツール",
+			"効率化",
+			"オブジェクト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "175",
+		"name": "Illustrator(19)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/019_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"オブジェクト",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "176",
+		"name": "Illustrator(20)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/020_quest/quest",
+		"tags": [
+			"Illustrator",
+			"ツール",
+			"オブジェクト",
+			"インターフェース",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "177",
+		"name": "Illustrator(21)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/021_quest/quest",
+		"tags": [
+			"Illustrator",
+			"ツール",
+			"インターフェース",
+			"オブジェクト",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "178",
+		"name": "Illustrator(22)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/022_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"効率化",
+			"カラー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "179",
+		"name": "Illustrator(23)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/023_quest/quest",
+		"tags": [
+			"Illustrator",
+			"カラー",
+			"出力",
+			"効率化",
+			"保存形式",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "180",
+		"name": "Illustrator(24)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/024_quest/quest",
+		"tags": [
+			"Illustrator",
+			"カラー",
+			"インターフェース",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "181",
+		"name": "Illustrator(25)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/025_quest/quest",
+		"tags": [
+			"Illustrator",
+			"効率化",
+			"インターフェース",
+			"テキスト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "182",
+		"name": "Illustrator(26)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/026_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト",
+			"インターフェース",
+			"効率化",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "183",
+		"name": "Illustrator(27)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/027_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト",
+			"ツール",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "184",
+		"name": "Illustrator(28)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/028_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト",
+			"インターフェース",
+			"効率化",
+			"出力",
+			"保存形式"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "185",
+		"name": "Illustrator(29)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/029_quest/quest",
+		"tags": [
+			"Illustrator",
+			"保存形式",
+			"出力",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "186",
+		"name": "Illustrator(30)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/030_quest/quest",
+		"tags": [
+			"Illustrator",
+			"保存形式",
+			"効率化",
+			"パス"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "187",
+		"name": "Illustrator(31)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/031_quest/quest",
+		"tags": [
+			"Illustrator",
+			"パス",
+			"効率化",
+			"インターフェース",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "188",
+		"name": "Illustrator(32)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/032_quest/quest",
+		"tags": [
+			"Illustrator",
+			"パス",
+			"インターフェース",
+			"効率化",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "189",
+		"name": "Illustrator(33)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/033_quest/quest",
+		"tags": [
+			"Illustrator",
+			"ツール",
+			"効率化",
+			"パス",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "190",
+		"name": "Illustrator(34)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/034_quest/quest",
+		"tags": [
+			"Illustrator",
+			"効率化",
+			"出力",
+			"保存形式"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "191",
+		"name": "Illustrator(35)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/035_quest/quest",
+		"tags": [
+			"Illustrator",
+			"保存形式",
+			"効率化",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "192",
+		"name": "Illustrator(36)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/036_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"保存形式",
+			"効率化",
+			"レイヤー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "193",
+		"name": "Illustrator(37)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/037_quest/quest",
+		"tags": [
+			"Illustrator",
+			"レイヤー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "194",
+		"name": "Illustrator(38)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/038_quest/quest",
+		"tags": [
+			"Illustrator",
+			"レイヤー",
+			"インターフェース",
+			"保存形式",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "195",
+		"name": "Illustrator(39)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/039_quest/quest",
+		"tags": [
+			"Illustrator",
+			"効率化",
+			"保存形式",
+			"出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "196",
+		"name": "Illustrator(40)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/040_quest/quest",
+		"tags": [
+			"Illustrator",
+			"保存形式",
+			"出力",
+			"効率化",
+			"フィルター",
+			"インターフェース",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "197",
+		"name": "Illustrator(41)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/041_quest/quest",
+		"tags": [
+			"Illustrator",
+			"ツール",
+			"効率化",
+			"インターフェース",
+			"保存形式"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "198",
+		"name": "Illustrator(42)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/042_quest/quest",
+		"tags": [
+			"Illustrator",
+			"効率化",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "199",
+		"name": "Illustrator(43)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/043_quest/quest",
+		"tags": [
+			"Illustrator",
+			"効率化",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "200",
+		"name": "Illustrator(44)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/044_quest/quest",
+		"tags": [
+			"Illustrator",
+			"効率化",
+			"インターフェース",
+			"出力",
+			"カラー",
+			"保存形式"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "201",
+		"name": "Illustrator(45)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/045_quest/quest",
+		"tags": [
+			"Illustrator",
+			"カラー",
+			"効率化",
+			"インターフェース",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "202",
+		"name": "Illustrator(46)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/046_quest/quest",
+		"tags": [
+			"Illustrator",
+			"ツール",
+			"インターフェース",
+			"出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "203",
+		"name": "Illustrator(47)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/047_quest/quest",
+		"tags": [
+			"Illustrator",
+			"出力"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "204",
+		"name": "Illustrator(48)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/048_quest/quest",
+		"tags": [
+			"Illustrator",
+			"出力",
+			"パス"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "205",
+		"name": "Illustrator(49)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/049_quest/quest",
+		"tags": [
+			"Illustrator",
+			"パス",
+			"フィルター"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "206",
+		"name": "Illustrator(50)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/050_quest/quest",
+		"tags": [
+			"Illustrator",
+			"フィルター"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "207",
+		"name": "Illustrator(51)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/051_quest/quest",
+		"tags": [
+			"Illustrator",
+			"フィルター"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "208",
+		"name": "Illustrator(52)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/052_quest/quest",
+		"tags": [
+			"Illustrator",
+			"フィルター"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "209",
+		"name": "Illustrator(53)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/053_quest/quest",
+		"tags": [
+			"Illustrator",
+			"フィルター",
+			"カラー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "210",
+		"name": "Illustrator(54)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/054_quest/quest",
+		"tags": [
+			"Illustrator",
+			"フィルター",
+			"インターフェース",
+			"カラー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "211",
+		"name": "Illustrator(55)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/055_quest/quest",
+		"tags": [
+			"Illustrator",
+			"カラー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "212",
+		"name": "Illustrator(56)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/056_quest/quest",
+		"tags": [
+			"Illustrator",
+			"カラー",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "213",
+		"name": "Illustrator(57)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/057_quest/quest",
+		"tags": [
+			"Illustrator",
+			"カラー",
+			"オブジェクト",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "214",
+		"name": "Illustrator(58)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/058_quest/quest",
+		"tags": [
+			"Illustrator",
+			"オブジェクト",
+			"カラー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "215",
+		"name": "Illustrator(59)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/059_quest/quest",
+		"tags": [
+			"Illustrator",
+			"カラー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "216",
+		"name": "Illustrator(60)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/060_quest/quest",
+		"tags": [
+			"Illustrator",
+			"カラー",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "217",
+		"name": "Illustrator(61)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/061_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"オブジェクト",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "218",
+		"name": "Illustrator(62)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/062_quest/quest",
+		"tags": [
+			"Illustrator",
+			"ツール",
+			"オブジェクト",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "219",
+		"name": "Illustrator(63)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/063_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"ツール",
+			"オブジェクト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "220",
+		"name": "Illustrator(64)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/064_quest/quest",
+		"tags": [
+			"Illustrator",
+			"オブジェクト",
+			"ツール",
+			"インターフェース",
+			"レイヤー",
+			"テキスト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "221",
+		"name": "Illustrator(65)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/065_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "222",
+		"name": "Illustrator(66)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/066_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "223",
+		"name": "Illustrator(67)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/067_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "224",
+		"name": "Illustrator(68)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/068_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "225",
+		"name": "Illustrator(69)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/069_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "226",
+		"name": "Illustrator(70)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/070_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "227",
+		"name": "Illustrator(71)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/071_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "228",
+		"name": "Illustrator(72)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/072_quest/quest",
+		"tags": [
+			"Illustrator",
+			"テキスト",
+			"フィルター",
+			"パス"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "229",
+		"name": "Illustrator(73)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/073_quest/quest",
+		"tags": [
+			"Illustrator",
+			"パス",
+			"フィルター"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "230",
+		"name": "Illustrator(74)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/074_quest/quest",
+		"tags": [
+			"Illustrator",
+			"パス",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "231",
+		"name": "Illustrator(75)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/075_quest/quest",
+		"tags": [
+			"Illustrator",
+			"パス"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "232",
+		"name": "Illustrator(76)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/076_quest/quest",
+		"tags": [
+			"Illustrator",
+			"パス",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "233",
+		"name": "Illustrator(77)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/077_quest/quest",
+		"tags": [
+			"Illustrator",
+			"レイヤー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "234",
+		"name": "Illustrator(78)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/078_quest/quest",
+		"tags": [
+			"Illustrator",
+			"レイヤー",
+			"効率化",
+			"オブジェクト",
+			"ツール"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "235",
+		"name": "Illustrator(79)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/079_quest/quest",
+		"tags": [
+			"Illustrator",
+			"オブジェクト",
+			"ツール",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "236",
+		"name": "Illustrator(61)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/080_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"保存形式",
+			"効率化",
+			"パス",
+			"カラー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "237",
+		"name": "Illustrator(81)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/081_quest/quest",
+		"tags": [
+			"Illustrator",
+			"効率化",
+			"保存形式"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "238",
+		"name": "Illustrator(82)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/082_quest/quest",
+		"tags": [
+			"Illustrator",
+			"効率化",
+			"保存形式",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "239",
+		"name": "Illustrator(83)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/083_quest/quest",
+		"tags": [
+			"Illustrator",
+			"保存形式",
+			"インターフェース",
+			"ツール",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "240",
+		"name": "Illustrator(84)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/084_quest/quest",
+		"tags": [
+			"Illustrator",
+			"効率化",
+			"出力",
+			"保存形式",
+			"インターフェース"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "241",
+		"name": "Illustrator(85)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/085_quest/quest",
+		"tags": [
+			"Illustrator",
+			"出力",
+			"インターフェース",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "242",
+		"name": "Illustrator(86)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/086_quest/quest",
+		"tags": [
+			"Illustrator",
+			"出力",
+			"インターフェース",
+			"保存形式",
+			"効率化",
+			"パス",
+			"ツール",
+			"オブジェクト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "243",
+		"name": "Illustrator(87)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/087_quest/quest",
+		"tags": [
+			"Illustrator",
+			"ツール",
+			"インターフェース",
+			"効率化",
+			"オブジェクト"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "244",
+		"name": "Illustrator(88)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/088_quest/quest",
+		"tags": [
+			"Illustrator",
+			"ツール",
+			"オブジェクト",
+			"効率化",
+			"フィルター"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "245",
+		"name": "Illustrator(89)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/089_quest/quest",
+		"tags": [
+			"Illustrator",
+			"ツール",
+			"オブジェクト",
+			"インターフェース",
+			"効率化"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "246",
+		"name": "Illustrator(90)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/002_category_Software_and_Application_Illustrator/090_quest/quest",
+		"tags": [
+			"Illustrator",
+			"インターフェース",
+			"オブジェクト",
+			"ツール",
+			"レイヤー"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "247",
+		"name": "Excel(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/001_quest/quest",
+		"tags": [
+			"Excel",
+			"基本操作",
+			"グラフ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "248",
+		"name": "Excel(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/002_quest/quest",
+		"tags": [
+			"Excel",
+			"グラフ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "249",
+		"name": "Excel(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/003_quest/quest",
+		"tags": [
+			"Excel",
+			"書式設定",
+			"グラフ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "250",
+		"name": "Excel(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/004_quest/quest",
+		"tags": [
+			"Excel",
+			"グラフ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "251",
+		"name": "Excel(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/005_quest/quest",
+		"tags": [
+			"Excel",
+			"グラフ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "252",
+		"name": "Excel(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/006_quest/quest",
+		"tags": [
+			"Excel",
+			"グラフ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "253",
+		"name": "Excel(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/007_quest/quest",
+		"tags": [
+			"Excel",
+			"グラフ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "254",
+		"name": "Excel(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/008_quest/quest",
+		"tags": [
+			"Excel",
+			"グラフ",
+			"データ入力・編集",
+			"書式設定",
+			"基本操作",
+			"データ整理・管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "255",
+		"name": "Excel(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/009_quest/quest",
+		"tags": [
+			"Excel",
+			"書式設定",
+			"ショートカット",
+			"データ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "256",
+		"name": "Excel(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/010_quest/quest",
+		"tags": [
+			"Excel",
+			"データ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "257",
+		"name": "Excel(11)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/011_quest/quest",
+		"tags": [
+			"Excel",
+			"データ",
+			"データ整理・管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "258",
+		"name": "Excel(12)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/012_quest/quest",
+		"tags": [
+			"Excel",
+			"データ",
+			"書式設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "259",
+		"name": "Excel(13)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/013_quest/quest",
+		"tags": [
+			"Excel",
+			"書式設定",
+			"データ",
+			"データ整理・管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "260",
+		"name": "Excel(14)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/014_quest/quest",
+		"tags": [
+			"Excel",
+			"書式設定",
+			"データ",
+			"データ整理・管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "261",
+		"name": "Excel(15)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/015_quest/quest",
+		"tags": [
+			"Excel",
+			"データ",
+			"データ整理・管理",
+			"書式設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "262",
+		"name": "Excel(16)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/016_quest/quest",
+		"tags": [
+			"Excel",
+			"データ整理・管理",
+			"データ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "263",
+		"name": "Excel(17)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/017_quest/quest",
+		"tags": [
+			"Excel",
+			"データ整理・管理",
+			"書式設定",
+			"基本操作"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "264",
+		"name": "Excel(18)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/018_quest/quest",
+		"tags": [
+			"Excel",
+			"書式設定",
+			"基本操作",
+			"データ整理・管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "265",
+		"name": "Excel(19)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/019_quest/quest",
+		"tags": [
+			"Excel",
+			"データ整理・管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "266",
+		"name": "Excel(20)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/020_quest/quest",
+		"tags": [
+			"Excel",
+			"データ整理・管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "267",
+		"name": "Excel(21)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/021_quest/quest",
+		"tags": [
+			"Excel",
+			"データ整理・管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "268",
+		"name": "Excel(22)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/022_quest/quest",
+		"tags": [
+			"Excel",
+			"データ整理・管理",
+			"基本操作",
+			"データ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "269",
+		"name": "Excel(23)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/023_quest/quest",
+		"tags": [
+			"Excel",
+			"データ",
+			"データ整理・管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "270",
+		"name": "Excel(24)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/024_quest/quest",
+		"tags": [
+			"Excel",
+			"データ整理・管理",
+			"基本操作",
+			"データ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "271",
+		"name": "Excel(25)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/025_quest/quest",
+		"tags": [
+			"Excel",
+			"書式設定",
+			"データ",
+			"データ整理・管理",
+			"基本操作"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "272",
+		"name": "Excel(26)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/026_quest/quest",
+		"tags": [
+			"Excel",
+			"基本操作",
+			"データ整理・管理",
+			"書式設定",
+			"データ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "273",
+		"name": "Excel(27)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/027_quest/quest",
+		"tags": [
+			"Excel",
+			"書式設定",
+			"データ整理・管理",
+			"基本操作"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "274",
+		"name": "Excel(28)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/028_quest/quest",
+		"tags": [
+			"Excel",
+			"データ整理・管理",
+			"基本操作",
+			"書式設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "275",
+		"name": "Excel(29)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/029_quest/quest",
+		"tags": [
+			"Excel",
+			"書式設定",
+			"基本操作",
+			"データ",
+			"グラフ",
+			"豆知識"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "276",
+		"name": "Excel(30)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/030_quest/quest",
+		"tags": [
+			"Excel",
+			"グラフ",
+			"データ入力・編集",
+			"ショートカット",
+			"基本操作"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "277",
+		"name": "Excel(31)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/031_quest/quest",
+		"tags": [
+			"Excel",
+			"基本操作",
+			"ショートカット",
+			"データ入力・編集",
+			"数式・関数"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "278",
+		"name": "Excel(32)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/032_quest/quest",
+		"tags": [
+			"Excel",
+			"数式・関数",
+			"基本操作"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "279",
+		"name": "Excel(33)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/033_quest/quest",
+		"tags": [
+			"Excel",
+			"数式・関数"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "280",
+		"name": "Excel(34)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/034_quest/quest",
+		"tags": [
+			"Excel",
+			"数式・関数",
+			"データ入力・編集",
+			"ショートカット",
+			"基本操作"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "281",
+		"name": "Excel(35)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/035_quest/quest",
+		"tags": [
+			"Excel",
+			"データ入力・編集",
+			"ショートカット",
+			"基本操作"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "282",
+		"name": "Excel(36)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/036_quest/quest",
+		"tags": [
+			"Excel",
+			"基本操作",
+			"ショートカット",
+			"データ入力・編集",
+			"書式設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "283",
+		"name": "Excel(37)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/037_quest/quest",
+		"tags": [
+			"Excel",
+			"基本操作",
+			"ショートカット",
+			"データ入力・編集"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "284",
+		"name": "Excel(38)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/038_quest/quest",
+		"tags": [
+			"Excel",
+			"書式設定",
+			"ショートカット",
+			"データ入力・編集",
+			"基本操作"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "285",
+		"name": "Excel(39)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/039_quest/quest",
+		"tags": [
+			"Excel",
+			"基本操作",
+			"データ入力・編集",
+			"数式・関数"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "286",
+		"name": "Excel(40)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/040_quest/quest",
+		"tags": [
+			"Excel",
+			"データ入力・編集",
+			"ショートカット",
+			"基本操作",
+			"豆知識",
+			"書式設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "287",
+		"name": "Excel(41)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/041_quest/quest",
+		"tags": [
+			"Excel",
+			"基本操作",
+			"数式・関数",
+			"データ入力・編集",
+			"豆知識"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "288",
+		"name": "Excel(42)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/042_quest/quest",
+		"tags": [
+			"Excel",
+			"数式・関数",
+			"データ入力・編集"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "289",
+		"name": "Excel(43)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/043_quest/quest",
+		"tags": [
+			"Excel",
+			"数式・関数",
+			"豆知識"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "290",
+		"name": "Excel(44)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/044_quest/quest",
+		"tags": [
+			"Excel",
+			"数式・関数"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "291",
+		"name": "Excel(45)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/045_quest/quest",
+		"tags": [
+			"Excel",
+			"数式・関数"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "292",
+		"name": "Excel(46)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/046_quest/quest",
+		"tags": [
+			"Excel",
+			"数式・関数",
+			"データ入力・編集",
+			"ショートカット"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "293",
+		"name": "Excel(47)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/047_quest/quest",
+		"tags": [
+			"Excel",
+			"数式・関数",
+			"データ入力・編集"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "294",
+		"name": "Excel(48)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/048_quest/quest",
+		"tags": [
+			"Excel",
+			"数式・関数",
+			"基本操作",
+			"グラフ",
+			"書式設定"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "295",
+		"name": "Excel(49)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/049_quest/quest",
+		"tags": [
+			"Excel",
+			"書式設定",
+			"グラフ",
+			"基本操作",
+			"データ入力・編集"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "296",
+		"name": "Excel(50)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/007_category_Software_and_Application/003_category_Software_and_Application_Excel/050_quest/quest",
+		"tags": [
+			"Excel",
+			"基本操作",
+			"書式設定",
+			"印刷",
+			"データ入力・編集"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "297",
+		"name": "ブロックチェーン(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/001_category_Cryptography_Blockchain/001_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"ブロックチェーン"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "298",
+		"name": "ブロックチェーン(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/001_category_Cryptography_Blockchain/002_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"ブロックチェーン"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "299",
+		"name": "ブロックチェーン(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/001_category_Cryptography_Blockchain/003_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"ブロックチェーン"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "300",
+		"name": "ブロックチェーン(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/001_category_Cryptography_Blockchain/004_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"ブロックチェーン"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "301",
+		"name": "ブロックチェーン(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/001_category_Cryptography_Blockchain/005_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"ブロックチェーン"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "302",
+		"name": "ブロックチェーン(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/001_category_Cryptography_Blockchain/006_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"ブロックチェーン"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "303",
+		"name": "ブロックチェーン(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/001_category_Cryptography_Blockchain/007_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"ブロックチェーン"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "304",
+		"name": "ブロックチェーン(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/001_category_Cryptography_Blockchain/008_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"ブロックチェーン"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "305",
+		"name": "ブロックチェーン(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/001_category_Cryptography_Blockchain/009_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"ブロックチェーン"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "306",
+		"name": "ブロックチェーン(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/001_category_Cryptography_Blockchain/010_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"ブロックチェーン"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "307",
+		"name": "仮想通貨(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/001_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "308",
+		"name": "仮想通貨(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/002_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "309",
+		"name": "仮想通貨(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/003_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "310",
+		"name": "仮想通貨(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/004_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "311",
+		"name": "仮想通貨(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/005_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "312",
+		"name": "仮想通貨(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/006_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "313",
+		"name": "仮想通貨(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/007_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "314",
+		"name": "仮想通貨(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/008_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "315",
+		"name": "仮想通貨(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/009_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "316",
+		"name": "仮想通貨(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/010_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "317",
+		"name": "仮想通貨(11)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/008_category_Cryptography/002_category_Cryptography_Crypto_Currency/011_quest/quest",
+		"tags": [
+			"IT",
+			"暗号技術",
+			"仮想通貨"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "318",
+		"name": "セキュリティ(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/009_category_Security/001_category_Security_Security/001_quest/quest",
+		"tags": [
+			"IT",
+			"セキュリティ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "319",
+		"name": "セキュリティ(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/009_category_Security/001_category_Security_Security/002_quest/quest",
+		"tags": [
+			"IT",
+			"セキュリティ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "320",
+		"name": "セキュリティ(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/009_category_Security/001_category_Security_Security/003_quest/quest",
+		"tags": [
+			"IT",
+			"セキュリティ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "321",
+		"name": "セキュリティ(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/009_category_Security/001_category_Security_Security/004_quest/quest",
+		"tags": [
+			"IT",
+			"セキュリティ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "322",
+		"name": "セキュリティ(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/009_category_Security/001_category_Security_Security/005_quest/quest",
+		"tags": [
+			"IT",
+			"セキュリティ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "323",
+		"name": "セキュリティ(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/009_category_Security/001_category_Security_Security/006_quest/quest",
+		"tags": [
+			"IT",
+			"セキュリティ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "324",
+		"name": "セキュリティ(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/009_category_Security/001_category_Security_Security/007_quest/quest",
+		"tags": [
+			"IT",
+			"セキュリティ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "325",
+		"name": "セキュリティ(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/009_category_Security/001_category_Security_Security/008_quest/quest",
+		"tags": [
+			"IT",
+			"セキュリティ"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "326",
+		"name": "ITプロジェクト管理(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/010_category_ITProject_Management/001_category_ITProject_Management_ITProject_Management/001_quest/quest",
+		"tags": [
+			"IT",
+			"ITプロジェクト管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "327",
+		"name": "ITプロジェクト管理(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/010_category_ITProject_Management/001_category_ITProject_Management_ITProject_Management/002_quest/quest",
+		"tags": [
+			"IT",
+			"ITプロジェクト管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "328",
+		"name": "ITプロジェクト管理(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/010_category_ITProject_Management/001_category_ITProject_Management_ITProject_Management/003_quest/quest",
+		"tags": [
+			"IT",
+			"ITプロジェクト管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "329",
+		"name": "ITプロジェクト管理(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/010_category_ITProject_Management/001_category_ITProject_Management_ITProject_Management/004_quest/quest",
+		"tags": [
+			"IT",
+			"ITプロジェクト管理"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "330",
+		"name": "IoT（モノのインターネット）",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/011_category_IoT/001_category_IoT_IoT/001_quest/quest",
+		"tags": [
+			"IT",
+			"IoT（モノのインターネット）"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "331",
+		"name": "IoT（モノのインターネット）",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/011_category_IoT/001_category_IoT_IoT/002_quest/quest",
+		"tags": [
+			"IT",
+			"IoT（モノのインターネット）"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "332",
+		"name": "IoT（モノのインターネット）",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/011_category_IoT/001_category_IoT_IoT/003_quest/quest",
+		"tags": [
+			"IT",
+			"IoT（モノのインターネット）"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "333",
+		"name": "IoT（モノのインターネット）",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/011_category_IoT/001_category_IoT_IoT/004_quest/quest",
+		"tags": [
+			"IT",
+			"IoT（モノのインターネット）"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "334",
+		"name": "IoT（モノのインターネット）",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/011_category_IoT/001_category_IoT_IoT/005_quest/quest",
+		"tags": [
+			"IT",
+			"IoT（モノのインターネット）"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "335",
+		"name": "IoT（モノのインターネット）",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/011_category_IoT/001_category_IoT_IoT/006_quest/quest",
+		"tags": [
+			"IT",
+			"IoT（モノのインターネット）"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "336",
+		"name": "IoT（モノのインターネット）",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/011_category_IoT/001_category_IoT_IoT/007_quest/quest",
+		"tags": [
+			"IT",
+			"IoT（モノのインターネット）"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "337",
+		"name": "IoT（モノのインターネット）",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/011_category_IoT/001_category_IoT_IoT/008_quest/quest",
+		"tags": [
+			"IT",
+			"IoT（モノのインターネット）"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "338",
+		"name": "生成AI(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/012_category_AI/001_category_AI_AI/001_quest/quest",
+		"tags": [
+			"生成AI",
+			"概要",
+			"効率化",
+			"社会人向け",
+			"一般"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "339",
+		"name": "生成AI(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/012_category_AI/001_category_AI_AI/002_quest/quest",
+		"tags": [
+			"生成AI",
+			"効率化",
+			"一般"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "340",
+		"name": "生成AI(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/012_category_AI/001_category_AI_AI/003_quest/quest",
+		"tags": [
+			"生成AI",
+			"効率化",
+			"一般",
+			"社会人向け"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "341",
+		"name": "生成AI(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/012_category_AI/001_category_AI_AI/004_quest/quest",
+		"tags": [
+			"生成AI",
+			"効率化",
+			"社会人向け"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "342",
+		"name": "生成AI(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/012_category_AI/001_category_AI_AI/005_quest/quest",
+		"tags": [
+			"生成AI",
+			"効率化",
+			"学生向け",
+			"一般"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "343",
+		"name": "生成AI(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/012_category_AI/001_category_AI_AI/006_quest/quest",
+		"tags": [
+			"生成AI",
+			"効率化",
+			"一般"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "344",
+		"name": "生成AI(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/012_category_AI/001_category_AI_AI/007_quest/quest",
+		"tags": [
+			"生成AI",
+			"効率化",
+			"一般",
+			"社会人向け"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "345",
+		"name": "生成AI(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/012_category_AI/001_category_AI_AI/008_quest/quest",
+		"tags": [
+			"生成AI",
+			"効率化",
+			"学生向け",
+			"一般"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "346",
+		"name": "生成AI(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/012_category_AI/001_category_AI_AI/009_quest/quest",
+		"tags": [
+			"生成AI",
+			"効率化",
+			"学生向け",
+			"一般"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "347",
+		"name": "生成AI(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 1,
+		"domain": "IT",
+		"relativePathFromTop": "001_genre_IT/012_category_AI/001_category_AI_AI/010_quest/quest",
+		"tags": [
+			"生成AI",
+			"効率化",
+			"学生向け",
+			"一般"
+		],
+		"total_alloc_score": 10
+	},
+	{
+		"id": "348",
+		"name": "ロシア語(1)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/001_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"アルファベット"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "349",
+		"name": "ロシア語(2)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/002_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"アルファベット"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "350",
+		"name": "ロシア語(3)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/003_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"アルファベット"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "351",
+		"name": "ロシア語(4)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/004_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"アルファベット",
+			"文法"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "352",
+		"name": "ロシア語(5)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/005_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"文法"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "353",
+		"name": "ロシア語(6)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/006_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"文法"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "354",
+		"name": "ロシア語(7)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/007_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"バイリンガル向け"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "355",
+		"name": "ロシア語(8)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/008_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"バイリンガル向け"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "356",
+		"name": "ロシア語(9)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/009_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"バイリンガル向け"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "357",
+		"name": "ロシア語(10)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/010_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"バイリンガル向け"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "358",
+		"name": "ロシア語(11)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/011_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"文法"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "359",
+		"name": "ロシア語(12)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/012_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"文法"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "360",
+		"name": "ロシア語(13)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/013_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"文法"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "361",
+		"name": "ロシア語(14)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/014_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"文法"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "362",
+		"name": "ロシア語(15)",
+		"detail": "10問",
+		"domain": "言語",
+		"relativePathFromTop": "002_genre_language/001_category_Russian/001_category_Russian_Russian/015_quest/quest",
+		"tags": [
+			"ロシア語",
+			"基礎",
+			"文法",
+			"正書法の規則"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "363",
+		"name": "歴史(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/001_category_rekishi/001_quest/quest",
+		"tags": [
+			"世界史",
+			""
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "364",
+		"name": "歴史(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/001_category_rekishi/002_quest/quest",
+		"tags": [
+			"世界史",
+			"",
+			"日本史"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "365",
+		"name": "歴史(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/001_category_rekishi/003_quest/quest",
+		"tags": [
+			"日本史",
+			""
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "366",
+		"name": "歴史(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/001_category_rekishi/004_quest/quest",
+		"tags": [
+			"世界史",
+			""
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "367",
+		"name": "歴史(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/001_category_rekishi/005_quest/quest",
+		"tags": [
+			"世界史",
+			"",
+			"日本史"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "368",
+		"name": "歴史(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/001_category_rekishi/006_quest/quest",
+		"tags": [
+			"日本史",
+			"",
+			"世界史"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "369",
+		"name": "歴史(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/001_category_rekishi/007_quest/quest",
+		"tags": [
+			"世界史",
+			"",
+			"日本史"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "370",
+		"name": "歴史(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/001_category_rekishi/008_quest/quest",
+		"tags": [
+			"日本史",
+			"",
+			"世界史"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "371",
+		"name": "歴史(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/001_category_rekishi/009_quest/quest",
+		"tags": [
+			"世界史",
+			"",
+			"日本史"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "372",
+		"name": "歴史(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/001_category_rekishi/010_quest/quest",
+		"tags": [
+			"日本史",
+			""
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "373",
+		"name": "政治経済(1)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/002_category_seijikeizai/001_quest/quest",
+		"tags": [
+			"政治経済",
+			""
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "374",
+		"name": "政治経済(2)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/002_category_seijikeizai/002_quest/quest",
+		"tags": [
+			"政治経済",
+			""
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "375",
+		"name": "政治経済(3)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/002_category_seijikeizai/003_quest/quest",
+		"tags": [
+			"政治経済",
+			""
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "376",
+		"name": "政治経済(4)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/002_category_seijikeizai/004_quest/quest",
+		"tags": [
+			"政治経済",
+			"",
+			"国際"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "377",
+		"name": "政治経済(5)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/002_category_seijikeizai/005_quest/quest",
+		"tags": [
+			"国際",
+			"",
+			"倫理",
+			"社会",
+			"政治経済"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "378",
+		"name": "政治経済(6)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/002_category_seijikeizai/006_quest/quest",
+		"tags": [
+			"政治経済",
+			""
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "379",
+		"name": "政治経済(7)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/002_category_seijikeizai/007_quest/quest",
+		"tags": [
+			"政治経済",
+			"",
+			"国際"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "380",
+		"name": "政治経済(8)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/002_category_seijikeizai/008_quest/quest",
+		"tags": [
+			"倫理",
+			"社会",
+			"",
+			"政治経済",
+			"国際"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "381",
+		"name": "政治経済(9)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/002_category_seijikeizai/009_quest/quest",
+		"tags": [
+			"国際",
+			"",
+			"倫理",
+			"社会",
+			"政治経済"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "382",
+		"name": "政治経済(10)",
+		"detail": "10問",
+		"alloc_score_by_mission": 10,
+		"relativePathFromTop": "003_genre_shakai/002_category_seijikeizai/010_quest/quest",
+		"tags": [
+			"政治経済",
+			"",
+			"国際"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "383",
+		"name": "一般教養(1)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/001_quest/quest",
+		"tags": [
+			"ビジネスマナー",
+			"挨拶・姿勢態度（15）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "384",
+		"name": "一般教養(1)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/002_quest/quest",
+		"tags": [
+			"ビジネスマナー",
+			"挨拶・姿勢態度（15）",
+			"服装・身だしなみ（15）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "385",
+		"name": "一般教養(3)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/003_quest/quest",
+		"tags": [
+			"ビジネスマナー",
+			"服装・身だしなみ（15）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "386",
+		"name": "一般教養(4)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/004_quest/quest",
+		"tags": [
+			"ビジネスマナー",
+			"言葉遣い（10）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "387",
+		"name": "一般教養(5)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/005_quest/quest",
+		"tags": [
+			"ビジネスマナー",
+			"上座下座（10）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "388",
+		"name": "一般教養(6)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/006_quest/quest",
+		"tags": [
+			"コミュニケーション",
+			"よい印象を与える（15）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "389",
+		"name": "一般教養(7)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/007_quest/quest",
+		"tags": [
+			"コミュニケーション",
+			"よい印象を与える（15）",
+			"人の話を聞く14）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "390",
+		"name": "一般教養(8)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/008_quest/quest",
+		"tags": [
+			"コミュニケーション",
+			"人の話を聞く14）",
+			"人間関係構築（10）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "391",
+		"name": "一般教養(9)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/009_quest/quest",
+		"tags": [
+			"コミュニケーション",
+			"人間関係構築（10）",
+			"伝える（10）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "392",
+		"name": "一般教養(10)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/010_quest/quest",
+		"tags": [
+			"コミュニケーション",
+			"伝える（10）",
+			"組織理解",
+			"会社組織一般知識（15）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "393",
+		"name": "一般教養(11)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/011_quest/quest",
+		"tags": [
+			"組織理解",
+			"会社組織一般知識（15）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "394",
+		"name": "一般教養(12)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/012_quest/quest",
+		"tags": [
+			"組織理解",
+			"会社組織一般知識（15）",
+			"コンプライアンス（10）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "395",
+		"name": "一般教養(13)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/013_quest/quest",
+		"tags": [
+			"組織理解",
+			"コンプライアンス（10）",
+			"組織論の常識（15）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "396",
+		"name": "一般教養(14)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/014_quest/quest",
+		"tags": [
+			"組織理解",
+			"組織論の常識（15）",
+			"労務基礎（10）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "397",
+		"name": "一般教養(15)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/015_quest/quest",
+		"tags": [
+			"組織理解",
+			"労務基礎（10）",
+			"良い仕事をする為に",
+			"ノウハウとマインド（25）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "398",
+		"name": "一般教養(16)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/016_quest/quest",
+		"tags": [
+			"良い仕事をする為に",
+			"ノウハウとマインド（25）"
+		],
+		"total_alloc_score": 100
+	},
+	{
+		"id": "399",
+		"name": "一般教養(17)",
+		"detail": "10問",
+		"domain": "一般教養",
+		"relativePathFromTop": "004_genre_general_knowledge/001_category_general_knowledge/001_category_general_knowledge_general_knowledge/017_quest/quest",
+		"tags": [
+			"良い仕事をする為に",
+			"ノウハウとマインド（25）"
+		],
+		"total_alloc_score": 100
+	}
+]

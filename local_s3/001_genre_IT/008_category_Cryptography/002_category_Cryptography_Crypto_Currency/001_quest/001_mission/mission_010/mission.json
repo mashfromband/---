@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ネットワーク全体で取引を監視できる</pre>\n",
+			"option_html": "<pre>ネットワーク全体で取引を監視できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>中央機関が取引を保証する</pre>\n",
+			"option_html": "<pre>中央機関が取引を保証する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>取引速度が常に速い</pre>\n",
+			"option_html": "<pre>取引速度が常に速い</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>すべての取引が完全に匿名である</pre>\n",
+			"option_html": "<pre>すべての取引が完全に匿名である</pre>\n"
+		}
+	]
+}

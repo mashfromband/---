@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>[日付]カテゴリの「2025年1月1日」形式を選択</pre>\n",
+			"option_html": "<pre>[日付]カテゴリの「2025年1月1日」形式を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>[数値]カテゴリを選択し、小数点以下を減らす</pre>\n",
+			"option_html": "<pre>[数値]カテゴリを選択し、小数点以下を減らす</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>[文字列]カテゴリを選択する</pre>\n",
+			"option_html": "<pre>[文字列]カテゴリを選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルの罫線を太線にする</pre>\n",
+			"option_html": "<pre>セルの罫線を太線にする</pre>\n"
+		}
+	]
+}

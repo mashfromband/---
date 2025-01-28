@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グループ化</pre>\n",
+			"option_html": "<pre>グループ化</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>合体</pre>\n",
+			"option_html": "<pre>合体</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クリッピングマスク</pre>\n",
+			"option_html": "<pre>クリッピングマスク</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>配置</pre>\n",
+			"option_html": "<pre>配置</pre>\n"
+		}
+	]
+}

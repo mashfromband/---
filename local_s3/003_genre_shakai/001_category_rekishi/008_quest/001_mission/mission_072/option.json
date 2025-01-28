@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ペリクレス\n",
+			"option_html": "<p>ペリクレス</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アスパシア\n",
+			"option_html": "<p>アスパシア</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "アナクサゴラス\n",
+			"option_html": "<p>アナクサゴラス</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "カリアス3世\n",
+			"option_html": "<p>カリアス3世</p>\n"
+		}
+	]
+}

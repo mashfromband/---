@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"コミュニケーション",
+		"人間関係構築（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre> 政治の話題</pre>\n",
+			"option_html": "<pre> 政治の話題</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>宗教に関する話題</pre>\n",
+			"option_html": "<pre>宗教に関する話題</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>季節に関する話題</pre>\n",
+			"option_html": "<pre>季節に関する話題</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>好きなスポーツチームや球団に関する話題</pre>\n",
+			"option_html": "<pre>好きなスポーツチームや球団に関する話題</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>彩度スライダー</pre>\n",
+			"option_html": "<pre>彩度スライダー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シャドウスライダー</pre>\n",
+			"option_html": "<pre>シャドウスライダー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ガンマスライダー</pre>\n",
+			"option_html": "<pre>ガンマスライダー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハイライトスライダー</pre>\n",
+			"option_html": "<pre>ハイライトスライダー</pre>\n"
+		}
+	]
+}

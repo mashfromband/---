@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ストラテジ系",
+		"経営戦略マネジメント",
+		"経営戦略手法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "金のなる木\n",
+			"option_html": "<p>金のなる木</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "花形製品\n",
+			"option_html": "<p>花形製品</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "負け犬\n",
+			"option_html": "<p>負け犬</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "問題児\n",
+			"option_html": "<p>問題児</p>\n"
+		}
+	]
+}

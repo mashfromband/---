@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スマートオブジェクトを使用する</pre>\n",
+			"option_html": "<pre>スマートオブジェクトを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを統合する</pre>\n",
+			"option_html": "<pre>レイヤーを統合する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>色相・彩度を変更する</pre>\n",
+			"option_html": "<pre>色相・彩度を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レベル補正を使う</pre>\n",
+			"option_html": "<pre>レベル補正を使う</pre>\n"
+		}
+	]
+}

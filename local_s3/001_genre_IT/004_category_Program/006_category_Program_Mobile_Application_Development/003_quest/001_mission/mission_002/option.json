@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Xcode</pre>\n",
+			"option_html": "<pre>Xcode</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Android Studio</pre>\n",
+			"option_html": "<pre>Android Studio</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Flutter</pre>\n",
+			"option_html": "<pre>Flutter</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Visual Basic</pre>\n",
+			"option_html": "<pre>Visual Basic</pre>\n"
+		}
+	]
+}

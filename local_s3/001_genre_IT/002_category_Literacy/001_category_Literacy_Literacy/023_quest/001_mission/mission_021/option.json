@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "Web Fidelity\n",
+			"option_html": "<p>Web Fidelity</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "Wireless Function\n",
+			"option_html": "<p>Wireless Function</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "Wide Frequency\n",
+			"option_html": "<p>Wide Frequency</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "Wireless Fidelity\n",
+			"option_html": "<p>Wireless Fidelity</p>\n"
+		}
+	]
+}

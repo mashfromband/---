@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>覚えやすいので安全性が高くなる</pre>\n",
+			"option_html": "<pre>覚えやすいので安全性が高くなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>同じパスワードを複数のサービスで使うことが多い</pre>\n",
+			"option_html": "<pre>同じパスワードを複数のサービスで使うことが多い</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>攻撃者に推測されやすく、不正アクセスされる可能性が高い</pre>\n",
+			"option_html": "<pre>攻撃者に推測されやすく、不正アクセスされる可能性が高い</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスワードの入力ミスが増えるから</pre>\n",
+			"option_html": "<pre>パスワードの入力ミスが増えるから</pre>\n"
+		}
+	]
+}

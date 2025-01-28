@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クラウドサービスの利用料金が固定されているため</pre>\n",
+			"option_html": "<pre>クラウドサービスの利用料金が固定されているため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべてのクラウドプロバイダーが同一料金体系を採用しているため</pre>\n",
+			"option_html": "<pre>すべてのクラウドプロバイダーが同一料金体系を採用しているため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>リソースの使用量に応じた課金が発生し、予算管理を容易にするため</pre>\n",
+			"option_html": "<pre>リソースの使用量に応じた課金が発生し、予算管理を容易にするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウド利用後のコストがオンプレミスより高くなるため</pre>\n",
+			"option_html": "<pre>クラウド利用後のコストがオンプレミスより高くなるため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + N / Command + N</pre>\n",
+			"option_html": "<pre>Ctrl + N / Command + N</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + O / Command + O</pre>\n",
+			"option_html": "<pre>Ctrl + O / Command + O</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + S / Command + S</pre>\n",
+			"option_html": "<pre>Ctrl + S / Command + S</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + W / Command + W</pre>\n",
+			"option_html": "<pre>Ctrl + W / Command + W</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「表示」タブ→「ズーム」</pre>\n",
+			"option_html": "<pre>「表示」タブ→「ズーム」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「挿入」タブ→「グラフの挿入」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「グラフの挿入」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「データ」タブ→「並べ替え」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「並べ替え」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ページレイアウト」タブ→「改ページの挿入」</pre>\n",
+			"option_html": "<pre>「ページレイアウト」タブ→「改ページの挿入」</pre>\n"
+		}
+	]
+}

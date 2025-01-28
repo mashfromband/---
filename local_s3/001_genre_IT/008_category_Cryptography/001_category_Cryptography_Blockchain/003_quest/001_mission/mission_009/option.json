@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ハッシュ関数</pre>\n",
+			"option_html": "<pre>ハッシュ関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>分散型台帳</pre>\n",
+			"option_html": "<pre>分散型台帳</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コンセンサスアルゴリズム</pre>\n",
+			"option_html": "<pre>コンセンサスアルゴリズム</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートコントラクト</pre>\n",
+			"option_html": "<pre>スマートコントラクト</pre>\n"
+		}
+	]
+}

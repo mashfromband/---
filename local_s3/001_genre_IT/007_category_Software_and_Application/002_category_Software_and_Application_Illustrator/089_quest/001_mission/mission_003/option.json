@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アラインパネルで「間隔を分布」を選択する</pre>\n",
+			"option_html": "<pre>アラインパネルで「間隔を分布」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スマートガイドを有効にして配置</pre>\n",
+			"option_html": "<pre>スマートガイドを有効にして配置</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダーで「分布」を選択</pre>\n",
+			"option_html": "<pre>パスファインダーで「分布」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで「整列」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「整列」を選択</pre>\n"
+		}
+	]
+}

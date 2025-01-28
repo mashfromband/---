@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クリッピングが正しく設定されていない</pre>\n",
+			"option_html": "<pre>クリッピングが正しく設定されていない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>調整レイヤーの不透明度が高すぎる</pre>\n",
+			"option_html": "<pre>調整レイヤーの不透明度が高すぎる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>背景レイヤーが非表示になっている</pre>\n",
+			"option_html": "<pre>背景レイヤーが非表示になっている</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字パネルで縦書きの設定を変更する</pre>\n",
+			"option_html": "<pre>文字パネルで縦書きの設定を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字ツールで縦書きの設定を変更する</pre>\n",
+			"option_html": "<pre>文字ツールで縦書きの設定を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで縦書きを変更する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで縦書きを変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクトメニューで縦書きを設定する</pre>\n",
+			"option_html": "<pre>オブジェクトメニューで縦書きを設定する</pre>\n"
+		}
+	]
+}

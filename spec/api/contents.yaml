@@ -1,0 +1,3792 @@
+openapi: '3.0.3'
+
+info:
+  title: 'コンテンツ API'
+  version: '1.0'
+
+servers:
+  - url: http://localhost:7001/v1
+
+paths:
+  /hello:
+    get:
+      summary: Hello world
+      responses:
+        '200':
+          description: Hello world
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getHelloResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /genre:
+    get:
+      summary: 'ジャンル一覧取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: 'ジャンル一覧'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  genres:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/getAllGenreResponse'
+                  total:
+                    type: number
+                    description: '総ジャンル数'
+                    example: 100
+                required:
+                  - genres
+                  - total
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /genre/{genreId}:
+    get:
+      summary: 'ジャンルを指定して情報取得'
+      parameters:
+        - name: genreId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'ジャンルID'
+          example: 'genre0123456789'
+      responses:
+        '200':
+          description: 'ジャンル詳細'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getOneGenreResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないジャンル'
+
+  /category/{categoryId}:
+    get:
+      summary: 'カテゴリを指定して情報取得'
+      parameters:
+        - name: categoryId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'カテゴリID'
+          example: 'category0123456789'
+      responses:
+        '200':
+          description: 'カテゴリ詳細'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getOneCategoryResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないジャンル'
+
+  /quest/{questId}:
+    get:
+      summary: 'クエストを指定して情報取得'
+      parameters:
+        - name: questId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'クエストID'
+          example: 'quest0123456789'
+      responses:
+        '200':
+          description: 'クエスト詳細'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getOneQuestResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないクエスト'
+
+  /quest/{questId}/session:
+    post:
+      summary: 'クエストセッション新規作成'
+      parameters:
+        - name: questId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'クエストID'
+          example: 'quest0123456789'
+      responses:
+        '200':
+          description: 'クエストセッション生成成功'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/postQuestMissionResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないクエスト'
+
+  /quest/{questId}/session/{sessionToken}:
+    get:
+      summary: 'クエストセッション内容取得'
+      parameters:
+        - name: questId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'クエストID'
+          example: 'quest0123456789'
+        - name: sessionToken
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'クエストセッションID'
+          example: 'mxUtp-vKFLoRXucQf3b3gbNXOESNcTajSLuvzdpC7P8'
+        - name: isRetryMission
+          in: query
+          required: false
+          schema: { type: string }
+          description: 'ミッションに再挑戦するか否か'
+          example: '1'
+        - name: currentMissionIndex
+          in: query
+          required: false
+          schema: { type: number }
+          description: '現在のミッションの位置'
+          example: 2
+      responses:
+        '200':
+          description: 'クエストセッション内容'
+          content:
+           application/json:
+            schema:
+              $ref: '#/components/schemas/getQuestMissionResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないクエストセッション'
+
+    post:
+      summary: 'クエストミッション回答'
+      parameters:
+        - name: questId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'クエストID'
+          example: 'quest0123456789'
+        - name: sessionToken
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'クエストセッションID'
+          example: 'mxUtp-vKFLoRXucQf3b3gbNXOESNcTajSLuvzdpC7P8'
+      requestBody:
+        description: 'クエストミッション回答内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postQuestMissionSessionRequest"
+        required: true
+      responses:
+        '200':
+          description: 'クエストミッション回答結果'
+          content:
+           application/json:
+            schema:
+              $ref: '#/components/schemas/postQuestMissionSessionResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないクエストセッション'
+
+    delete:
+      summary: 'クエスト中止'
+      parameters:
+        - name: questId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'クエストID'
+          example: 'quest0123456789'
+        - name: sessionToken
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'クエストセッションID'
+          example: 'mxUtp-vKFLoRXucQf3b3gbNXOESNcTajSLuvzdpC7P8'
+      responses:
+        '204':
+          description: 'クエスト終了了解'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないクエストセッション'
+
+  /quest/{questId}/session/{sessionToken}/result:
+    get:
+      summary: 'クエスト結果取得'
+      parameters:
+        - name: questId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'クエストID'
+          example: 'quest0123456789'
+        - name: sessionToken
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'クエストセッションID'
+          example: 'mxUtp-vKFLoRXucQf3b3gbNXOESNcTajSLuvzdpC7P8'
+      responses:
+        '200':
+          description: 'クエスト結果'
+          content:
+           application/json:
+            schema:
+              $ref: '#/components/schemas/getResultQuestMissionResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないクエストセッション'
+
+  /user/me:
+    get:
+      summary: '自分自身の情報を取得する'
+      responses:
+        '200':
+          description: '自分自身のユーザー情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserInfoByMyself'
+        '401':
+          description: 'アクセストークン期限切れ'
+    put:
+      summary: '自分自身の情報を更新する'
+      requestBody:
+        description: '更新内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putUserInfoByMyself"
+        required: true
+      responses:
+        '200':
+          description: '更新成功'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/putResponseUserInfoByMyself'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /user/me/private-profile:
+    get:
+      summary: '自分自身の個人情報を取得する'
+      responses:
+        '200':
+          description: '自分自身の個人情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserPrivateProfileByMyself'
+        '401':
+          description: 'アクセストークン期限切れ'
+    put:
+      summary: '自分自身の個人情報を更新する'
+      requestBody:
+        description: '更新内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putUserPrivateProfileByMyself"
+        required: true
+      responses:
+        '200':
+          description: '更新成功'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserPrivateProfileByMyself'
+        '400':
+          description: 'パラメータに誤りがある'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /user/me/educational-history:
+    get:
+      summary: '自分自身の学歴を取得する'
+      responses:
+        '200':
+          description: '自分自身の学歴'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserEducationalHistoryByMyself'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '何故かデータが存在しない'
+    post:
+      summary: '自分自身の学歴を新規追加する'
+      requestBody:
+        description: '学歴新規追加'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postUserEducationalHistoryByMyself"
+        required: true
+      responses:
+        '204':
+          description: '新規追加成功'
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /user/me/educational-history/{id}:
+    put:
+      summary: '自分自身の学歴を更新する'
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: string }
+          description: '学歴ID'
+          example: '1234567890'
+      requestBody:
+        description: '学歴更新内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putUserEducationalHistoryByMyself"
+        required: true
+      responses:
+        '204':
+          description: '新規追加成功'
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分のものではない学歴に対する操作が試みられた'
+        '404':
+          description: 'IDが存在しない'
+    delete:
+      summary: '自分自身の学歴を削除する'
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: string }
+          description: '学歴ID'
+          example: '1234567890'
+      responses:
+        '204':
+          description: '削除成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分のものではない学歴に対する操作が試みられた'
+        '404':
+          description: 'IDが存在しない'
+
+  /user/me/job-history:
+    get:
+      summary: '自分自身の職歴を取得する'
+      responses:
+        '200':
+          description: '自分自身の職歴'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserJobHistoryByMyself'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '職歴データが存在しない'
+    post:
+      summary: '自分自身の職歴を新規追加する'
+      requestBody:
+        description: '職歴新規追加'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postUserJobHistoryByMyself"
+        required: true
+      responses:
+        '204':
+          description: '新規追加成功'
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /user/me/job-history/{id}:
+    put:
+      summary: '自分自身の職歴を更新する'
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: string }
+          description: '職歴ID'
+          example: '1234567890'
+      requestBody:
+        description: '職歴更新内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putUserJobHistoryByMyself"
+        required: true
+      responses:
+        '204':
+          description: '新規追加成功'
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分のものではない職歴に対する操作が試みられた'
+        '404':
+          description: 'IDが存在しない'
+    delete:
+      summary: '自分自身の職歴を削除する'
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: string }
+          description: '職歴ID'
+          example: '1234567890'
+      responses:
+        '204':
+          description: '削除成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分のものではない職歴に対する操作が試みられた'
+        '404':
+          description: 'IDが存在しない'
+
+  /user/me/have-license:
+    get:
+      summary: '自分自身の所有資格を取得する'
+      responses:
+        '200':
+          description: '自分自身の所有資格'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserHaveLicenseByMyself'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '何故かデータが存在しない'
+    post:
+      summary: '自分自身の所有資格を新規追加する'
+      requestBody:
+        description: '所有資格新規追加'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postUserHaveLicenseByMyself"
+        required: true
+      responses:
+        '204':
+          description: '新規追加成功'
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /user/me/have-license/{id}:
+    put:
+      summary: '自分自身の所有資格を更新する'
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: string }
+          description: '所有資格ID'
+          example: '1234567890'
+      requestBody:
+        description: '所有資格更新内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putUserHaveLicenseByMyself"
+        required: true
+      responses:
+        '204':
+          description: '更新成功'
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分のものではない職歴に対する操作が試みられた'
+        '404':
+          description: 'IDが存在しない'
+    delete:
+      summary: '自分自身の所有資格を削除する'
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema: { type: string }
+          description: '所有資格ID'
+          example: '1234567890'
+      responses:
+        '204':
+          description: '削除成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分のものではない職歴に対する操作が試みられた'
+        '404':
+          description: 'IDが存在しない'
+
+  /user/me/quest-history:
+    get:
+      summary: '自分自身のクエスト結果履歴を取得する'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+        - in: query
+          name: isClearOnly
+          description: '1が指定されるとクリアしたクエスト履歴のみ取得'
+          required: false
+          schema:
+            type: number
+          example: 1
+      responses:
+        '200':
+          description: '自分自身のクエスト結果履歴'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserQuestHistoryByMyself'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '何故かデータが存在しない'
+
+  /user/me/quest-history/{userQuestHistoryId}:
+    get:
+      summary: '自分自身の特定のクエスト結果履歴を取得する'
+      parameters:
+        - in: path
+          name: userQuestHistoryId
+          required: true
+          schema:
+            type: string
+          description: 'クエスト履歴ID'
+          example: '1234567890'
+      responses:
+        '200':
+          description: '自分自身の特定のクエスト結果履歴'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/oneQuestHistory'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: 'IDが存在しない'
+
+  /user/me/skill:
+    get:
+      summary: '自分自身のスキルを取得する'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: '自分自身のスキルリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserHaveSkillListResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '何故かデータが存在しない'
+
+  /user/me/results:
+    get:
+      summary: '自分自身の成績を取得する'
+      responses:
+        '200':
+          description: '自分自身の成績'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserResultsResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '何故かデータが存在しない'
+
+  /user/me/efo:
+    get:
+      summary: 'ユーザー保有EFO取得'
+      responses:
+        '200':
+          description: 'ユーザー保有EFO情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserHaveEfoResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /user/me/efo/{transactionId}:
+    get:
+      summary: 'トランザクションIDごとのEFO内容取得'
+      parameters:
+        - name: transactionId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'トランザクションID'
+          example: 'KFGQ0lBMrYL0jfJHP4YUzm3XSdBcDEj3QVQdoJxdFLc'
+      responses:
+        '200':
+          description: 'トランザクションIDごとのEFO情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/oneUserEfoHistory'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないトランザクションです'
+
+  /user/me/efo/history:
+    get:
+      summary: 'ユーザーEFO履歴取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+        - in: query
+          name: target
+          required: false
+          schema:
+            type: string
+            enum: ['all', 'addOnly', 'consumeOnly']
+          description: '履歴種別指定'
+          example: 'all'
+      responses:
+        '200':
+          description: 'ユーザーEFO履歴'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserEfoHistoryResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /user/me/efo/exchange/real:
+    post:
+      summary: 'EFO -> REAL 交換'
+      requestBody:
+        description: 'EFO -> REAL 交換内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postUserMeEfoExchangeRealRequest"
+        required: true
+      responses:
+        '200':
+          description: '交換成功'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/postUserMeEfoExchangeRealSuccessResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '409':
+          description: '交換失敗'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/postUserMeEfoExchangeRealFailResponse'
+
+  /user/me/real:
+    get:
+      summary: 'ユーザー保有リアル取得'
+      responses:
+        '200':
+          description: 'ユーザー保有リアル情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserHaveRealResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /user/me/real/{realId}:
+    get:
+      summary: 'IDごとのREAL内容取得'
+      parameters:
+        - name: realId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'REAL ID'
+          example: 'ZqKL-f0jPYbtEgv6fbeTOcUagxrVj7QYBwc9ENH8HhM'
+      responses:
+        '200':
+          description: 'IDごとのREAL情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/oneUserRealHistory'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないトランザクションです'
+
+  /user/me/real/history:
+    get:
+      summary: 'ユーザーREAL履歴取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+        - in: query
+          name: target
+          required: false
+          schema:
+            type: string
+            enum: ['all', 'addOnly', 'consumeOnly']
+          description: '履歴種別'
+          example: 'all'
+      responses:
+        '200':
+          description: 'ユーザーREAL履歴'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserRealHistoryResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /user/me/real/exchange/digico:
+    post:
+      summary: 'REAL -> デジコ交換'
+      parameters:
+        - in: query
+          name: testMode
+          required: false
+          schema:
+            type: string
+          description: 'デジコでエラーを強制的に発生させる(test環境のみ有効)'
+          example: 'test01'
+      requestBody:
+        description: 'REAL -> デジコ交換内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postUserMeRealExchangeDigicoRequest"
+        required: true
+      responses:
+        '200':
+          description: '交換成功'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/postUserMeRealExchangeDigicoSuccessResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '409':
+          description: '交換失敗'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/postUserMeRealExchangeDigicoFailResponse'
+
+  /user/me/honor:
+    get:
+      summary: '取得称号取得'
+      parameters:
+        - in: query
+          name: withSetHonor
+          required: false
+          schema:
+            type: string
+          description: 'セット中の称号の情報もレスポンスに含める'
+          example: '1'
+      responses:
+        '200':
+          description: '取得称号'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserHonorResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+    put:
+      summary: '称号セット'
+      requestBody:
+        description: '称号をセットする'
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/putUserHonorRequest'
+        required: true
+      responses:
+        '204':
+          description: '称号セット成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '保有していない称号が指定された'
+
+  /user/me/profile/permission:
+    get:
+      summary: 'プロフィールパーミッション取得'
+      responses:
+        '200':
+          description: 'プロフィールパーミッション'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserProfilePermissionResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+    put:
+      summary: 'プロフィールパーミッション変更'
+      requestBody:
+        description: '更新したいプロフィールパーミッション設定'
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/putUserProfilePermissionRequest'
+        required: true
+      responses:
+        '204':
+          description: 'プロフィールパーミッション更新完了'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /recruit-company/{recruitCompanyId}:
+    get:
+      summary: '求人企業詳細情報取得'
+      parameters:
+        - name: recruitCompanyId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人企業ID'
+          example: 'V6Py5iIfmrxlDKy_c4W05lOtvkjcpBgSuIysWJpJTWY'
+      responses:
+        '200':
+          description: '求人企業詳細情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getRecruitCompanyDetailResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない企業'
+
+  /wanted-ads:
+    get:
+      summary: '求人広告リスト取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: '求人広告リスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getWantedAdsSummaryListResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /wanted-ads/{wantedAdsId}:
+    get:
+      summary: '求人広告詳細情報取得'
+      parameters:
+        - name: wantedAdsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人広告ID'
+          example: 'MFn6K2ABCnOMFFv9LvNmHb2X-hjLw8jfgXq9lZ6sxO8'
+      responses:
+        '200':
+          description: '求人広告詳細情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getWantedAdsDetailResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない企業'
+
+  /official-news:
+    get:
+      summary: '公式ニュースリスト取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: '公式ニュースリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getOfficialNewsSummaryListResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /official-news/{officialNewsId}:
+    get:
+      summary: '公式ニュース詳細情報取得'
+      parameters:
+        - name: officialNewsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '公式ニュースID'
+          example: 'news_0123456789'
+      responses:
+        '200':
+          description: '公式ニュース詳細情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getOfficialNewsDetailResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない企業'
+
+  /user-icon:
+    get:
+      summary: 'ユーザーアイコンリスト取得'
+      responses:
+        '200':
+          description: 'ユーザーアイコンリストリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getUserIconListResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /tag:
+    get:
+      summary: 'タグリスト取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: 'タグリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getTagListResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /tag/{tagId}/quest:
+    get:
+      summary: 'タグがついているクエストのリスト取得'
+      parameters:
+        - name: tagId
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'タグID'
+          example: 'tag001'
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: 'タグがついているクエストリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getQuestListByTagResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないタグ'
+
+  /real-efo/rate:
+    get:
+      summary: 'REAL ~ EFO 交換レート取得'
+      responses:
+        '200':
+          description: 'REAL ~ EFO 交換レート'
+          content:
+            application/json:
+              schema:
+                  $ref: '#/components/schemas/getRealEfoExchangeRateResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /contact:
+    post:
+      summary: '問い合わせ'
+      requestBody:
+        description: '問い合わせ内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postContactRequest"
+        required: true
+      responses:
+        '204':
+          description: '問い合わせ受付完了'
+        '400':
+          description: '内容に不備がある'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/postContactFailResponse'
+
+  /user/me/message-room:
+    get:
+      summary: 'メッセージルーム情報取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+        - in: query
+          name: includeCloseRoom
+          required: false
+          schema:
+            type: number
+          description: '1で非表示のルームも含める。デフォルトは含めない'
+        - in: query
+          name: newPostOnly
+          required: false
+          schema:
+            type: number
+          description: '1での未読ポストがあるもののみ取得。デフォルトは無効'
+      responses:
+        '200':
+          description: 'メッセージルール情報のリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getMessageRoomList'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /user/me/message-room/{messageRoomId}:
+    get:
+      summary: 'メッセージルーム情報を取得する'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'sbUrXP0zI6x4_bwXYMVPOEuW7O7pO5VDGcLePoPp0tY'
+      responses:
+        '200':
+          description: 'メッセージルーム情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/oneMessageRoom'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分は参加していなメッセージルームが指定された'
+        '404':
+          description: '存在しないメッセージルーム'
+    delete:
+      summary: 'メッセージルームを非表示にする'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'sbUrXP0zI6x4_bwXYMVPOEuW7O7pO5VDGcLePoPp0tY'
+      responses:
+        '204':
+          description: '非表示化成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分は参加していなメッセージルームが指定された'
+        '404':
+          description: '存在しないメッセージルーム'
+
+  /user/me/message-room/{messageRoomId}/post:
+    get:
+      summary: 'メッセージルームポスト取得'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'ck69Il_FWmJnUvWCyL5Ck8eC7mTU8bCqRoAyt3cRXvc'
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: 'メッセージルームポストリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getMessageRoomPostList'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分は参加していなメッセージルームが指定された'
+        '404':
+          description: 'メッセージルームが存在しない'
+    post:
+      summary: 'メッセージルームにポストを送信する'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'ck69Il_FWmJnUvWCyL5Ck8eC7mTU8bCqRoAyt3cRXvc'
+      requestBody:
+        description: 'ポスト内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postMessageRoomPostRequest"
+        required: true
+      responses:
+        '204':
+          description: 'ポスト送信完了'
+        '400':
+          description: '内容に不備がある'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/postMessageRoomPostFailResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分が所属していないメッセージルームが指定された'
+        '404':
+          description: '存在しない求人広告'
+
+  /user/me/apply-job/{wantedAdsId}:
+    post:
+      summary: '求人広告に応募する'
+      parameters:
+        - in: path
+          name: wantedAdsId
+          required: true
+          schema:
+            type: string
+          description: '求人広告ID'
+          example: 'WnvQUbky-r5Qz4aAmUy0a0s4hWkdk8rcVsGqMEcxSk4'
+      responses:
+        '204':
+          description: '応募成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない求人広告'
+
+components:
+  schemas:
+
+    postMessageRoomPostRequest:
+      type: object
+      properties:
+        postBody:
+          type: string
+          description: 'ポスト内容'
+      example:
+        postBody: 'ポストポストポスト'
+      required:
+        - postBody
+
+    postMessageRoomPostFailResponse:
+      type: object
+      properties:
+        reason:
+          type: string
+      required:
+        - reason
+
+    oneMessageRoomPost:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'ID'
+        postUserId:
+          type: string
+          description: 'ポストしたユーザーID'
+        postUserName:
+          type: string
+          description: 'ポストしたユーザーネーム'
+        postUnixTime:
+          type: string
+          description: 'ポストした日時(unix time)'
+        postBody:
+          type: string
+          description: 'ポスト内容'
+      example:
+        id: '1234567890'
+        postUserId: 'SGGkkVVQghYpnzn10D8DH6QI1XgJifPYiV9HZ4kGTMo'
+        postUserName: 'ポストしたユーザーネーム'
+        postUnixTime: '1735657200'
+        postBody: 'ポスト内容'
+      required:
+        - id
+        - postUserId
+        - postUserName
+        - postUnixTime
+        - postBody
+
+    getMessageRoomPostList:
+      type: object
+      properties:
+        posts:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneMessageRoomPost'
+          description: 'メッセージルームポストリスト'
+        total:
+          type: number
+          description: '総ポスト数'
+          example: 100
+      required:
+        - posts
+        - total
+
+    oneMessageRoom:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'ID'
+        isOwner:
+          type: boolean
+          description: '自分がオーナーのメッセージルームか否か'
+        ownerUserId:
+          type: string
+          description: 'オーナーユーザーID'
+        ownerUserType:
+          type: string
+          enum: ['user', 'recruitCompanyUser']
+          description: 'オーナーユーザー種別'
+        ownerUserName:
+          type: string
+          description: 'オーナーユーザーネーム'
+        ownerRecruitCompanyId:
+          type: string
+          description: 'オーナーユーザーが求人企業の場合、求人企業ID'
+        ownerRecruitCompanyName:
+          type: string
+          description: 'オーナーユーザーが求人企業の場合、求人企業名'
+        invitedUserId:
+          type: string
+          description: '招待ユーザーID'
+        invitedUserType:
+          type: string
+          enum: ['user', 'recruitCompanyUser']
+          description: '招待ユーザー種別'
+        invitedUserName:
+          type: string
+          description: '招待ユーザーネーム'
+        invitedRecruitCompanyId:
+          type: string
+          description: '招待ユーザーが求人企業の場合、求人企業ID'
+        invitedRecruitCompanyName:
+          type: string
+          description: '招待ユーザーが求人企業の場合、求人企業名'
+        isClose:
+          type: boolean
+          description: '非表示扱いか否か'
+        isNewPost:
+          type: boolean
+          description: '未読のポストがあるか否か'
+        latestPostUnixTime:
+          type: string
+          description: '最後のポスト投稿日時(unix time)'
+        latestPost:
+          type: object
+          $ref: "#/components/schemas/oneMessageRoomPost"
+          description: '最新のポスト'
+      example:
+        id: 'BVS2lSDjg2Vemf8AjYTTwZ0KaZgt-j5nm3s3-GikgNU'
+        isOwner: true
+        ownerUserId: 'RtG1wMd4XP8ewg9lPHPhythpjqX43uAfhU28XAwgc_Y'
+        ownerUserType: 'user'
+        ownerUserName: 'オーナーユーザーネーム'
+        invitedUserId: '9dSa8mcLq3Bvwh3itra4rnT-CjyWzclErnhZxDWM8K4'
+        invitedUserType: 'recruitCompanyUser'
+        invitedUserName: '招待ユーザーネーム'
+        invitedRecruitCompanyId: 'Niccuq6IpUpNlWtZ-IaTEdcybJL1TJ_IlvxraXRtCEk'
+        invitedRecruitCompanyName: '株式会社◯◯'
+        isClose: false
+        isNewPost: true
+        latestPostUnixTime: '1735657200'
+        latestPost:
+          id: '1234567890'
+          postUserId: 'SGGkkVVQghYpnzn10D8DH6QI1XgJifPYiV9HZ4kGTMo'
+          postUserName: 'ポストしたユーザーネーム'
+          postUnixTime: '1735657200'
+          postBody: 'ポスト内容'
+      required:
+        - id
+        - isOwner
+        - ownerUserId
+        - ownerUserType
+        - ownerUserName
+        - invitedUserId
+        - invitedUserType
+        - invitedUserName
+        - isClose
+        - isNewPost
+        - latestPostUnixTime
+
+    getMessageRoomList:
+      type: object
+      properties:
+        messageRooms:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneMessageRoom'
+          description: 'メッセージルームリスト'
+        total:
+          type: number
+          description: '総メッセージルームリスト数'
+          example: 100
+      required:
+        - messageRooms
+        - total
+
+    getHelloResponse:
+      type: object
+      properties:
+        message:
+          type: string
+          description: 'Hello, world!'
+      example:
+        message: 'Hello, world!'
+      required:
+        - message
+
+    oneTag:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'タグID'
+        name:
+          type: string
+          description: 'タグ名称'
+      example:
+        id: 'tag0123456789'
+        name: 'タグ名'
+      required:
+        - id
+        - name
+
+    getAllGenreResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'ジャンルID'
+        name:
+          type: string
+          description: 'ジャンル名称'
+        detail:
+          type: string
+          description: 'ジャンル詳細'
+        tags:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneTag'
+          description: 'タグ一覧'
+      example:
+        id: 'genre0123456789'
+        name: 'ジャンル名'
+        detail: 'ジャンルの説明'
+        tags: 
+          - id: 'tag0123456789'
+            name: 'タグ名'
+      required:
+        - id
+        - name
+        - detail
+        - tags
+
+    getOneGenreResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'ジャンルID'
+        name:
+          type: string
+          description: 'ジャンル名称'
+        detail:
+          type: string
+          description: 'ジャンル詳細'
+        categories:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneCategory'
+          description: 'カテゴリリスト'
+        tags:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneTag'
+          description: 'ジャンルリスト'
+      example:
+        id: 'genre0123456789'
+        name: 'ジャンル名'
+        detail: 'ジャンル詳細'
+        categories:
+          - id: 'category0123456789'
+            name: 'カテゴリ名'
+            detail: 'カテゴリ詳細'
+            tags:
+              - id: 'tag0123456789'
+                name: 'タグ名'
+        tags: 
+          - id: 'tag0123456789'
+            name: 'タグ名'
+      required:
+        - id
+        - name
+        - detail
+        - categories
+        - tags
+
+    oneCategory:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'カテゴリID'
+        name:
+          type: string
+          description: 'カテゴリ名称'
+        detail:
+          type: string
+          description: 'カテゴリ詳細'
+        tags:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneTag'
+          description: 'タグリスト'
+      example:
+        id: 'category0123456789'
+        name: 'カテゴリ名'
+        detail: 'カテゴリ詳細'
+        tags:
+          - id: 'tag0123456789'
+            name: 'タグ名'
+      required:
+        - id
+        - name
+        - detail
+        - tags
+
+    getOneCategoryResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'カテゴリID'
+        name:
+          type: string
+          description: 'カテゴリ名称'
+        detail:
+          type: string
+          description: 'カテゴリ詳細'
+        quests:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneQuest'
+          description: 'クエストリスト'
+        childCategories:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneCategory'
+          description: '子カテゴリリスト'
+        parentCategory:
+          type: object
+          $ref: '#/components/schemas/oneCategory'
+          description: '親カテゴリ'
+        genreId:
+          type: string
+          description: 'ジャンルID'
+        genreName:
+          type: string
+          description: 'ジャンル名称'
+        tags:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneTag'
+          description: 'タグリスト'
+      example:
+        id: 'category0123456789'
+        name: 'カテゴリ名'
+        detail: 'カテゴリ詳細'
+        quests:
+          - id: 'quest0123456789'
+            name: 'クエスト名'
+            detail: 'クエスト名称'
+            tags:
+              - id: 'tag0123456789'
+                name: 'タグ名'
+        childCategories:
+          - id: 'categoryABCDEFGHIJ'
+            name: '子カテゴリ名'
+            detail: '子カテゴリ詳細'
+            tags:
+              - id: 'tag0123456789'
+                name: 'タグ名'
+        parentCategory:
+          id: 'categoryKLMNOPQRST'
+          name: '親カテゴリ名'
+          detail: '親カテゴリ詳細'
+          tags:
+            - id: 'tag0123456789'
+              name: 'タグ名'
+        genreId: 'genre0123456789'
+        genreName: 'ジャンル名'
+        tags:
+          - id: 'tag0123456789'
+            name: 'タグ名'
+      required:
+        - id
+        - name
+        - detail
+        - quests
+        - genreId
+        - genreName
+        - tags
+
+    oneQuest:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'クエストID'
+        name:
+          type: string
+          description: 'クエスト名称'
+        detail:
+          type: string
+          description: 'クエスト詳細'
+        tags:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneTag'
+          description: 'タグリスト'
+        isClear:
+          type: boolean
+          description: 'クリア済みのクエストか否か'
+      example:
+        id: 'quest0123456789'
+        name: 'クエスト名'
+        detail: 'クエスト詳細'
+        tags:
+          - id: 'tag0123456789'
+            name: 'タグ名'
+        isClear: false
+      required:
+        - id
+        - name
+        - detail
+        - tags
+
+    oneQuestWithoutTags:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'クエストID'
+        name:
+          type: string
+          description: 'クエスト名称'
+        detail:
+          type: string
+          description: 'クエスト詳細'
+      example:
+          id: 'quest0123456789'
+          name: 'クエスト名'
+          detail: 'クエスト詳細'
+      required:
+        - id
+        - name
+        - detail
+
+    getOneQuestResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'クエストID'
+        name:
+          type: string
+          description: 'クエスト名称'
+        detail:
+          type: string
+          description: 'クエスト詳細'
+        missionNum:
+          type: number
+          description: 'ミッション数'
+        isClear:
+          type: boolean
+          description: 'クリア済みのクエストか否か'
+        tags:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneTag'
+          description: 'タグリスト'
+      example:
+        id: 'quest0123456789'
+        name: 'クエスト名'
+        detail: 'クエスト詳細'
+        missionNum: 10,
+        isClear: false
+        tags:
+          - id: 'tag0123456789'
+            name: 'タグ名'
+      required:
+        - id
+        - name
+        - detail
+        - missionNum
+        - isClear
+        - tags
+
+    postQuestMissionResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'クエストセッションID'
+        questId:
+          type: string
+          description: 'クエストID'
+        questName:
+          type: string
+          description: 'クエスト名'
+        expireAt:
+          type: number
+          description: 'セッション有効期限(unix time)'
+      example:
+        id: 'mxUtp-vKFLoRXucQf3b3gbNXOESNcTajSLuvzdpC7P8'
+        questId: 'quest0123456789'
+        questName: 'クエスト名'
+        expireAt: 1735743600
+      required:
+        - id
+        - questId
+        - questName
+        - expireAt
+
+    getQuestMissionResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'ミッションID'
+        questId:
+          type: string
+          description: 'クエストID'
+        questName:
+          type: string
+          description: 'クエスト名称'
+        expireAt:
+          type: number
+          description: 'セッション有効期限(unix time)'
+        questionPath:
+          type: string
+          description: '問題文パス'
+        answerType:
+          type: string
+          description: '回答タイプ'
+        optionPath:
+          type: string
+          description: '選択肢パス'
+        totalMissions:
+          type: number
+          description: '総ミッション数'
+        currentMissionIndex:
+          type: number
+          description: '現在のミッションの位置'
+      example:
+        id: 'misson0123456789'
+        questId: 'questId'
+        questName: 'クエスト名'
+        answerType: 'one_choice'
+        optionPath: '/quest0123456789/1/option.json'
+        totalMissions: 10
+        currentMissionIndex: 1
+      required:
+        - id
+        - questId
+        - questName
+        - expireAt
+        - questionPath
+        - answerType
+        - optionPath
+        - totalMissions
+        - currentMissionIndex
+
+    postQuestMissionSessionRequest:
+      type: object
+      properties:
+        answer:
+          type: string
+          description: '回答'
+      example:
+        answer: '1'
+      required:
+        - answer
+
+    postQuestMissionSessionResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'クエストセッションID'
+        expireAt:
+          type: number
+          description: '有効期限(unix time)'
+        answerType:
+          type: string
+          description: '回答タイプ'
+        isCorrect:
+          type: boolean
+          description: '正解か否か'
+        correctAnswer:
+          type: string
+          description: '正解'
+        commentaryPath:
+          type: string
+          description: '解説文パス'
+        totalMissions:
+          type: number
+          description: '総ミッション数'
+        currentMissionIndex:
+          type: number
+          description: '現在のミッションの位置'
+        isFinished:
+          type: boolean
+          description: 'クエストミッションが終了したか否か'
+        disableBackWrongAnswer:
+          type: boolean
+          description: '不正解時、再度回答を許すか否か'
+      example:
+        id: 'mxUtp-vKFLoRXucQf3b3gbNXOESNcTajSLuvzdpC7P8'
+        expireAt: 1735743600
+        answerType: 'one_choice'
+        isCorrect: true,
+        correctAnswer: '1'
+        commentaryPath: '/quest0123456789/1/commentary.json'
+        totalMissions: 10
+        currentMissionIndex: 1
+        isFinish: false
+        disableBackWrongAnswer: false
+      required:
+        - id
+        - expireAt
+        - answerType
+        - isCorrect
+        - correctAnswer
+        - commentaryPath
+        - totalMissions
+        - currentMissionIndex
+        - isFinished
+        - disableBackWrongAnswer
+
+    getResultQuestMissionResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'クエストセッションID'
+        isPerfect:
+          type: boolean
+          description: 'クエストクリアか否か'
+        totalMissionNum:
+          type: number
+          description: '総ミッション数'
+        userCorrectNum:
+          type: number
+          description: '正解ミッション数'
+        totalScore:
+          type: number
+          description: '合計スコア'
+        userScore:
+          type: number
+          description: 'ユーザースコア'
+        scaleForExp:
+          description: '将来廃止'
+          type: number
+        userAddExp:
+          description: '将来廃止'
+          type: number
+        addPoint:
+          type: number
+          description: '追加ポイント'
+        totalPoint:
+          type: number
+          description: 'ミッション総ポイント数'
+        pointBounsPer:
+          type: number
+          description: 'ポイントボーナス率'
+        userLevel:
+          type: number
+          description: 'ユーザーレベル'
+        messages:
+          type: array
+          items:
+            type: string
+          description: '表示するメッセージリスト'
+      example:
+        id: 'mxUtp-vKFLoRXucQf3b3gbNXOESNcTajSLuvzdpC7P8'
+        isPerfect: true
+        totalMissionNum: 10
+        userCorrectNum: 10
+        totalScore: 100
+        userScore: 100
+        scaleForExp: 1
+        userAddExp: 0
+        addPoint: 30
+        totalPoint: 30
+        pointBounsPer: 1
+        userLevel: 1
+        messages:
+          - メッセージ1
+          - メッセージ2
+      required:
+        - id
+        - isPerfect
+        - totalMissionNum
+        - userCorrectNum
+        - totalScore
+        - userScore
+        - scaleForExp
+        - userAddExp
+        - addPoint
+        - totalPoint
+        - pointBounsPer
+        - userLevel
+        - messages
+
+    getUserInfoByMyself:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'ユーザーID'
+        nickname:
+          type: string
+          description: 'ユーザーネーム'
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+        selfIntroduction:
+          type: string
+          description: '自己紹介文'
+        purpose:
+          type: string
+          description: '学習目的'
+        targetSkill:
+          type: string
+          description: '取得したいスキル'
+        targetKnowledge:
+          type: string
+          description: '取得したい知識'
+        userIconId:
+          type: number
+          description: 'ユーザーアイコンID'
+        userIconPath:
+          type: string
+          description: 'ユーザーアイコン画像へのパス'
+        userLevel:
+          type: number
+          description: 'ユーザーレベル'
+      example:
+        id: 'user0123456789'
+        nickname: 'ユーザーネーム'
+        mailAddress: 'user@example.com'
+        selfIntroduction: '自己紹介'
+        purpose: '学習目的'
+        targetSkill: '取得したいスキル'
+        targetKnowledge: '取得したい知識'
+        userIconId: 1
+        userIconPath: '/img/icon01.png'
+        userLevel: 1
+      required:
+        - id
+        - nickname
+        - mailAddress
+        - selfIntroduction
+        - purpose
+        - targetSkill
+        - targetKnowledge
+        - userIconId
+        - userIconPath
+        - userLevel
+
+    putUserInfoByMyself:
+      type: object
+      properties:
+        nickname:
+          type: string
+          description: 'ユーザーネーム'
+        selfIntroduction:
+          type: string
+          description: '自己紹介文'
+        purpose:
+          type: string
+          description: '学習目的'
+        targetSkill:
+          type: string
+          description: '取得したいスキル'
+        targetKnowledge:
+          type: string
+          description: '取得したい知識'
+        userIconId:
+          type: number
+          description: 'ユーザーアイコンID'
+      example:
+        nickname: 'ユーザーネーム'
+        selfIntroduction: '自己紹介文'
+        purpose: '学習目的'
+        targetSkill: '取得したいスキル'
+        targetKnowledge: '取得したい知識'
+        userIconId: 2
+      required:
+        - nickname
+        - selfIntroduction
+        - purpose
+        - targetSkill
+        - targetKnowledge
+        - userIconId
+
+    putResponseUserInfoByMyself:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'ユーザーID'
+        nickname:
+          type: string
+          description: 'ユーザーネーム'
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+        selfIntroduction:
+          type: string
+          description: '自己紹介文'
+        purpose:
+          type: string
+          description: '学習目的'
+        targetSkill:
+          type: string
+          description: '取得したいスキル'
+        targetKnowledge:
+          type: string
+          description: '取得したい知識'
+        userIconId:
+          type: number
+          description: 'ユーザーアイコンID'
+        userIconPath:
+          type: string
+          description: 'ユーザーアイコン画像へのパス'
+      example:
+        id: 'user0123456789'
+        nickname: 'ユーザーネーム'
+        mailAddress: 'user@example.com'
+        selfIntroduction: '自己紹介'
+        purpose: '学習目的'
+        targetSkill: '取得したいスキル'
+        targetKnowledge: '取得したい知識'
+        userIconId: 2
+        userIconPath: '/img/icon02.png'
+      required:
+        - id
+        - nickname
+        - mailAddress
+        - selfIntroduction
+        - purpose
+        - targetSkill
+        - targetKnowledge
+        - userIconId
+        - userIconPath
+
+    getUserPrivateProfileByMyself:
+      type: object
+      properties:
+        name:
+          type: string
+          description: '氏名'
+        nameCalling:
+          type: string
+          description: '氏名(ふりがな)'
+        postalCode:
+          type: string
+          description: '郵便番号'
+        prefectureCode:
+          type: number
+          description: '都道府県コード'
+        address:
+          type: string
+          description: '住所'
+        addressCalling:
+          type: string
+          description: '住所(ふりがな)'
+        phoneNumber:
+          type: string
+          description: '電話番号'
+        sex:
+          type: string
+          description: '性別'
+        rewardsAndPunishments:
+          type: string
+          description: '賞罰'
+        picturePath:
+          type: string
+          description: '写真画像へのパス'
+        contactPostalCode:
+          type: string
+          description: '連絡先郵便番号'
+        contactPrefectureCode:
+          type: number
+          description: '連絡先都道府県コード'
+        contactAddress:
+          type: string
+          description: '連絡先住所'
+        contactAddressCalling:
+          type: string
+          description: '連絡先住所(ふりがな)'
+        contactPhoneNumber:
+          type: string
+          description: '連絡先電話番号'
+        birthDay:
+          type: string
+          description: '誕生日(YYYY-MM-DD)'
+        appealPoint:
+          type: string
+          description: 'アピールポイント'
+        wishes:
+          type: string
+          description: '本人希望'
+      example:
+        name: '氏名'
+        nameCalling: 'しめい'
+        postalCode: '123-4567'
+        prefectureCode: 13
+        address: '住所'
+        addressCalling: 'じゅうしょ'
+        phoneNumber: '0123-456-7890'
+        sex: '性別'
+        rewardsAndPunishments: '賞罰'
+        picturePath: '/user0123456789/picture.jpg'
+        contactPostalCode: '987-6543'
+        contactPrefectureCode: 1
+        contactAddress: '連絡先住所'
+        contactAddressCalling: 'れんらくさきじゅうしょ'
+        contactPhoneNumber: '0987-654-3210'
+        birthDay: '2024-01-01'
+        appealPoint: 'アピールポイント'
+        wishes: '本人希望'
+      required:
+        - name
+        - nameCalling
+        - postalCode
+        - prefectureCode
+        - address
+        - addressCalling
+        - phoneNumber
+        - sex
+        - rewardsAndPunishments
+        - picturePath
+        - contactPostalCode
+        - contactPrefectureCode
+        - contactAddress
+        - contactAddressCalling
+        - contactPhoneNumber
+        - birthDay
+        - appealPoint
+        - wishes
+
+    putUserPrivateProfileByMyself:
+      type: object
+      properties:
+        name:
+          type: string
+          description: '氏名'
+        nameCalling:
+          type: string
+          description: '氏名(ふりがな)'
+        postalCode:
+          type: string
+          description: '郵便番号'
+        prefectureCode:
+          type: number
+          description: '都道府県コード'
+        address:
+          type: string
+          description: '住所'
+        addressCalling:
+          type: string
+          description: '住所(ふりがな)'
+        phoneNumber:
+          type: string
+          description: '電話番号'
+        sex:
+          type: string
+          description: '性別'
+        rewardsAndPunishments:
+          type: string
+          description: '賞罰'
+        picturePath:
+          type: string
+          description: '写真画像へのパス'
+        contactPostalCode:
+          type: string
+          description: '連絡先郵便番号'
+        contactPrefectureCode:
+          type: number
+          description: '連絡先都道府県コード'
+        contactAddress:
+          type: string
+          description: '連絡先住所'
+        contactAddressCalling:
+          type: string
+          description: '連絡先住所(ふりがな)'
+        contactPhoneNumber:
+          type: string
+          description: '連絡先電話番号'
+        birthDay:
+          type: string
+          description: '誕生日(YYYY-MM-DD)'
+        appealPoint:
+          type: string
+          description: 'アピールポイント'
+        wishes:
+          type: string
+          description: '本人希望'
+      example:
+        name: '氏名'
+        nameCalling: 'しめい'
+        postalCode: '123-4567'
+        prefectureCode: 13
+        address: '住所'
+        addressCalling: 'じゅうしょ'
+        phoneNumber: '0123-456-7890'
+        sex: '性別'
+        rewardsAndPunishments: '賞罰'
+        picturePath: '/user0123456789/picture.jpg'
+        contactPostalCode: '987-6543'
+        contactPrefectureCode: 1
+        contactAddress: '連絡先住所'
+        contactAddressCalling: 'れんらくさきじゅうしょ'
+        contactPhoneNumber: '0987-654-3210'
+        birthDay: '2024-01-01'
+        appealPoint: 'アピールポイント'
+        wishes: '本人希望'
+      required:
+        - name
+        - nameCalling
+        - postalCode
+        - prefectureCode
+        - address
+        - addressCalling
+        - phoneNumber
+        - sex
+        - rewardsAndPunishments
+        - picturePath
+        - contactPostalCode
+        - contactPrefectureCode
+        - contactAddress
+        - contactAddressCalling
+        - contactPhoneNumber
+        - birthDay
+        - appealPoint
+        - wishes
+
+    getUserEducationalHistoryByMyself:
+      type: object
+      properties:
+        educationalHistory:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneEducationalHistory'
+          description: '学歴リスト'
+      required:
+        - educationalHistory
+
+    oneEducationalHistory:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '学歴ID'
+        targetYear:
+          type: string
+          description: '年(YYYY)'
+        targetMonth:
+          type: string
+          description: '月(MM)'
+        educationalHistory:
+          type: string
+          description: '学歴内容'
+      example:
+        id: '1234567890'
+        targetYear: '2025'
+        targetMonth: '01'
+        educationalHistory: '学歴内容'
+      required:
+        - id
+        - targetYear
+        - targetMonth
+        - educationalHistory
+
+    postUserEducationalHistoryByMyself:
+      type: object
+      properties:
+        targetYear:
+          type: string
+          description: '年(YYYY)'
+        targetMonth:
+          type: string
+          description: '月(MM)'
+        educationalHistory:
+          type: string
+          description: '学歴内容'
+      example:
+        targetYear: '2025'
+        targetMonth: '01'
+        educationalHistory: '学歴内容'
+      required:
+        - targetYear
+        - targetMonth
+        - educationalHistory
+
+    putUserEducationalHistoryByMyself:
+      type: object
+      properties:
+        targetYear:
+          type: string
+          description: '年(YYYY)'
+        targetMonth:
+          type: string
+          description: '月(MM)'
+        educationalHistory:
+          type: string
+          description: '学歴内容'
+      example:
+        targetYear: '2025'
+        targetMonth: '01'
+        educationalHistory: '学歴内容'
+      required:
+        - targetYear
+        - targetMonth
+        - educationalHistory
+
+    getUserJobHistoryByMyself:
+      type: object
+      properties:
+        jobHistory:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneJobHistory'
+      required:
+        - jobHistory
+
+    oneJobHistory:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '職歴ID'
+        targetYear:
+          type: string
+          description: '年(YYYY)'
+        targetMonth:
+          type: string
+          description: '月(MM)'
+        jobHistory:
+          type: string
+          description: '職歴内容'
+      example:
+        id: '1234567890'
+        targetYear: '2025'
+        targetMonth: '01'
+        jobHistory: '職歴内容'
+      required:
+        - id
+        - targetYear
+        - targetMonth
+        - jobHistory
+
+    postUserJobHistoryByMyself:
+      type: object
+      properties:
+        targetYear:
+          type: string
+          description: '年(YYYY)'
+        targetMonth:
+          type: string
+          description: '月(MM)'
+        jobHistory:
+          type: string
+          description: '職歴内容'
+      example:
+        targetYear: '2025'
+        targetMonth: '01'
+        jobHistory: '職歴内容'
+      required:
+        - targetYear
+        - targetMonth
+        - jobHistory
+
+    putUserJobHistoryByMyself:
+      type: object
+      properties:
+        targetYear:
+          type: string
+          description: '年(YYYY)'
+        targetMonth:
+          type: string
+          description: '月(MM)'
+        jobHistory:
+          type: string
+          description: '職歴内容'
+      example:
+        targetYear: '2025'
+        targetMonth: '01'
+        jobHistory: '職歴内容'
+      required:
+        - targetYear
+        - targetMonth
+        - jobHistory
+
+    getUserHaveLicenseByMyself:
+      type: object
+      properties:
+        haveLicense:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneLicense'
+      required:
+        - haveLicense
+
+    oneLicense:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '所有資格ID'
+        targetYear:
+          type: string
+          description: '年(YYYY)'
+        targetMonth:
+          type: string
+          description: '月(MM)'
+        license:
+          type: string
+          description: '所有資格内容'
+      example:
+        id: '1234567890'
+        targetYear: '2025'
+        targetMonth: '01'
+        license: '所有資格内容'
+      required:
+        - id
+        - targetYear
+        - targetMonth
+        - license
+
+    postUserHaveLicenseByMyself:
+      type: object
+      properties:
+        targetYear:
+          type: string
+          description: '年(YYYY)'
+        targetMonth:
+          type: string
+          description: '月(MM)'
+        license:
+          type: string
+          description: '所有資格内容'
+      example:
+        targetYear: '2025'
+        targetMonth: '01'
+        license: '所有資格内容'
+      required:
+        - targetYear
+        - targetMonth
+        - license
+
+    putUserHaveLicenseByMyself:
+      type: object
+      properties:
+        targetYear:
+          type: string
+          description: '年(YYYY)'
+        targetMonth:
+          type: string
+          description: '月(MM)'
+        license:
+          type: string
+          description: '所有資格内容'
+      example:
+        targetYear: '2025'
+        targetMonth: '01'
+        license: '所有資格内容'
+      required:
+        - targetYear
+        - targetMonth
+        - license
+
+    getUserQuestHistoryByMyself:
+      type: object
+      properties:
+        questHistories:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneQuestHistory'
+          description: 'クエスト履歴リスト'
+        total:
+          type: number
+          description: '総クエスト履歴数'
+          example: 100
+      required:
+        - questHistories
+        - total
+
+    oneQuestHistory:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'クエスト履歴ID'
+        questId:
+          type: string
+          description: 'クエストID'
+        questName:
+          type: string
+          description: 'クエスト名称'
+        score:
+          type: number
+          description: 'スコア結果'
+        isClear:
+          type: boolean
+          description: 'クリアしたか否か'
+        playYear:
+          type: string
+          description: 'プレイ年(YYYY)'
+        playMonth:
+          type: string
+          description: 'プレイ月(MM)'
+        playDay:
+          type: string
+          description: 'プレイ日(DD)'
+        playHour:
+          type: string
+          description: 'プレイ時(HH)'
+        playMinute:
+          type: string
+          description: 'プレイ分(mm)'
+      example:
+        id: '1234567890'
+        questId: 'quest0123456789'
+        questName: 'クエスト名'
+        score: 100
+        isClear: true
+        playYear: '2025'
+        playMonth: '01'
+        playDay: '01'
+        playHour: '00'
+        playMinute: '00'
+      required:
+        - id
+        - questId
+        - questName
+        - score
+        - isClear
+        - playYear
+        - playMonth
+        - playDay
+        - playHour
+        - playMinute
+
+    getRecruitCompanyDetailResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '求人企業ID'
+        displayName:
+          type: string
+          description: '企業名(表示用)'
+        establishmentYear:
+          type: string
+          description: '設立年月日(YYYY)'
+        establishmentMonth:
+          type: string
+          description: '設立年月日(MM)'
+        establishmentDay:
+          type: string
+          description: '設立年月日(DD)'
+        postalCode:
+          type: string
+          description: '郵便番号'
+        prefectureCode:
+          type: number
+          description: '都道府県コード'
+        address:
+          type: string
+          description: '住所'
+        phoneNumber:
+          type: string
+          description: '電話番号'
+        faxNumber:
+          type: string
+          description: 'FAX番号'
+        officialSiteUrl:
+          type: string
+          description: '公式サイトURL'
+        profile:
+          type: string
+          description: '企業概要'
+        employees:
+          type: string
+          description: '従業員数'
+        netSales:
+          type: string
+          description: '売上高'
+        contactPersonName:
+          type: string
+          description: '担当者名'
+        contactPersonPosition:
+          type: string
+          description: '担当者役職'
+        contactPersonPhoneNumber:
+          type: string
+          description: '担当者電話番号'
+        contactPersionMailAddress:
+          type: string
+          description: '担当者メールアドレス'
+        updatedAtYear:
+          type: string
+          description: '最終更新年月日(YYYY)'
+        updatedAtMonth:
+          type: string
+          description: '最終更新年月日(MM)'
+        updatedAtDay:
+          type: string
+          description: '最終更新年月日(DD)'
+      example:
+        id: 'V6Py5iIfmrxlDKy_c4W05lOtvkjcpBgSuIysWJpJTWY'
+        displayName: '求人企業名称'
+        establishmentYear: '2025'
+        establishmentMonth: '01'
+        establishmentDay: '01'
+        postalCode: '123-4567'
+        prefectureCode: 13
+        address: '求人企業住所'
+        phoneNumber: '0123-456-7890'
+        faxNumber: '0123-456-7890'
+        officialSiteUrl: 'https://www.example.com/'
+        profile: '求人企業概要'
+        employees: '従業員数 100名'
+        netSales: '売上高'
+        contactPersonName: '採用担当者名'
+        contactPersonPosition: '採用担当者役職'
+        contactPersonPhoneNumber: '0123-456-7890'
+        contactPersionMailAddress: 'saiyou@example.com'
+        updatedAtYear: '2025'
+        updatedAtMonth: '01'
+        updatedAtDay: '01'
+      required:
+        - id
+        - displayName
+        - establishmentYear
+        - establishmentMonth
+        - establishmentDay
+        - postalCode
+        - prefectureCode
+        - address
+        - phoneNumber
+        - faxNumber
+        - officialSiteUrl
+        - profile
+        - employees
+        - netSales
+        - contactPersonName
+        - contactPersonPosition
+        - contactPersonPhoneNumber
+        - contactPersionMailAddress
+        - updatedAtYear
+        - updatedAtMonth
+        - updatedAtDay
+
+    getWantedAdsSummaryListResponse:
+      type: object
+      properties:
+        ads:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneWantedAdsSummary'
+          description: '求人広告リスト'
+        total:
+          type: number
+          description: '求人広告総数'
+          example: 100
+      required:
+        - ads
+        - total
+
+    oneWantedAdsSummary:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '求人広告ID'
+        recruitCompanyId:
+          type: string
+          description: '求人企業ID'
+        recruitCompanyName:
+          type: string
+          description: '求人企業名'
+        position:
+          type: string
+          description: '募集職種'
+        details:
+          type: string
+          description: '仕事内容の詳細'
+        updatedAtYear:
+          type: string
+          description: '採取更新年月日(YYYY)'
+        updatedAtMonth:
+          type: string
+          description: '採取更新年月日(MM)'
+        updatedAtDay:
+          type: string
+          description: '採取更新年月日(DD)'
+      example:
+        id: 'MFn6K2ABCnOMFFv9LvNmHb2X-hjLw8jfgXq9lZ6sxO8'
+        recruitCompanyId: 'V6Py5iIfmrxlDKy_c4W05lOtvkjcpBgSuIysWJpJTWY'
+        recruitCompanyName: '求人企業名'
+        position: '募集職種'
+        details: '仕事内容の詳細'
+        updatedAtYear: '2025'
+        updatedAtMonth: '01'
+        updatedAtDay: '01'
+      required:
+        - id
+        - recruitCompanyId
+        - recruitCompanyName
+        - position
+        - details
+        - updatedAtYear
+        - updatedAtMonth
+        - updatedAtDay
+
+    getWantedAdsDetailResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '求人広告ID'
+        recruitCompanyId:
+          type: string
+          description: '求人企業ID'
+        recruitCompanyName:
+          type: string
+          description: '求人企業名'
+        title:
+          type: string
+          description: '求人タイトル'
+        position:
+          type: string
+          description: '募集職種'
+        workLocation:
+          type: string
+          description: '勤務地'
+        employmentStatus:
+          type: string
+          description: '雇用形態'
+        numberOfPeople:
+          type: string
+          description: '募集人数'
+        details:
+          type: string
+          description: '仕事内容の詳細'
+        requirements:
+          type: string
+          description: '応募条件'
+        salaryAndBenefits:
+          type: string
+          description: '給与・待遇'
+        officeHour:
+          type: string
+          description: '勤務時間'
+        dayOff:
+          type: string
+          description: '休日・休暇'
+        welfareProgram:
+          type: string
+          description: '福利厚生'
+        howToApply:
+          type: string
+          description: '応募方法'
+        applicationDocuments:
+          type: string
+          description: '応募書類'
+        applicationDeadlineYear:
+          type: string
+          description: '応募締切日(YYYY)'
+        applicationDeadlineMonth:
+          type: string
+          description: '応募締切日(MM)'
+        applicationDeadlineDay:
+          type: string
+          description: '応募締切日(DD)'
+        updatedAtYear:
+          type: string
+          description: '最終更新年月日(YYYY)'
+        updatedAtMonth:
+          type: string
+          description: '最終更新年月日(MM)'
+        updatedAtDay:
+          type: string
+          description: '最終更新年月日(DD)'
+      example:
+        id: 'MFn6K2ABCnOMFFv9LvNmHb2X-hjLw8jfgXq9lZ6sxO8'
+        recruitCompanyId: 'V6Py5iIfmrxlDKy_c4W05lOtvkjcpBgSuIysWJpJTWY'
+        recruitCompanyName: '求人企業名'
+        title: '求人タイトル'
+        position: '募集職種'
+        workLocation: '勤務地'
+        employmentStatus: '雇用形態'
+        numberOfPeople: '募集人数'
+        details: '仕事内容の詳細'
+        requirements: '応募条件'
+        salaryAndBenefits: '給与・待遇'
+        officeHour: '勤務時間'
+        dayOff: '休日・休暇'
+        welfareProgram: '福利厚生'
+        howToApply: '応募方法'
+        applicationDocuments: '応募書類'
+        applicationDeadlineYear: '2025'
+        applicationDeadlineMonth: '12'
+        applicationDeadlineDay: '31'
+        updatedAtYear: '2025'
+        updatedAtMonth: '01'
+        updatedAtDay: '01'
+      required:
+        - id
+        - recruitCompanyId
+        - recruitCompanyName
+        - title
+        - position
+        - workLocation
+        - employmentStatus
+        - numberOfPeople
+        - details
+        - salaryAndBenefits
+        - officeHour
+        - dayOff
+        - welfareProgram
+        - howToApply
+        - applicationDocuments
+        - applicationDeadlineYear
+        - applicationDeadlineMonth
+        - applicationDeadlineDay
+        - updatedAtYear
+        - updatedAtMonth
+        - updatedAtDay
+
+    getOfficialNewsSummaryListResponse:
+      type: object
+      properties:
+        news:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneOfficialNewsSummary'
+          description: '公式ニュースリスト'
+        total:
+          type: number
+          description: '総公式ニュース数'
+          example: 100
+      required:
+        - news
+        - total
+
+    oneOfficialNewsSummary:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '公式ニュースID'
+        title:
+          type: string
+          description: 'タイトル'
+        priority:
+          type: number
+          description: '優先順位重み付け'
+        createdAtYear:
+          type: string
+          description: '公開開始年月日(YYYY)'
+        createdAtMonth:
+          type: string
+          description: '公開開始年月日(MM)'
+        createdAtDay:
+          type: string
+          description: '公開開始年月日(DD)'
+        updatedAtYear:
+          type: string
+          description: '最終更新年月日(YYYY)'
+        updatedAtMonth:
+          type: string
+          description: '最終更新年月日(MM)'
+        updatedAtDay:
+          type: string
+          description: '最終更新年月日(DD)'
+      example:
+        id: 'news_0123456789'
+        title: 'タイトル'
+        priority: 10,
+        createdAtYear: '2025'
+        createdAtMonth: '01'
+        createdAtDay: '01'
+        updatedAtYear: '2025'
+        updatedAtMonth: '01'
+        updatedAtDay: '02'
+      required:
+        - id
+        - title
+        - priority
+        - createdAtYear
+        - createdAtMonth
+        - createdAtDay
+        - updatedAtYear
+        - updatedAtMonth
+        - updatedAtDay
+
+    getOfficialNewsDetailResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '公式ニュースID'
+        title:
+          type: string
+          description: 'タイトル'
+        detail:
+          type: string
+          description: 'ニュース本文'
+        priority:
+          type: number
+          description: '優先順位重み付け'
+        createdAtYear:
+          type: string
+          description: '公開開始年月日(YYYY)'
+        createdAtMonth:
+          type: string
+          description: '公開開始年月日(MM)'
+        createdAtDay:
+          type: string
+          description: '公開開始年月日(DD)'
+        updatedAtYear:
+          type: string
+          description: '最終更新年月日(YYYY)'
+        updatedAtMonth:
+          type: string
+          description: '最終更新年月日(MM)'
+        updatedAtDay:
+          type: string
+          description: '最終更新年月日(DD)'
+      example:
+        id: 'news_0123456789'
+        title: 'タイトル'
+        detail: 'ニュース本文'
+        priority: 10,
+        createdAtYear: '2025'
+        createdAtMonth: '01'
+        createdAtDay: '01'
+        updatedAtYear: '2025'
+        updatedAtMonth: '01'
+        updatedAtDay: '02'
+      required:
+        - id
+        - title
+        - detail
+        - priority
+        - createdAtYear
+        - createdAtMonth
+        - createdAtDay
+        - updatedAtYear
+        - updatedAtMonth
+        - updatedAtDay
+
+    getUserIconListResponse:
+      type: object
+      properties:
+        userIcons:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneUserIcon'
+          description: 'ユーザーアイコンリスト'
+      required:
+        - userIcons
+
+    oneUserIcon:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'ユーザーアイコンID'
+        iconPath:
+          type: string
+          description: 'ユーザーアイコン画像へのパス'
+      example:
+        id: 'icon_001'
+        iconPath: '/img/icon/icon_001.png'
+      required:
+        - id
+        - iconPath
+
+    getTagListResponse:
+      type: object
+      properties:
+        tags:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneTag'
+          description: 'タグリスト'
+        total:
+          type: number
+          description: '総タグ数'
+          example: 100
+      required:
+        - tags
+        - total
+
+    getQuestListByTagResponse:
+      type: object
+      properties:
+        quests:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneQuestWithoutTags'
+          description: 'クエストリスト'
+        total:
+          type: number
+          description: '総対象クエスト数'
+          example: 100
+      required:
+        - quests
+        - total
+
+    getUserHaveSkillListResponse:
+      type: object
+      properties:
+        skills:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneSkill'
+          description: '保有スキルリスト'
+        total:
+          type: number
+          description: '保有スキル総数'
+          example: 100
+      required:
+        - skills
+        - total
+
+    oneSkill:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'スキルID'
+        name:
+          type: string
+          description: 'スキル名称'
+        level:
+          type: number
+          description: 'スキルレベル'
+        GottenAtYear:
+          type: string
+          description: '取得日時(YYYY)'
+        GottenAtMonth:
+          type: string
+          description: '取得日時(MM)'
+        GottenAtDay:
+          type: string
+          description: '取得日時(DD)'
+      example:
+        id: 'skill0123456789'
+        name: 'スキル名'
+        level: 1
+        GottenAtYear: "2025"
+        GottenAtMonth: "01"
+        GottenAtDay: "01"
+      required:
+        - id
+        - name
+        - level
+        - GottenAtYear
+        - GottenAtMonth
+        - GottenAtDay
+
+    getUserResultsResponse:
+      type: object
+      properties:
+        level:
+          type: number
+          description: 'ユーザーレベル'
+        totalScore:
+          type: number
+          description: '総獲得スコア'
+        point:
+          type: number
+          description: '保有ポイント数'
+        playQuestCount:
+          type: number
+          description: '総プレイクエスト数'
+        clearQuestCount:
+          type: number
+          description: 'クリアクエスト数'
+        totalAnswerCount:
+          type: number
+          description: '総回答数'
+        totalCorrectAnswerCount:
+          type: number
+          description: '総正解回答数'
+      example:
+        level: 1
+        totalScore: 1000
+        point: 1200
+        playQuestCount: 100
+        clearQuestCount: 10
+        totalAnswerCount: 1000
+        totalCorrectAnswerCount: 500
+      required:
+        - level
+        - totalScore
+        - point
+        - playQuestCount
+        - clearQuestCount
+        - totalAnswerCount
+        - totalCorrectAnswerCount
+
+    getUserHaveEfoResponse:
+      type: object
+      properties:
+        haveEfo:
+          type: number
+          description: '現在保有しているEPO'
+        totalAddEfo:
+          type: number
+          description: '総獲得EPO'
+        totalConsumeEfo:
+          type: number
+          description: '総消費EFO'
+      example:
+        haveEfo: 100
+        totalAddEfo: 1000
+        totalConsumeEfo: 900
+      required:
+        - haveEfo
+        - totalAddEfo
+        - totalConsumeEfo
+
+    getUserEfoHistoryResponse:
+      type: object
+      properties:
+        histories:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneUserEfoHistory'
+          description: 'ユーザーEFO履歴リスト'
+        total:
+          type: number
+          description: '総履歴数'
+          example: 100
+      required:
+        - histories
+        - total
+
+    oneUserEfoHistory:
+      type: object
+      properties:
+        transactionId:
+          type: string
+          description: 'トランザクションID'
+        addEfo:
+          type: number
+          description: '加算されたEFO'
+        consumeEfo:
+          type: number
+          description: '消費したEFO'
+        reason:
+          type: string
+          enum: ['questClear','exchangeReal']
+          description: '理由 (questClear=クエストクリア、exchangeReal=REALに変換)'
+        createdAtYear:
+          type: string
+          description: '発生日時(YYYY)'
+        createdAtMonth:
+          type: string
+          description: '発生日時(MM)'
+        createdAtDay:
+          type: string
+          description: '発生日時(DD)'
+        createdAtHour:
+          type: string
+          description: '発生日時(HH)'
+        createdAtMinute:
+          type: string
+          description: '発生日時(mm)'
+        createdAtSecond:
+          type: string
+          description: '発生日時(SS)'
+      example:
+        transactionId: 'KFGQ0lBMrYL0jfJHP4YUzm3XSdBcDEj3QVQdoJxdFLc'
+        addEfo: 100
+        consumeEfo: 0
+        reason: 'questClear'
+        createdAtYear: '2025'
+        createdAtMonth: '01'
+        createdAtDay: '01'
+        createdAtHour: '00'
+        createdAtMinute: '00'
+        createdAtSecond: '00'
+      required:
+        - transactionId
+        - addEfo
+        - consumeEfo
+        - reason
+        - createdAtYear
+        - createdAtMonth
+        - createdAtDay
+        - createdAtHour
+        - createdAtMinute
+        - createdAtSecond
+
+    getUserHaveRealResponse:
+      type: object
+      properties:
+        haveReal:
+          type: number
+          description: '現在保有しているREAL'
+        totalAddReal:
+          type: number
+          description: '総獲得REAL'
+        totalConsumeReal:
+          type: number
+          description: '総消費REAL'
+      example:
+        haveReal: 10
+        totalAddReal: 20
+        totalConsumeReal: 10
+      required:
+        - haveReal
+        - totalAddReal
+        - totalConsumeReal
+
+    getUserRealHistoryResponse:
+      type: object
+      properties:
+        histories:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneUserRealHistory'
+          description: 'ユーザーREAL履歴リスト'
+        total:
+          type: number
+          description: '総履歴数'
+          example: 100
+      required:
+        - histories
+        - total
+
+    oneUserRealHistory:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'REAL ID'
+        addReal:
+          type: number
+          description: '加算されたREAL'
+        consumeReal:
+          type: number
+          description: '消費したREAL'
+        reason:
+          type: string
+          enum: ['exchangeFromEfo','exchangeToDigico']
+          description: '理由 (exchangeFromEfo=EFOから交換、exchangeToDigico=デジコに交換)'
+        adaptedExchangeRate:
+          type: number
+          description: 'EFOから交換時の1REAL=何EFOだったか。EFO交換以外の場合は0が入る'
+        createdAtYear:
+          type: string
+          description: '発生日時(YYYY)'
+        createdAtMonth:
+          type: string
+          description: '発生日時(MM)'
+        createdAtDay:
+          type: string
+          description: '発生日時(DD)'
+        createdAtHour:
+          type: string
+          description: '発生日時(HH)'
+        createdAtMinute:
+          type: string
+          description: '発生日時(mm)'
+        createdAtSecond:
+          type: string
+          description: '発生日時(SS)'
+      example:
+        id: 'ZqKL-f0jPYbtEgv6fbeTOcUagxrVj7QYBwc9ENH8HhM'
+        addReal: 10
+        consumeReal: 0
+        reason: 'exchangeFromEfo'
+        adaptedExchangeRate: 100
+        createdAtYear: '2025'
+        createdAtMonth: '01'
+        createdAtDay: '01'
+        createdAtHour: '00'
+        createdAtMinute: '00'
+        createdAtSecond: '00'
+      required:
+        - id
+        - addReal
+        - consumeReal
+        - reason
+        - adaptedExchangeRate
+        - createdAtYear
+        - createdAtMonth
+        - createdAtDay
+        - createdAtHour
+        - createdAtMinute
+        - createdAtSecond
+
+    oneRealEfoRate:
+      type: object
+      properties:
+        rate:
+          type: number
+          description: '交換レート'
+        periodEndUnixTime:
+          type: number
+          description: '有効期限(unix time)'
+      example:
+        rate: 100
+        periodEndUnixTime: 1767193200
+      required:
+        - rate
+
+    getRealEfoExchangeRateResponse:
+      type: object
+      properties:
+        default:
+          type: object
+          $ref: '#/components/schemas/oneRealEfoRate'
+          description: 'デフォルトの交換レート'
+
+    postUserMeEfoExchangeRealRequest:
+      type: object
+      properties:
+        hopeToExchangeReal:
+          type: number
+          description: 'EFO->REAL変換希望数'
+          example: 10
+      required:
+        - hopeToExchangeReal
+
+    postUserMeEfoExchangeRealSuccessResponse:
+      type: object
+      properties:
+        transactionId:
+          type: string
+          description: 'トランザクションID'
+        consumeEfo:
+          type: number
+          description: '消費したEFO'
+        currentEfo:
+          type: number
+          description: '現在保有EFO'
+        addReal:
+          type: number
+          description: '追加REAL'
+        currentReal:
+          type: number
+          description: '現在保有しているREAL'
+        rate:
+          type: number
+          description: '1REAL=何EFOで交換したか'
+      example:
+        transactionId: 'JVSx152NuoB_FMo5ZWTckXc3Ihi4epF6R86ltP364D0'
+        consumeEfo: 1000
+        currentEfo: 0
+        addReal: 10
+        currentReal: 10
+        rate: 100
+      required:
+        - transactionId
+        - consumeEfo
+        - currentEfo
+        - addReal
+        - currentReal
+        - rate
+
+    postUserMeEfoExchangeRealFailResponse:
+      type: object
+      properties:
+        reason:
+          type: string
+          enum: ['notEnoughHavingEfo', 'invalidHopeToExchangeReal', 'outOfExchange']
+          description: '失敗理由'
+        message:
+          type: string
+          description: '失敗に対するメッセージ'
+      example:
+        reason: 'notEnoughHavingEfo'
+        message: '保有EFOが不足しています'
+      required:
+        - reason
+        - message
+
+    postContactRequest:
+      type: object
+      properties:
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+        nickname:
+          type: string
+          description: 'ユーザーネーム'
+        subject:
+          type: string
+          description: '題名'
+        body:
+          type: string
+          description: '問い合わせ本文'
+      example:
+        mailAddress: 'user@example.com'
+        nickname: 'ユーザーネーム'
+        subject: '題名'
+        body: '問い合わせ内容本文'
+      required:
+        - mailAddress
+        - subject
+        - body
+
+    postContactFailResponse:
+      type: object
+      properties:
+        reason:
+          type: string
+          description: '失敗理由'
+      example:
+        reason: '本文の文字数が上限を超えています'
+      required:
+        - reason
+
+    postUserMeRealExchangeDigicoRequest:
+      type: object
+      properties:
+        hopeToExchangeDigico:
+          type: number
+          description: 'REAL->Digico交換希望数'
+          example: 1
+      required:
+        - hopeToExchangeDigico
+
+    postUserMeRealExchangeDigicoSuccessResponse:
+      type: object
+      properties:
+        digicoUrl:
+          type: string
+          description: 'ギフトURL'
+        digicoCode:
+          type: string
+          description: 'ギフトコード'
+        consumeReal:
+          type: number
+          description: '消費したREAL'
+      example:
+        digicoUrl: 'https://example.com/abc'
+        digicoCode: '1234567890'
+        consumeReal: 100
+      required:
+        - digicoUrl
+        - digicoCode
+        - consumeReal
+
+    postUserMeRealExchangeDigicoFailResponse:
+      type: object
+      properties:
+        reason:
+          type: string
+          enum: ['notEnoughHavingReal', 'invalidHopeToExchangeDigico', 'errorFromDigico', 'outOfExchange']
+          description: '失敗理由'
+        message:
+          type: string
+          description: '失敗メッセージ'
+      example:
+        reason: 'notEnoughHavingReal'
+        message: '保有REALが不足しています'
+      required:
+        - reason
+        - message
+
+    getUserHonorResponse:
+      type: object
+      properties:
+        honors:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneUserHonor'
+          description: '保有称号リスト'
+        setHonor:
+          type: object
+          $ref: '#/components/schemas/oneUserHonor'
+          description: 'セット中の称号'
+        total:
+          type: number
+          description: '保有総数'
+          example: 100
+      required:
+        - honors
+        - total
+
+    putUserHonorRequest:
+      type: object
+      properties:
+        honorId:
+          type: string
+          description: '称号ID'
+      example:
+        honorId: 'honor1234567890'
+      required:
+        - honorId
+
+    oneUserHonor:
+      type: object
+      properties:
+        honorId:
+          type: string
+          description: '称号ID'
+        honorName:
+          type: string
+          description: '称号名称'
+        honorDetail:
+          type: string
+          description: '称号詳細'
+        createdAtYear:
+          type: string
+          description: '取得日時(YYYY)'
+        createdAtMonth:
+          type: string
+          description: '取得日時(MM)'
+        createdAtDay:
+          type: string
+          description: '取得日時(DD)'
+        createdAtHour:
+          type: string
+          description: '取得日時(HH)'
+        createdAtMinute:
+          type: string
+          description: '取得日時(mm)'
+        createdAtSecond:
+          type: string
+          description: '取得日時(ss)'
+      example:
+        honorId: 'honor1234567890'
+        honorName: '称号名'
+        honorDetail: '称号詳細'
+        createdAtYear: '2025'
+        createdAtMonth: '01'
+        createdAtDay: '01'
+        createdAtHour: '00'
+        createdAtMinute: '00'
+        createdAtSecond: '00'
+      required:
+        - honorId
+        - honorName
+        - honorDetail
+        - createdAtYear
+        - createdAtMonth
+        - createdAtDay
+        - createdAtHour
+        - createdAtMinute
+        - createdAtSecond
+
+    getUserProfilePermissionResponse:
+      type: object
+      properties:
+        openForRecruitCompany:
+          type: boolean
+          description: '求人企業にプロフィールを公開するか'
+      example:
+        openForRecruitCompany: true
+      required:
+        - openForRecruitCompany
+
+    putUserProfilePermissionRequest:
+      type: object
+      properties:
+        openForRecruitCompany:
+          type: boolean
+          description: '求人企業にプロフィールを公開するか'
+      example:
+        openForRecruitCompany: false
+      required:
+        - openForRecruitCompany

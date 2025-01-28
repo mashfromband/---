@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>街灯を常時点灯させる</pre>\n",
+			"option_html": "<pre>街灯を常時点灯させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>公共のWi-Fiの廃止</pre>\n",
+			"option_html": "<pre>公共のWi-Fiの廃止</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>交通信号をセンサーと連携して最適化する</pre>\n",
+			"option_html": "<pre>交通信号をセンサーと連携して最適化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>すべてのデータをクラウドに保存せずに消去する</pre>\n",
+			"option_html": "<pre>すべてのデータをクラウドに保存せずに消去する</pre>\n"
+		}
+	]
+}

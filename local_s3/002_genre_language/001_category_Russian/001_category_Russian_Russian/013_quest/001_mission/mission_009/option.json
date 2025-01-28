@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>複数形が存在しない</pre>\n",
+			"option_html": "<pre>複数形が存在しない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>複数形の例外が存在しない</pre>\n",
+			"option_html": "<pre>複数形の例外が存在しない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>中性名詞は中性名詞の変化しかしない</pre>\n",
+			"option_html": "<pre>中性名詞は中性名詞の変化しかしない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>中性名詞の特殊変化パターンは一種類しかない</pre>\n",
+			"option_html": "<pre>中性名詞の特殊変化パターンは一種類しかない</pre>\n"
+		}
+	]
+}

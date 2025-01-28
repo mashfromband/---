@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"組織理解",
+		"会社組織一般知識（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>無視する</pre>\n",
+			"option_html": "<pre>無視する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>手伝える範囲で協力する</pre>\n",
+			"option_html": "<pre>手伝える範囲で協力する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自分の仕事を後回しにする</pre>\n",
+			"option_html": "<pre>自分の仕事を後回しにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>上司に報告せず解決する</pre>\n",
+			"option_html": "<pre>上司に報告せず解決する</pre>\n"
+		}
+	]
+}

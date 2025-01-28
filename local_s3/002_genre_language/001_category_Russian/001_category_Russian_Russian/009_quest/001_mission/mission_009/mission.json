@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"バイリンガル向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>You're already in taxi.</pre>\n",
+			"option_html": "<pre>You're already in taxi.</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>I have sisters.</pre>\n",
+			"option_html": "<pre>I have sisters.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>These actors're already in taxi.</pre>\n",
+			"option_html": "<pre>These actors're already in taxi.</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>These men are actors.</pre>\n",
+			"option_html": "<pre>These men are actors.</pre>\n"
+		}
+	]
+}

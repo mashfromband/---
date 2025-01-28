@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + Shift + Tで追加する</pre>\n",
+			"option_html": "<pre>Ctrl + Shift + Tで追加する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Alt + Xで削除する</pre>\n",
+			"option_html": "<pre>Alt + Xで削除する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>F12で名前を付けて保存する</pre>\n",
+			"option_html": "<pre>F12で名前を付けて保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + Hで置換を行う</pre>\n",
+			"option_html": "<pre>Ctrl + Hで置換を行う</pre>\n"
+		}
+	]
+}

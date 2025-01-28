@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "孔子\n",
+			"option_html": "<p>孔子</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "孟子\n",
+			"option_html": "<p>孟子</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "老子\n",
+			"option_html": "<p>老子</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "荘子\n",
+			"option_html": "<p>荘子</p>\n"
+		}
+	]
+}

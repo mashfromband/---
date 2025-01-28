@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ネットワーク系",
+		"ネットワーク種類",
+		"LAN"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "Global Area Network\n",
+			"option_html": "<p>Global Area Network</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "Local Area Network\n",
+			"option_html": "<p>Local Area Network</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "Wide Area Network\n",
+			"option_html": "<p>Wide Area Network</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "Wireless Area Network\n",
+			"option_html": "<p>Wireless Area Network</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル → 書き出し → アートボードを使用</pre>\n",
+			"option_html": "<pre>ファイル → 書き出し → アートボードを使用</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>各アートボードを個別に保存する</pre>\n",
+			"option_html": "<pre>各アートボードを個別に保存する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>必要なアートボードを手動でコピーする</pre>\n",
+			"option_html": "<pre>必要なアートボードを手動でコピーする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プリントアウトして別途保存する</pre>\n",
+			"option_html": "<pre>プリントアウトして別途保存する</pre>\n"
+		}
+	]
+}

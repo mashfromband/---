@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像全体を暗くする</pre>\n",
+			"option_html": "<pre>画像全体を暗くする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像のエッジを保ちながら背景を滑らかにする</pre>\n",
+			"option_html": "<pre>画像のエッジを保ちながら背景を滑らかにする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度を下げる</pre>\n",
+			"option_html": "<pre>彩度を下げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像をトリミングする</pre>\n",
+			"option_html": "<pre>画像をトリミングする</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"組織理解",
+		"労務基礎（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルフケア</pre>\n",
+			"option_html": "<pre>セルフケア</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ラインケア</pre>\n",
+			"option_html": "<pre>ラインケア</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>産業保健スタッフによるケア</pre>\n",
+			"option_html": "<pre>産業保健スタッフによるケア</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>事業所外資源によるケア</pre>\n",
+			"option_html": "<pre>事業所外資源によるケア</pre>\n"
+		}
+	]
+}

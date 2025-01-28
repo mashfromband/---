@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでレイヤーを選択しCtrl + Dを押す</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーを選択しCtrl + Dを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで移動アイコンをクリック</pre>\n",
+			"option_html": "<pre>レイヤーパネルで移動アイコンをクリック</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > レイヤー > 移動を選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; レイヤー &gt; 移動を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで右クリックし「複製」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックし「複製」を選択</pre>\n"
+		}
+	]
+}

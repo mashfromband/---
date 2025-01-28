@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > 名前を付けて保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; 名前を付けて保存</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 書き出し > 保存形式を選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; 保存形式を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > アートボードを保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; アートボードを保存</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>編集 > 保存</pre>\n",
+			"option_html": "<pre>編集 &gt; 保存</pre>\n"
+		}
+	]
+}

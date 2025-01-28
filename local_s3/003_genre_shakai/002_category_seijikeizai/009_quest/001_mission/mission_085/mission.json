@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "メセナ\n",
+			"option_html": "<p>メセナ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "フィラン\nソロピー\n",
+			"option_html": "<p>フィラン<br>ソロピー</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ゼロ・\nエミッション\n",
+			"option_html": "<p>ゼロ・<br>エミッション</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ISO14000\nシリーズ\n",
+			"option_html": "<p>ISO14000<br>シリーズ</p>\n"
+		}
+	]
+}

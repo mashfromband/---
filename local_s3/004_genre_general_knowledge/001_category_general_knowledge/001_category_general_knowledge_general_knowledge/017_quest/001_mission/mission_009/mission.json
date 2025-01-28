@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"良い仕事をする為に",
+		"ノウハウとマインド（25）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>命令</pre>\n",
+			"option_html": "<pre>命令</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>強制</pre>\n",
+			"option_html": "<pre>強制</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>浸透徹底</pre>\n",
+			"option_html": "<pre>浸透徹底</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>提案</pre>\n",
+			"option_html": "<pre>提案</pre>\n"
+		}
+	]
+}

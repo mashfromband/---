@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>カラープロファイル</pre>\n",
+			"option_html": "<pre>カラープロファイル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>解像度</pre>\n",
+			"option_html": "<pre>解像度</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル形式</pre>\n",
+			"option_html": "<pre>ファイル形式</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの分割</pre>\n",
+			"option_html": "<pre>レイヤーの分割</pre>\n"
+		}
+	]
+}

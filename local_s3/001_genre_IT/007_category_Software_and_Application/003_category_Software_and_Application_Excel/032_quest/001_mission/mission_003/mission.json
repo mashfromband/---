@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"数式・関数"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>SUMIFS関数</pre>\n",
+			"option_html": "<pre>SUMIFS関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>AVERAGEIF関数</pre>\n",
+			"option_html": "<pre>AVERAGEIF関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>AVERAGEIFS関数</pre>\n",
+			"option_html": "<pre>AVERAGEIFS関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>COUNTIFS関数</pre>\n",
+			"option_html": "<pre>COUNTIFS関数</pre>\n"
+		}
+	]
+}

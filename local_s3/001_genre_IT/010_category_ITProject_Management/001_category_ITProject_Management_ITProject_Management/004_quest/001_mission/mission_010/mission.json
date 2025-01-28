@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>意見の対立を無視してプロジェクトを進める</pre>\n",
+			"option_html": "<pre>意見の対立を無視してプロジェクトを進める</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべての意見や要求をそのまま受け入れる</pre>\n",
+			"option_html": "<pre>すべての意見や要求をそのまま受け入れる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>優先順位を決めて調整し、合意形成を図る</pre>\n",
+			"option_html": "<pre>優先順位を決めて調整し、合意形成を図る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクト計画を一からやり直す</pre>\n",
+			"option_html": "<pre>プロジェクト計画を一からやり直す</pre>\n"
+		}
+	]
+}

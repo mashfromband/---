@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 配置</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤー > 順序</pre>\n",
+			"option_html": "<pre>レイヤー &gt; 順序</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>編集 > 配置</pre>\n",
+			"option_html": "<pre>編集 &gt; 配置</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 配置</pre>\n",
+			"option_html": "<pre>ファイル &gt; 配置</pre>\n"
+		}
+	]
+}

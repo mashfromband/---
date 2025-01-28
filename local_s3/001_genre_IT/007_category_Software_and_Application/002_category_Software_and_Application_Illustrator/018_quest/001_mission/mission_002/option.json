@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > 3Dと素材</pre>\n",
+			"option_html": "<pre>効果 &gt; 3Dと素材</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 変形 > 3D設定</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; 3D設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > パス > 3D変形</pre>\n",
+			"option_html": "<pre>効果 &gt; パス &gt; 3D変形</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > パス > 立体化</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; パス &gt; 立体化</pre>\n"
+		}
+	]
+}

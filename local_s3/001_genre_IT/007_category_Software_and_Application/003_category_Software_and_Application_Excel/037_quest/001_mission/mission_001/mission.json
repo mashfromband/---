@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + Space</pre>\n",
+			"option_html": "<pre>Ctrl + Space</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Shift + Space</pre>\n",
+			"option_html": "<pre>Shift + Space</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + A</pre>\n",
+			"option_html": "<pre>Ctrl + A</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Alt + Enter</pre>\n",
+			"option_html": "<pre>Alt + Enter</pre>\n"
+		}
+	]
+}

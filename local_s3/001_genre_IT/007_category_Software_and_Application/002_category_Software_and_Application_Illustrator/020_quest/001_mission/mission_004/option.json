@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スマートガイドを有効にする</pre>\n",
+			"option_html": "<pre>スマートガイドを有効にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アラインパネルで「キーオブジェクト」を設定する</pre>\n",
+			"option_html": "<pre>アラインパネルで「キーオブジェクト」を設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グリッドにスナップをオンにする</pre>\n",
+			"option_html": "<pre>グリッドにスナップをオンにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > 変形 > 配置</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; 配置</pre>\n"
+		}
+	]
+}

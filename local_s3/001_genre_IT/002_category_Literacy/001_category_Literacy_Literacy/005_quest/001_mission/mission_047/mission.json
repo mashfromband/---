@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"トレンド技術",
+		"クラウドサービス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "DaaS\n",
+			"option_html": "<p>DaaS</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SaaS\n",
+			"option_html": "<p>SaaS</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "IaaS\n",
+			"option_html": "<p>IaaS</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "PaaS\n",
+			"option_html": "<p>PaaS</p>\n"
+		}
+	]
+}

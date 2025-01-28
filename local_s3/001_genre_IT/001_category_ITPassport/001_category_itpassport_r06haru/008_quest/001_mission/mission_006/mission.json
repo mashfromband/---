@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"ハードウェア",
+		"コンピュータ・入出力装置"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "感圧式\n",
+			"option_html": "<p>感圧式</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "光学式\n",
+			"option_html": "<p>光学式</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "静電容量方式\n",
+			"option_html": "<p>静電容量方式</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "電磁誘導方式\n",
+			"option_html": "<p>電磁誘導方式</p>\n"
+		}
+	]
+}

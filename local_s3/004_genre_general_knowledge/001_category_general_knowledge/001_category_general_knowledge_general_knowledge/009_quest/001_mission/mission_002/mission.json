@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"コミュニケーション",
+		"人間関係構築（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>読み間違いがないように名刺は自分の方に向けて渡す</pre>\n",
+			"option_html": "<pre>読み間違いがないように名刺は自分の方に向けて渡す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>相手が先に渡そうとしていても、それを遮ってでも目下の者から先に名刺を渡す</pre>\n",
+			"option_html": "<pre>相手が先に渡そうとしていても、それを遮ってでも目下の者から先に名刺を渡す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>名刺は両手で丁寧に渡し、両手で丁寧に受け取る</pre>\n",
+			"option_html": "<pre>名刺は両手で丁寧に渡し、両手で丁寧に受け取る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>名刺は左手で渡し、左手で受け取る</pre>\n",
+			"option_html": "<pre>名刺は左手で渡し、左手で受け取る</pre>\n"
+		}
+	]
+}

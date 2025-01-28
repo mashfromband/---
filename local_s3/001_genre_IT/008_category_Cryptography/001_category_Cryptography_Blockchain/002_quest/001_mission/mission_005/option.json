@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スケーラビリティ</pre>\n",
+			"option_html": "<pre>スケーラビリティ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ハッシュレート</pre>\n",
+			"option_html": "<pre>ハッシュレート</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フォーク</pre>\n",
+			"option_html": "<pre>フォーク</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>マイニングプール</pre>\n",
+			"option_html": "<pre>マイニングプール</pre>\n"
+		}
+	]
+}

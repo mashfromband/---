@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨が法定通貨に自動変換される</pre>\n",
+			"option_html": "<pre>仮想通貨が法定通貨に自動変換される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の価格が完全に固定される</pre>\n",
+			"option_html": "<pre>仮想通貨の価格が完全に固定される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザーの仮想通貨資産が失われる可能性がある</pre>\n",
+			"option_html": "<pre>ユーザーの仮想通貨資産が失われる可能性がある</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>すべての仮想通貨が別の取引所に自動移行される</pre>\n",
+			"option_html": "<pre>すべての仮想通貨が別の取引所に自動移行される</pre>\n"
+		}
+	]
+}

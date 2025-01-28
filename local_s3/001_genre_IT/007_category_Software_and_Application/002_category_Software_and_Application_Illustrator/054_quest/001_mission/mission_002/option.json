@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > スタイライズ > ドロップシャドウ</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; ドロップシャドウ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 配置 > ドロップシャドウ</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; ドロップシャドウ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>編集 > スタイライズ > ドロップシャドウ</pre>\n",
+			"option_html": "<pre>編集 &gt; スタイライズ &gt; ドロップシャドウ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ウィンドウ > スタイライズ > ドロップシャドウ</pre>\n",
+			"option_html": "<pre>ウィンドウ &gt; スタイライズ &gt; ドロップシャドウ</pre>\n"
+		}
+	]
+}

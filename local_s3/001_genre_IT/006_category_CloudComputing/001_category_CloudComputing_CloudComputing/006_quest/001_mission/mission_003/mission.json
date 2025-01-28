@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想マシンはOSごと仮想化し、コンテナはアプリケーション単位で仮想化する</pre>\n",
+			"option_html": "<pre>仮想マシンはOSごと仮想化し、コンテナはアプリケーション単位で仮想化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想マシンは軽量で高速に動作し、コンテナは重く動作が遅い</pre>\n",
+			"option_html": "<pre>仮想マシンは軽量で高速に動作し、コンテナは重く動作が遅い</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コンテナは物理サーバーに依存し、仮想マシンは依存しない</pre>\n",
+			"option_html": "<pre>コンテナは物理サーバーに依存し、仮想マシンは依存しない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想マシンはアプリケーション単位で動作し、コンテナはOS単位で動作する</pre>\n",
+			"option_html": "<pre>仮想マシンはアプリケーション単位で動作し、コンテナはOS単位で動作する</pre>\n"
+		}
+	]
+}

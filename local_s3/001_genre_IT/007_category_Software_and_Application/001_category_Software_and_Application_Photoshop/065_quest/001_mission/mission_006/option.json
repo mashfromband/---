@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「自由変形」を使う</pre>\n",
+			"option_html": "<pre>「自由変形」を使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「テキストツール」で直接変形する</pre>\n",
+			"option_html": "<pre>「テキストツール」で直接変形する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤースタイル」の「変形」を使う</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「変形」を使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「フィルター」メニューから「テキスト変形」を選ぶ</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「テキスト変形」を選ぶ</pre>\n"
+		}
+	]
+}

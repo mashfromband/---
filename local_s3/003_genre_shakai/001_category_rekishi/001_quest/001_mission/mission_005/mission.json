@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "東越\n",
+			"option_html": "<p>東越</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "西越\n",
+			"option_html": "<p>西越</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "南越\n",
+			"option_html": "<p>南越</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "北越\n",
+			"option_html": "<p>北越</p>\n"
+		}
+	]
+}

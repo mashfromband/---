@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>価格が常に安定しているから</pre>\n",
+			"option_html": "<pre>価格が常に安定しているから</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>供給量に上限があり、価値の保存手段と見なされているから</pre>\n",
+			"option_html": "<pre>供給量に上限があり、価値の保存手段と見なされているから</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>実際の金と交換可能であるから</pre>\n",
+			"option_html": "<pre>実際の金と交換可能であるから</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>金と同じく採掘プロセスが存在するから</pre>\n",
+			"option_html": "<pre>金と同じく採掘プロセスが存在するから</pre>\n"
+		}
+	]
+}

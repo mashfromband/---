@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>システムの脆弱性</pre>\n",
+			"option_html": "<pre>システムの脆弱性</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>暗号化された通信</pre>\n",
+			"option_html": "<pre>暗号化された通信</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>人間の心理や信頼</pre>\n",
+			"option_html": "<pre>人間の心理や信頼</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>コンピュータウイルス</pre>\n",
+			"option_html": "<pre>コンピュータウイルス</pre>\n"
+		}
+	]
+}

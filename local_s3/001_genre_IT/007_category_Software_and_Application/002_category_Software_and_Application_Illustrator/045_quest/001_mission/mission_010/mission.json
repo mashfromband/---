@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"ツール"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>線パネル</pre>\n",
+			"option_html": "<pre>線パネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>幅ツール</pre>\n",
+			"option_html": "<pre>幅ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ブラシツール</pre>\n",
+			"option_html": "<pre>ブラシツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グラデーションツール</pre>\n",
+			"option_html": "<pre>グラデーションツール</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>右上の点を上に引き上げる</pre>\n",
+			"option_html": "<pre>右上の点を上に引き上げる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>左下の点を下に引き下げる</pre>\n",
+			"option_html": "<pre>左下の点を下に引き下げる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>曲線全体を下に引き下げる</pre>\n",
+			"option_html": "<pre>曲線全体を下に引き下げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>中央部分を上に引き上げる</pre>\n",
+			"option_html": "<pre>中央部分を上に引き上げる</pre>\n"
+		}
+	]
+}

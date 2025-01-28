@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「自由変形」で「反転」を選択する</pre>\n",
+			"option_html": "<pre>「自由変形」で「反転」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「変形」メニューで「反転」を選ぶ</pre>\n",
+			"option_html": "<pre>「変形」メニューで「反転」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「文字ツール」で「反転」オプションを選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」で「反転」オプションを選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤーパネル」から「反転」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から「反転」を選ぶ</pre>\n"
+		}
+	]
+}

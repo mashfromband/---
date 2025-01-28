@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Endキーを押す</pre>\n",
+			"option_html": "<pre>Endキーを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Homeキーを押す</pre>\n",
+			"option_html": "<pre>Homeキーを押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + Zを押す</pre>\n",
+			"option_html": "<pre>Ctrl + Zを押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Alt + Tを押す</pre>\n",
+			"option_html": "<pre>Alt + Tを押す</pre>\n"
+		}
+	]
+}

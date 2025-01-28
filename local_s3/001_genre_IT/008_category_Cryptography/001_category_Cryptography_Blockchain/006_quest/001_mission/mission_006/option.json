@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの機密性と改ざん防止を提供する</pre>\n",
+			"option_html": "<pre>データの機密性と改ざん防止を提供する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トランザクション速度を向上させる</pre>\n",
+			"option_html": "<pre>トランザクション速度を向上させる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハードウェアのコストを削減する</pre>\n",
+			"option_html": "<pre>ハードウェアのコストを削減する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワークの全ノードを同期する</pre>\n",
+			"option_html": "<pre>ネットワークの全ノードを同期する</pre>\n"
+		}
+	]
+}

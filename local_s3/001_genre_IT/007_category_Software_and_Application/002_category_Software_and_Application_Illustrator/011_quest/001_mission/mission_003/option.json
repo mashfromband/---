@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アートボードパネルで「複製」をクリック</pre>\n",
+			"option_html": "<pre>アートボードパネルで「複製」をクリック</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アートボードツールを使用してAltキーを押しながらドラッグ</pre>\n",
+			"option_html": "<pre>アートボードツールを使用してAltキーを押しながらドラッグ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > アートボード > 複製</pre>\n",
+			"option_html": "<pre>ファイル &gt; アートボード &gt; 複製</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>表示 > アートボード > 複製</pre>\n",
+			"option_html": "<pre>表示 &gt; アートボード &gt; 複製</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>DALL·E 2</pre>\n",
+			"option_html": "<pre>DALL·E 2</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Stable Diffusion</pre>\n",
+			"option_html": "<pre>Stable Diffusion</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Midjourney</pre>\n",
+			"option_html": "<pre>Midjourney</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Firefly</pre>\n",
+			"option_html": "<pre>Firefly</pre>\n"
+		}
+	]
+}

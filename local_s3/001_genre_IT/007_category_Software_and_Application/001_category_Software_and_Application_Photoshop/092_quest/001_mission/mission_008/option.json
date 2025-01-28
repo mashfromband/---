@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>256色</pre>\n",
+			"option_html": "<pre>256色</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>16万色</pre>\n",
+			"option_html": "<pre>16万色</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>1670万色</pre>\n",
+			"option_html": "<pre>1670万色</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>10万色</pre>\n",
+			"option_html": "<pre>10万色</pre>\n"
+		}
+	]
+}

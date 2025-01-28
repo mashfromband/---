@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スコープやスケジュールの策定</pre>\n",
+			"option_html": "<pre>スコープやスケジュールの策定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>成果物の引き渡し</pre>\n",
+			"option_html": "<pre>成果物の引き渡し</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>チームの作業記録をまとめる</pre>\n",
+			"option_html": "<pre>チームの作業記録をまとめる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>最終報告書の作成</pre>\n",
+			"option_html": "<pre>最終報告書の作成</pre>\n"
+		}
+	]
+}

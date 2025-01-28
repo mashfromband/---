@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引をスピードアップするため</pre>\n",
+			"option_html": "<pre>取引をスピードアップするため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不正アクセスを防ぐため</pre>\n",
+			"option_html": "<pre>不正アクセスを防ぐため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨の価格変動を防ぐため</pre>\n",
+			"option_html": "<pre>仮想通貨の価格変動を防ぐため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>秘密鍵を管理する手間を省くため</pre>\n",
+			"option_html": "<pre>秘密鍵を管理する手間を省くため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>デジタル通貨の発行コストが著しく増加する</pre>\n",
+			"option_html": "<pre>デジタル通貨の発行コストが著しく増加する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トランザクションのスピードが既存システムより遅くなる場合がある</pre>\n",
+			"option_html": "<pre>トランザクションのスピードが既存システムより遅くなる場合がある</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デジタル通貨の利用履歴が完全に非公開になる</pre>\n",
+			"option_html": "<pre>デジタル通貨の利用履歴が完全に非公開になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>国際的な送金が不可能になる</pre>\n",
+			"option_html": "<pre>国際的な送金が不可能になる</pre>\n"
+		}
+	]
+}

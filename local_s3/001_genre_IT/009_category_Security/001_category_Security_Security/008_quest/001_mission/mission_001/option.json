@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クラウド内のデータやシステムを不正アクセスや攻撃から守る</pre>\n",
+			"option_html": "<pre>クラウド内のデータやシステムを不正アクセスや攻撃から守る</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウドサービスのコストを削減する</pre>\n",
+			"option_html": "<pre>クラウドサービスのコストを削減する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クラウドストレージの容量を増やす</pre>\n",
+			"option_html": "<pre>クラウドストレージの容量を増やす</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドサービスの速度を向上させる</pre>\n",
+			"option_html": "<pre>クラウドサービスの速度を向上させる</pre>\n"
+		}
+	]
+}

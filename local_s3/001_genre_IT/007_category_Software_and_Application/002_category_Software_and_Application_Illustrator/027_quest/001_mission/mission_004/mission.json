@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>テキストが拡大縮小されても品質が落ちない</pre>\n",
+			"option_html": "<pre>テキストが拡大縮小されても品質が落ちない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>テキストが編集可能なまま残る</pre>\n",
+			"option_html": "<pre>テキストが編集可能なまま残る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>テキストが他のアプリケーションで直接編集できる</pre>\n",
+			"option_html": "<pre>テキストが他のアプリケーションで直接編集できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>テキストが画像として保存される</pre>\n",
+			"option_html": "<pre>テキストが画像として保存される</pre>\n"
+		}
+	]
+}

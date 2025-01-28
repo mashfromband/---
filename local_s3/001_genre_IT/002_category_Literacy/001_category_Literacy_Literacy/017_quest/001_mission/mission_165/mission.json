@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"ネットワーク",
+		"IPアドレス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "IPv4は128ビットのアドレス長を持つ\n",
+			"option_html": "<p>IPv4は128ビットのアドレス長を持つ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "IPv4は2進数で表現され、通常4つのオクテットからなる\n",
+			"option_html": "<p>IPv4は2進数で表現され、通常4つのオクテットからなる</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "IPv4は無制限に増やすことができるアドレス空間を持つ\n",
+			"option_html": "<p>IPv4は無制限に増やすことができるアドレス空間を持つ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "IPv4は主にセキュリティ目的で設計されたプロトコルである\n",
+			"option_html": "<p>IPv4は主にセキュリティ目的で設計されたプロトコルである</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>暗号化技術</pre>\n",
+			"option_html": "<pre>暗号化技術</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>分散型データベース</pre>\n",
+			"option_html": "<pre>分散型データベース</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トランザクション署名</pre>\n",
+			"option_html": "<pre>トランザクション署名</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハッシュチェーン</pre>\n",
+			"option_html": "<pre>ハッシュチェーン</pre>\n"
+		}
+	]
+}

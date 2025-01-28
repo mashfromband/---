@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"バイリンガル向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Where're our plates?</pre>\n",
+			"option_html": "<pre>Where're our plates?</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Where're actors?</pre>\n",
+			"option_html": "<pre>Where're actors?</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Our actors don't eat apples.</pre>\n",
+			"option_html": "<pre>Our actors don't eat apples.</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>These men are actors.</pre>\n",
+			"option_html": "<pre>These men are actors.</pre>\n"
+		}
+	]
+}

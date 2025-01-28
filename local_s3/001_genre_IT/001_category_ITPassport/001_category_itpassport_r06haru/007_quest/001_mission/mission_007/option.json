@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "0.04\n",
+			"option_html": "<p>0.04</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "0.58\n",
+			"option_html": "<p>0.58</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "0.86\n",
+			"option_html": "<p>0.86</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "0.96\n",
+			"option_html": "<p>0.96</p>\n"
+		}
+	]
+}

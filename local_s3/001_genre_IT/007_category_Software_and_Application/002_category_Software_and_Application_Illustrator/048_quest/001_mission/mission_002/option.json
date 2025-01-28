@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > プリント設定 > アートボード</pre>\n",
+			"option_html": "<pre>ファイル &gt; プリント設定 &gt; アートボード</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 印刷 > アートボード</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷 &gt; アートボード</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > プリント > 設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; プリント &gt; 設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 印刷設定</pre>\n",
+			"option_html": "<pre>効果 &gt; 印刷設定</pre>\n"
+		}
+	]
+}

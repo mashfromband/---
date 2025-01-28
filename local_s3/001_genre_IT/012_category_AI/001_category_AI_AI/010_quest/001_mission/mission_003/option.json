@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>用語の意味や解説を画像や動画で表示してくれるツールを使う</pre>\n",
+			"option_html": "<pre>用語の意味や解説を画像や動画で表示してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>生物に関するドキュメンタリー番組を見る</pre>\n",
+			"option_html": "<pre>生物に関するドキュメンタリー番組を見る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>生物図鑑を見る</pre>\n",
+			"option_html": "<pre>生物図鑑を見る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>用語帳を繰り返し読む</pre>\n",
+			"option_html": "<pre>用語帳を繰り返し読む</pre>\n"
+		}
+	]
+}

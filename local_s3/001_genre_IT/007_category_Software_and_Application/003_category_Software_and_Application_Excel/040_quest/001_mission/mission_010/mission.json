@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>UNIX</pre>\n",
+			"option_html": "<pre>UNIX</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Windows XP</pre>\n",
+			"option_html": "<pre>Windows XP</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>macOS</pre>\n",
+			"option_html": "<pre>macOS</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>MS-DOS</pre>\n",
+			"option_html": "<pre>MS-DOS</pre>\n"
+		}
+	]
+}

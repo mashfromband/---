@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリ内の主要な機能や画面のデザイン</pre>\n",
+			"option_html": "<pre>アプリ内の主要な機能や画面のデザイン</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>小さな動きや効果を使って、ユーザーにフィードバックを提供すること</pre>\n",
+			"option_html": "<pre>小さな動きや効果を使って、ユーザーにフィードバックを提供すること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの保存や通信に関わるシステムの設計</pre>\n",
+			"option_html": "<pre>データの保存や通信に関わるシステムの設計</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザー認証やセキュリティ対策の仕組み</pre>\n",
+			"option_html": "<pre>ユーザー認証やセキュリティ対策の仕組み</pre>\n"
+		}
+	]
+}

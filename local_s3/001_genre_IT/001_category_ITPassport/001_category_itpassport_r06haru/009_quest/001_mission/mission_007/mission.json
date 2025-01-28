@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"テクノロジ系",
+		"セキュリティ",
+		"情報セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "RSS\n",
+			"option_html": "<p>RSS</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SEO\n",
+			"option_html": "<p>SEO</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "クロスサイトスクリプティング\n",
+			"option_html": "<p>クロスサイトスクリプティング</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ダークウェブ\n",
+			"option_html": "<p>ダークウェブ</p>\n"
+		}
+	]
+}

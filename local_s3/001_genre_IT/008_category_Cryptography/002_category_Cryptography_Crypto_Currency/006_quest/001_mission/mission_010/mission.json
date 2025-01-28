@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>すべての取引が匿名で行われる</pre>\n",
+			"option_html": "<pre>すべての取引が匿名で行われる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>取引の詳細が暗号化され、外部から特定が困難になる</pre>\n",
+			"option_html": "<pre>取引の詳細が暗号化され、外部から特定が困難になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プライバシーコインだけが分散型ネットワークを利用している</pre>\n",
+			"option_html": "<pre>プライバシーコインだけが分散型ネットワークを利用している</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プライバシーコインの取引には必ず中央機関の承認が必要である</pre>\n",
+			"option_html": "<pre>プライバシーコインの取引には必ず中央機関の承認が必要である</pre>\n"
+		}
+	]
+}

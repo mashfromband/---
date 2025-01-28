@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>価格の変動を利用した投機取引</pre>\n",
+			"option_html": "<pre>価格の変動を利用した投機取引</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の送金や決済における価格の安定性の確保</pre>\n",
+			"option_html": "<pre>仮想通貨の送金や決済における価格の安定性の確保</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>法定通貨のデジタル化を実現するため</pre>\n",
+			"option_html": "<pre>法定通貨のデジタル化を実現するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他の仮想通貨を保管するための手段</pre>\n",
+			"option_html": "<pre>他の仮想通貨を保管するための手段</pre>\n"
+		}
+	]
+}

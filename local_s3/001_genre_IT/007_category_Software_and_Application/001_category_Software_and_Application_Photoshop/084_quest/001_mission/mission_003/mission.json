@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「パスツール」を使用する</pre>\n",
+			"option_html": "<pre>「パスツール」を使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「自由変形ツール」を使用する</pre>\n",
+			"option_html": "<pre>「自由変形ツール」を使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「選択範囲ツール」を使用する</pre>\n",
+			"option_html": "<pre>「選択範囲ツール」を使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「移動ツール」を使用する</pre>\n",
+			"option_html": "<pre>「移動ツール」を使用する</pre>\n"
+		}
+	]
+}

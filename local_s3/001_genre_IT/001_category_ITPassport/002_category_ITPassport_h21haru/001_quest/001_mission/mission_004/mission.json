@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ストラテジ系",
+		"経営戦略マネジメント",
+		"経営戦略手法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ニッチ戦略\n",
+			"option_html": "<p>ニッチ戦略</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "プッシュ戦略\n",
+			"option_html": "<p>プッシュ戦略</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ブランド戦略\n",
+			"option_html": "<p>ブランド戦略</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プル戦略\n",
+			"option_html": "<p>プル戦略</p>\n"
+		}
+	]
+}

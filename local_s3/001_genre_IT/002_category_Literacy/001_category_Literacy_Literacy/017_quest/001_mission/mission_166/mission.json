@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"プログラミング",
+		"基礎"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "IF文\n",
+			"option_html": "<p>IF文</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "WHILE文\n",
+			"option_html": "<p>WHILE文</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "PRINT文\n",
+			"option_html": "<p>PRINT文</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "DEF文\n",
+			"option_html": "<p>DEF文</p>\n"
+		}
+	]
+}

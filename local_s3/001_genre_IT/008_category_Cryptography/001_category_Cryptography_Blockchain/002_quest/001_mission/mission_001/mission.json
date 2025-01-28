@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>チェーンが後方互換性を保ちながら分岐すること</pre>\n",
+			"option_html": "<pre>チェーンが後方互換性を保ちながら分岐すること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>チェーンが互換性を失って分岐すること</pre>\n",
+			"option_html": "<pre>チェーンが互換性を失って分岐すること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>新しいノードを追加すること</pre>\n",
+			"option_html": "<pre>新しいノードを追加すること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>不正なトランザクションを削除すること</pre>\n",
+			"option_html": "<pre>不正なトランザクションを削除すること</pre>\n"
+		}
+	]
+}

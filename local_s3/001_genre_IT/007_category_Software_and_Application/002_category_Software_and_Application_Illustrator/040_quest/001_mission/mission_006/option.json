@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルター > アーティスティック</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > スタイライズ > アーティスティック</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; アーティスティック</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > 画像効果 > アーティスティック</pre>\n",
+			"option_html": "<pre>効果 &gt; 画像効果 &gt; アーティスティック</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像 > フィルター > アーティスティック</pre>\n",
+			"option_html": "<pre>画像 &gt; フィルター &gt; アーティスティック</pre>\n"
+		}
+	]
+}

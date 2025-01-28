@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーの不透明度を調整するため</pre>\n",
+			"option_html": "<pre>レイヤーの不透明度を調整するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを複製するため</pre>\n",
+			"option_html": "<pre>レイヤーを複製するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>他の編集操作を防ぐため</pre>\n",
+			"option_html": "<pre>他の編集操作を防ぐため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの色を変更するため</pre>\n",
+			"option_html": "<pre>レイヤーの色を変更するため</pre>\n"
+		}
+	]
+}

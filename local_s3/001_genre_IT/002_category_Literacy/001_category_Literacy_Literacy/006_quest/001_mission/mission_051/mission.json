@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ストラテジ系",
+		"社会的用語",
+		"ビジネス用語"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ソーシャルビジネス\n",
+			"option_html": "<p>ソーシャルビジネス</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ダイバーシティ\n",
+			"option_html": "<p>ダイバーシティ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "SDGs\n",
+			"option_html": "<p>SDGs</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "HRテック\n",
+			"option_html": "<p>HRテック</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>S字カーブ</pre>\n",
+			"option_html": "<pre>S字カーブ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>直線</pre>\n",
+			"option_html": "<pre>直線</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>V字カーブ</pre>\n",
+			"option_html": "<pre>V字カーブ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>波状のカーブ</pre>\n",
+			"option_html": "<pre>波状のカーブ</pre>\n"
+		}
+	]
+}

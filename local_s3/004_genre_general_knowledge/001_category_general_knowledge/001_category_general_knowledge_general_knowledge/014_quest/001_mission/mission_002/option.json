@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>売上管理</pre>\n",
+			"option_html": "<pre>売上管理</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>組織の統治や監督の仕組み</pre>\n",
+			"option_html": "<pre>組織の統治や監督の仕組み</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>社員の休暇管理</pre>\n",
+			"option_html": "<pre>社員の休暇管理</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>部署の配置換え</pre>\n",
+			"option_html": "<pre>部署の配置換え</pre>\n"
+		}
+	]
+}

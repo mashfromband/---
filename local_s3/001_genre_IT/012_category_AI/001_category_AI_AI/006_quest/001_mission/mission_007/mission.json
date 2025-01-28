@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>語学学習の参考書をたくさん購入する</pre>\n",
+			"option_html": "<pre>語学学習の参考書をたくさん購入する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>テレビの語学番組を録画して、繰り返し視聴する</pre>\n",
+			"option_html": "<pre>テレビの語学番組を録画して、繰り返し視聴する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>AIによる発音矯正や文法チェック機能が搭載された語学学習アプリを使う</pre>\n",
+			"option_html": "<pre>AIによる発音矯正や文法チェック機能が搭載された語学学習アプリを使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>外国人の友達を作って、会話の練習をする</pre>\n",
+			"option_html": "<pre>外国人の友達を作って、会話の練習をする</pre>\n"
+		}
+	]
+}

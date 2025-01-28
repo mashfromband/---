@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトの目的を再定義する</pre>\n",
+			"option_html": "<pre>プロジェクトの目的を再定義する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトの品質を最終的に確認する</pre>\n",
+			"option_html": "<pre>プロジェクトの品質を最終的に確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトのタスクを実際に実行する</pre>\n",
+			"option_html": "<pre>プロジェクトのタスクを実際に実行する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの計画を策定する</pre>\n",
+			"option_html": "<pre>プロジェクトの計画を策定する</pre>\n"
+		}
+	]
+}

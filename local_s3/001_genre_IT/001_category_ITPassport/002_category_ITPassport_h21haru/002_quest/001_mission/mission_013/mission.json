@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ストラテジ系",
+		"企業活動",
+		"経営・組織論"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "株主総会\n",
+			"option_html": "<p>株主総会</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "監査役会\n",
+			"option_html": "<p>監査役会</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "代表取締役\n",
+			"option_html": "<p>代表取締役</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "取締役会\n",
+			"option_html": "<p>取締役会</p>\n"
+		}
+	]
+}

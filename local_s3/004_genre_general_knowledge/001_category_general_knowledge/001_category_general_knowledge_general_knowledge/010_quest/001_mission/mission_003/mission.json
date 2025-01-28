@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"コミュニケーション",
+		"伝える（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>次に何を話すかを考える</pre>\n",
+			"option_html": "<pre>次に何を話すかを考える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>相手の言葉を最後まで聞く</pre>\n",
+			"option_html": "<pre>相手の言葉を最後まで聞く</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自分の意見をすぐに伝える</pre>\n",
+			"option_html": "<pre>自分の意見をすぐに伝える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>話が終わる前に質問する</pre>\n",
+			"option_html": "<pre>話が終わる前に質問する</pre>\n"
+		}
+	]
+}

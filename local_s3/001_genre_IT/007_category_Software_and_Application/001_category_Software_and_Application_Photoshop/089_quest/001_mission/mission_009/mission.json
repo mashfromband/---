@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤーパネル」でレイヤーをグループ化する</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」でレイヤーをグループ化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」からレイヤーをまとめる</pre>\n",
+			"option_html": "<pre>「文字ツール」からレイヤーをまとめる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤースタイル」からグループ化する</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」からグループ化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「フィルター」メニューから「レイヤー統合」を選ぶ</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「レイヤー統合」を選ぶ</pre>\n"
+		}
+	]
+}

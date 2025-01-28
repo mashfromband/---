@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > エクスポート > PNG形式でWeb用に設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; PNG形式でWeb用に設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 書き出し > Web用に最適化したPNG形式</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; Web用に最適化したPNG形式</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > エクスポート > 書き出し形式 > Web用</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; 書き出し形式 &gt; Web用</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 保存 > Web用に保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存 &gt; Web用に保存</pre>\n"
+		}
+	]
+}

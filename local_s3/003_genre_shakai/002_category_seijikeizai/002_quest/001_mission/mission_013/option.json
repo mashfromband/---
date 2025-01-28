@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "法の下の平等\n",
+			"option_html": "<p>法の下の平等</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "法の下の自由\n",
+			"option_html": "<p>法の下の自由</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "法の下の民主\n",
+			"option_html": "<p>法の下の民主</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "法の下の保守\n",
+			"option_html": "<p>法の下の保守</p>\n"
+		}
+	]
+}

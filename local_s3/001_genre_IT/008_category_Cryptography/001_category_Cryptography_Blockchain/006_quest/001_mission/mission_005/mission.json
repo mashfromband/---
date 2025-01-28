@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データフォーク</pre>\n",
+			"option_html": "<pre>データフォーク</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データバリデーション</pre>\n",
+			"option_html": "<pre>データバリデーション</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>チェーンのダウンロード</pre>\n",
+			"option_html": "<pre>チェーンのダウンロード</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データの同期化</pre>\n",
+			"option_html": "<pre>データの同期化</pre>\n"
+		}
+	]
+}

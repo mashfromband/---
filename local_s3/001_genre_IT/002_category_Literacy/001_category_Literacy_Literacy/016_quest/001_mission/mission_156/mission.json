@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ストラテジ系",
+		"経営戦略",
+		"マーケティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ターゲット市場を決定する\n",
+			"option_html": "<p>ターゲット市場を決定する</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "製品の価格を設定する\n",
+			"option_html": "<p>製品の価格を設定する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "市場をセグメントに分ける\n",
+			"option_html": "<p>市場をセグメントに分ける</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "マーケティング戦略を実施する\n",
+			"option_html": "<p>マーケティング戦略を実施する</p>\n"
+		}
+	]
+}

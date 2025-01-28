@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーの一部を隠すため</pre>\n",
+			"option_html": "<pre>レイヤーの一部を隠すため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーの色を変更するため</pre>\n",
+			"option_html": "<pre>レイヤーの色を変更するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを複製するため</pre>\n",
+			"option_html": "<pre>レイヤーを複製するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを移動するため</pre>\n",
+			"option_html": "<pre>レイヤーを移動するため</pre>\n"
+		}
+	]
+}

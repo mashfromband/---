@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>iOSアプリのみ</pre>\n",
+			"option_html": "<pre>iOSアプリのみ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Androidアプリのみ</pre>\n",
+			"option_html": "<pre>Androidアプリのみ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>iOSとAndroidの両方に対応したアプリ</pre>\n",
+			"option_html": "<pre>iOSとAndroidの両方に対応したアプリ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デスクトップ専用アプリ</pre>\n",
+			"option_html": "<pre>デスクトップ専用アプリ</pre>\n"
+		}
+	]
+}

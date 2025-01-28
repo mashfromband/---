@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ロシア帝国\n",
+			"option_html": "<p>ロシア帝国</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "モンゴル帝国\n",
+			"option_html": "<p>モンゴル帝国</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "バルト帝国\n",
+			"option_html": "<p>バルト帝国</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ペルシャ帝国\n",
+			"option_html": "<p>ペルシャ帝国</p>\n"
+		}
+	]
+}

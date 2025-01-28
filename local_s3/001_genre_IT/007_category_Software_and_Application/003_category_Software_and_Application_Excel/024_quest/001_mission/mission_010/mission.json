@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"データ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラフ</pre>\n",
+			"option_html": "<pre>グラフ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター</pre>\n",
+			"option_html": "<pre>フィルター</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>集計</pre>\n",
+			"option_html": "<pre>集計</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>並べ替え</pre>\n",
+			"option_html": "<pre>並べ替え</pre>\n"
+		}
+	]
+}

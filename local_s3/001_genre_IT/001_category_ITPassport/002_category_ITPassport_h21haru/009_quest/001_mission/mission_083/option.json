@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "HTMLで記述されたテキストをブラウザに転送するためにFTPが使われる。\n",
+			"option_html": "<p>HTMLで記述されたテキストをブラウザに転送するためにFTPが使われる。</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SGML の文法の基になった。\n",
+			"option_html": "<p>SGML の文法の基になった。</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "Webページを記述するための言語であり, タグによって文書の論理構造などを表現する。\n",
+			"option_html": "<p>Webページを記述するための言語であり, タグによって文書の論理構造などを表現する。</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "XMLの機能を縮小して開発された。\n",
+			"option_html": "<p>XMLの機能を縮小して開発された。</p>\n"
+		}
+	]
+}

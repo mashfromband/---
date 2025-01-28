@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データがいつでも利用できる状態にすること</pre>\n",
+			"option_html": "<pre>データがいつでも利用できる状態にすること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データを自動的に削除すること</pre>\n",
+			"option_html": "<pre>データを自動的に削除すること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データが許可された人だけに見られるようにすること</pre>\n",
+			"option_html": "<pre>データが許可された人だけに見られるようにすること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データが間違いなく保存されるようにすること</pre>\n",
+			"option_html": "<pre>データが間違いなく保存されるようにすること</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ノードのデータがクラウドに保存されるため</pre>\n",
+			"option_html": "<pre>ノードのデータがクラウドに保存されるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データは複数のノードで冗長的に保存されるため</pre>\n",
+			"option_html": "<pre>データは複数のノードで冗長的に保存されるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>残りのノードが新しいデータを生成するため</pre>\n",
+			"option_html": "<pre>残りのノードが新しいデータを生成するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワーク全体でデータを暗号化するため</pre>\n",
+			"option_html": "<pre>ネットワーク全体でデータを暗号化するため</pre>\n"
+		}
+	]
+}

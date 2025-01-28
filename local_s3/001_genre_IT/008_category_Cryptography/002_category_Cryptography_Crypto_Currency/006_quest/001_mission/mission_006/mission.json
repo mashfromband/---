@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>発行上限が決められている</pre>\n",
+			"option_html": "<pre>発行上限が決められている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>中央管理者によって運営されている</pre>\n",
+			"option_html": "<pre>中央管理者によって運営されている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべての取引が完全に匿名で行われる</pre>\n",
+			"option_html": "<pre>すべての取引が完全に匿名で行われる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特定の企業が発行を管理している</pre>\n",
+			"option_html": "<pre>特定の企業が発行を管理している</pre>\n"
+		}
+	]
+}

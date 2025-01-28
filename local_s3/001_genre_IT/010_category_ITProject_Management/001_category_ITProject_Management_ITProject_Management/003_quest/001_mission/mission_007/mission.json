@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>時間とコストは減少する</pre>\n",
+			"option_html": "<pre>時間とコストは減少する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>時間とコストには影響しない</pre>\n",
+			"option_html": "<pre>時間とコストには影響しない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>時間は減少し、コストは増加する</pre>\n",
+			"option_html": "<pre>時間は減少し、コストは増加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>時間とコストは増加する</pre>\n",
+			"option_html": "<pre>時間とコストは増加する</pre>\n"
+		}
+	]
+}

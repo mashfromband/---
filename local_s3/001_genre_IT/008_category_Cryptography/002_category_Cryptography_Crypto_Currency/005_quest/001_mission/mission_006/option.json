@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>どこからでもアクセスでき、管理が容易になる</pre>\n",
+			"option_html": "<pre>どこからでもアクセスでき、管理が容易になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>必ず法定通貨より高い価値を持つ</pre>\n",
+			"option_html": "<pre>必ず法定通貨より高い価値を持つ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>物理的な通貨より価値が安定する</pre>\n",
+			"option_html": "<pre>物理的な通貨より価値が安定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>盗難のリスクが完全になくなる</pre>\n",
+			"option_html": "<pre>盗難のリスクが完全になくなる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自然な表情で聞く</pre>\n",
+			"option_html": "<pre>自然な表情で聞く</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>無表情で見つめる</pre>\n",
+			"option_html": "<pre>無表情で見つめる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>頻繁に時計を見る</pre>\n",
+			"option_html": "<pre>頻繁に時計を見る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>深くため息をつく</pre>\n",
+			"option_html": "<pre>深くため息をつく</pre>\n"
+		}
+	]
+}

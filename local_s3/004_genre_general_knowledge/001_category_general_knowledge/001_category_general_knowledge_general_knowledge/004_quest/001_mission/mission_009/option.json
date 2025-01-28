@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>不在です</pre>\n",
+			"option_html": "<pre>不在です</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>外出しております</pre>\n",
+			"option_html": "<pre>外出しております</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>席を外しております</pre>\n",
+			"option_html": "<pre>席を外しております</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>在籍しておりません</pre>\n",
+			"option_html": "<pre>在籍しておりません</pre>\n"
+		}
+	]
+}

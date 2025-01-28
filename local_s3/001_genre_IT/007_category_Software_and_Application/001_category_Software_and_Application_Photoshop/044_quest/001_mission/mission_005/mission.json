@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像の解像度が低すぎる</pre>\n",
+			"option_html": "<pre>画像の解像度が低すぎる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像のカラーモードがRGBでない</pre>\n",
+			"option_html": "<pre>画像のカラーモードがRGBでない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>背景レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>背景レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートオブジェクトが適用されている</pre>\n",
+			"option_html": "<pre>スマートオブジェクトが適用されている</pre>\n"
+		}
+	]
+}

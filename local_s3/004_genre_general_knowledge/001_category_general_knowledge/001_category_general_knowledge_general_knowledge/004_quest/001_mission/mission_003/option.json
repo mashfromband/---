@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>拝見ください</pre>\n",
+			"option_html": "<pre>拝見ください</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>拝聴ください</pre>\n",
+			"option_html": "<pre>拝聴ください</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ご覧になってください</pre>\n",
+			"option_html": "<pre>ご覧になってください</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ご覧ください</pre>\n",
+			"option_html": "<pre>ご覧ください</pre>\n"
+		}
+	]
+}

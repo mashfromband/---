@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「画像解像度設定」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「画像解像度設定」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PDF保存時に「解像度変更オプション」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「解像度変更オプション」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 書き出し > 解像度設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; 解像度設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>編集 > 解像度設定</pre>\n",
+			"option_html": "<pre>編集 &gt; 解像度設定</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想マシンごとに異なるOSをインストールするため</pre>\n",
+			"option_html": "<pre>仮想マシンごとに異なるOSをインストールするため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>物理サーバーのリソースを固定的に分配するため</pre>\n",
+			"option_html": "<pre>物理サーバーのリソースを固定的に分配するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コンテナの負荷状況を監視し、必要に応じてリソースを自動的に調整するため</pre>\n",
+			"option_html": "<pre>コンテナの負荷状況を監視し、必要に応じてリソースを自動的に調整するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>手動で仮想マシンを追加・削除する仕組みを提供するため</pre>\n",
+			"option_html": "<pre>手動で仮想マシンを追加・削除する仕組みを提供するため</pre>\n"
+		}
+	]
+}

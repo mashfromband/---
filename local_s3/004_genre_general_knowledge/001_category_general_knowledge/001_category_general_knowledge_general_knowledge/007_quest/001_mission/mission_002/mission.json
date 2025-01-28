@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"コミュニケーション",
+		"よい印象を与える（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>相手の意見を尊重する</pre>\n",
+			"option_html": "<pre>相手の意見を尊重する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自分の主張だけを話す</pre>\n",
+			"option_html": "<pre>自分の主張だけを話す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>反論し続ける</pre>\n",
+			"option_html": "<pre>反論し続ける</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>足を組んで話す</pre>\n",
+			"option_html": "<pre>足を組んで話す</pre>\n"
+		}
+	]
+}

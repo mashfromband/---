@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コントラストスライダーを右に動かす</pre>\n",
+			"option_html": "<pre>コントラストスライダーを右に動かす</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>明るさスライダーを右に動かす</pre>\n",
+			"option_html": "<pre>明るさスライダーを右に動かす</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コントラストスライダーを左に動かす</pre>\n",
+			"option_html": "<pre>コントラストスライダーを左に動かす</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>明るさスライダーを左に動かす</pre>\n",
+			"option_html": "<pre>明るさスライダーを左に動かす</pre>\n"
+		}
+	]
+}

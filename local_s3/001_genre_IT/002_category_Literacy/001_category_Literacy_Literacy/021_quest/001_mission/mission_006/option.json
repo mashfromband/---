@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "URL\n",
+			"option_html": "<p>URL</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "IPアドレス\n",
+			"option_html": "<p>IPアドレス</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ドメイン名\n",
+			"option_html": "<p>ドメイン名</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ホスト名\n",
+			"option_html": "<p>ホスト名</p>\n"
+		}
+	]
+}

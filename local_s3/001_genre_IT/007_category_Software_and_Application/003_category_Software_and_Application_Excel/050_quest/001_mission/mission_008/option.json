@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データタブの「並べ替え」</pre>\n",
+			"option_html": "<pre>データタブの「並べ替え」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ホームタブの「セルの結合」</pre>\n",
+			"option_html": "<pre>ホームタブの「セルの結合」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>挿入タブの「テキストボックス」</pre>\n",
+			"option_html": "<pre>挿入タブの「テキストボックス」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データタブの「重複の削除」</pre>\n",
+			"option_html": "<pre>データタブの「重複の削除」</pre>\n"
+		}
+	]
+}

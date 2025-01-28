@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>物理の参考書を繰り返し読む</pre>\n",
+			"option_html": "<pre>物理の参考書を繰り返し読む</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>物理の先生に質問する</pre>\n",
+			"option_html": "<pre>物理の先生に質問する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>物理の問題集を解く</pre>\n",
+			"option_html": "<pre>物理の問題集を解く</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>公式の意味や使い方を解説してくれるツールを使う</pre>\n",
+			"option_html": "<pre>公式の意味や使い方を解説してくれるツールを使う</pre>\n"
+		}
+	]
+}

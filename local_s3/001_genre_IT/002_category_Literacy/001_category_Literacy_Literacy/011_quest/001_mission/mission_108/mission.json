@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"インターネット系",
+		"プロトコル",
+		"HTTP"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "HyperText Transfer Protocol\n",
+			"option_html": "<p>HyperText Transfer Protocol</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "Hypertext Transport Program\n",
+			"option_html": "<p>Hypertext Transport Program</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "HyperText Translation Protocol\n",
+			"option_html": "<p>HyperText Translation Protocol</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "Hyperlink Transfer Protocol\n",
+			"option_html": "<p>Hyperlink Transfer Protocol</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字間隔を均等に保ちながら調整する</pre>\n",
+			"option_html": "<pre>文字間隔を均等に保ちながら調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字サイズを大きくしすぎないようにする</pre>\n",
+			"option_html": "<pre>文字サイズを大きくしすぎないようにする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>行間と文字間隔を同時に調整する</pre>\n",
+			"option_html": "<pre>行間と文字間隔を同時に調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フォントの種類に合わせて間隔を調整する</pre>\n",
+			"option_html": "<pre>フォントの種類に合わせて間隔を調整する</pre>\n"
+		}
+	]
+}

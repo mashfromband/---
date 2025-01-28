@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"選択・マスキング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「パスパネル」から「選択範囲をパスに変換」を選ぶ</pre>\n",
+			"option_html": "<pre>「パスパネル」から「選択範囲をパスに変換」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「選択範囲」メニューから「パスを作成」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「パスを作成」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤーパネル」からパスを作成する</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」からパスを作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ペンツール」からパスを描く</pre>\n",
+			"option_html": "<pre>「ペンツール」からパスを描く</pre>\n"
+		}
+	]
+}

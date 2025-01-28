@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "民主主義\n",
+			"option_html": "<p>民主主義</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "自由主義\n",
+			"option_html": "<p>自由主義</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "保守主義\n",
+			"option_html": "<p>保守主義</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "団結主義\n",
+			"option_html": "<p>団結主義</p>\n"
+		}
+	]
+}

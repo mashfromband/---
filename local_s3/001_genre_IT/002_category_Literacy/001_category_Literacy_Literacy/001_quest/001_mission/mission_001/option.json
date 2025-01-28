@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "データリンク層\n",
+			"option_html": "<p>データリンク層</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アプリケーション層\n",
+			"option_html": "<p>アプリケーション層</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "セション層\n",
+			"option_html": "<p>セション層</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ネットワーク層\n",
+			"option_html": "<p>ネットワーク層</p>\n"
+		}
+	]
+}

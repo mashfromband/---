@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ストラテジ系",
+		"法務",
+		"標準化関連"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ISMSの導入\n",
+			"option_html": "<p>ISMSの導入</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ISO 9001の導入\n",
+			"option_html": "<p>ISO 9001の導入</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ITILの導入\n",
+			"option_html": "<p>ITILの導入</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プライバシーマークの取得\n",
+			"option_html": "<p>プライバシーマークの取得</p>\n"
+		}
+	]
+}

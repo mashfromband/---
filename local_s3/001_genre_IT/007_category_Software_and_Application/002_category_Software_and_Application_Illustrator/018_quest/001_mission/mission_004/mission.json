@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>再利用時に一括変更が可能</pre>\n",
+			"option_html": "<pre>再利用時に一括変更が可能</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイルサイズを必ず小さくできる</pre>\n",
+			"option_html": "<pre>ファイルサイズを必ず小さくできる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>カラープロファイルが自動的に適用される</pre>\n",
+			"option_html": "<pre>カラープロファイルが自動的に適用される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他のファイル形式にも自動変換できる</pre>\n",
+			"option_html": "<pre>他のファイル形式にも自動変換できる</pre>\n"
+		}
+	]
+}

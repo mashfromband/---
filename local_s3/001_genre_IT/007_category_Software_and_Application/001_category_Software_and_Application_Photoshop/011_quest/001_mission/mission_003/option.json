@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>彩度調整スライダーを使用する必要がある</pre>\n",
+			"option_html": "<pre>彩度調整スライダーを使用する必要がある</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>可能。高彩度の色だけに影響を与えるように設定できる</pre>\n",
+			"option_html": "<pre>可能。高彩度の色だけに影響を与えるように設定できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>全ての色に均等に影響を与える</pre>\n",
+			"option_html": "<pre>全ての色に均等に影響を与える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>不可能。低彩度の色が優先的に調整される</pre>\n",
+			"option_html": "<pre>不可能。低彩度の色が優先的に調整される</pre>\n"
+		}
+	]
+}

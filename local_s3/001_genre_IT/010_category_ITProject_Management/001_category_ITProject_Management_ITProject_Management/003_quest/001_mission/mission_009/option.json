@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ステークホルダーの要望が適切に管理されないこと</pre>\n",
+			"option_html": "<pre>ステークホルダーの要望が適切に管理されないこと</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトチームの人数が多すぎること</pre>\n",
+			"option_html": "<pre>プロジェクトチームの人数が多すぎること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトの進捗が早すぎること</pre>\n",
+			"option_html": "<pre>プロジェクトの進捗が早すぎること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトのコストが余っていること</pre>\n",
+			"option_html": "<pre>プロジェクトのコストが余っていること</pre>\n"
+		}
+	]
+}

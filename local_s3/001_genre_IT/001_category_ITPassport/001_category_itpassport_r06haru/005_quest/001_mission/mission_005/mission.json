@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"マネジメント系",
+		"サービスマネジメント",
+		"サービスマネジメントシステム"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "FAQ\n",
+			"option_html": "<p>FAQ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "サービスレベル合意書\n",
+			"option_html": "<p>サービスレベル合意書</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "システム要件定義書\n",
+			"option_html": "<p>システム要件定義書</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "利用者マニュアル\n",
+			"option_html": "<p>利用者マニュアル</p>\n"
+		}
+	]
+}

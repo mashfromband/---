@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字パネルでリンクを追加する</pre>\n",
+			"option_html": "<pre>文字パネルでリンクを追加する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルでリンクを設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでリンクを設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>リンクパネルでハイパーリンクを追加する</pre>\n",
+			"option_html": "<pre>リンクパネルでハイパーリンクを追加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字ツールでリンクを作成する</pre>\n",
+			"option_html": "<pre>文字ツールでリンクを作成する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨はすべての国で法定通貨として認められているため</pre>\n",
+			"option_html": "<pre>仮想通貨はすべての国で法定通貨として認められているため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>取引には銀行の承認が必須であるため</pre>\n",
+			"option_html": "<pre>取引には銀行の承認が必須であるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>取引が迅速で、手数料が低く抑えられるため</pre>\n",
+			"option_html": "<pre>取引が迅速で、手数料が低く抑えられるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨は価格が常に安定しているため</pre>\n",
+			"option_html": "<pre>仮想通貨は価格が常に安定しているため</pre>\n"
+		}
+	]
+}

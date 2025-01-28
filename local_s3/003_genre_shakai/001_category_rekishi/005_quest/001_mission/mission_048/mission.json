@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "大番催促\n",
+			"option_html": "<p>大番催促</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "謀反人の\n逮捕\n",
+			"option_html": "<p>謀反人の<br>逮捕</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "殺害人の\n逮捕\n",
+			"option_html": "<p>殺害人の<br>逮捕</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "詐欺人の\n逮捕\n",
+			"option_html": "<p>詐欺人の<br>逮捕</p>\n"
+		}
+	]
+}

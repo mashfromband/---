@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "エクスプローラー\n",
+			"option_html": "<p>エクスプローラー</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "CPU\n",
+			"option_html": "<p>CPU</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "NAS\n",
+			"option_html": "<p>NAS</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ハブ\n",
+			"option_html": "<p>ハブ</p>\n"
+		}
+	]
+}

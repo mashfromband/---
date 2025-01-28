@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>メニューが複雑で機能が多い</pre>\n",
+			"option_html": "<pre>メニューが複雑で機能が多い</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>直感的に理解でき、簡単に操作できる</pre>\n",
+			"option_html": "<pre>直感的に理解でき、簡単に操作できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべての機能を1つの画面に表示する</pre>\n",
+			"option_html": "<pre>すべての機能を1つの画面に表示する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デザインが派手で目立つようにする</pre>\n",
+			"option_html": "<pre>デザインが派手で目立つようにする</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ファイル」メニューの「環境設定」から調整する</pre>\n",
+			"option_html": "<pre>「ファイル」メニューの「環境設定」から調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネル右上のメニューを使用する</pre>\n",
+			"option_html": "<pre>レイヤーパネル右上のメニューを使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ウィンドウ」メニューから調整する</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューから調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Photoshopのサムネイルサイズは変更できない</pre>\n",
+			"option_html": "<pre>Photoshopのサムネイルサイズは変更できない</pre>\n"
+		}
+	]
+}

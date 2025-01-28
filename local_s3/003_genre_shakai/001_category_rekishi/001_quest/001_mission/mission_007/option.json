@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "メキシコ\n",
+			"option_html": "<p>メキシコ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "グアテマラ\n",
+			"option_html": "<p>グアテマラ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ホンジュラス\n",
+			"option_html": "<p>ホンジュラス</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ニカラグア\n",
+			"option_html": "<p>ニカラグア</p>\n"
+		}
+	]
+}

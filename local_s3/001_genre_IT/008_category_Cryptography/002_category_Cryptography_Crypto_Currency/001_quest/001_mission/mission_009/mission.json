@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨は物理的な形態を持たない</pre>\n",
+			"option_html": "<pre>仮想通貨は物理的な形態を持たない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>法定通貨は取引記録を公開しない</pre>\n",
+			"option_html": "<pre>法定通貨は取引記録を公開しない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨は中央管理者が存在しない</pre>\n",
+			"option_html": "<pre>仮想通貨は中央管理者が存在しない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>法定通貨は全ての取引が暗号化される</pre>\n",
+			"option_html": "<pre>法定通貨は全ての取引が暗号化される</pre>\n"
+		}
+	]
+}

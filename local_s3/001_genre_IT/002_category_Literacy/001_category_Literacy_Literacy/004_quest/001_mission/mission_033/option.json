@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アジャイル経営\n",
+			"option_html": "<p>アジャイル経営</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SWOT分析\n",
+			"option_html": "<p>SWOT分析</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "製品差別化\n",
+			"option_html": "<p>製品差別化</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ニッチ戦略\n",
+			"option_html": "<p>ニッチ戦略</p>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引が透明化され、不正行為のリスクが軽減される</pre>\n",
+			"option_html": "<pre>取引が透明化され、不正行為のリスクが軽減される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不動産の価値が仮想通貨の価格と連動する</pre>\n",
+			"option_html": "<pre>不動産の価値が仮想通貨の価格と連動する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべての取引が匿名で行われる</pre>\n",
+			"option_html": "<pre>すべての取引が匿名で行われる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨を使うと不動産税が免除される</pre>\n",
+			"option_html": "<pre>仮想通貨を使うと不動産税が免除される</pre>\n"
+		}
+	]
+}

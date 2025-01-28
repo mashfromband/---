@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>どちら様でしょうか</pre>\n",
+			"option_html": "<pre>どちら様でしょうか</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>お名前を、おっしゃってください</pre>\n",
+			"option_html": "<pre>お名前を、おっしゃってください</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>名前を聞かせてください</pre>\n",
+			"option_html": "<pre>名前を聞かせてください</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>どなたですか</pre>\n",
+			"option_html": "<pre>どなたですか</pre>\n"
+		}
+	]
+}

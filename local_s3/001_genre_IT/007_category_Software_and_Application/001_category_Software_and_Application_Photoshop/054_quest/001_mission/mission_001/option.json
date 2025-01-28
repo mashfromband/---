@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを統合する</pre>\n",
+			"option_html": "<pre>レイヤーを統合する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色を調整する</pre>\n",
+			"option_html": "<pre>色を調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像をトリミングする</pre>\n",
+			"option_html": "<pre>画像をトリミングする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特定の範囲をすばやく選択する</pre>\n",
+			"option_html": "<pre>特定の範囲をすばやく選択する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引所の利用が不要になるため</pre>\n",
+			"option_html": "<pre>取引所の利用が不要になるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>中央機関を介さずに直接送金が可能になるため</pre>\n",
+			"option_html": "<pre>中央機関を介さずに直接送金が可能になるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>通貨の価値が固定されるため</pre>\n",
+			"option_html": "<pre>通貨の価値が固定されるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>送金が即時に完了するため</pre>\n",
+			"option_html": "<pre>送金が即時に完了するため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>名前をつけて整理し、必要な順番に並び替える</pre>\n",
+			"option_html": "<pre>名前をつけて整理し、必要な順番に並び替える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アートボードをそのまま無秩序に追加する</pre>\n",
+			"option_html": "<pre>アートボードをそのまま無秩序に追加する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>1つのアートボードで作業を完結させる</pre>\n",
+			"option_html": "<pre>1つのアートボードで作業を完結させる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アートボード間でコピー＆ペーストを繰り返す</pre>\n",
+			"option_html": "<pre>アートボード間でコピー＆ペーストを繰り返す</pre>\n"
+		}
+	]
+}

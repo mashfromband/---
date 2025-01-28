@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>指小形</pre>\n",
+			"option_html": "<pre>指小形</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>愛称形</pre>\n",
+			"option_html": "<pre>愛称形</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>指大形</pre>\n",
+			"option_html": "<pre>指大形</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>主格形</pre>\n",
+			"option_html": "<pre>主格形</pre>\n"
+		}
+	]
+}

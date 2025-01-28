@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "予算の議決\n",
+			"option_html": "<p>予算の議決</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "条約の承認\n",
+			"option_html": "<p>条約の承認</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "法律案の\n議決\n",
+			"option_html": "<p>法律案の<br>議決</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "議長の指名\n",
+			"option_html": "<p>議長の指名</p>\n"
+		}
+	]
+}

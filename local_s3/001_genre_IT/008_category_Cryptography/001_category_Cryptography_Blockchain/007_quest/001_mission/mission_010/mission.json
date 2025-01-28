@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ブロックチェーンのデータをすべてのノードで複製する仕組み</pre>\n",
+			"option_html": "<pre>ブロックチェーンのデータをすべてのノードで複製する仕組み</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>古いデータを完全に削除するプロセス</pre>\n",
+			"option_html": "<pre>古いデータを完全に削除するプロセス</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの保存場所を中央管理サーバーに移行する方法</pre>\n",
+			"option_html": "<pre>データの保存場所を中央管理サーバーに移行する方法</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データを分割して複数のノードに分散保存する技術</pre>\n",
+			"option_html": "<pre>データを分割して複数のノードに分散保存する技術</pre>\n"
+		}
+	]
+}

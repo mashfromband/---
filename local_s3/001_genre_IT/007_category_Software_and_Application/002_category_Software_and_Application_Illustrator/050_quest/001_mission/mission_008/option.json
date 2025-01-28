@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > ぼかし > パスのぼかし</pre>\n",
+			"option_html": "<pre>効果 &gt; ぼかし &gt; パスのぼかし</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター > ぼかし > パスのぼかし</pre>\n",
+			"option_html": "<pre>フィルター &gt; ぼかし &gt; パスのぼかし</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > 変形 > パスのぼかし</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; パスのぼかし</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > パス > ぼかし</pre>\n",
+			"option_html": "<pre>効果 &gt; パス &gt; ぼかし</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトのメンバーを評価するため</pre>\n",
+			"option_html": "<pre>プロジェクトのメンバーを評価するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>チームの意見をまとめるため</pre>\n",
+			"option_html": "<pre>チームの意見をまとめるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>作業を小さなタスクに分解して管理しやすくするため</pre>\n",
+			"option_html": "<pre>作業を小さなタスクに分解して管理しやすくするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトのリスクを完全に予測するため</pre>\n",
+			"option_html": "<pre>プロジェクトのリスクを完全に予測するため</pre>\n"
+		}
+	]
+}

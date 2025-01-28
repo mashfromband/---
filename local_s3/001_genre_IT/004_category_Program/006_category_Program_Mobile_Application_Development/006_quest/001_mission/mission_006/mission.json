@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリのソースコードを記述する</pre>\n",
+			"option_html": "<pre>アプリのソースコードを記述する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザーのニーズを収集する</pre>\n",
+			"option_html": "<pre>ユーザーのニーズを収集する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリの機能やパフォーマンスを確認し、不具合を修正する</pre>\n",
+			"option_html": "<pre>アプリの機能やパフォーマンスを確認し、不具合を修正する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリをストアで公開する</pre>\n",
+			"option_html": "<pre>アプリをストアで公開する</pre>\n"
+		}
+	]
+}

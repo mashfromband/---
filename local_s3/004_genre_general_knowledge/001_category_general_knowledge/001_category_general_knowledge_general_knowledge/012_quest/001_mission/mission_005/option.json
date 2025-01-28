@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>名前だけなら公開しても問題ない</pre>\n",
+			"option_html": "<pre>名前だけなら公開しても問題ない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>本人の同意を得る</pre>\n",
+			"option_html": "<pre>本人の同意を得る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>業務終了後に廃棄する</pre>\n",
+			"option_html": "<pre>業務終了後に廃棄する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>同僚に共有する</pre>\n",
+			"option_html": "<pre>同僚に共有する</pre>\n"
+		}
+	]
+}

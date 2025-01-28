@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザー入力をそのままSQLクエリに渡す</pre>\n",
+			"option_html": "<pre>ユーザー入力をそのままSQLクエリに渡す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>SQLクエリを暗号化する</pre>\n",
+			"option_html": "<pre>SQLクエリを暗号化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プレースホルダーやパラメータ化クエリを使用する</pre>\n",
+			"option_html": "<pre>プレースホルダーやパラメータ化クエリを使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データベースに管理者権限を与える</pre>\n",
+			"option_html": "<pre>データベースに管理者権限を与える</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > クリッピングマスク > 作成</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; クリッピングマスク &gt; 作成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで「マスク」を適用</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「マスク」を適用</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで「クリップ」を選択</pre>\n",
+			"option_html": "<pre>アピアランスパネルで「クリップ」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > マスク > 適用</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; マスク &gt; 適用</pre>\n"
+		}
+	]
+}

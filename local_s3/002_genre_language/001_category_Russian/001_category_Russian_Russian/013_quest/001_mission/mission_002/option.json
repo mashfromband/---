@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>а → ы</pre>\n",
+			"option_html": "<pre>а → ы</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>е → я</pre>\n",
+			"option_html": "<pre>е → я</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ь→ и</pre>\n",
+			"option_html": "<pre>ь→ и</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>я → и</pre>\n",
+			"option_html": "<pre>я → и</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを削除する</pre>\n",
+			"option_html": "<pre>レイヤーを削除する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを複製する</pre>\n",
+			"option_html": "<pre>レイヤーを複製する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像をモノクロにする</pre>\n",
+			"option_html": "<pre>画像をモノクロにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特定のフィルム風カラー効果を適用する</pre>\n",
+			"option_html": "<pre>特定のフィルム風カラー効果を適用する</pre>\n"
+		}
+	]
+}

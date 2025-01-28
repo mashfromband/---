@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"文法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>主格の最も重要な機能は主語を表すことである</pre>\n",
+			"option_html": "<pre>主格の最も重要な機能は主語を表すことである</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>主格の最も重要な機能は動詞を表すことである</pre>\n",
+			"option_html": "<pre>主格の最も重要な機能は動詞を表すことである</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>主格の最も重要な機能は形容詞を表すことである</pre>\n",
+			"option_html": "<pre>主格の最も重要な機能は形容詞を表すことである</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>主格の最も重要な機能は人格を表すことである</pre>\n",
+			"option_html": "<pre>主格の最も重要な機能は人格を表すことである</pre>\n"
+		}
+	]
+}

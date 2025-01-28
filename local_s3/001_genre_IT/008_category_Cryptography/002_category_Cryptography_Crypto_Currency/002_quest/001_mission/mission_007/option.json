@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨の価格を設定する役割</pre>\n",
+			"option_html": "<pre>仮想通貨の価格を設定する役割</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨を購入するためのアカウント</pre>\n",
+			"option_html": "<pre>仮想通貨を購入するためのアカウント</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ブロックチェーン上のデータを保存し、取引を検証する役割</pre>\n",
+			"option_html": "<pre>ブロックチェーン上のデータを保存し、取引を検証する役割</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引データを削除する機能</pre>\n",
+			"option_html": "<pre>取引データを削除する機能</pre>\n"
+		}
+	]
+}

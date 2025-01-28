@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>質問せず聞き流す</pre>\n",
+			"option_html": "<pre>質問せず聞き流す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>話を最後まで聞く</pre>\n",
+			"option_html": "<pre>話を最後まで聞く</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>話を急がす</pre>\n",
+			"option_html": "<pre>話を急がす</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分の話を挟む</pre>\n",
+			"option_html": "<pre>自分の話を挟む</pre>\n"
+		}
+	]
+}

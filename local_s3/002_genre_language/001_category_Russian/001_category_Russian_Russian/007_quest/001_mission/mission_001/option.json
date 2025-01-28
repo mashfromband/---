@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>I love you.</pre>\n",
+			"option_html": "<pre>I love you.</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>I have sisters.</pre>\n",
+			"option_html": "<pre>I have sisters.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>I'll give you money.</pre>\n",
+			"option_html": "<pre>I'll give you money.</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>I'm Hiroshi.</pre>\n",
+			"option_html": "<pre>I'm Hiroshi.</pre>\n"
+		}
+	]
+}

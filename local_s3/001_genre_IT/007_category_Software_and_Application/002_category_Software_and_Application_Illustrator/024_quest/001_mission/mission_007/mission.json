@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>線形グラデーション</pre>\n",
+			"option_html": "<pre>線形グラデーション</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>放射状グラデーション</pre>\n",
+			"option_html": "<pre>放射状グラデーション</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>円形グラデーション</pre>\n",
+			"option_html": "<pre>円形グラデーション</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>カスタムグラデーション</pre>\n",
+			"option_html": "<pre>カスタムグラデーション</pre>\n"
+		}
+	]
+}

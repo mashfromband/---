@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーを非表示にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>全体の彩度を変更する</pre>\n",
+			"option_html": "<pre>全体の彩度を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲を保存する</pre>\n",
+			"option_html": "<pre>選択範囲を保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗い部分を明るくしたり、明るい部分を暗くしたりできる</pre>\n",
+			"option_html": "<pre>暗い部分を明るくしたり、明るい部分を暗くしたりできる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>描画モードを変更する</pre>\n",
+			"option_html": "<pre>描画モードを変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スナップを無効にする</pre>\n",
+			"option_html": "<pre>スナップを無効にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シフトキーを押しながら変形する</pre>\n",
+			"option_html": "<pre>シフトキーを押しながら変形する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーをロック解除する</pre>\n",
+			"option_html": "<pre>レイヤーをロック解除する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "劉備\n",
+			"option_html": "<p>劉備</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "劉禅\n",
+			"option_html": "<p>劉禅</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "諸葛亮\n",
+			"option_html": "<p>諸葛亮</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "趙雲\n",
+			"option_html": "<p>趙雲</p>\n"
+		}
+	]
+}

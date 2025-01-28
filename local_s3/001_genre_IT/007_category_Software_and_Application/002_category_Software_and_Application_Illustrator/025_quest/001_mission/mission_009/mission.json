@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ペンツールでパスを描き、テキストを沿わせる</pre>\n",
+			"option_html": "<pre>ペンツールでパスを描き、テキストを沿わせる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字ツールでパスを作成する</pre>\n",
+			"option_html": "<pre>文字ツールでパスを作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルでパスを作成する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでパスを作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スウォッチパネルでパスを作成する</pre>\n",
+			"option_html": "<pre>スウォッチパネルでパスを作成する</pre>\n"
+		}
+	]
+}

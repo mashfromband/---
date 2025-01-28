@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーの不透明度が0になっていないか確認する</pre>\n",
+			"option_html": "<pre>レイヤーの不透明度が0になっていないか確認する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ツールプリセットが正しく設定されているか確認する</pre>\n",
+			"option_html": "<pre>ツールプリセットが正しく設定されているか確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Caps Lockキーがオンになっていないか確認する</pre>\n",
+			"option_html": "<pre>Caps Lockキーがオンになっていないか確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>GPU設定が無効になっていないか確認する</pre>\n",
+			"option_html": "<pre>GPU設定が無効になっていないか確認する</pre>\n"
+		}
+	]
+}

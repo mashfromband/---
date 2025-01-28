@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>JPEG</pre>\n",
+			"option_html": "<pre>JPEG</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PNG</pre>\n",
+			"option_html": "<pre>PNG</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>BMP</pre>\n",
+			"option_html": "<pre>BMP</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>PSD</pre>\n",
+			"option_html": "<pre>PSD</pre>\n"
+		}
+	]
+}

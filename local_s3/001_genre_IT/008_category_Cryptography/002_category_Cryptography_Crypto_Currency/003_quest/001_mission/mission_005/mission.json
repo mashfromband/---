@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨の価格を決定する</pre>\n",
+			"option_html": "<pre>仮想通貨の価格を決定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨を送信するための許可を与える</pre>\n",
+			"option_html": "<pre>仮想通貨を送信するための許可を与える</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨の取引を検証し、新しい通貨を生成する</pre>\n",
+			"option_html": "<pre>仮想通貨の取引を検証し、新しい通貨を生成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨を現金に交換する</pre>\n",
+			"option_html": "<pre>仮想通貨を現金に交換する</pre>\n"
+		}
+	]
+}

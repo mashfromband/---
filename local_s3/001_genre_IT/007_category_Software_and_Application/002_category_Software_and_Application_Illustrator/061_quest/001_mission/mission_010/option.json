@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スマートガイド</pre>\n",
+			"option_html": "<pre>スマートガイド</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グリッドにスナップ</pre>\n",
+			"option_html": "<pre>グリッドにスナップ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスにスナップ</pre>\n",
+			"option_html": "<pre>パスにスナップ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>キーオブジェクトを設定</pre>\n",
+			"option_html": "<pre>キーオブジェクトを設定</pre>\n"
+		}
+	]
+}

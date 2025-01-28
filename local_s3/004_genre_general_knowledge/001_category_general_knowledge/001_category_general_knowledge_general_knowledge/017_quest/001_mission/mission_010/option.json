@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ノウハウ</pre>\n",
+			"option_html": "<pre>ノウハウ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ナレッジ</pre>\n",
+			"option_html": "<pre>ナレッジ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スキル</pre>\n",
+			"option_html": "<pre>スキル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハウツー</pre>\n",
+			"option_html": "<pre>ハウツー</pre>\n"
+		}
+	]
+}

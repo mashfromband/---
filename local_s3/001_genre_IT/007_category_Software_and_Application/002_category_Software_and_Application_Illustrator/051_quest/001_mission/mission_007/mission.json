@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"フィルター"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルター > アーティスティック > 水彩画</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック &gt; 水彩画</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > アーティスティック > 水彩画</pre>\n",
+			"option_html": "<pre>効果 &gt; アーティスティック &gt; 水彩画</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > アーティスティック > 油絵</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック &gt; 油絵</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 3D > 水彩画</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; 水彩画</pre>\n"
+		}
+	]
+}

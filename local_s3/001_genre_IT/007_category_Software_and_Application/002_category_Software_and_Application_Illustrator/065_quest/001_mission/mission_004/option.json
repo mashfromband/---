@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > 3D > シャドウを選択する</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; シャドウを選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルでシャドウを追加する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでシャドウを追加する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文字パネルでシャドウ効果を設定する</pre>\n",
+			"option_html": "<pre>文字パネルでシャドウ効果を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > ぼかし > シャドウを選択する</pre>\n",
+			"option_html": "<pre>効果 &gt; ぼかし &gt; シャドウを選択する</pre>\n"
+		}
+	]
+}

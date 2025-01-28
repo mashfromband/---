@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを直接編集する</pre>\n",
+			"option_html": "<pre>レイヤーを直接編集する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スマートオブジェクトを使用する</pre>\n",
+			"option_html": "<pre>スマートオブジェクトを使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>イメージの統合を行う</pre>\n",
+			"option_html": "<pre>イメージの統合を行う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>別名で保存する</pre>\n",
+			"option_html": "<pre>別名で保存する</pre>\n"
+		}
+	]
+}

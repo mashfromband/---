@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>大量データの長期保存</pre>\n",
+			"option_html": "<pre>大量データの長期保存</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの収集と基本的なフィルタリング</pre>\n",
+			"option_html": "<pre>データの収集と基本的なフィルタリング</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クラウドサーバーのメンテナンス</pre>\n",
+			"option_html": "<pre>クラウドサーバーのメンテナンス</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>衛星を利用した通信管理</pre>\n",
+			"option_html": "<pre>衛星を利用した通信管理</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "フィレンツェ\n",
+			"option_html": "<p>フィレンツェ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ナポリ\n",
+			"option_html": "<p>ナポリ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ミラノ\n",
+			"option_html": "<p>ミラノ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ローマ\n",
+			"option_html": "<p>ローマ</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>通信速度を低下させるため</pre>\n",
+			"option_html": "<pre>通信速度を低下させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークを分割してセキュリティと効率を向上させるため</pre>\n",
+			"option_html": "<pre>ネットワークを分割してセキュリティと効率を向上させるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイス数を減らすため</pre>\n",
+			"option_html": "<pre>デバイス数を減らすため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データのローカル保存を無効化するため</pre>\n",
+			"option_html": "<pre>データのローカル保存を無効化するため</pre>\n"
+		}
+	]
+}

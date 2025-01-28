@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>成績データを改ざんできるようになる</pre>\n",
+			"option_html": "<pre>成績データを改ざんできるようになる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>各学校が独自に成績データを管理する</pre>\n",
+			"option_html": "<pre>各学校が独自に成績データを管理する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>学生の成績データを改ざんできないようにする</pre>\n",
+			"option_html": "<pre>学生の成績データを改ざんできないようにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>成績情報を公開しないことを保証する</pre>\n",
+			"option_html": "<pre>成績情報を公開しないことを保証する</pre>\n"
+		}
+	]
+}

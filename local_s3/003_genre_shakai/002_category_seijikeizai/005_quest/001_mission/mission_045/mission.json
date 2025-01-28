@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"国際",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "タイ\n",
+			"option_html": "<p>タイ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ベトナム\n",
+			"option_html": "<p>ベトナム</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ラオス\n",
+			"option_html": "<p>ラオス</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ウズベキスタン\n",
+			"option_html": "<p>ウズベキスタン</p>\n"
+		}
+	]
+}

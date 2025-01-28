@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤーパネル」からフォントを選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」からフォントを選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」のオプションバーからフォントを選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」のオプションバーからフォントを選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「段落」パネルからフォントを選ぶ</pre>\n",
+			"option_html": "<pre>「段落」パネルからフォントを選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「フィルター」メニューからフォントを変更する</pre>\n",
+			"option_html": "<pre>「フィルター」メニューからフォントを変更する</pre>\n"
+		}
+	]
+}

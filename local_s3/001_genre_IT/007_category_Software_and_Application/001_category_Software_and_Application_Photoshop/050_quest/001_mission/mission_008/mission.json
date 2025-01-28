@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>調整レイヤーが適切なレイヤー順に配置されていない</pre>\n",
+			"option_html": "<pre>調整レイヤーが適切なレイヤー順に配置されていない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像がロックされている</pre>\n",
+			"option_html": "<pre>画像がロックされている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「スマートフィルターを有効化」がチェックされていない</pre>\n",
+			"option_html": "<pre>「スマートフィルターを有効化」がチェックされていない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーマスクがオフになっている</pre>\n",
+			"option_html": "<pre>レイヤーマスクがオフになっている</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "桓武天皇\n",
+			"option_html": "<p>桓武天皇</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "光仁天皇\n",
+			"option_html": "<p>光仁天皇</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "平城天皇\n",
+			"option_html": "<p>平城天皇</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "淳和天皇\n",
+			"option_html": "<p>淳和天皇</p>\n"
+		}
+	]
+}

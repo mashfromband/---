@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"マネジメント系",
+		"プロジェクトマネジメント",
+		"プロジェクトマネジメント"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "進捗管理\n",
+			"option_html": "<p>進捗管理</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "スケジュール立案\n",
+			"option_html": "<p>スケジュール立案</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "プロジェクト目標の明確化\n",
+			"option_html": "<p>プロジェクト目標の明確化</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "予算立案\n",
+			"option_html": "<p>予算立案</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>炭素排出量のデータを改ざんできない形で記録する</pre>\n",
+			"option_html": "<pre>炭素排出量のデータを改ざんできない形で記録する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>炭素排出量を削減するための直接的な技術である</pre>\n",
+			"option_html": "<pre>炭素排出量を削減するための直接的な技術である</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>環境データを紙媒体で保存する</pre>\n",
+			"option_html": "<pre>環境データを紙媒体で保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>炭素排出量の情報を完全に非公開にする</pre>\n",
+			"option_html": "<pre>炭素排出量の情報を完全に非公開にする</pre>\n"
+		}
+	]
+}

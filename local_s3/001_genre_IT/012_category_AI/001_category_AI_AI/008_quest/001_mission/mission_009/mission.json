@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"学生向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>美術の先生に人物画の描き方を教わる</pre>\n",
+			"option_html": "<pre>美術の先生に人物画の描き方を教わる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>人物のポーズを自動生成してくれるツールを使う</pre>\n",
+			"option_html": "<pre>人物のポーズを自動生成してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>人物画の描き方に関する本を参考にする</pre>\n",
+			"option_html": "<pre>人物画の描き方に関する本を参考にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>美術館に行って、人物画を鑑賞する</pre>\n",
+			"option_html": "<pre>美術館に行って、人物画を鑑賞する</pre>\n"
+		}
+	]
+}

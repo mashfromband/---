@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨の送金</pre>\n",
+			"option_html": "<pre>仮想通貨の送金</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デジタルアートやコレクションの所有権証明</pre>\n",
+			"option_html": "<pre>デジタルアートやコレクションの所有権証明</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>銀行取引の記録管理</pre>\n",
+			"option_html": "<pre>銀行取引の記録管理</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>通常の株式取引の代替手段</pre>\n",
+			"option_html": "<pre>通常の株式取引の代替手段</pre>\n"
+		}
+	]
+}

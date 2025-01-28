@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"良い仕事をする為に",
+		"ノウハウとマインド（25）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>誰にも報告しない</pre>\n",
+			"option_html": "<pre>誰にも報告しない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>上司にすぐ報告する</pre>\n",
+			"option_html": "<pre>上司にすぐ報告する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>責任を他人に押し付ける</pre>\n",
+			"option_html": "<pre>責任を他人に押し付ける</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>修正せずに進める</pre>\n",
+			"option_html": "<pre>修正せずに進める</pre>\n"
+		}
+	]
+}

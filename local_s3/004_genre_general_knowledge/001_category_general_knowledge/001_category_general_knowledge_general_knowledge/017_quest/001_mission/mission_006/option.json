@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>現場・現物・現認</pre>\n",
+			"option_html": "<pre>現場・現物・現認</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>整理・整頓・清掃</pre>\n",
+			"option_html": "<pre>整理・整頓・清掃</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ムダ・ムラ・ムリ</pre>\n",
+			"option_html": "<pre>ムダ・ムラ・ムリ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ムシ・ムゲ・ムイ</pre>\n",
+			"option_html": "<pre>ムシ・ムゲ・ムイ</pre>\n"
+		}
+	]
+}

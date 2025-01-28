@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"カラー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>カラーパネルでCMYKモードを選択して色を指定する</pre>\n",
+			"option_html": "<pre>カラーパネルでCMYKモードを選択して色を指定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルでCMYKを選ぶ</pre>\n",
+			"option_html": "<pre>スウォッチパネルでCMYKを選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 色設定 > CMYKを選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 色設定 &gt; CMYKを選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルでCMYKを指定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでCMYKを指定する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>F5キー</pre>\n",
+			"option_html": "<pre>F5キー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + Cキー</pre>\n",
+			"option_html": "<pre>Ctrl + Cキー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Escキー</pre>\n",
+			"option_html": "<pre>Escキー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Alt + Enterキー</pre>\n",
+			"option_html": "<pre>Alt + Enterキー</pre>\n"
+		}
+	]
+}

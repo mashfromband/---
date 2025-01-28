@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの物理的な破損</pre>\n",
+			"option_html": "<pre>データの物理的な破損</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不適切なアクセス制御によるデータ漏洩</pre>\n",
+			"option_html": "<pre>不適切なアクセス制御によるデータ漏洩</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クラウドサービスの価格上昇</pre>\n",
+			"option_html": "<pre>クラウドサービスの価格上昇</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドサービスのユーザー数制限</pre>\n",
+			"option_html": "<pre>クラウドサービスのユーザー数制限</pre>\n"
+		}
+	]
+}

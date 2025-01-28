@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>よかったですね</pre>\n",
+			"option_html": "<pre>よかったですね</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>本当にありがとうございます</pre>\n",
+			"option_html": "<pre>本当にありがとうございます</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ありがとう</pre>\n",
+			"option_html": "<pre>ありがとう</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>その程度ですか</pre>\n",
+			"option_html": "<pre>その程度ですか</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "682年\n",
+			"option_html": "<p>682年</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "683年\n",
+			"option_html": "<p>683年</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "684年\n",
+			"option_html": "<p>684年</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "685年\n",
+			"option_html": "<p>685年</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全体の色相が異なるトーンに変化する</pre>\n",
+			"option_html": "<pre>全体の色相が異なるトーンに変化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度が減少する</pre>\n",
+			"option_html": "<pre>彩度が減少する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像がモノクロ化される</pre>\n",
+			"option_html": "<pre>画像がモノクロ化される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>明るさが増加する</pre>\n",
+			"option_html": "<pre>明るさが増加する</pre>\n"
+		}
+	]
+}

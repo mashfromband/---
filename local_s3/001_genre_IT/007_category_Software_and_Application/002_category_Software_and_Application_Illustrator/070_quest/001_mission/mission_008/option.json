@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字パネルでパスに沿わせる設定をする</pre>\n",
+			"option_html": "<pre>文字パネルでパスに沿わせる設定をする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルでパスに沿わせる設定をする</pre>\n",
+			"option_html": "<pre>アピアランスパネルでパスに沿わせる設定をする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスにテキストを沿わせるツールを使用する</pre>\n",
+			"option_html": "<pre>パスにテキストを沿わせるツールを使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字ツールでパスに沿わせる設定をする</pre>\n",
+			"option_html": "<pre>文字ツールでパスに沿わせる設定をする</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>不要なデータの削除を自動化するため</pre>\n",
+			"option_html": "<pre>不要なデータの削除を自動化するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウドストレージの速度を向上させるため</pre>\n",
+			"option_html": "<pre>クラウドストレージの速度を向上させるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データがバックアップされる頻度を高めるため</pre>\n",
+			"option_html": "<pre>データがバックアップされる頻度を高めるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データの不正アクセスや誤操作による漏洩を防ぐため</pre>\n",
+			"option_html": "<pre>データの不正アクセスや誤操作による漏洩を防ぐため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"国際",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "バングラデシュ\n",
+			"option_html": "<p>バングラデシュ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "パキスタン\n",
+			"option_html": "<p>パキスタン</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "スリランカ\n",
+			"option_html": "<p>スリランカ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ネパール\n",
+			"option_html": "<p>ネパール</p>\n"
+		}
+	]
+}

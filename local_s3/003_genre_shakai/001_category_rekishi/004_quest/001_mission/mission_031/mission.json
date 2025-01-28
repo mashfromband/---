@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "クフ王\n",
+			"option_html": "<p>クフ王</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "シェンティ\n",
+			"option_html": "<p>シェンティ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "アアル\n",
+			"option_html": "<p>アアル</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ファラオ\n",
+			"option_html": "<p>ファラオ</p>\n"
+		}
+	]
+}

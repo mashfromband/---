@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"フィルター"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルター > アーティスティック > ネオン</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック &gt; ネオン</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > スタイライズ > グロー</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; グロー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > スタイライズ > グロー</pre>\n",
+			"option_html": "<pre>フィルター &gt; スタイライズ &gt; グロー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 3D > グロー</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; グロー</pre>\n"
+		}
+	]
+}

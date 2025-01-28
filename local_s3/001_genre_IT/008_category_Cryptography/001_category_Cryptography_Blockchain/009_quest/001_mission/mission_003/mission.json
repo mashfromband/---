@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>中央集権的なガバナンスを採用して透明性を確保する</pre>\n",
+			"option_html": "<pre>中央集権的なガバナンスを採用して透明性を確保する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべての決定をノード間で非公開に共有する</pre>\n",
+			"option_html": "<pre>すべての決定をノード間で非公開に共有する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>意思決定プロセスを記録せず、効率を重視する</pre>\n",
+			"option_html": "<pre>意思決定プロセスを記録せず、効率を重視する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートコントラクトを使用して意思決定プロセスを自動化し、改ざんを防止する</pre>\n",
+			"option_html": "<pre>スマートコントラクトを使用して意思決定プロセスを自動化し、改ざんを防止する</pre>\n"
+		}
+	]
+}

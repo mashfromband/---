@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ストラテジ",
+		"経営戦略",
+		"ビジネス経営"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "BCP\n",
+			"option_html": "<p>BCP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SCM\n",
+			"option_html": "<p>SCM</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "CSF\n",
+			"option_html": "<p>CSF</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "CRM\n",
+			"option_html": "<p>CRM</p>\n"
+		}
+	]
+}

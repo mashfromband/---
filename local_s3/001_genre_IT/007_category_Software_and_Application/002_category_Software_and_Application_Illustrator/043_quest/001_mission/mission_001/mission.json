@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>毎回手動でオブジェクトをコピー＆ペーストする</pre>\n",
+			"option_html": "<pre>毎回手動でオブジェクトをコピー＆ペーストする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl（Cmd）＋Dで繰り返し複製する</pre>\n",
+			"option_html": "<pre>Ctrl（Cmd）＋Dで繰り返し複製する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>必要な回数だけ新規作成する</pre>\n",
+			"option_html": "<pre>必要な回数だけ新規作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>一度作業を中断して確認する</pre>\n",
+			"option_html": "<pre>一度作業を中断して確認する</pre>\n"
+		}
+	]
+}

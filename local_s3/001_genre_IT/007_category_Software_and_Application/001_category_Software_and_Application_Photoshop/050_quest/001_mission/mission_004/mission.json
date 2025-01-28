@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「編集」メニューの「環境設定」</pre>\n",
+			"option_html": "<pre>「編集」メニューの「環境設定」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ファイル」メニューの「新規」</pre>\n",
+			"option_html": "<pre>「ファイル」メニューの「新規」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「表示」メニューの「ルーラー」</pre>\n",
+			"option_html": "<pre>「表示」メニューの「ルーラー」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ウィンドウ」メニューの「ツール」</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「ツール」</pre>\n"
+		}
+	]
+}

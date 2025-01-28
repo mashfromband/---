@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スープ</pre>\n",
+			"option_html": "<pre>スープ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シチュー</pre>\n",
+			"option_html": "<pre>シチュー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ロシア</pre>\n",
+			"option_html": "<pre>ロシア</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シチー</pre>\n",
+			"option_html": "<pre>シチー</pre>\n"
+		}
+	]
+}

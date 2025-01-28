@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字パネルで位置を調整する</pre>\n",
+			"option_html": "<pre>文字パネルで位置を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 配置で位置を調整する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置で位置を調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで位置を調整する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで位置を調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字ツールで位置を調整する</pre>\n",
+			"option_html": "<pre>文字ツールで位置を調整する</pre>\n"
+		}
+	]
+}

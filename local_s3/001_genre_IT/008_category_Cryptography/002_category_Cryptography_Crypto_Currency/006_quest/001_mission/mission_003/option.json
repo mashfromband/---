@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ビットコインの後に登場したすべての仮想通貨</pre>\n",
+			"option_html": "<pre>ビットコインの後に登場したすべての仮想通貨</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ビットコインに統合されている仮想通貨</pre>\n",
+			"option_html": "<pre>ビットコインに統合されている仮想通貨</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>国が発行する仮想通貨</pre>\n",
+			"option_html": "<pre>国が発行する仮想通貨</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>金や銀に裏付けられた仮想通貨</pre>\n",
+			"option_html": "<pre>金や銀に裏付けられた仮想通貨</pre>\n"
+		}
+	]
+}

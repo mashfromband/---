@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オートSUM</pre>\n",
+			"option_html": "<pre>オートSUM</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>条件付き書式</pre>\n",
+			"option_html": "<pre>条件付き書式</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>並べ替え</pre>\n",
+			"option_html": "<pre>並べ替え</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルの結合</pre>\n",
+			"option_html": "<pre>セルの結合</pre>\n"
+		}
+	]
+}

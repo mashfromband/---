@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「エッジの精度」</pre>\n",
+			"option_html": "<pre>「エッジの精度」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「フォントの種類」</pre>\n",
+			"option_html": "<pre>「フォントの種類」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「画像の解像度」</pre>\n",
+			"option_html": "<pre>「画像の解像度」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「色調の補正」</pre>\n",
+			"option_html": "<pre>「色調の補正」</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトの期間が短いこと</pre>\n",
+			"option_html": "<pre>プロジェクトの期間が短いこと</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>チームメンバーが満足していること</pre>\n",
+			"option_html": "<pre>チームメンバーが満足していること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スコープ、時間、コストの要件を満たすこと</pre>\n",
+			"option_html": "<pre>スコープ、時間、コストの要件を満たすこと</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの成果物が複数あること</pre>\n",
+			"option_html": "<pre>プロジェクトの成果物が複数あること</pre>\n"
+		}
+	]
+}

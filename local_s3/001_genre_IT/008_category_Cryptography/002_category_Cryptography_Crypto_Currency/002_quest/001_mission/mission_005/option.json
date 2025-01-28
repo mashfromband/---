@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨の価格を設定する</pre>\n",
+			"option_html": "<pre>仮想通貨の価格を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の取引を記録し新しい通貨を生成する</pre>\n",
+			"option_html": "<pre>仮想通貨の取引を記録し新しい通貨を生成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨を利用するための許可を与える</pre>\n",
+			"option_html": "<pre>仮想通貨を利用するための許可を与える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨を他の通貨に交換する</pre>\n",
+			"option_html": "<pre>仮想通貨を他の通貨に交換する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データタブの「並べ替え」を使用する</pre>\n",
+			"option_html": "<pre>データタブの「並べ替え」を使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを選択して「Ctrl + D」を押す</pre>\n",
+			"option_html": "<pre>セルを選択して「Ctrl + D」を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルを右クリックして「コメントの挿入」を選択する</pre>\n",
+			"option_html": "<pre>セルを右クリックして「コメントの挿入」を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ホームタブで「フォントサイズ」を変更する</pre>\n",
+			"option_html": "<pre>ホームタブで「フォントサイズ」を変更する</pre>\n"
+		}
+	]
+}

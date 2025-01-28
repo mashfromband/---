@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "吉田茂\n",
+			"option_html": "<p>吉田茂</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "鳩山一郎\n",
+			"option_html": "<p>鳩山一郎</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "石橋湛山\n",
+			"option_html": "<p>石橋湛山</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "岸信介\n",
+			"option_html": "<p>岸信介</p>\n"
+		}
+	]
+}

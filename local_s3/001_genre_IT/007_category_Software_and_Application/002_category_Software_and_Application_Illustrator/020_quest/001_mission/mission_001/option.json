@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Shiftキーを押しながらドラッグ</pre>\n",
+			"option_html": "<pre>Shiftキーを押しながらドラッグ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Altキーを押しながらドラッグ</pre>\n",
+			"option_html": "<pre>Altキーを押しながらドラッグ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrlキーを押しながらドラッグ</pre>\n",
+			"option_html": "<pre>Ctrlキーを押しながらドラッグ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Alt + Shiftキーを押しながらドラッグ</pre>\n",
+			"option_html": "<pre>Alt + Shiftキーを押しながらドラッグ</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーごと削除する</pre>\n",
+			"option_html": "<pre>レイヤーごと削除する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>全体を削除して再作成する</pre>\n",
+			"option_html": "<pre>全体を削除して再作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択ツールで削除する</pre>\n",
+			"option_html": "<pre>選択ツールで削除する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>消しゴムツールを使用する</pre>\n",
+			"option_html": "<pre>消しゴムツールを使用する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ハッシュ値</pre>\n",
+			"option_html": "<pre>ハッシュ値</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トランザクションID</pre>\n",
+			"option_html": "<pre>トランザクションID</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ノードアドレス</pre>\n",
+			"option_html": "<pre>ノードアドレス</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>コンセンサス</pre>\n",
+			"option_html": "<pre>コンセンサス</pre>\n"
+		}
+	]
+}

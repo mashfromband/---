@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ウィンドウ」メニューの「ツール」から変更する</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「ツール」から変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「編集」メニューの「環境設定」から変更する</pre>\n",
+			"option_html": "<pre>「編集」メニューの「環境設定」から変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Photoshopの再起動時に設定する</pre>\n",
+			"option_html": "<pre>Photoshopの再起動時に設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ツールのアイコンサイズは変更できない</pre>\n",
+			"option_html": "<pre>ツールのアイコンサイズは変更できない</pre>\n"
+		}
+	]
+}

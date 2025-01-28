@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"ショートカット"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>別名で保存</pre>\n",
+			"option_html": "<pre>別名で保存</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>新規ドキュメントを作成する</pre>\n",
+			"option_html": "<pre>新規ドキュメントを作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイルを閉じる</pre>\n",
+			"option_html": "<pre>ファイルを閉じる</pre>\n"
+		}
+	]
+}

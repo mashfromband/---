@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>最後のアンカーポイントをクリック</pre>\n",
+			"option_html": "<pre>最後のアンカーポイントをクリック</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アンカーポイント削除ツールで削除</pre>\n",
+			"option_html": "<pre>アンカーポイント削除ツールで削除</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パス > 閉じるを選択</pre>\n",
+			"option_html": "<pre>パス &gt; 閉じるを選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ダイレクト選択ツールで閉じる</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツールで閉じる</pre>\n"
+		}
+	]
+}

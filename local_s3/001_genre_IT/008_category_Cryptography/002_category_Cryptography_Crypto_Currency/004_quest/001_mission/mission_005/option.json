@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>秘密鍵を安全な場所に保管する</pre>\n",
+			"option_html": "<pre>秘密鍵を安全な場所に保管する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>公開鍵を複数の人に共有する</pre>\n",
+			"option_html": "<pre>公開鍵を複数の人に共有する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オンラインで秘密鍵を公開する</pre>\n",
+			"option_html": "<pre>オンラインで秘密鍵を公開する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスワードを設定せずに利用する</pre>\n",
+			"option_html": "<pre>パスワードを設定せずに利用する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスファインダー > 合体</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 合体</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グループ化</pre>\n",
+			"option_html": "<pre>グループ化</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで統合</pre>\n",
+			"option_html": "<pre>レイヤーパネルで統合</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > パス > 合体</pre>\n",
+			"option_html": "<pre>効果 &gt; パス &gt; 合体</pre>\n"
+		}
+	]
+}

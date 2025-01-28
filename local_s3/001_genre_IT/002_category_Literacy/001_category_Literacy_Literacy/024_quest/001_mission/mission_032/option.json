@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "パケット通信\n",
+			"option_html": "<p>パケット通信</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ストリーミング\n",
+			"option_html": "<p>ストリーミング</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ブロードキャスト\n",
+			"option_html": "<p>ブロードキャスト</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "リアルタイム通信\n",
+			"option_html": "<p>リアルタイム通信</p>\n"
+		}
+	]
+}

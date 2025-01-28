@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤーパネル」から透明度スライダーを使用する</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から透明度スライダーを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「選択範囲」メニューから透明度を変更する</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから透明度を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「フィルター」メニューから透明度を変更する</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから透明度を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤー」メニューから透明度を変更する</pre>\n",
+			"option_html": "<pre>「レイヤー」メニューから透明度を変更する</pre>\n"
+		}
+	]
+}

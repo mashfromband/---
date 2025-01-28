@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>空気や水質データを収集し、リアルタイムで分析する</pre>\n",
+			"option_html": "<pre>空気や水質データを収集し、リアルタイムで分析する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>環境データを削除する</pre>\n",
+			"option_html": "<pre>環境データを削除する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>環境センサーを物理的に破壊する</pre>\n",
+			"option_html": "<pre>環境センサーを物理的に破壊する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>環境データを収集せずに保存する</pre>\n",
+			"option_html": "<pre>環境データを収集せずに保存する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"学生向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>古典文学作品を読む</pre>\n",
+			"option_html": "<pre>古典文学作品を読む</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>古文を現代語訳してくれるツールを使う</pre>\n",
+			"option_html": "<pre>古文を現代語訳してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>古文の先生に質問する</pre>\n",
+			"option_html": "<pre>古文の先生に質問する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>古文の参考書を繰り返し読む</pre>\n",
+			"option_html": "<pre>古文の参考書を繰り返し読む</pre>\n"
+		}
+	]
+}

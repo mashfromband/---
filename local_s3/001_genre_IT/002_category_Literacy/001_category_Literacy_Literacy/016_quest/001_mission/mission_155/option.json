@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "電子メールの送受信\n",
+			"option_html": "<p>電子メールの送受信</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ウェブページのデータを転送する\n",
+			"option_html": "<p>ウェブページのデータを転送する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "データベースとの接続\n",
+			"option_html": "<p>データベースとの接続</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ファイル転送のためのプロトコル\n",
+			"option_html": "<p>ファイル転送のためのプロトコル</p>\n"
+		}
+	]
+}

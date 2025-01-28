@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ロシア語の単語の変化の一覧表である</pre>\n",
+			"option_html": "<pre>ロシア語の単語の変化の一覧表である</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ロシア語の単語の変化に関する一覧表である</pre>\n",
+			"option_html": "<pre>ロシア語の単語の変化に関する一覧表である</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ロシア語の単語の変化の大まかな指標になる</pre>\n",
+			"option_html": "<pre>ロシア語の単語の変化の大まかな指標になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ロシア語の単語の変化の絶対的な指標になる</pre>\n",
+			"option_html": "<pre>ロシア語の単語の変化の絶対的な指標になる</pre>\n"
+		}
+	]
+}

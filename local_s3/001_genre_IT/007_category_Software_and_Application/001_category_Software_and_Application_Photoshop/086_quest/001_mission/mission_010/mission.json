@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"雑学"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シャープネスフィルター</pre>\n",
+			"option_html": "<pre>シャープネスフィルター</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ぼかしフィルター</pre>\n",
+			"option_html": "<pre>ぼかしフィルター</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自動調整ツール</pre>\n",
+			"option_html": "<pre>自動調整ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>明るさ/コントラストツール</pre>\n",
+			"option_html": "<pre>明るさ/コントラストツール</pre>\n"
+		}
+	]
+}

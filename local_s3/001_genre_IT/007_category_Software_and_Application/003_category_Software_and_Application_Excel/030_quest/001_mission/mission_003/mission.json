@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"データ入力・編集"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Alt + Enterを押す</pre>\n",
+			"option_html": "<pre>Alt + Enterを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + Cを押す</pre>\n",
+			"option_html": "<pre>Ctrl + Cを押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + Zを押す</pre>\n",
+			"option_html": "<pre>Ctrl + Zを押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Shift + Tabを押す</pre>\n",
+			"option_html": "<pre>Shift + Tabを押す</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コンピュータウイルスを使用する</pre>\n",
+			"option_html": "<pre>コンピュータウイルスを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>システムの脆弱性を突いて攻撃する</pre>\n",
+			"option_html": "<pre>システムの脆弱性を突いて攻撃する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>人間の心理や信頼を利用して情報を盗む</pre>\n",
+			"option_html": "<pre>人間の心理や信頼を利用して情報を盗む</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワークの通信を盗聴する</pre>\n",
+			"option_html": "<pre>ネットワークの通信を盗聴する</pre>\n"
+		}
+	]
+}

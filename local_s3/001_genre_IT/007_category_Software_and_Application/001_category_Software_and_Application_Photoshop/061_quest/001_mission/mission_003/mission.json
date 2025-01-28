@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「別名で保存」</pre>\n",
+			"option_html": "<pre>「別名で保存」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「エクスポート」</pre>\n",
+			"option_html": "<pre>「エクスポート」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「Web用に保存」</pre>\n",
+			"option_html": "<pre>「Web用に保存」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「プリント」</pre>\n",
+			"option_html": "<pre>「プリント」</pre>\n"
+		}
+	]
+}

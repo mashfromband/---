@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シェイプモードがパスに設定されている</pre>\n",
+			"option_html": "<pre>シェイプモードがパスに設定されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ペンツールのオプションで線の太さがゼロに設定されている</pre>\n",
+			"option_html": "<pre>ペンツールのオプションで線の太さがゼロに設定されている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーが非表示になっている</pre>\n",
+			"option_html": "<pre>レイヤーが非表示になっている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>塗りの設定が「なし」になっている</pre>\n",
+			"option_html": "<pre>塗りの設定が「なし」になっている</pre>\n"
+		}
+	]
+}

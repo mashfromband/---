@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "武王\n",
+			"option_html": "<p>武王</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "恵公\n",
+			"option_html": "<p>恵公</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "始皇帝\n",
+			"option_html": "<p>始皇帝</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "秦仲\n",
+			"option_html": "<p>秦仲</p>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ストラテジ系",
+		"法務",
+		"標準化関連"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "JAN\n",
+			"option_html": "<p>JAN</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "JAS\n",
+			"option_html": "<p>JAS</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "JIS\n",
+			"option_html": "<p>JIS</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "QR\n",
+			"option_html": "<p>QR</p>\n"
+		}
+	]
+}

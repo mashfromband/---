@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"マネジメント系",
+		"プロジェクトマネジメント",
+		"プロジェクトマネジメント"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "40\n",
+			"option_html": "<p>40</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "47\n",
+			"option_html": "<p>47</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "53\n",
+			"option_html": "<p>53</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "60\n",
+			"option_html": "<p>60</p>\n"
+		}
+	]
+}

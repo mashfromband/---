@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想マシンを柔軟に構築・管理できる</pre>\n",
+			"option_html": "<pre>仮想マシンを柔軟に構築・管理できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>イベントベースでコードを実行し、インフラ管理が不要になる</pre>\n",
+			"option_html": "<pre>イベントベースでコードを実行し、インフラ管理が不要になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データ分析を高速で行えるツールを提供する</pre>\n",
+			"option_html": "<pre>データ分析を高速で行えるツールを提供する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイルやデータを保存するためのサービス</pre>\n",
+			"option_html": "<pre>ファイルやデータを保存するためのサービス</pre>\n"
+		}
+	]
+}

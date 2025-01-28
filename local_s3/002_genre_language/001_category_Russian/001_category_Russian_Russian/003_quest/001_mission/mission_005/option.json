@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>table の \"t\"</pre>\n",
+			"option_html": "<pre>table の \"t\"</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>pen の \"p\"</pre>\n",
+			"option_html": "<pre>pen の \"p\"</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>book の \"b\"</pre>\n",
+			"option_html": "<pre>book の \"b\"</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>chair の \"ch\"</pre>\n",
+			"option_html": "<pre>chair の \"ch\"</pre>\n"
+		}
+	]
+}

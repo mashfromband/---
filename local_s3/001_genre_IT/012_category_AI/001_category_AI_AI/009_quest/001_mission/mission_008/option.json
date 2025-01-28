@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>化学の実験レポートの書き方に関する本を参考にする</pre>\n",
+			"option_html": "<pre>化学の実験レポートの書き方に関する本を参考にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>過去の化学の実験レポートを参考にする</pre>\n",
+			"option_html": "<pre>過去の化学の実験レポートを参考にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>親に実験レポートを書いてもらう</pre>\n",
+			"option_html": "<pre>親に実験レポートを書いてもらう</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>実験レポートの構成や内容を提案してくれるツールを使う</pre>\n",
+			"option_html": "<pre>実験レポートの構成や内容を提案してくれるツールを使う</pre>\n"
+		}
+	]
+}

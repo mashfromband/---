@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クラウドサービスの利用料金</pre>\n",
+			"option_html": "<pre>クラウドサービスの利用料金</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データが規制に準拠して保存・管理されること</pre>\n",
+			"option_html": "<pre>データが規制に準拠して保存・管理されること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クラウド環境でのアプリケーション速度</pre>\n",
+			"option_html": "<pre>クラウド環境でのアプリケーション速度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドサービスの提供地域</pre>\n",
+			"option_html": "<pre>クラウドサービスの提供地域</pre>\n"
+		}
+	]
+}

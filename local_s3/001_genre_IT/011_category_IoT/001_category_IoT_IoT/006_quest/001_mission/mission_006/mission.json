@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>デバイス間の通信を暗号化する手順</pre>\n",
+			"option_html": "<pre>デバイス間の通信を暗号化する手順</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>各デバイスが正規のものであることを確認するプロセス</pre>\n",
+			"option_html": "<pre>各デバイスが正規のものであることを確認するプロセス</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データをバックアップする手順</pre>\n",
+			"option_html": "<pre>データをバックアップする手順</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバイスのソフトウェアをアップデートするプロセス</pre>\n",
+			"option_html": "<pre>デバイスのソフトウェアをアップデートするプロセス</pre>\n"
+		}
+	]
+}

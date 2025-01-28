@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"パス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>直線アンカーポイントに変換</pre>\n",
+			"option_html": "<pre>直線アンカーポイントに変換</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アンカーポイントを固定</pre>\n",
+			"option_html": "<pre>アンカーポイントを固定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ペンツールで直線に変更</pre>\n",
+			"option_html": "<pre>ペンツールで直線に変更</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>角を直線に変更</pre>\n",
+			"option_html": "<pre>角を直線に変更</pre>\n"
+		}
+	]
+}

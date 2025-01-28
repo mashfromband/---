@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"セキュリティ系",
+		"情報セキュリティ",
+		"セキュリティ対策"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "内容確認をせず送信する\n",
+			"option_html": "<p>内容確認をせず送信する</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "宛先を適当に入力する\n",
+			"option_html": "<p>宛先を適当に入力する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "添付ファイルや宛先を確認する\n",
+			"option_html": "<p>添付ファイルや宛先を確認する</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "重要な情報はそのまま記載する\n",
+			"option_html": "<p>重要な情報はそのまま記載する</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>外部からのアクセスのみをブロックするモデル</pre>\n",
+			"option_html": "<pre>外部からのアクセスのみをブロックするモデル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>内部ネットワーク上のすべての通信を信頼するモデル</pre>\n",
+			"option_html": "<pre>内部ネットワーク上のすべての通信を信頼するモデル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべてのアクセス要求を検証し、最小限の権限を付与するモデル</pre>\n",
+			"option_html": "<pre>すべてのアクセス要求を検証し、最小限の権限を付与するモデル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドリソースへのアクセスを制限しないモデル</pre>\n",
+			"option_html": "<pre>クラウドリソースへのアクセスを制限しないモデル</pre>\n"
+		}
+	]
+}

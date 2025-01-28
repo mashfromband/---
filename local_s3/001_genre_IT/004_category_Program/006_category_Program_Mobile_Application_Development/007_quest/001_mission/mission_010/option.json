@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリの見た目を評価してもらうため</pre>\n",
+			"option_html": "<pre>アプリの見た目を評価してもらうため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>審査をスムーズに通過し、アプリを公開するため</pre>\n",
+			"option_html": "<pre>審査をスムーズに通過し、アプリを公開するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザーから高い評価を得るため</pre>\n",
+			"option_html": "<pre>ユーザーから高い評価を得るため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリの価格を引き上げるため</pre>\n",
+			"option_html": "<pre>アプリの価格を引き上げるため</pre>\n"
+		}
+	]
+}

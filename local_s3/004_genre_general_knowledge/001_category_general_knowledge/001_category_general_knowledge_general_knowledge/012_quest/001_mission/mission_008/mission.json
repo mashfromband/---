@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"組織理解",
+		"コンプライアンス（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>事前に確認を取る</pre>\n",
+			"option_html": "<pre>事前に確認を取る</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>一定額以上の金銭を渡す</pre>\n",
+			"option_html": "<pre>一定額以上の金銭を渡す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>一般的な手土産を渡す</pre>\n",
+			"option_html": "<pre>一般的な手土産を渡す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>名刺交換を行う</pre>\n",
+			"option_html": "<pre>名刺交換を行う</pre>\n"
+		}
+	]
+}

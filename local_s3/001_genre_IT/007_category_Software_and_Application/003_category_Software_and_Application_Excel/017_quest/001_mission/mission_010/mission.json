@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>列番号を右クリックし「削除」を選択</pre>\n",
+			"option_html": "<pre>列番号を右クリックし「削除」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ホーム」タブの「コピー」を選択</pre>\n",
+			"option_html": "<pre>「ホーム」タブの「コピー」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + Shift + Kを押す</pre>\n",
+			"option_html": "<pre>Ctrl + Shift + Kを押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>列を選択して「Enter」を押す</pre>\n",
+			"option_html": "<pre>列を選択して「Enter」を押す</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>友人や家族に相談して家具を選ぶ</pre>\n",
+			"option_html": "<pre>友人や家族に相談して家具を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>インテリア雑誌を参考に、自分で家具を選ぶ</pre>\n",
+			"option_html": "<pre>インテリア雑誌を参考に、自分で家具を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>家具量販店に行って、実際に家具を見て選ぶ</pre>\n",
+			"option_html": "<pre>家具量販店に行って、実際に家具を見て選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>部屋の写真をアップロードすると、AIが家具やレイアウトを提案してくれるアプリを使う</pre>\n",
+			"option_html": "<pre>部屋の写真をアップロードすると、AIが家具やレイアウトを提案してくれるアプリを使う</pre>\n"
+		}
+	]
+}

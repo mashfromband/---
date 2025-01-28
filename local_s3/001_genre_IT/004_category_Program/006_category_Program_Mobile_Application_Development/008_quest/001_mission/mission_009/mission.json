@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>HTML</pre>\n",
+			"option_html": "<pre>HTML</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>HTTP</pre>\n",
+			"option_html": "<pre>HTTP</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>GDPR</pre>\n",
+			"option_html": "<pre>GDPR</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>FTP</pre>\n",
+			"option_html": "<pre>FTP</pre>\n"
+		}
+	]
+}

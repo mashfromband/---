@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを削除する</pre>\n",
+			"option_html": "<pre>レイヤーを削除する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>他のレイヤーをロックする</pre>\n",
+			"option_html": "<pre>他のレイヤーをロックする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Altキーを押しながら目のアイコンをクリックする</pre>\n",
+			"option_html": "<pre>Altキーを押しながら目のアイコンをクリックする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの名前を変更する</pre>\n",
+			"option_html": "<pre>レイヤーの名前を変更する</pre>\n"
+		}
+	]
+}

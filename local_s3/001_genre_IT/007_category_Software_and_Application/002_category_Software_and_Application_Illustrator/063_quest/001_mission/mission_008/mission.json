@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"オブジェクト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>回転ツールでAltキーを押しながらクリックし、角度とコピーを設定</pre>\n",
+			"option_html": "<pre>回転ツールでAltキーを押しながらクリックし、角度とコピーを設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スマートガイドを使用して手動で配置</pre>\n",
+			"option_html": "<pre>スマートガイドを使用して手動で配置</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダーで「円形配置」を選択</pre>\n",
+			"option_html": "<pre>パスファインダーで「円形配置」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > 配置 > 等間隔を使用</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 等間隔を使用</pre>\n"
+		}
+	]
+}

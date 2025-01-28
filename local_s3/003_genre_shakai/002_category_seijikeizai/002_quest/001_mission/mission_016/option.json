@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "環境権\n",
+			"option_html": "<p>環境権</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "生活権\n",
+			"option_html": "<p>生活権</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "範囲権\n",
+			"option_html": "<p>範囲権</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "日照権\n",
+			"option_html": "<p>日照権</p>\n"
+		}
+	]
+}

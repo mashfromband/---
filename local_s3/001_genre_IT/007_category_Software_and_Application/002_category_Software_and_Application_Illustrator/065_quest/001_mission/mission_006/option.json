@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > 3D > ドロップシャドウを適用する</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; ドロップシャドウを適用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルでシャドウを追加する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでシャドウを追加する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > 表示 > ドロップシャドウを選択する</pre>\n",
+			"option_html": "<pre>効果 &gt; 表示 &gt; ドロップシャドウを選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字パネルでドロップシャドウを設定する</pre>\n",
+			"option_html": "<pre>文字パネルでドロップシャドウを設定する</pre>\n"
+		}
+	]
+}

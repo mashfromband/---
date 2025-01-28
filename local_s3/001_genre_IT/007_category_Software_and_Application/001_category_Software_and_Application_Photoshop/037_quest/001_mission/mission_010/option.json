@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Photoshopを再インストールする</pre>\n",
+			"option_html": "<pre>Photoshopを再インストールする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「編集」メニューの「設定」から初期化する</pre>\n",
+			"option_html": "<pre>「編集」メニューの「設定」から初期化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Photoshop起動時に特定のキーを押す</pre>\n",
+			"option_html": "<pre>Photoshop起動時に特定のキーを押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>設定のリセットは不可能で手動で変更する必要がある</pre>\n",
+			"option_html": "<pre>設定のリセットは不可能で手動で変更する必要がある</pre>\n"
+		}
+	]
+}

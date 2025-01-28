@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>物理的なサーバーを一箇所に集約して管理するため</pre>\n",
+			"option_html": "<pre>物理的なサーバーを一箇所に集約して管理するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データを複数の地理的に分散した場所にバックアップできるため</pre>\n",
+			"option_html": "<pre>データを複数の地理的に分散した場所にバックアップできるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの保存が自社データセンターに限定されるため</pre>\n",
+			"option_html": "<pre>データの保存が自社データセンターに限定されるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>災害時にデータ復旧が難しいため</pre>\n",
+			"option_html": "<pre>災害時にデータ復旧が難しいため</pre>\n"
+		}
+	]
+}

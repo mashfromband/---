@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スティーブ・ジョブズ</pre>\n",
+			"option_html": "<pre>スティーブ・ジョブズ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ジョン・ウォーノック</pre>\n",
+			"option_html": "<pre>ジョン・ウォーノック</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トーマス・ノール</pre>\n",
+			"option_html": "<pre>トーマス・ノール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>チャールズ・ゲシュケ</pre>\n",
+			"option_html": "<pre>チャールズ・ゲシュケ</pre>\n"
+		}
+	]
+}

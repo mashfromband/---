@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "法律主義\n",
+			"option_html": "<p>法律主義</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "政治主義\n",
+			"option_html": "<p>政治主義</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "法制主義\n",
+			"option_html": "<p>法制主義</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "法治主義\n",
+			"option_html": "<p>法治主義</p>\n"
+		}
+	]
+}

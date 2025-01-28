@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトの最終的な成果物だけ</pre>\n",
+			"option_html": "<pre>プロジェクトの最終的な成果物だけ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>各フェーズで作成される中間的な結果や文書</pre>\n",
+			"option_html": "<pre>各フェーズで作成される中間的な結果や文書</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトのメンバー評価レポート</pre>\n",
+			"option_html": "<pre>プロジェクトのメンバー評価レポート</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの課題リストやリスク登録簿</pre>\n",
+			"option_html": "<pre>プロジェクトの課題リストやリスク登録簿</pre>\n"
+		}
+	]
+}

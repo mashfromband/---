@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アトロパテネ\n",
+			"option_html": "<p>アトロパテネ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アディアベネ\n",
+			"option_html": "<p>アディアベネ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "パルティア\n",
+			"option_html": "<p>パルティア</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アルメニア\n",
+			"option_html": "<p>アルメニア</p>\n"
+		}
+	]
+}

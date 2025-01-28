@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ビジネスマナー",
+		"上座下座（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>出入口に一番近い席</pre>\n",
+			"option_html": "<pre>出入口に一番近い席</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>窓際の席</pre>\n",
+			"option_html": "<pre>窓際の席</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>出入口から一番遠い席</pre>\n",
+			"option_html": "<pre>出入口から一番遠い席</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>真ん中の席</pre>\n",
+			"option_html": "<pre>真ん中の席</pre>\n"
+		}
+	]
+}

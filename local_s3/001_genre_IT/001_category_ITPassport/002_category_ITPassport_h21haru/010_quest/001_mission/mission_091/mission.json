@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"中間A",
+		"テクノロジ系",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "PC1とハブをつなぐソケット，すなわちハブの障害ではないか\n",
+			"option_html": "<p>PC1とハブをつなぐソケット，すなわちハブの障害ではないか</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "PC1とハブをつなぐケーブルcの障害ではないか\n",
+			"option_html": "<p>PC1とハブをつなぐケーブルcの障害ではないか</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "プリンターとハブをつなぐケーブルbの障害ではないか\n",
+			"option_html": "<p>プリンターとハブをつなぐケーブルbの障害ではないか</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プリンターの障害ではないか\n",
+			"option_html": "<p>プリンターの障害ではないか</p>\n"
+		}
+	]
+}

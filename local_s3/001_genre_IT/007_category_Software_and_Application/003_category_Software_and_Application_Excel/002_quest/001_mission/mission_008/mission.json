@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"グラフ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データ系列を選んで[Delete]キーを押す</pre>\n",
+			"option_html": "<pre>データ系列を選んで[Delete]キーを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>[挿入]タブの[削除]を選ぶ</pre>\n",
+			"option_html": "<pre>[挿入]タブの[削除]を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>[グラフツール]の[デザイン]タブから[データの選択]を選び、不要な系列を削除する</pre>\n",
+			"option_html": "<pre>[グラフツール]の[デザイン]タブから[データの選択]を選び、不要な系列を削除する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>[グラフツール]の[書式]タブから[削除]を選ぶ</pre>\n",
+			"option_html": "<pre>[グラフツール]の[書式]タブから[削除]を選ぶ</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ストラテジ系",
+		"経営戦略マネジメント",
+		"経営管理システム"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "CAEシステム\n",
+			"option_html": "<p>CAEシステム</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "MRPシステム\n",
+			"option_html": "<p>MRPシステム</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "SCMシステム\n",
+			"option_html": "<p>SCMシステム</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "SFAシステム\n",
+			"option_html": "<p>SFAシステム</p>\n"
+		}
+	]
+}

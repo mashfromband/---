@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラデーションエディターで左側の色を設定する</pre>\n",
+			"option_html": "<pre>グラデーションエディターで左側の色を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>中央部分の色を設定する</pre>\n",
+			"option_html": "<pre>中央部分の色を設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>右側の色を設定する</pre>\n",
+			"option_html": "<pre>右側の色を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>彩度スライダーを調整する</pre>\n",
+			"option_html": "<pre>彩度スライダーを調整する</pre>\n"
+		}
+	]
+}

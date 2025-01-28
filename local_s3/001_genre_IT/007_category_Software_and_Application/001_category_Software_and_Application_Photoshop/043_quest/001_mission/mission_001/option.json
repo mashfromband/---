@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択範囲が適切に設定されていない</pre>\n",
+			"option_html": "<pre>選択範囲が適切に設定されていない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「固定サイズ」で範囲が設定されている</pre>\n",
+			"option_html": "<pre>「固定サイズ」で範囲が設定されている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トリミングツールの境界線が画像外に設定されている</pre>\n",
+			"option_html": "<pre>トリミングツールの境界線が画像外に設定されている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>トリミング先の画像モードが異なっている</pre>\n",
+			"option_html": "<pre>トリミング先の画像モードが異なっている</pre>\n"
+		}
+	]
+}

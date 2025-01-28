@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>通信速度を向上させるために使用する</pre>\n",
+			"option_html": "<pre>通信速度を向上させるために使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データを暗号化するために使用する</pre>\n",
+			"option_html": "<pre>データを暗号化するために使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>暗号化の強度を調整するために使用する</pre>\n",
+			"option_html": "<pre>暗号化の強度を調整するために使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号化されたデータを復号するために使用する</pre>\n",
+			"option_html": "<pre>暗号化されたデータを復号するために使用する</pre>\n"
+		}
+	]
+}

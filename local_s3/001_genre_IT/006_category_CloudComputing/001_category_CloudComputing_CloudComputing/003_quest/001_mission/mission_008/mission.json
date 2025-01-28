@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サーバーやネットワーク機器の調達・設定</pre>\n",
+			"option_html": "<pre>サーバーやネットワーク機器の調達・設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>完成されたソフトウェアの操作</pre>\n",
+			"option_html": "<pre>完成されたソフトウェアの操作</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの暗号化とアクセス管理</pre>\n",
+			"option_html": "<pre>データの暗号化とアクセス管理</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想マシンのOSインストール</pre>\n",
+			"option_html": "<pre>仮想マシンのOSインストール</pre>\n"
+		}
+	]
+}

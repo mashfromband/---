@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>トランザクションデータを暗号化すること</pre>\n",
+			"option_html": "<pre>トランザクションデータを暗号化すること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>新しいノードをネットワークに追加すること</pre>\n",
+			"option_html": "<pre>新しいノードをネットワークに追加すること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ブロックの生成とネットワークの合意形成を行うこと</pre>\n",
+			"option_html": "<pre>ブロックの生成とネットワークの合意形成を行うこと</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブロックチェーンの分岐を防ぐこと</pre>\n",
+			"option_html": "<pre>ブロックチェーンの分岐を防ぐこと</pre>\n"
+		}
+	]
+}

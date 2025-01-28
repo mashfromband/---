@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>高品質印刷</pre>\n",
+			"option_html": "<pre>高品質印刷</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Web用に最適化</pre>\n",
+			"option_html": "<pre>Web用に最適化</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>印刷用に最適化</pre>\n",
+			"option_html": "<pre>印刷用に最適化</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フォント埋め込み</pre>\n",
+			"option_html": "<pre>フォント埋め込み</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,976 @@
+{
+	/*==========================*/
+	/*	ドメイン: USER			*/
+	/*==========================*/
+	"userSkill"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"userSkill",				/* 文字列ID */
+			"dispname_jp"	:	"レベル",				/* スキル名 */
+			"domain"	:	"USER"					/* ドメイン */
+		},/* basic_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"${user.name}は、レベルが ${oldLevel} から ${newLevel} に上がった。"
+															/* レベルアップメッセージ					*/
+			}/*	leveling	*/
+		}/* leveling_inf */
+	},/* userSkill */
+
+	/*--------------------------*/
+	/*	スキル: 初志貫徹			*/
+	/*--------------------------*/
+	"shoshikantetsu"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"shoshikantetsu",			/* 文字列ID */
+			"dispname_jp"	:	"初志貫徹",			/* スキル名 */
+			"domain"	:	"USER",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_quest_clear",		/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"quest_clear_count": 0			/* クエストクリア回数 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"quest_clear_count": 1			/* クエストクリア1回でアンロック */
+				}
+			],
+			"result": [
+				{
+					"unlock_skill"	: "shoshikantetsu",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				}
+			]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* shoshikantetsu */
+
+	/*--------------------------*/
+	/*	スキル: 前途洋々			*/
+	/*--------------------------*/
+	"zentoyoyo"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"zentoyoyo",				/* 文字列ID */
+			"dispname_jp"	:	"前途洋々",			/* スキル名 */
+			"domain"	:	"USER",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"shoshikantetsu",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"shoshikantetsu",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "zentoyoyo",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+				{
+				"integrate_skill"	:	"shoshikantetsu",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			},
+			{"unlock_honor":"doryokuka","msg":"称号「努力家」を獲得した"}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* zentoyoyo */
+
+	/*--------------------------*/
+	/*	スキル: 大願成就			*/
+	/*--------------------------*/
+	"taiganjouju"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"taiganjouju",			/* 文字列ID */
+			"dispname_jp"	:	"大願成就",			/* スキル名 */
+			"domain"	:	"USER",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"zentoyoyo",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"zentoyoyo",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "taiganjouju",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+				{
+				"integrate_skill"	:	"zentoyoyo",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			},
+			{"unlock_honor":"tasseisha","msg":"称号「達成者」を獲得した"}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* taiganjouju */
+
+
+	/*==========================*/
+	/*	ドメイン: IT			*/
+	/*==========================*/
+
+	/*--------------------------*/
+	/*	スキル: IT初心者		*/
+	/*--------------------------*/
+	"IT_beginner"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"IT_beginner",				/* 文字列ID */
+			"dispname_jp"	:	"IT初心者",				/* スキル名 */
+			"domain"	:	"IT",							/* ドメイン */
+			"unlock_judge_timing"	:	"on_quest_clear",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"quest_clear_count": 0			/* クエストクリア回数 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"quest_clear_count": 1			/* クエストクリア1回でアンロック */
+				}
+			],
+			"result": [
+				{
+					"unlock_skill"	: "IT_beginner",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				}
+			]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* IT_beginner */
+
+	/*--------------------------*/
+	/*	スキル: IT中級者		*/
+	/*--------------------------*/
+	"IT_intermediate"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"IT_intermediate",			/* 文字列ID */
+			"dispname_jp"	:	"IT中級者",				/* スキル名 */
+			"domain"	:	"IT",							/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"IT_beginner",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"IT_beginner",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "IT_intermediate",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+			{
+				"integrate_skill"	:	"IT_beginner",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* IT_intermediate */
+
+	/*--------------------------*/
+	/*	スキル: IT上級者		*/
+	/*--------------------------*/
+	"IT_advanced"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"IT_advanced",				/* 文字列ID */
+			"dispname_jp"	:	"IT上級者",				/* スキル名 */
+			"domain"	:	"IT",							/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"IT_intermediate",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"IT_intermediate",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "IT_advanced",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+			{
+				"integrate_skill"	:	"IT_intermediate",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* IT_advanced */
+
+	/*==========================*/
+	/*	ドメイン: Microsoft		*/
+	/*==========================*/
+
+	/*--------------------------*/
+	/*	スキル: Microsoft初心者	*/
+	/*--------------------------*/
+	"MS_beginner"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"MS_beginner",				/* 文字列ID */
+			"dispname_jp"	:	"Microsoft初心者",		/* スキル名 */
+			"domain"	:	"MICROSOFT",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_quest_clear",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"quest_clear_count": 0			/* クエストクリア回数 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"quest_clear_count": 1			/* クエストクリア1回でアンロック */
+				}
+			],
+			"result": [
+				{
+					"unlock_skill"	: "MS_beginner",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				}
+			]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* MS_beginner */
+
+	/*--------------------------*/
+	/*	スキル: Microsoft中級者	*/
+	/*--------------------------*/
+	"MS_intermediate"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"MS_intermediate",			/* 文字列ID */
+			"dispname_jp"	:	"Microsoft中級者",		/* スキル名 */
+			"domain"	:	"MICROSOFT",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"MS_beginner",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"MS_beginner",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "MS_intermediate",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+			{
+				"integrate_skill"	:	"MS_beginner",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* MS_intermediate */
+
+	/*--------------------------*/
+	/*	スキル: Microsoft上級者	*/
+	/*--------------------------*/
+	"MS_advanced"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"MS_advanced",				/* 文字列ID */
+			"dispname_jp"	:	"Microsoft上級者",		/* スキル名 */
+			"domain"	:	"MICROSOFT",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"MS_intermediate",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"MS_intermediate",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "MS_advanced",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+			{
+				"integrate_skill"	:	"MS_intermediate",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* MS_advanced */
+
+
+
+	/*==========================*/
+	/*	ドメイン: Excel			*/
+	/*==========================*/
+
+	/*--------------------------*/
+	/*	スキル: Excel初心者		*/
+	/*--------------------------*/
+	"Excel_beginner"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"Excel_beginner",			/* 文字列ID */
+			"dispname_jp"	:	"Excel初心者",		/* スキル名 */
+			"domain"	:	"EXCEL",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_quest_clear",		/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"quest_clear_count": 0			/* クエストクリア回数 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"quest_clear_count": 1			/* クエストクリア1回でアンロック */
+				}
+			],
+			"result": [
+				{
+					"unlock_skill"	: "Excel_beginner",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				}
+			]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* Excel_beginner */
+
+	/*--------------------------*/
+	/*	スキル: Excel中級者		*/
+	/*--------------------------*/
+	"Excel_intermediate"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"Excel_intermediate",		/* 文字列ID */
+			"dispname_jp"	:	"Excel中級者",		/* スキル名 */
+			"domain"	:	"EXCEL",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"Excel_beginner",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"Excel_beginner",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "Excel_intermediate",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+			{
+				"integrate_skill"	:	"Excel_beginner",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* Excel_intermediate */
+
+	/*--------------------------*/
+	/*	スキル: Excel上級者		*/
+	/*--------------------------*/
+	"Excel_advanced"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"Excel_advanced",			/* 文字列ID */
+			"dispname_jp"	:	"Excel上級者",		/* スキル名 */
+			"domain"	:	"EXCEL",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"Excel_intermediate",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"Excel_intermediate",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "Excel_advanced",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+			{
+				"integrate_skill"	:	"Excel_intermediate",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* Excel_advanced */
+
+	/*==========================*/
+	/*	ドメイン: PowerPoint	*/
+	/*==========================*/
+
+	/*--------------------------*/
+	/*	スキル: PPT初心者		*/
+	/*--------------------------*/
+	"PPT_beginner"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"PPT_beginner",			/* 文字列ID */
+			"dispname_jp"	:	"PPT初心者",			/* スキル名 */
+			"domain"	:	"PPT",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_quest_clear",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"quest_clear_count": 0			/* クエストクリア回数 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"quest_clear_count": 1			/* クエストクリア1回でアンロック */
+				}
+			],
+			"result": [
+				{
+					"unlock_skill"	: "PPT_beginner",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				}
+			]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* PPT_beginner */
+
+	/*--------------------------*/
+	/*	スキル: PPT中級者		*/
+	/*--------------------------*/
+	"PPT_intermediate"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"PPT_intermediate",		/* 文字列ID */
+			"dispname_jp"	:	"PPT中級者",			/* スキル名 */
+			"domain"	:	"PPT",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"PPT_beginner",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"PPT_beginner",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "PPT_intermediate",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+			{
+				"integrate_skill"	:	"PPT_beginner",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* PPT_intermediate */
+
+	/*--------------------------*/
+	/*	スキル: PPT上級者		*/
+	/*--------------------------*/
+	"PPT_advanced"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"PPT_advanced",			/* 文字列ID */
+			"dispname_jp"	:	"PPT上級者",			/* スキル名 */
+			"domain"	:	"PPT",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"PPT_intermediate",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"PPT_intermediate",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "PPT_advanced",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+			{
+				"integrate_skill"	:	"PPT_advanced",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* PPT_advanced */
+	
+	/*==========================*/
+	/*	ドメイン: Word			*/
+	/*==========================*/
+
+	/*--------------------------*/
+	/*	スキル: Word初心者		*/
+	/*--------------------------*/
+	"Word_beginner"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"Word_beginner",			/* 文字列ID */
+			"dispname_jp"	:	"Word初心者",			/* スキル名 */
+			"domain"	:	"WORD",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_quest_clear",		/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"quest_clear_count": 0			/* クエストクリア回数 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"quest_clear_count": 1			/* クエストクリア1回でアンロック */
+				}
+			],
+			"result": [
+				{
+					"unlock_skill"	: "Word_beginner",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				}
+			]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* Word_beginner */
+
+	/*--------------------------*/
+	/*	スキル: Word中級者		*/
+	/*--------------------------*/
+	"Word_intermediate"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"Word_intermediate",		/* 文字列ID */
+			"dispname_jp"	:	"Word中級者",			/* スキル名 */
+			"domain"	:	"WORD",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"Word_beginner",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"Word_beginner",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "Word_intermediate",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+			{
+				"integrate_skill"	:	"Word_beginner",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	},/* Word_intermediate */
+
+	/*--------------------------*/
+	/*	スキル: Word上級者		*/
+	/*--------------------------*/
+	"Word_advanced"	:	{
+		"basic_inf"	:	{
+			"str_id"	:	"Word_advanced",			/* 文字列ID */
+			"dispname_jp"	:	"Word上級者",			/* スキル名 */
+			"domain"	:	"WORD",					/* ドメイン */
+			"unlock_judge_timing"	:	"on_skill_exp_added",	/* 獲得判定タイミング */
+			"unlock_judge_conditions": [
+				{
+					"has_skill"			:		"Word_intermediate",		/* 必要スキル: 初志貫徹 */
+					"level_num"			:		3,						/* レベル3に達する */
+					"operator"			:		">="					/* 条件 */
+				}
+			]
+		},/* basic_inf */
+		"unlock_inf"	:	{
+			"conditions_and": [
+				{
+					"skill_name"		:	"Word_intermediate",		/* 必要スキル */
+					"level_num"			:	3,						/* レベル */
+					"operator"			:	">="					/* 条件 */
+				}
+			],
+			"result": [
+				
+				{
+					"unlock_skill"	: "Word_advanced",
+					"msg"				: "スキル「${dispname_jp}」を獲得しました。"
+																/* basic_inf.dispname_jp	*/
+				},
+			{
+				"integrate_skill"	:	"Word_intermediate",		/* 統合されて無くなるスキル		*/
+				"msg"				:	"スキル「${integrateName}」は、スキル「${dispname_jp}」に統合されました。"
+			}]
+		},/* unlock_inf */
+		"leveling_inf"	:	{
+			"effects": [
+				{
+					"point_bonus_per"		:		1,			/* レベルごとのポイントボーナス	*/
+					"level_num"			:		1,			/* レベル							*/
+					"operator"			:		"*"		/* 計算方法						*/
+				}
+			],
+			"leveling"	:	{
+				"accum_rise_rate"	:	100,				/* exp=Level*(Level+1)/2*accum_rise_rate	*/
+				"msg"				:	
+							"スキル「${dispname_jp}」が、レベル ${newLevel} になった。"
+															/* レベルアップメッセージ					*/
+			}
+		}/* leveling_inf */
+	}/* Word_advanced */
+}

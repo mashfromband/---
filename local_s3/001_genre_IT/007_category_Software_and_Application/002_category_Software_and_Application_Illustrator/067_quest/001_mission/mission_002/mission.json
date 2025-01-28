@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > ワープ > ワープオプション</pre>\n",
+			"option_html": "<pre>効果 &gt; ワープ &gt; ワープオプション</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字ツールでワープを設定する</pre>\n",
+			"option_html": "<pre>文字ツールでワープを設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルでワープを適用する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでワープを適用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字パネルでワープを設定する</pre>\n",
+			"option_html": "<pre>文字パネルでワープを設定する</pre>\n"
+		}
+	]
+}

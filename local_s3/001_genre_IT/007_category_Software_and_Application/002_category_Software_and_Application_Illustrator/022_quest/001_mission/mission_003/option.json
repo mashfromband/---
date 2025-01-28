@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>カラーガイドパネルで「補色」を選択</pre>\n",
+			"option_html": "<pre>カラーガイドパネルで「補色」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーパネルで補色を入力する</pre>\n",
+			"option_html": "<pre>カラーパネルで補色を入力する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 色相 > 補色を選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 色相 &gt; 補色を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スウォッチパネルから補色を選ぶ</pre>\n",
+			"option_html": "<pre>スウォッチパネルから補色を選ぶ</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>複数の図形を合体または分割する</pre>\n",
+			"option_html": "<pre>複数の図形を合体または分割する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>図形をトリミングする</pre>\n",
+			"option_html": "<pre>図形をトリミングする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスを滑らかにする</pre>\n",
+			"option_html": "<pre>パスを滑らかにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アートボードを追加する</pre>\n",
+			"option_html": "<pre>アートボードを追加する</pre>\n"
+		}
+	]
+}

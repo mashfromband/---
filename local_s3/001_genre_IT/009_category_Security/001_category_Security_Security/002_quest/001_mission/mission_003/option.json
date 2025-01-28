@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サーバーを過負荷にし、サービスを利用不能にする</pre>\n",
+			"option_html": "<pre>サーバーを過負荷にし、サービスを利用不能にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>個人情報を直接盗む</pre>\n",
+			"option_html": "<pre>個人情報を直接盗む</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データを暗号化して身代金を要求する</pre>\n",
+			"option_html": "<pre>データを暗号化して身代金を要求する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>コンピュータを物理的に破壊する</pre>\n",
+			"option_html": "<pre>コンピュータを物理的に破壊する</pre>\n"
+		}
+	]
+}

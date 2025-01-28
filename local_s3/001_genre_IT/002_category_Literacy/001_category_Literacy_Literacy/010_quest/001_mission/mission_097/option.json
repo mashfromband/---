@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ABC分析\n",
+			"option_html": "<p>ABC分析</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "レーダーチャート\n",
+			"option_html": "<p>レーダーチャート</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "回帰分析\n",
+			"option_html": "<p>回帰分析</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "散布図\n",
+			"option_html": "<p>散布図</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>使用時間やリクエスト数に基づいて課金され、未使用時にはコストが発生しないため</pre>\n",
+			"option_html": "<pre>使用時間やリクエスト数に基づいて課金され、未使用時にはコストが発生しないため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サーバーを物理的に購入して運用する必要があるため</pre>\n",
+			"option_html": "<pre>サーバーを物理的に購入して運用する必要があるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>固定されたリソースの契約が求められるため</pre>\n",
+			"option_html": "<pre>固定されたリソースの契約が求められるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>長時間動作するプロセスに対して一定料金がかかるため</pre>\n",
+			"option_html": "<pre>長時間動作するプロセスに対して一定料金がかかるため</pre>\n"
+		}
+	]
+}

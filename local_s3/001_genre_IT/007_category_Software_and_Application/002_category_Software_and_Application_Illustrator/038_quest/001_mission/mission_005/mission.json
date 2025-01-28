@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトを選択してCtrl+Shift+Hを押す</pre>\n",
+			"option_html": "<pre>オブジェクトを選択してCtrl+Shift+Hを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで目のアイコンをクリックしてオブジェクトを非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーパネルで目のアイコンをクリックしてオブジェクトを非表示にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 非表示を選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 非表示を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクトを選択して「非表示に設定」を選択する</pre>\n",
+			"option_html": "<pre>オブジェクトを選択して「非表示に設定」を選択する</pre>\n"
+		}
+	]
+}

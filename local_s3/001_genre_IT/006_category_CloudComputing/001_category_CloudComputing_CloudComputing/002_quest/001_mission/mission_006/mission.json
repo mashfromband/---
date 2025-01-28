@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>初期費用を削減するため</pre>\n",
+			"option_html": "<pre>初期費用を削減するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サーバーの稼働率を低く保つため</pre>\n",
+			"option_html": "<pre>サーバーの稼働率を低く保つため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>機密データを社内環境で管理しながら、柔軟なスケーラビリティを確保するため</pre>\n",
+			"option_html": "<pre>機密データを社内環境で管理しながら、柔軟なスケーラビリティを確保するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>全てのリソースを共有可能にするため</pre>\n",
+			"option_html": "<pre>全てのリソースを共有可能にするため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>北アメリカ</pre>\n",
+			"option_html": "<pre>北アメリカ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>西ヨーロッパ</pre>\n",
+			"option_html": "<pre>西ヨーロッパ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アジアとアフリカ</pre>\n",
+			"option_html": "<pre>アジアとアフリカ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オセアニア</pre>\n",
+			"option_html": "<pre>オセアニア</pre>\n"
+		}
+	]
+}

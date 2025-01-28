@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + C</pre>\n",
+			"option_html": "<pre>Ctrl + C</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + X</pre>\n",
+			"option_html": "<pre>Ctrl + X</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + D</pre>\n",
+			"option_html": "<pre>Ctrl + D</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + Z</pre>\n",
+			"option_html": "<pre>Ctrl + Z</pre>\n"
+		}
+	]
+}

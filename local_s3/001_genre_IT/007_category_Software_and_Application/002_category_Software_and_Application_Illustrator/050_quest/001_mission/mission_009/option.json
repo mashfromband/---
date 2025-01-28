@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルター > ぼかし > ガウスぼかし</pre>\n",
+			"option_html": "<pre>フィルター &gt; ぼかし &gt; ガウスぼかし</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > 変形 > ブラー</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; ブラー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > スタイライズ > ブラー</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; ブラー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルター > アーティスティック > ブラー</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック &gt; ブラー</pre>\n"
+		}
+	]
+}

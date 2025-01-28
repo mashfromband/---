@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>再サンプルの解除</pre>\n",
+			"option_html": "<pre>再サンプルの解除</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>再サンプルの有効化</pre>\n",
+			"option_html": "<pre>再サンプルの有効化</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>色調補正</pre>\n",
+			"option_html": "<pre>色調補正</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの統合</pre>\n",
+			"option_html": "<pre>レイヤーの統合</pre>\n"
+		}
+	]
+}

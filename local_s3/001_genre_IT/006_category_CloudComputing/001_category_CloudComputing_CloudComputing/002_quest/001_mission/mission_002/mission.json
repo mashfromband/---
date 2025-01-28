@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>すべてのユーザーが共有するリソースを利用する</pre>\n",
+			"option_html": "<pre>すべてのユーザーが共有するリソースを利用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>インターネットを通じて広く提供されるリソースを利用する</pre>\n",
+			"option_html": "<pre>インターネットを通じて広く提供されるリソースを利用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>特定の企業専用に設計されたリソースを利用する</pre>\n",
+			"option_html": "<pre>特定の企業専用に設計されたリソースを利用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サーバーやリソースが他企業と物理的に共有される</pre>\n",
+			"option_html": "<pre>サーバーやリソースが他企業と物理的に共有される</pre>\n"
+		}
+	]
+}

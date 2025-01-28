@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルター > シャープ > シャープ化</pre>\n",
+			"option_html": "<pre>フィルター &gt; シャープ &gt; シャープ化</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > スタイライズ > シャープ</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; シャープ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > アーティスティック > シャープ化</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック &gt; シャープ化</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 変形 > シャープ</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; シャープ</pre>\n"
+		}
+	]
+}

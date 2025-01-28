@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを複製する</pre>\n",
+			"option_html": "<pre>レイヤーを複製する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択範囲を保存する</pre>\n",
+			"option_html": "<pre>選択範囲を保存する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像全体の明るさを調整する</pre>\n",
+			"option_html": "<pre>画像全体の明るさを調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>明暗に基づいて画像の色を変更する</pre>\n",
+			"option_html": "<pre>明暗に基づいて画像の色を変更する</pre>\n"
+		}
+	]
+}

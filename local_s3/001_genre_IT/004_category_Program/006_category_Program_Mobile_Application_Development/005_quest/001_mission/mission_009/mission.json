@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Logcat</pre>\n",
+			"option_html": "<pre>Logcat</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Instruments</pre>\n",
+			"option_html": "<pre>Instruments</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Git</pre>\n",
+			"option_html": "<pre>Git</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Eclipse</pre>\n",
+			"option_html": "<pre>Eclipse</pre>\n"
+		}
+	]
+}

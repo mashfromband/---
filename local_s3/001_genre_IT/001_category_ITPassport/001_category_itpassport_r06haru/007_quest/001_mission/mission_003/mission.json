@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"セキュリティ",
+		"情報セキュリティ対策・実装技術"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "Secure Erase\n",
+			"option_html": "<p>Secure Erase</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "磁気消去\n",
+			"option_html": "<p>磁気消去</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "セキュアブート\n",
+			"option_html": "<p>セキュアブート</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "データクレンジング\n",
+			"option_html": "<p>データクレンジング</p>\n"
+		}
+	]
+}

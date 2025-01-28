@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アンカーポイントのハンドルをドラッグして方向を変更する</pre>\n",
+			"option_html": "<pre>アンカーポイントのハンドルをドラッグして方向を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ペンツールで方向を変更する</pre>\n",
+			"option_html": "<pre>ペンツールで方向を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ダイレクト選択ツールで方向を変更する</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツールで方向を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > パスの変形で方向を変更する</pre>\n",
+			"option_html": "<pre>効果 &gt; パスの変形で方向を変更する</pre>\n"
+		}
+	]
+}

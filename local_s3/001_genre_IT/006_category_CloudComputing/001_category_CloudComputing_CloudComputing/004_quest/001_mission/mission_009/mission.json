@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>高速かつ大規模なデータ分析を行うためのクラウドデータウェアハウス</pre>\n",
+			"option_html": "<pre>高速かつ大規模なデータ分析を行うためのクラウドデータウェアハウス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想サーバーを柔軟に構築・管理するためのサービス</pre>\n",
+			"option_html": "<pre>仮想サーバーを柔軟に構築・管理するためのサービス</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイルやデータを保存するためのクラウドストレージ</pre>\n",
+			"option_html": "<pre>ファイルやデータを保存するためのクラウドストレージ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>イベント発生時に関数を実行するためのサーバーレスサービス</pre>\n",
+			"option_html": "<pre>イベント発生時に関数を実行するためのサーバーレスサービス</pre>\n"
+		}
+	]
+}

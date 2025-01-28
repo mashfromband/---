@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引データを改ざん不可能な形で共有し、処理を効率化する</pre>\n",
+			"option_html": "<pre>取引データを改ざん不可能な形で共有し、処理を効率化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>書類をデジタル化せず、手作業で管理する</pre>\n",
+			"option_html": "<pre>書類をデジタル化せず、手作業で管理する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべての取引を中央サーバーで保管する</pre>\n",
+			"option_html": "<pre>すべての取引を中央サーバーで保管する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>書類の内容を公開せずに透明性を確保する</pre>\n",
+			"option_html": "<pre>書類の内容を公開せずに透明性を確保する</pre>\n"
+		}
+	]
+}

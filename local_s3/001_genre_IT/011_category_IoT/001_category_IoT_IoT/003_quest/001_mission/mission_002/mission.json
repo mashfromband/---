@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>大量のデータ転送が得意</pre>\n",
+			"option_html": "<pre>大量のデータ転送が得意</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>軽量で低帯域幅の通信に適している</pre>\n",
+			"option_html": "<pre>軽量で低帯域幅の通信に適している</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>動画ストリーミング用に設計されている</pre>\n",
+			"option_html": "<pre>動画ストリーミング用に設計されている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>メール送信を効率化する</pre>\n",
+			"option_html": "<pre>メール送信を効率化する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>黄色スライダー</pre>\n",
+			"option_html": "<pre>黄色スライダー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シアンスライダー</pre>\n",
+			"option_html": "<pre>シアンスライダー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>緑スライダー</pre>\n",
+			"option_html": "<pre>緑スライダー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>赤スライダー</pre>\n",
+			"option_html": "<pre>赤スライダー</pre>\n"
+		}
+	]
+}

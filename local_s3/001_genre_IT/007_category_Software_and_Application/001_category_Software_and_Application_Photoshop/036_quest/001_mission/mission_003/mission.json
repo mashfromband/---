@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ウィンドウ」メニューで「ガイドのロック」を選択する</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューで「ガイドのロック」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「表示」メニューの「ガイド」→「ガイドをロック」を選択する</pre>\n",
+			"option_html": "<pre>「表示」メニューの「ガイド」→「ガイドをロック」を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「編集」メニューの「ガイド設定」からロックを有効にする</pre>\n",
+			"option_html": "<pre>「編集」メニューの「ガイド設定」からロックを有効にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ガイドのロックはできない</pre>\n",
+			"option_html": "<pre>ガイドのロックはできない</pre>\n"
+		}
+	]
+}

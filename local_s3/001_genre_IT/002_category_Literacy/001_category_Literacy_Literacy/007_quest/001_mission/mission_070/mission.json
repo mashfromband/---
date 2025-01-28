@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"テクノロジ系",
+		"システム",
+		"トレンド技術"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ワークフローシステム\n",
+			"option_html": "<p>ワークフローシステム</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "テレワーク\n",
+			"option_html": "<p>テレワーク</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "LINE\n",
+			"option_html": "<p>LINE</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "グループウェア\n",
+			"option_html": "<p>グループウェア</p>\n"
+		}
+	]
+}

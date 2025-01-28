@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスワードが盗聴されるリスクが高いため</pre>\n",
+			"option_html": "<pre>パスワードが盗聴されるリスクが高いため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスワードを忘れやすくなるため</pre>\n",
+			"option_html": "<pre>パスワードを忘れやすくなるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>公衆Wi-Fiの利用料が高いため</pre>\n",
+			"option_html": "<pre>公衆Wi-Fiの利用料が高いため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他の人にパスワードが見られる可能性があるため</pre>\n",
+			"option_html": "<pre>他の人にパスワードが見られる可能性があるため</pre>\n"
+		}
+	]
+}

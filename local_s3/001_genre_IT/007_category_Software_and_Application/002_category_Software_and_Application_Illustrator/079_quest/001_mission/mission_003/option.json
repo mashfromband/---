@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトを右クリックして「新しいレイヤーに移動」を選択</pre>\n",
+			"option_html": "<pre>オブジェクトを右クリックして「新しいレイヤーに移動」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルでドラッグ＆ドロップ</pre>\n",
+			"option_html": "<pre>レイヤーパネルでドラッグ＆ドロップ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > レイヤー > 新規レイヤーを選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; レイヤー &gt; 新規レイヤーを選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>編集 > コピーして新しいレイヤーに貼り付け</pre>\n",
+			"option_html": "<pre>編集 &gt; コピーして新しいレイヤーに貼り付け</pre>\n"
+		}
+	]
+}

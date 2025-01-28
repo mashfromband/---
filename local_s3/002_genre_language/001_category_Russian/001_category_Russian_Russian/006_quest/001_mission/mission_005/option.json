@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Я учу русский язык.</pre>\n",
+			"option_html": "<pre>Я учу русский язык.</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Я люблю читать книги.</pre>\n",
+			"option_html": "<pre>Я люблю читать книги.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ты очень красивый.</pre>\n",
+			"option_html": "<pre>Ты очень красивый.</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ты любишь кошек?</pre>\n",
+			"option_html": "<pre>Ты любишь кошек?</pre>\n"
+		}
+	]
+}

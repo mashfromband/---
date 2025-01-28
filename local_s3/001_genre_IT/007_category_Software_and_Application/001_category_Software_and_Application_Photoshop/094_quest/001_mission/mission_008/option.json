@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>解像度とサイズを設定する</pre>\n",
+			"option_html": "<pre>解像度とサイズを設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色相・彩度を調整する</pre>\n",
+			"option_html": "<pre>色相・彩度を調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像を圧縮する</pre>\n",
+			"option_html": "<pre>画像を圧縮する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>背景色を選ぶ</pre>\n",
+			"option_html": "<pre>背景色を選ぶ</pre>\n"
+		}
+	]
+}

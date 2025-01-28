@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"実践・応用"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>読みやすさとシンプルさ</pre>\n",
+			"option_html": "<pre>読みやすさとシンプルさ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デザインに派手さを加える</pre>\n",
+			"option_html": "<pre>デザインに派手さを加える</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フォントのサイズを極端に小さくする</pre>\n",
+			"option_html": "<pre>フォントのサイズを極端に小さくする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フォントスタイルを複数使用する</pre>\n",
+			"option_html": "<pre>フォントスタイルを複数使用する</pre>\n"
+		}
+	]
+}

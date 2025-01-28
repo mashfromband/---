@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アーティスト間の競争促進</pre>\n",
+			"option_html": "<pre>アーティスト間の競争促進</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>違法ダウンロードの防止</pre>\n",
+			"option_html": "<pre>違法ダウンロードの防止</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>収益分配の透明性と迅速性</pre>\n",
+			"option_html": "<pre>収益分配の透明性と迅速性</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>音楽データの圧縮効率向上</pre>\n",
+			"option_html": "<pre>音楽データの圧縮効率向上</pre>\n"
+		}
+	]
+}

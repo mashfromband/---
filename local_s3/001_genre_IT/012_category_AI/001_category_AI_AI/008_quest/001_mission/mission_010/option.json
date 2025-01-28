@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プログラミングの参考書を参考にする</pre>\n",
+			"option_html": "<pre>プログラミングの参考書を参考にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プログラミングの課題を自動生成してくれるツールを使う</pre>\n",
+			"option_html": "<pre>プログラミングの課題を自動生成してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>インターネットからプログラミングのコードをコピーする</pre>\n",
+			"option_html": "<pre>インターネットからプログラミングのコードをコピーする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プログラミングの先生に質問する</pre>\n",
+			"option_html": "<pre>プログラミングの先生に質問する</pre>\n"
+		}
+	]
+}

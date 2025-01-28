@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>数式を削除し、新しい値を手入力する</pre>\n",
+			"option_html": "<pre>数式を削除し、新しい値を手入力する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Alt + V + Fキーを押す</pre>\n",
+			"option_html": "<pre>Alt + V + Fキーを押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルを選択し、そのままEnterキーを押す</pre>\n",
+			"option_html": "<pre>セルを選択し、そのままEnterキーを押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>コピーして「値として貼り付け」を選択</pre>\n",
+			"option_html": "<pre>コピーして「値として貼り付け」を選択</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>患者データの改ざんを防ぐことができない</pre>\n",
+			"option_html": "<pre>患者データの改ざんを防ぐことができない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの分散型管理によるプライバシー保護とのバランス</pre>\n",
+			"option_html": "<pre>データの分散型管理によるプライバシー保護とのバランス</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの完全削除が容易である</pre>\n",
+			"option_html": "<pre>データの完全削除が容易である</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>中央集権的な管理システムが必要になる</pre>\n",
+			"option_html": "<pre>中央集権的な管理システムが必要になる</pre>\n"
+		}
+	]
+}

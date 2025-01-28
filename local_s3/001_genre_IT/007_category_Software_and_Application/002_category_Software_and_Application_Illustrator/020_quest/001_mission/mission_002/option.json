@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスファインダー > 型抜き</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 型抜き</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シェイプ形成ツール</pre>\n",
+			"option_html": "<pre>シェイプ形成ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クリッピングマスク</pre>\n",
+			"option_html": "<pre>クリッピングマスク</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自由変形ツール</pre>\n",
+			"option_html": "<pre>自由変形ツール</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>明るさ・コントラスト調整</pre>\n",
+			"option_html": "<pre>明るさ・コントラスト調整</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>調整レイヤー</pre>\n",
+			"option_html": "<pre>調整レイヤー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター</pre>\n",
+			"option_html": "<pre>フィルター</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>消しゴムツール</pre>\n",
+			"option_html": "<pre>消しゴムツール</pre>\n"
+		}
+	]
+}

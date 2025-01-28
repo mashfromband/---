@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>手数料は常に固定されている</pre>\n",
+			"option_html": "<pre>手数料は常に固定されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>全ての取引で手数料が無料である</pre>\n",
+			"option_html": "<pre>全ての取引で手数料が無料である</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>手数料は政府によって設定される</pre>\n",
+			"option_html": "<pre>手数料は政府によって設定される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>手数料は取引所やブロックチェーンの混雑状況によって変動する</pre>\n",
+			"option_html": "<pre>手数料は取引所やブロックチェーンの混雑状況によって変動する</pre>\n"
+		}
+	]
+}

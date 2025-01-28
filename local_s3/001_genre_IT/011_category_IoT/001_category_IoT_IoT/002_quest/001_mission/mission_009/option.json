@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>センサー</pre>\n",
+			"option_html": "<pre>センサー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データベース</pre>\n",
+			"option_html": "<pre>データベース</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>通信モジュール</pre>\n",
+			"option_html": "<pre>通信モジュール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>電源装置</pre>\n",
+			"option_html": "<pre>電源装置</pre>\n"
+		}
+	]
+}

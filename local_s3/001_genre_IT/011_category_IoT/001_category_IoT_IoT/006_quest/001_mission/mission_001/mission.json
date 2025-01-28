@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>IoTデバイスはインターネットに接続され、多くの個人情報や重要データを扱うため</pre>\n",
+			"option_html": "<pre>IoTデバイスはインターネットに接続され、多くの個人情報や重要データを扱うため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セキュリティが不要なデバイスが増えているため</pre>\n",
+			"option_html": "<pre>セキュリティが不要なデバイスが増えているため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>センサーやアクチュエーターが不要になるから</pre>\n",
+			"option_html": "<pre>センサーやアクチュエーターが不要になるから</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>IoTデバイスはすべてクラウドで動作するため、攻撃の影響を受けにくいから</pre>\n",
+			"option_html": "<pre>IoTデバイスはすべてクラウドで動作するため、攻撃の影響を受けにくいから</pre>\n"
+		}
+	]
+}

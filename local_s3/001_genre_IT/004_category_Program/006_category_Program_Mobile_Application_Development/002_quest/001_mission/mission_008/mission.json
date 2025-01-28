@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>主にAndroidアプリ開発で使用される</pre>\n",
+			"option_html": "<pre>主にAndroidアプリ開発で使用される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>古い言語であり、現在はほとんど使用されていない</pre>\n",
+			"option_html": "<pre>古い言語であり、現在はほとんど使用されていない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シンプルでモダンな構文を持ち、開発効率が高い</pre>\n",
+			"option_html": "<pre>シンプルでモダンな構文を持ち、開発効率が高い</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Apple以外のプラットフォームでは使用できない</pre>\n",
+			"option_html": "<pre>Apple以外のプラットフォームでは使用できない</pre>\n"
+		}
+	]
+}

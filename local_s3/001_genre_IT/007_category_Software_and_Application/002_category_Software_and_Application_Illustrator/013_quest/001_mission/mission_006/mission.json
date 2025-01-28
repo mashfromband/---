@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDFエクスポート時に「背景色を白に設定」を選択</pre>\n",
+			"option_html": "<pre>PDFエクスポート時に「背景色を白に設定」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>エクスポート設定で背景色を指定</pre>\n",
+			"option_html": "<pre>エクスポート設定で背景色を指定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アートボード設定で背景を白に変更</pre>\n",
+			"option_html": "<pre>アートボード設定で背景を白に変更</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 書き出し > 背景色変更</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; 背景色変更</pre>\n"
+		}
+	]
+}

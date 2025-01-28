@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データのバックアップを取らない</pre>\n",
+			"option_html": "<pre>データのバックアップを取らない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスワードを複雑に設定する</pre>\n",
+			"option_html": "<pre>パスワードを複雑に設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの暗号化を行わない</pre>\n",
+			"option_html": "<pre>データの暗号化を行わない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>共有リンクを全ユーザーに公開する</pre>\n",
+			"option_html": "<pre>共有リンクを全ユーザーに公開する</pre>\n"
+		}
+	]
+}

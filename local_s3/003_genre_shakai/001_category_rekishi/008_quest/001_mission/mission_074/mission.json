@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "パックス＝ロマーナ\n",
+			"option_html": "<p>パックス＝ロマーナ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "テトラルキア\n",
+			"option_html": "<p>テトラルキア</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "プリンキパトゥス\n",
+			"option_html": "<p>プリンキパトゥス</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ドミナートゥス\n",
+			"option_html": "<p>ドミナートゥス</p>\n"
+		}
+	]
+}

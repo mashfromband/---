@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"良い仕事をする為に",
+		"ノウハウとマインド（25）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コンピテンシー</pre>\n",
+			"option_html": "<pre>コンピテンシー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>コア・コンピタンス</pre>\n",
+			"option_html": "<pre>コア・コンピタンス</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スキル</pre>\n",
+			"option_html": "<pre>スキル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アビリティー</pre>\n",
+			"option_html": "<pre>アビリティー</pre>\n"
+		}
+	]
+}

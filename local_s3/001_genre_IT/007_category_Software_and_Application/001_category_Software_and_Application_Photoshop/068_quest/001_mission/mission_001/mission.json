@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「文字パネル」の「行間」を狭くする</pre>\n",
+			"option_html": "<pre>「文字パネル」の「行間」を狭くする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「段落」パネルから「行間」を狭くする</pre>\n",
+			"option_html": "<pre>「段落」パネルから「行間」を狭くする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「文字ツール」の「リーディング」を広げる</pre>\n",
+			"option_html": "<pre>「文字ツール」の「リーディング」を広げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤーパネル」から行間を調整する</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から行間を調整する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Swift</pre>\n",
+			"option_html": "<pre>Swift</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Java</pre>\n",
+			"option_html": "<pre>Java</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>JavaScript</pre>\n",
+			"option_html": "<pre>JavaScript</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Dart</pre>\n",
+			"option_html": "<pre>Dart</pre>\n"
+		}
+	]
+}

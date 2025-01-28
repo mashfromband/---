@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>印刷設定で「CMYKカラー」を選択</pre>\n",
+			"option_html": "<pre>印刷設定で「CMYKカラー」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PDFエクスポート時に「CMYKカラーを保持」</pre>\n",
+			"option_html": "<pre>PDFエクスポート時に「CMYKカラーを保持」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 印刷設定 > カラー設定で「CMYK」を選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷設定 &gt; カラー設定で「CMYK」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>編集 > カラー設定で「CMYK」を選択</pre>\n",
+			"option_html": "<pre>編集 &gt; カラー設定で「CMYK」を選択</pre>\n"
+		}
+	]
+}

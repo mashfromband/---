@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>使用するたびにツールを探す</pre>\n",
+			"option_html": "<pre>使用するたびにツールを探す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ワークスペースをカスタマイズする</pre>\n",
+			"option_html": "<pre>ワークスペースをカスタマイズする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>必要な色をメモして確認する</pre>\n",
+			"option_html": "<pre>必要な色をメモして確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ツールウィンドウを閉じて作業する</pre>\n",
+			"option_html": "<pre>ツールウィンドウを閉じて作業する</pre>\n"
+		}
+	]
+}

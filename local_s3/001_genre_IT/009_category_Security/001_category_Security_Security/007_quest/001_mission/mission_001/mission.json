@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ネットワーク速度を向上させる</pre>\n",
+			"option_html": "<pre>ネットワーク速度を向上させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自己増殖し、他のファイルやシステムに感染する</pre>\n",
+			"option_html": "<pre>自己増殖し、他のファイルやシステムに感染する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コンピュータの動作を最適化する</pre>\n",
+			"option_html": "<pre>コンピュータの動作を最適化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データを自動的に暗号化する</pre>\n",
+			"option_html": "<pre>データを自動的に暗号化する</pre>\n"
+		}
+	]
+}

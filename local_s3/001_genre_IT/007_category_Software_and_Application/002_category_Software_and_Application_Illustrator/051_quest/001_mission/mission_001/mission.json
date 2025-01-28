@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"フィルター"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルター > スタイライズ > 放射線</pre>\n",
+			"option_html": "<pre>フィルター &gt; スタイライズ &gt; 放射線</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > 3D > 放射線ぼかし</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; 放射線ぼかし</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > ぼかし > 放射線ぼかし</pre>\n",
+			"option_html": "<pre>フィルター &gt; ぼかし &gt; 放射線ぼかし</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > アーティスティック > 放射線ぼかし</pre>\n",
+			"option_html": "<pre>効果 &gt; アーティスティック &gt; 放射線ぼかし</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"カラー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スポイトツールをCtrl + Dで適用する</pre>\n",
+			"option_html": "<pre>スポイトツールをCtrl + Dで適用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > コピーを選択して色をコピーする</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; コピーを選択して色をコピーする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ツールパネルで色のコピーを選択</pre>\n",
+			"option_html": "<pre>ツールパネルで色のコピーを選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スポイトツールを選んで色をクリックする</pre>\n",
+			"option_html": "<pre>スポイトツールを選んで色をクリックする</pre>\n"
+		}
+	]
+}

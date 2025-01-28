@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レシートを紛失する</pre>\n",
+			"option_html": "<pre>レシートを紛失する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>業務に関係ないものを購入する</pre>\n",
+			"option_html": "<pre>業務に関係ないものを購入する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>購入したものを明確に記録する</pre>\n",
+			"option_html": "<pre>購入したものを明確に記録する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>同僚に確認せず決定する</pre>\n",
+			"option_html": "<pre>同僚に確認せず決定する</pre>\n"
+		}
+	]
+}

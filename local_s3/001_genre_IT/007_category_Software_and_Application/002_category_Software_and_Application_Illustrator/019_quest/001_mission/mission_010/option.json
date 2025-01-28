@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アピアランスパネル</pre>\n",
+			"option_html": "<pre>アピアランスパネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アラインパネル</pre>\n",
+			"option_html": "<pre>アラインパネル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートガイド</pre>\n",
+			"option_html": "<pre>スマートガイド</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シェイプ形成ツール</pre>\n",
+			"option_html": "<pre>シェイプ形成ツール</pre>\n"
+		}
+	]
+}

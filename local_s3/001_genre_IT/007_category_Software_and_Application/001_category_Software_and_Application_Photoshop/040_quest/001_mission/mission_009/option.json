@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スクラッチディスクの保存先を変更する</pre>\n",
+			"option_html": "<pre>スクラッチディスクの保存先を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不要なレイヤーを削除する</pre>\n",
+			"option_html": "<pre>不要なレイヤーを削除する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイルサイズを縮小する</pre>\n",
+			"option_html": "<pre>ファイルサイズを縮小する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Photoshopのキャッシュをクリアする</pre>\n",
+			"option_html": "<pre>Photoshopのキャッシュをクリアする</pre>\n"
+		}
+	]
+}

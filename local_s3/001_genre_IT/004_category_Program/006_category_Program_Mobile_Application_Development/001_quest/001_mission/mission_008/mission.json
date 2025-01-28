@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ネットワーク接続が必須な機能を増やす</pre>\n",
+			"option_html": "<pre>ネットワーク接続が必須な機能を増やす</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データのローカル保存を活用する</pre>\n",
+			"option_html": "<pre>データのローカル保存を活用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリの動作をクラウドに依存させる</pre>\n",
+			"option_html": "<pre>アプリの動作をクラウドに依存させる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サーバーのパフォーマンスを向上させる</pre>\n",
+			"option_html": "<pre>サーバーのパフォーマンスを向上させる</pre>\n"
+		}
+	]
+}

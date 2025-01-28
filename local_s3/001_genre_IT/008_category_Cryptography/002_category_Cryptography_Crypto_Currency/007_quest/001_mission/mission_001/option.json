@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨を無料で配布する場所</pre>\n",
+			"option_html": "<pre>仮想通貨を無料で配布する場所</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の価格を固定する場所</pre>\n",
+			"option_html": "<pre>仮想通貨の価格を固定する場所</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨を売買するためのプラットフォームを提供する場所</pre>\n",
+			"option_html": "<pre>仮想通貨を売買するためのプラットフォームを提供する場所</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨を発行する場所</pre>\n",
+			"option_html": "<pre>仮想通貨を発行する場所</pre>\n"
+		}
+	]
+}

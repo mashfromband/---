@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コピー＆ペースト</pre>\n",
+			"option_html": "<pre>コピー＆ペースト</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>手動で描き直す</pre>\n",
+			"option_html": "<pre>手動で描き直す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>形状を拡張する</pre>\n",
+			"option_html": "<pre>形状を拡張する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスファインダーを使用する</pre>\n",
+			"option_html": "<pre>パスファインダーを使用する</pre>\n"
+		}
+	]
+}

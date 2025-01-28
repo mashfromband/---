@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "フィッシング\n",
+			"option_html": "<p>フィッシング</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "トロイの木馬\n",
+			"option_html": "<p>トロイの木馬</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ランサムウェア\n",
+			"option_html": "<p>ランサムウェア</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "スパイウェア\n",
+			"option_html": "<p>スパイウェア</p>\n"
+		}
+	]
+}

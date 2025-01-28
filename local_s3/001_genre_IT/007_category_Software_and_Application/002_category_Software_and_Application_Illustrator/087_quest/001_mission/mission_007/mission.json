@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"オブジェクト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > ロック > 選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; ロック &gt; 選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + R</pre>\n",
+			"option_html": "<pre>Ctrl + R</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + Alt + L</pre>\n",
+			"option_html": "<pre>Ctrl + Alt + L</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで右クリックして「ロック」</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックして「ロック」</pre>\n"
+		}
+	]
+}

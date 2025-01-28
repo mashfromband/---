@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データのローカル処理とクラウドへの転送を管理する</pre>\n",
+			"option_html": "<pre>データのローカル処理とクラウドへの転送を管理する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デバイスのファームウェアを自動で更新する</pre>\n",
+			"option_html": "<pre>デバイスのファームウェアを自動で更新する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク全体を物理的に接続する</pre>\n",
+			"option_html": "<pre>ネットワーク全体を物理的に接続する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データを暗号化せずに直接転送する</pre>\n",
+			"option_html": "<pre>データを暗号化せずに直接転送する</pre>\n"
+		}
+	]
+}

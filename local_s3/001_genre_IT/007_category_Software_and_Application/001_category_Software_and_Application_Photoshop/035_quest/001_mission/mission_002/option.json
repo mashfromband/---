@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>解像度が自動調整される設定になっていない</pre>\n",
+			"option_html": "<pre>解像度が自動調整される設定になっていない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>結合前に画像サイズが統一されていない</pre>\n",
+			"option_html": "<pre>結合前に画像サイズが統一されていない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーがリンクされている</pre>\n",
+			"option_html": "<pre>レイヤーがリンクされている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>保存形式が異なっている</pre>\n",
+			"option_html": "<pre>保存形式が異なっている</pre>\n"
+		}
+	]
+}

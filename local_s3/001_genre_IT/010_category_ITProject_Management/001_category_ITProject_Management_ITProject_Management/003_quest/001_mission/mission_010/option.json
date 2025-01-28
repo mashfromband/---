@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クリティカルパス法</pre>\n",
+			"option_html": "<pre>クリティカルパス法</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>類推見積もり法</pre>\n",
+			"option_html": "<pre>類推見積もり法</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スコープベースライン</pre>\n",
+			"option_html": "<pre>スコープベースライン</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ガントチャート作成</pre>\n",
+			"option_html": "<pre>ガントチャート作成</pre>\n"
+		}
+	]
+}

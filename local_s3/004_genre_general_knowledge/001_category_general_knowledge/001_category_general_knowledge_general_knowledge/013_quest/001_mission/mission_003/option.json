@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ゴミ箱にそのまま捨てる</pre>\n",
+			"option_html": "<pre>ゴミ箱にそのまま捨てる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シュレッダーで裁断する</pre>\n",
+			"option_html": "<pre>シュレッダーで裁断する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>同僚に処分を任せる</pre>\n",
+			"option_html": "<pre>同僚に処分を任せる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自宅に持ち帰る</pre>\n",
+			"option_html": "<pre>自宅に持ち帰る</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ストラテジ系",
+		"システム企画",
+		"システム化計画"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "IoT(Internet of Things)\n",
+			"option_html": "<p>IoT(Internet of Things)</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "PoC(Proof of Concept)\n",
+			"option_html": "<p>PoC(Proof of Concept)</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "SOE(Systems of Engagement)\n",
+			"option_html": "<p>SOE(Systems of Engagement)</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "SOR(Systems of Record)\n",
+			"option_html": "<p>SOR(Systems of Record)</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"データ整理・管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの並べ替え</pre>\n",
+			"option_html": "<pre>データの並べ替え</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを選択して右クリックし「削除」を選ぶ</pre>\n",
+			"option_html": "<pre>セルを選択して右クリックし「削除」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>数式を入力</pre>\n",
+			"option_html": "<pre>数式を入力</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルター機能を使用する</pre>\n",
+			"option_html": "<pre>フィルター機能を使用する</pre>\n"
+		}
+	]
+}

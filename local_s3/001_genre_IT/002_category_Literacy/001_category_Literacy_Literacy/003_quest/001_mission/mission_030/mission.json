@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"セキュリティ",
+		"セキュリティ攻撃"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アドウェア\n",
+			"option_html": "<p>アドウェア</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "スパイウェア\n",
+			"option_html": "<p>スパイウェア</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ルートキット\n",
+			"option_html": "<p>ルートキット</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "マルウェア\n",
+			"option_html": "<p>マルウェア</p>\n"
+		}
+	]
+}

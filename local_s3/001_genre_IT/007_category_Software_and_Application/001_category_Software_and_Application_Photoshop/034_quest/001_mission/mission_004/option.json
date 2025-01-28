@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルターの方向が適切に設定されているか</pre>\n",
+			"option_html": "<pre>フィルターの方向が適切に設定されているか</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルターの半径が適切に設定されているか</pre>\n",
+			"option_html": "<pre>フィルターの半径が適切に設定されているか</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>描画モードが「通常」になっているか確認する</pre>\n",
+			"option_html": "<pre>描画モードが「通常」になっているか確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーがスマートオブジェクトに変換されているか確認する</pre>\n",
+			"option_html": "<pre>レイヤーがスマートオブジェクトに変換されているか確認する</pre>\n"
+		}
+	]
+}

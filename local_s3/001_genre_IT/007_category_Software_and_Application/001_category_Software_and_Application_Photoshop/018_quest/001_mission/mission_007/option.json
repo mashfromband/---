@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>合成モード（ブレンドモード）</pre>\n",
+			"option_html": "<pre>合成モード（ブレンドモード）</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター効果</pre>\n",
+			"option_html": "<pre>フィルター効果</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>カラーバランス調整</pre>\n",
+			"option_html": "<pre>カラーバランス調整</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーマスク</pre>\n",
+			"option_html": "<pre>レイヤーマスク</pre>\n"
+		}
+	]
+}

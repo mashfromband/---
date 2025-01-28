@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "サービス\n",
+			"option_html": "<p>サービス</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "サーバー\n",
+			"option_html": "<p>サーバー</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "スピード\n",
+			"option_html": "<p>スピード</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "セキュリティ\n",
+			"option_html": "<p>セキュリティ</p>\n"
+		}
+	]
+}

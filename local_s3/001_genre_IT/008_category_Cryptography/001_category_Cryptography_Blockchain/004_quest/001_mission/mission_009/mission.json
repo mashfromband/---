@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ブロックの重複生成</pre>\n",
+			"option_html": "<pre>ブロックの重複生成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの非整合性（インコンシステンシー）</pre>\n",
+			"option_html": "<pre>データの非整合性（インコンシステンシー）</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク速度の向上</pre>\n",
+			"option_html": "<pre>ネットワーク速度の向上</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>トランザクションの削除</pre>\n",
+			"option_html": "<pre>トランザクションの削除</pre>\n"
+		}
+	]
+}

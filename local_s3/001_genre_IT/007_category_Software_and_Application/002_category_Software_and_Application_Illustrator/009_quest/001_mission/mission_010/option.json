@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > ドキュメント設定 > アートボード設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; ドキュメント設定 &gt; アートボード設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アートボードツールを使ってA4に変更</pre>\n",
+			"option_html": "<pre>アートボードツールを使ってA4に変更</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>編集 > サイズ設定でA4を選択</pre>\n",
+			"option_html": "<pre>編集 &gt; サイズ設定でA4を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイアウト > アートボード設定</pre>\n",
+			"option_html": "<pre>レイアウト &gt; アートボード設定</pre>\n"
+		}
+	]
+}

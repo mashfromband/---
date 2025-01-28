@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>中央銀行が発行するデジタルマネー</pre>\n",
+			"option_html": "<pre>中央銀行が発行するデジタルマネー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>分散型ネットワーク上で運用されるデジタル資産</pre>\n",
+			"option_html": "<pre>分散型ネットワーク上で運用されるデジタル資産</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>現金をデジタル化した形態</pre>\n",
+			"option_html": "<pre>現金をデジタル化した形態</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特定の企業が提供するポイントプログラム</pre>\n",
+			"option_html": "<pre>特定の企業が提供するポイントプログラム</pre>\n"
+		}
+	]
+}

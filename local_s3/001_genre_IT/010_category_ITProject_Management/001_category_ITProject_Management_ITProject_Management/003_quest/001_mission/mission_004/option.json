@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトの品質を最優先にするため</pre>\n",
+			"option_html": "<pre>プロジェクトの品質を最優先にするため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>チームメンバーの満足度を高めるため</pre>\n",
+			"option_html": "<pre>チームメンバーの満足度を高めるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトの予算超過を防ぎ、計画通りに進めるため</pre>\n",
+			"option_html": "<pre>プロジェクトの予算超過を防ぎ、計画通りに進めるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトのスケジュールを短縮するため</pre>\n",
+			"option_html": "<pre>プロジェクトのスケジュールを短縮するため</pre>\n"
+		}
+	]
+}

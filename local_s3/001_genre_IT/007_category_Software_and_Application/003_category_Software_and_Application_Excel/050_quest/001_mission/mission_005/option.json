@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラフを描画するため</pre>\n",
+			"option_html": "<pre>グラフを描画するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを右クリックしてコピーするため</pre>\n",
+			"option_html": "<pre>セルを右クリックしてコピーするため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データを要約・集計するため</pre>\n",
+			"option_html": "<pre>データを要約・集計するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>条件付き書式を追加するため</pre>\n",
+			"option_html": "<pre>条件付き書式を追加するため</pre>\n"
+		}
+	]
+}

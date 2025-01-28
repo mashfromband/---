@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ビジネスマナー",
+		"挨拶・姿勢態度（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>会釈をする</pre>\n",
+			"option_html": "<pre>会釈をする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>無視をする</pre>\n",
+			"option_html": "<pre>無視をする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>声をかけない</pre>\n",
+			"option_html": "<pre>声をかけない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>見て見ぬふりをする</pre>\n",
+			"option_html": "<pre>見て見ぬふりをする</pre>\n"
+		}
+	]
+}

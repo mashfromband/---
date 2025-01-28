@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>出資者の個人情報が完全に公開される</pre>\n",
+			"option_html": "<pre>出資者の個人情報が完全に公開される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>出資者がプロジェクトの意思決定に直接関与できる</pre>\n",
+			"option_html": "<pre>出資者がプロジェクトの意思決定に直接関与できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨を利用することで国際的な資金調達が容易になる</pre>\n",
+			"option_html": "<pre>仮想通貨を利用することで国際的な資金調達が容易になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨を使うと税金が免除される</pre>\n",
+			"option_html": "<pre>仮想通貨を使うと税金が免除される</pre>\n"
+		}
+	]
+}

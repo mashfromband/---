@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "守護神\n",
+			"option_html": "<p>守護神</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "救世主\n",
+			"option_html": "<p>救世主</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "邪道\n",
+			"option_html": "<p>邪道</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "鬼神\n",
+			"option_html": "<p>鬼神</p>\n"
+		}
+	]
+}

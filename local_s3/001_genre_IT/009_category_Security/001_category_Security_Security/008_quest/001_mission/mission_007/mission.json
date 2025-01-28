@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全ユーザーに管理者権限を付与する</pre>\n",
+			"option_html": "<pre>全ユーザーに管理者権限を付与する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウドサービスを利用しない</pre>\n",
+			"option_html": "<pre>クラウドサービスを利用しない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アクセスログを定期的に監視する</pre>\n",
+			"option_html": "<pre>アクセスログを定期的に監視する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスワードを頻繁に変更しない</pre>\n",
+			"option_html": "<pre>パスワードを頻繁に変更しない</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ハイブリッド環境ではデータの移行が不要になること</pre>\n",
+			"option_html": "<pre>ハイブリッド環境ではデータの移行が不要になること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウドとオンプレミスのシステム間でデータの一貫性を確保すること</pre>\n",
+			"option_html": "<pre>クラウドとオンプレミスのシステム間でデータの一貫性を確保すること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハイブリッド環境では自動化が困難であること</pre>\n",
+			"option_html": "<pre>ハイブリッド環境では自動化が困難であること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オンプレミス環境がクラウド環境よりも高速であること</pre>\n",
+			"option_html": "<pre>オンプレミス環境がクラウド環境よりも高速であること</pre>\n"
+		}
+	]
+}

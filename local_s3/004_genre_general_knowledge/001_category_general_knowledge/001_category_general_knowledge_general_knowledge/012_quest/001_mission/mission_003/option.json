@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>相手の話を丁寧に聞く</pre>\n",
+			"option_html": "<pre>相手の話を丁寧に聞く</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>会社の名前を省略する</pre>\n",
+			"option_html": "<pre>会社の名前を省略する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>適当な対応をする</pre>\n",
+			"option_html": "<pre>適当な対応をする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取次ぎを断る</pre>\n",
+			"option_html": "<pre>取次ぎを断る</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ハードディスク\n",
+			"option_html": "<p>ハードディスク</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "メモリ\n",
+			"option_html": "<p>メモリ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "CPU\n",
+			"option_html": "<p>CPU</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "グラフィックボード\n",
+			"option_html": "<p>グラフィックボード</p>\n"
+		}
+	]
+}

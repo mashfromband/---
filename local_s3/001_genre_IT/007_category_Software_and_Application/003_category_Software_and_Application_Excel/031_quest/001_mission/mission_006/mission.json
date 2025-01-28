@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ファイル」タブ→「印刷」</pre>\n",
+			"option_html": "<pre>「ファイル」タブ→「印刷」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Altキーを押しながらタブをクリックする</pre>\n",
+			"option_html": "<pre>Altキーを押しながらタブをクリックする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シートタブをCtrlキーを押しながらドラッグする</pre>\n",
+			"option_html": "<pre>シートタブをCtrlキーを押しながらドラッグする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「データ」タブ→「並べ替え」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「並べ替え」</pre>\n"
+		}
+	]
+}

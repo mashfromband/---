@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データを定期的にバックアップする</pre>\n",
+			"option_html": "<pre>データを定期的にバックアップする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>公衆Wi-Fiを使用しない</pre>\n",
+			"option_html": "<pre>公衆Wi-Fiを使用しない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>システムにパスワードを設定する</pre>\n",
+			"option_html": "<pre>システムにパスワードを設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバイスの電源を常にオフにする</pre>\n",
+			"option_html": "<pre>デバイスの電源を常にオフにする</pre>\n"
+		}
+	]
+}

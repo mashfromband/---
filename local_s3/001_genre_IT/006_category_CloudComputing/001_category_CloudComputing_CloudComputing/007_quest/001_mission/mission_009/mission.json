@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サーバーのメンテナンスやスケーリングがクラウドプロバイダーによって管理されるため</pre>\n",
+			"option_html": "<pre>サーバーのメンテナンスやスケーリングがクラウドプロバイダーによって管理されるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サーバーの台数を手動で増減させる必要があるため</pre>\n",
+			"option_html": "<pre>サーバーの台数を手動で増減させる必要があるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サーバーの購入と設置が簡単であるため</pre>\n",
+			"option_html": "<pre>サーバーの購入と設置が簡単であるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オンプレミス環境に特化した設計であるため</pre>\n",
+			"option_html": "<pre>オンプレミス環境に特化した設計であるため</pre>\n"
+		}
+	]
+}

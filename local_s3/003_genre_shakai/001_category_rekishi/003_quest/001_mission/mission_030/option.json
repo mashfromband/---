@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "金閣\n",
+			"option_html": "<p>金閣</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "銀閣\n",
+			"option_html": "<p>銀閣</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "銅閣\n",
+			"option_html": "<p>銅閣</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "鉄閣\n",
+			"option_html": "<p>鉄閣</p>\n"
+		}
+	]
+}

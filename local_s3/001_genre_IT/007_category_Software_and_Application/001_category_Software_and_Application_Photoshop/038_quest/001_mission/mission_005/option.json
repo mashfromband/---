@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>XML形式</pre>\n",
+			"option_html": "<pre>XML形式</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>.psd形式</pre>\n",
+			"option_html": "<pre>.psd形式</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>.kys形式</pre>\n",
+			"option_html": "<pre>.kys形式</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>.txt形式</pre>\n",
+			"option_html": "<pre>.txt形式</pre>\n"
+		}
+	]
+}

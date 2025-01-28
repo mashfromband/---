@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"選択・マスキング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「消しゴムツール」を使用する</pre>\n",
+			"option_html": "<pre>「消しゴムツール」を使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「選択範囲」メニューから「選択範囲を解除」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「選択範囲を解除」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「塗りつぶしツール」を使用する</pre>\n",
+			"option_html": "<pre>「塗りつぶしツール」を使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤーパネル」から「選択範囲を削除する」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から「選択範囲を削除する」を選ぶ</pre>\n"
+		}
+	]
+}

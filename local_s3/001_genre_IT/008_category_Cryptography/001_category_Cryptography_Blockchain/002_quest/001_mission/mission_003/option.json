@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スケーラビリティ</pre>\n",
+			"option_html": "<pre>スケーラビリティ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>分散性</pre>\n",
+			"option_html": "<pre>分散性</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>不変性</pre>\n",
+			"option_html": "<pre>不変性</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>透明性</pre>\n",
+			"option_html": "<pre>透明性</pre>\n"
+		}
+	]
+}

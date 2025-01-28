@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>統合するレイヤーがすべて非表示になっている</pre>\n",
+			"option_html": "<pre>統合するレイヤーがすべて非表示になっている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>統合できるレイヤーが1つしか選択されていない</pre>\n",
+			"option_html": "<pre>統合できるレイヤーが1つしか選択されていない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの描画モードが適切でない</pre>\n",
+			"option_html": "<pre>レイヤーの描画モードが適切でない</pre>\n"
+		}
+	]
+}

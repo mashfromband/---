@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの安全な保存場所が不要になる</pre>\n",
+			"option_html": "<pre>データの安全な保存場所が不要になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>通信遅延やネットワーク依存の問題が発生する</pre>\n",
+			"option_html": "<pre>通信遅延やネットワーク依存の問題が発生する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスの処理速度が自動的に向上する</pre>\n",
+			"option_html": "<pre>デバイスの処理速度が自動的に向上する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データの収集が不要になる</pre>\n",
+			"option_html": "<pre>データの収集が不要になる</pre>\n"
+		}
+	]
+}

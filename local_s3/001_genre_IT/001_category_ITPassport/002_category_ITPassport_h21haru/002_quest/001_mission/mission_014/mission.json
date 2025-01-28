@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ストラテジ系",
+		"企業活動",
+		"会計・財務"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "100\n",
+			"option_html": "<p>100</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "200\n",
+			"option_html": "<p>200</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "400\n",
+			"option_html": "<p>400</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "800\n",
+			"option_html": "<p>800</p>\n"
+		}
+	]
+}

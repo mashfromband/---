@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「編集」メニューの「ガイドを作成」</pre>\n",
+			"option_html": "<pre>「編集」メニューの「ガイドを作成」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「表示」メニューの「新規ガイド」</pre>\n",
+			"option_html": "<pre>「表示」メニューの「新規ガイド」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ウィンドウ」メニューの「新規ガイド」</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「新規ガイド」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ファイル」メニューの「新規」</pre>\n",
+			"option_html": "<pre>「ファイル」メニューの「新規」</pre>\n"
+		}
+	]
+}

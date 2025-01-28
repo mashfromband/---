@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ブロックチェーン上の個々のトランザクション</pre>\n",
+			"option_html": "<pre>ブロックチェーン上の個々のトランザクション</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークに接続されたコンピュータやデバイス</pre>\n",
+			"option_html": "<pre>ネットワークに接続されたコンピュータやデバイス</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ブロックを繋ぐためのハッシュ値</pre>\n",
+			"option_html": "<pre>ブロックを繋ぐためのハッシュ値</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>トランザクションを検証するためのアルゴリズム</pre>\n",
+			"option_html": "<pre>トランザクションを検証するためのアルゴリズム</pre>\n"
+		}
+	]
+}

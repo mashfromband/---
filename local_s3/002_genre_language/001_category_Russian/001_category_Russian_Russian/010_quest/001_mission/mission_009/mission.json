@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"バイリンガル向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Japan</pre>\n",
+			"option_html": "<pre>Japan</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>United States of America</pre>\n",
+			"option_html": "<pre>United States of America</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>United Kingdom of Great Britain and Northern Ireland</pre>\n",
+			"option_html": "<pre>United Kingdom of Great Britain and Northern Ireland</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Russia</pre>\n",
+			"option_html": "<pre>Russia</pre>\n"
+		}
+	]
+}

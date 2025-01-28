@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>zoo の \"oo\"</pre>\n",
+			"option_html": "<pre>zoo の \"oo\"</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>father の \"f\"</pre>\n",
+			"option_html": "<pre>father の \"f\"</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Kazakhstan の \"kh\"</pre>\n",
+			"option_html": "<pre>Kazakhstan の \"kh\"</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>cats の \"ts\"</pre>\n",
+			"option_html": "<pre>cats の \"ts\"</pre>\n"
+		}
+	]
+}

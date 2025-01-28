@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"バイリンガル向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>maiden</pre>\n",
+			"option_html": "<pre>maiden</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>virgin</pre>\n",
+			"option_html": "<pre>virgin</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>乙女座</pre>\n",
+			"option_html": "<pre>乙女座</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>boys</pre>\n",
+			"option_html": "<pre>boys</pre>\n"
+		}
+	]
+}

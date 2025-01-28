@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ネットワークの速度を向上させる</pre>\n",
+			"option_html": "<pre>ネットワークの速度を向上させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークへの不正アクセスや攻撃を防ぐ</pre>\n",
+			"option_html": "<pre>ネットワークへの不正アクセスや攻撃を防ぐ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク上のすべての通信を記録する</pre>\n",
+			"option_html": "<pre>ネットワーク上のすべての通信を記録する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワークの利用者を制限する</pre>\n",
+			"option_html": "<pre>ネットワークの利用者を制限する</pre>\n"
+		}
+	]
+}

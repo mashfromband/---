@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像を圧縮する</pre>\n",
+			"option_html": "<pre>画像を圧縮する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像の一部を選択して削除する</pre>\n",
+			"option_html": "<pre>画像の一部を選択して削除する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像のサイズを変更またはトリミングする</pre>\n",
+			"option_html": "<pre>画像のサイズを変更またはトリミングする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		}
+	]
+}

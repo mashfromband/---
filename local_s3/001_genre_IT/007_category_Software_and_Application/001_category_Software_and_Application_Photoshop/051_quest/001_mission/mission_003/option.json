@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>描画モードを「通常」に設定する</pre>\n",
+			"option_html": "<pre>描画モードを「通常」に設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>調整レイヤーを特定のレイヤーにクリッピングする</pre>\n",
+			"option_html": "<pre>調整レイヤーを特定のレイヤーにクリッピングする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>調整レイヤーの不透明度を下げる</pre>\n",
+			"option_html": "<pre>調整レイヤーの不透明度を下げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーマスクを削除する</pre>\n",
+			"option_html": "<pre>レイヤーマスクを削除する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色相・彩度</pre>\n",
+			"option_html": "<pre>色相・彩度</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ぼかしツール</pre>\n",
+			"option_html": "<pre>ぼかしツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートオブジェクト</pre>\n",
+			"option_html": "<pre>スマートオブジェクト</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスツール</pre>\n",
+			"option_html": "<pre>パスツール</pre>\n"
+		}
+	]
+}

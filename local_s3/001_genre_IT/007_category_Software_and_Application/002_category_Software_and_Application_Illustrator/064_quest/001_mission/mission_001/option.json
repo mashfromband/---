@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>回転ツールを使用し、Altキーを押しながら角度を設定</pre>\n",
+			"option_html": "<pre>回転ツールを使用し、Altキーを押しながら角度を設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自由変形ツールで複製を作成</pre>\n",
+			"option_html": "<pre>自由変形ツールで複製を作成</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スケールツールで角度を指定して複製</pre>\n",
+			"option_html": "<pre>スケールツールで角度を指定して複製</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シアーツールで角度を指定して変形</pre>\n",
+			"option_html": "<pre>シアーツールで角度を指定して変形</pre>\n"
+		}
+	]
+}

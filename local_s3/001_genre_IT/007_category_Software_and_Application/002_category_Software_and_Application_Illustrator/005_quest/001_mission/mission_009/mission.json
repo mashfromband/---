@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl+0</pre>\n",
+			"option_html": "<pre>Ctrl+0</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl+Z</pre>\n",
+			"option_html": "<pre>Ctrl+Z</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl+Shift++（プラス）</pre>\n",
+			"option_html": "<pre>Ctrl+Shift++（プラス）</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl++（プラス）</pre>\n",
+			"option_html": "<pre>Ctrl++（プラス）</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Photoshop CS3</pre>\n",
+			"option_html": "<pre>Photoshop CS3</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Photoshop CS4</pre>\n",
+			"option_html": "<pre>Photoshop CS4</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Photoshop CS2</pre>\n",
+			"option_html": "<pre>Photoshop CS2</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Photoshop 7.0</pre>\n",
+			"option_html": "<pre>Photoshop 7.0</pre>\n"
+		}
+	]
+}

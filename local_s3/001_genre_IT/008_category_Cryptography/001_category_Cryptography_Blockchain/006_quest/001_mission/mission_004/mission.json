@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ノードの故障時にもネットワーク全体が機能するため</pre>\n",
+			"option_html": "<pre>ノードの故障時にもネットワーク全体が機能するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データを高速で削除できるため</pre>\n",
+			"option_html": "<pre>データを高速で削除できるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>中央サーバーが不要になるため、コストが増加する</pre>\n",
+			"option_html": "<pre>中央サーバーが不要になるため、コストが増加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワークの参加者がすべてのデータにアクセスできるため</pre>\n",
+			"option_html": "<pre>ネットワークの参加者がすべてのデータにアクセスできるため</pre>\n"
+		}
+	]
+}

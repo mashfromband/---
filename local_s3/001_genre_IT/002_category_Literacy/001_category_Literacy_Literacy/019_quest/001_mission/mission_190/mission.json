@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"セキュリティ系",
+		"情報セキュリティ",
+		"セキュリティ対策"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "作業後にログアウトをしない\n",
+			"option_html": "<p>作業後にログアウトをしない</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "個人情報を机の上に放置する\n",
+			"option_html": "<p>個人情報を机の上に放置する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "不必要な情報は破棄またはシュレッダーにかける\n",
+			"option_html": "<p>不必要な情報は破棄またはシュレッダーにかける</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "重要ファイルを机の上に置いておく\n",
+			"option_html": "<p>重要ファイルを机の上に置いておく</p>\n"
+		}
+	]
+}

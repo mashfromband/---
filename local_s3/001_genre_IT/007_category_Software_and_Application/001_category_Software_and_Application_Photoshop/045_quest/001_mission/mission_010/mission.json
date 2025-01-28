@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択範囲が設定されていない</pre>\n",
+			"option_html": "<pre>選択範囲が設定されていない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像の解像度が低すぎる</pre>\n",
+			"option_html": "<pre>画像の解像度が低すぎる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルターの強度が弱すぎる</pre>\n",
+			"option_html": "<pre>フィルターの強度が弱すぎる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルターの設定が初期化されている</pre>\n",
+			"option_html": "<pre>フィルターの設定が初期化されている</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「パスに沿ったテキスト」を使う</pre>\n",
+			"option_html": "<pre>「パスに沿ったテキスト」を使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「テキストツール」で自由に変形する</pre>\n",
+			"option_html": "<pre>「テキストツール」で自由に変形する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ペンツール」でテキストを描く</pre>\n",
+			"option_html": "<pre>「ペンツール」でテキストを描く</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「フィルター」メニューから曲線を適用する</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから曲線を適用する</pre>\n"
+		}
+	]
+}

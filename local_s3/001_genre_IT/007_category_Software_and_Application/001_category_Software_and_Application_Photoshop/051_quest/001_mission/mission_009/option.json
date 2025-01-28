@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>塗りつぶしツールの「許容値」が高すぎる</pre>\n",
+			"option_html": "<pre>塗りつぶしツールの「許容値」が高すぎる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>塗りつぶしの透明度が低く設定されている</pre>\n",
+			"option_html": "<pre>塗りつぶしの透明度が低く設定されている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲が正確に指定されていない</pre>\n",
+			"option_html": "<pre>選択範囲が正確に指定されていない</pre>\n"
+		}
+	]
+}

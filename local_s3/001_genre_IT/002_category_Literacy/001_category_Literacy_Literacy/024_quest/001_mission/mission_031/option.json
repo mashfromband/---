@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "HDD\n",
+			"option_html": "<p>HDD</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SSD\n",
+			"option_html": "<p>SSD</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "RAM\n",
+			"option_html": "<p>RAM</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ROM\n",
+			"option_html": "<p>ROM</p>\n"
+		}
+	]
+}

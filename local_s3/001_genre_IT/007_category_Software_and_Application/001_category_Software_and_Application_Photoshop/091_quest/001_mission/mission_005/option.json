@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>解像度の設定</pre>\n",
+			"option_html": "<pre>解像度の設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字のフォントとサイズ</pre>\n",
+			"option_html": "<pre>文字のフォントとサイズ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像のカラーモード</pre>\n",
+			"option_html": "<pre>画像のカラーモード</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤースタイルの「ドロップシャドウ」</pre>\n",
+			"option_html": "<pre>レイヤースタイルの「ドロップシャドウ」</pre>\n"
+		}
+	]
+}

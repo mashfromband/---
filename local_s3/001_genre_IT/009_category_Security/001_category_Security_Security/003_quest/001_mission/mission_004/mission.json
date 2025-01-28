@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーに管理者権限を割り当てる</pre>\n",
+			"option_html": "<pre>ユーザーに管理者権限を割り当てる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザーのアクセスログを記録する</pre>\n",
+			"option_html": "<pre>ユーザーのアクセスログを記録する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスワードを入力してシステムにログインする</pre>\n",
+			"option_html": "<pre>パスワードを入力してシステムにログインする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>通信データを暗号化して送信する</pre>\n",
+			"option_html": "<pre>通信データを暗号化して送信する</pre>\n"
+		}
+	]
+}

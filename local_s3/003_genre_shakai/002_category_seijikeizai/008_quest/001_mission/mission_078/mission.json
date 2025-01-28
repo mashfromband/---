@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"国際",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "チェコ\n",
+			"option_html": "<p>チェコ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "スペイン\n",
+			"option_html": "<p>スペイン</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ポルトガル\n",
+			"option_html": "<p>ポルトガル</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ノルウェー\n",
+			"option_html": "<p>ノルウェー</p>\n"
+		}
+	]
+}

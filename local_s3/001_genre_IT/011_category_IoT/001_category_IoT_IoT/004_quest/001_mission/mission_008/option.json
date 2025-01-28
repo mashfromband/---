@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データ処理がデバイスの近くで完結する</pre>\n",
+			"option_html": "<pre>データ処理がデバイスの近くで完結する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークを使わずにデータ通信が可能になる</pre>\n",
+			"option_html": "<pre>ネットワークを使わずにデータ通信が可能になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスの消費電力が増加する</pre>\n",
+			"option_html": "<pre>デバイスの消費電力が増加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>大量のデータを一元的に管理し、分析が可能になる</pre>\n",
+			"option_html": "<pre>大量のデータを一元的に管理し、分析が可能になる</pre>\n"
+		}
+	]
+}

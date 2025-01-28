@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>信頼できる中央機関が必要であるという考え方</pre>\n",
+			"option_html": "<pre>信頼できる中央機関が必要であるという考え方</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>信頼が不要な環境を技術的に実現する仕組み</pre>\n",
+			"option_html": "<pre>信頼が不要な環境を技術的に実現する仕組み</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク参加者が相互に監視し合う必要性</pre>\n",
+			"option_html": "<pre>ネットワーク参加者が相互に監視し合う必要性</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>全てのノードが匿名であるという特徴</pre>\n",
+			"option_html": "<pre>全てのノードが匿名であるという特徴</pre>\n"
+		}
+	]
+}

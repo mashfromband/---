@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>常時稼働が必要なバックグラウンドタスクの実行</pre>\n",
+			"option_html": "<pre>常時稼働が必要なバックグラウンドタスクの実行</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>リアルタイムなデータ処理やイベント駆動型アプリケーションの実行</pre>\n",
+			"option_html": "<pre>リアルタイムなデータ処理やイベント駆動型アプリケーションの実行</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>大規模なデータセンターの構築と運用</pre>\n",
+			"option_html": "<pre>大規模なデータセンターの構築と運用</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オンプレミス環境での仮想マシンの管理</pre>\n",
+			"option_html": "<pre>オンプレミス環境での仮想マシンの管理</pre>\n"
+		}
+	]
+}

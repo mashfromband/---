@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "メモリ\n",
+			"option_html": "<p>メモリ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ストレージ\n",
+			"option_html": "<p>ストレージ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "CPU\n",
+			"option_html": "<p>CPU</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "マザーボード\n",
+			"option_html": "<p>マザーボード</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーが本人であることを確認する</pre>\n",
+			"option_html": "<pre>ユーザーが本人であることを確認する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データを暗号化して送信する</pre>\n",
+			"option_html": "<pre>データを暗号化して送信する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザーのアクセス履歴を記録する</pre>\n",
+			"option_html": "<pre>ユーザーのアクセス履歴を記録する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>不正アクセスを完全に防ぐ</pre>\n",
+			"option_html": "<pre>不正アクセスを完全に防ぐ</pre>\n"
+		}
+	]
+}

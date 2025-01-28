@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>留学フェアに参加する</pre>\n",
+			"option_html": "<pre>留学フェアに参加する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>留学情報サイトを見る</pre>\n",
+			"option_html": "<pre>留学情報サイトを見る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>留学経験者に相談する</pre>\n",
+			"option_html": "<pre>留学経験者に相談する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>興味や条件に合った留学先を提案してくれるツールを使う</pre>\n",
+			"option_html": "<pre>興味や条件に合った留学先を提案してくれるツールを使う</pre>\n"
+		}
+	]
+}

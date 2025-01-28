@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>被害者を無視する</pre>\n",
+			"option_html": "<pre>被害者を無視する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>問題を個人で解決しようとする</pre>\n",
+			"option_html": "<pre>問題を個人で解決しようとする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>上司や窓口に相談する</pre>\n",
+			"option_html": "<pre>上司や窓口に相談する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>周囲に問題を話し広める</pre>\n",
+			"option_html": "<pre>周囲に問題を話し広める</pre>\n"
+		}
+	]
+}

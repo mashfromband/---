@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>範囲を選択しCtrl + Enterを押す</pre>\n",
+			"option_html": "<pre>範囲を選択しCtrl + Enterを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + Cでコピー</pre>\n",
+			"option_html": "<pre>Ctrl + Cでコピー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Alt + Dで貼り付け</pre>\n",
+			"option_html": "<pre>Alt + Dで貼り付け</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + Vで貼り付け</pre>\n",
+			"option_html": "<pre>Ctrl + Vで貼り付け</pre>\n"
+		}
+	]
+}

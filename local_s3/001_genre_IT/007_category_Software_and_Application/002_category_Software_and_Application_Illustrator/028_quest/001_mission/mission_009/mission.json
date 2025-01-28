@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > エクスポート > JPEG</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; JPEG</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 書き出し > JPEG形式</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; JPEG形式</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 保存形式 > JPEG</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存形式 &gt; JPEG</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>編集 > 画像保存 > JPEG</pre>\n",
+			"option_html": "<pre>編集 &gt; 画像保存 &gt; JPEG</pre>\n"
+		}
+	]
+}

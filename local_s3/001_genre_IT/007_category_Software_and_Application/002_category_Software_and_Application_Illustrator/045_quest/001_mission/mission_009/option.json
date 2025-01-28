@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>線端を「丸型」に設定する</pre>\n",
+			"option_html": "<pre>線端を「丸型」に設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>線端を「四角形」に設定する</pre>\n",
+			"option_html": "<pre>線端を「四角形」に設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスをアウトライン化する</pre>\n",
+			"option_html": "<pre>パスをアウトライン化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>線幅を「ゼロ」に設定する</pre>\n",
+			"option_html": "<pre>線幅を「ゼロ」に設定する</pre>\n"
+		}
+	]
+}

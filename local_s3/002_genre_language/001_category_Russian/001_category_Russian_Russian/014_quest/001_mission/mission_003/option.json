@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>複数形しか存在しない単語がある</pre>\n",
+			"option_html": "<pre>複数形しか存在しない単語がある</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>複数形になると単数形とまったく異なる文字列になる単語がある</pre>\n",
+			"option_html": "<pre>複数形になると単数形とまったく異なる文字列になる単語がある</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>複数形になる際に語幹の累加が発生する単語がある</pre>\n",
+			"option_html": "<pre>複数形になる際に語幹の累加が発生する単語がある</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>複数形でしか使えない名詞はない</pre>\n",
+			"option_html": "<pre>複数形でしか使えない名詞はない</pre>\n"
+		}
+	]
+}

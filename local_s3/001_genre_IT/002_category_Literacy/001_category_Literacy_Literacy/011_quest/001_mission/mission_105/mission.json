@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ストラテジ系",
+		"法務",
+		"セキュリティ関連法規"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "適正管理原則\n",
+			"option_html": "<p>適正管理原則</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "利用目的の制限原則\n",
+			"option_html": "<p>利用目的の制限原則</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "同意取得原則\n",
+			"option_html": "<p>同意取得原則</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "情報セキュリティ原則\n",
+			"option_html": "<p>情報セキュリティ原則</p>\n"
+		}
+	]
+}

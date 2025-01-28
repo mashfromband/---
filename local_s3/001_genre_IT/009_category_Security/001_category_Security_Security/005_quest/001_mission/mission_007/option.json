@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>HTTPSはHTTPより通信速度が速い</pre>\n",
+			"option_html": "<pre>HTTPSはHTTPより通信速度が速い</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>HTTPは通信を暗号化するが、HTTPSは暗号化しない</pre>\n",
+			"option_html": "<pre>HTTPは通信を暗号化するが、HTTPSは暗号化しない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>HTTPSは通信内容を暗号化するため、より安全性が高い</pre>\n",
+			"option_html": "<pre>HTTPSは通信内容を暗号化するため、より安全性が高い</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>HTTPはサーバーとの直接通信に使用される</pre>\n",
+			"option_html": "<pre>HTTPはサーバーとの直接通信に使用される</pre>\n"
+		}
+	]
+}

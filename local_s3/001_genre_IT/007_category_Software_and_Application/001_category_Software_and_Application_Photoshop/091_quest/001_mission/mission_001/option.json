@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>トリミングツール</pre>\n",
+			"option_html": "<pre>トリミングツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ペンツール</pre>\n",
+			"option_html": "<pre>ペンツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スライスツール</pre>\n",
+			"option_html": "<pre>スライスツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤースタイル</pre>\n",
+			"option_html": "<pre>レイヤースタイル</pre>\n"
+		}
+	]
+}

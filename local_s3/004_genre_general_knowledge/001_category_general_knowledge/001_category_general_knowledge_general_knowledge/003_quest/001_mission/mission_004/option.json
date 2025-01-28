@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>爪が短く清潔であること</pre>\n",
+			"option_html": "<pre>爪が短く清潔であること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>派手なネイルアート</pre>\n",
+			"option_html": "<pre>派手なネイルアート</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>伸びていても気にしない</pre>\n",
+			"option_html": "<pre>伸びていても気にしない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>無頓着でよい</pre>\n",
+			"option_html": "<pre>無頓着でよい</pre>\n"
+		}
+	]
+}

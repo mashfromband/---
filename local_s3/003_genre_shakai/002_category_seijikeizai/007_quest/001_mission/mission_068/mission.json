@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "労働組合法\n",
+			"option_html": "<p>労働組合法</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "労働関係\n調整法\n",
+			"option_html": "<p>労働関係<br>調整法</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "労働基準法\n",
+			"option_html": "<p>労働基準法</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "労働均等法\n",
+			"option_html": "<p>労働均等法</p>\n"
+		}
+	]
+}

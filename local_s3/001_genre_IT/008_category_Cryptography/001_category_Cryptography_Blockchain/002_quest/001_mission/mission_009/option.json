@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>計算能力の高さ</pre>\n",
+			"option_html": "<pre>計算能力の高さ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>保有している暗号資産の量と保有期間</pre>\n",
+			"option_html": "<pre>保有している暗号資産の量と保有期間</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ノードの物理的な位置</pre>\n",
+			"option_html": "<pre>ノードの物理的な位置</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>トランザクションの送信回数</pre>\n",
+			"option_html": "<pre>トランザクションの送信回数</pre>\n"
+		}
+	]
+}

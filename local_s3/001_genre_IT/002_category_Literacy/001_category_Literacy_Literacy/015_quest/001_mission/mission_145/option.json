@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "Pythonは、主にWebページのレイアウトを作成するために使用される\n",
+			"option_html": "<p>Pythonは、主にWebページのレイアウトを作成するために使用される</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "Pythonは、プラットフォームに依存せず、幅広いアプリケーションに使用できる\n",
+			"option_html": "<p>Pythonは、プラットフォームに依存せず、幅広いアプリケーションに使用できる</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "Pythonは、コンパイルが必要な低レベル言語である\n",
+			"option_html": "<p>Pythonは、コンパイルが必要な低レベル言語である</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "Pythonは、データベースの専用言語であり、他の用途には使えない\n",
+			"option_html": "<p>Pythonは、データベースの専用言語であり、他の用途には使えない</p>\n"
+		}
+	]
+}

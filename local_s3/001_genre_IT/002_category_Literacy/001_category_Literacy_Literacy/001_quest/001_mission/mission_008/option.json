@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ブラックボックス\n",
+			"option_html": "<p>ブラックボックス</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ホワイトボックス\n",
+			"option_html": "<p>ホワイトボックス</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "リバースエンジニアリング\n",
+			"option_html": "<p>リバースエンジニアリング</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アジャイル開発\n",
+			"option_html": "<p>アジャイル開発</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ホーム」タブ→「名前の定義」</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「名前の定義」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「数式」タブ→「名前の定義」</pre>\n",
+			"option_html": "<pre>「数式」タブ→「名前の定義」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「挿入」タブ→「グラフ」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「グラフ」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「データ」タブ→「フィルタ」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「フィルタ」</pre>\n"
+		}
+	]
+}

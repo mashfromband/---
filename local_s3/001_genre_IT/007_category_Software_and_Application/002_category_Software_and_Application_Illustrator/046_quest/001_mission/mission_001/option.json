@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>線パネル</pre>\n",
+			"option_html": "<pre>線パネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>幅ツール</pre>\n",
+			"option_html": "<pre>幅ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ペンツール</pre>\n",
+			"option_html": "<pre>ペンツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブラシツール</pre>\n",
+			"option_html": "<pre>ブラシツール</pre>\n"
+		}
+	]
+}

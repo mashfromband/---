@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": ".jpg\n",
+			"option_html": "<p>.jpg</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "-file\n",
+			"option_html": "<p>-file</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "/data\n",
+			"option_html": "<p>/data</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "\\document\n",
+			"option_html": "<p>\\document</p>\n"
+		}
+	]
+}

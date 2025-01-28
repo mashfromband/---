@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"コミュニケーション",
+		"人の話を聞く14）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>質問をする</pre>\n",
+			"option_html": "<pre>質問をする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>興味のない態度を取る</pre>\n",
+			"option_html": "<pre>興味のない態度を取る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>うなずきを見せる</pre>\n",
+			"option_html": "<pre>うなずきを見せる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>話の流れを追う</pre>\n",
+			"option_html": "<pre>話の流れを追う</pre>\n"
+		}
+	]
+}

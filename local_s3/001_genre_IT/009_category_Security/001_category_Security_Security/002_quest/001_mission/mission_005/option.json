@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>悪意のあるソフトウェア全般を指す</pre>\n",
+			"option_html": "<pre>悪意のあるソフトウェア全般を指す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セキュリティを強化するソフトウェア</pre>\n",
+			"option_html": "<pre>セキュリティを強化するソフトウェア</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワークのパフォーマンスを向上させるツール</pre>\n",
+			"option_html": "<pre>ネットワークのパフォーマンスを向上させるツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハードウェアを修理するためのプログラム</pre>\n",
+			"option_html": "<pre>ハードウェアを修理するためのプログラム</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "PoC(Proof of Concept)\n",
+			"option_html": "<p>PoC(Proof of Concept)</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "PoV(Proof of Value)\n",
+			"option_html": "<p>PoV(Proof of Value)</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "バックキャスティング\n",
+			"option_html": "<p>バックキャスティング</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "フォアキャスティング\n",
+			"option_html": "<p>フォアキャスティング</p>\n"
+		}
+	]
+}

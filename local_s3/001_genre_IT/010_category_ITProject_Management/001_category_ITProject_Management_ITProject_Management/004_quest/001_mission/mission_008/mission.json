@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ステークホルダーの期待とプロジェクトの目的を一致させるため</pre>\n",
+			"option_html": "<pre>ステークホルダーの期待とプロジェクトの目的を一致させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ステークホルダーの関与を最小限に抑えるため</pre>\n",
+			"option_html": "<pre>ステークホルダーの関与を最小限に抑えるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ステークホルダーの期待はプロジェクト後半に確認すればよいため</pre>\n",
+			"option_html": "<pre>ステークホルダーの期待はプロジェクト後半に確認すればよいため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ステークホルダーの要望を無条件で取り入れるため</pre>\n",
+			"option_html": "<pre>ステークホルダーの要望を無条件で取り入れるため</pre>\n"
+		}
+	]
+}

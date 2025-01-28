@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ストラテジ系",
+		"経営戦略マネジメント",
+		"ビジネス戦略"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ハッカソン\n",
+			"option_html": "<p>ハッカソン</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "オープンイノベーション\n",
+			"option_html": "<p>オープンイノベーション</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "APIエコノミー\n",
+			"option_html": "<p>APIエコノミー</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ディープランニング\n",
+			"option_html": "<p>ディープランニング</p>\n"
+		}
+	]
+}

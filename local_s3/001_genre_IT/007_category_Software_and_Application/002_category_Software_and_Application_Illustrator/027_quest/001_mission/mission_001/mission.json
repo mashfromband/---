@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字 > 特殊文字を挿入</pre>\n",
+			"option_html": "<pre>文字 &gt; 特殊文字を挿入</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字ツールで特殊文字を挿入</pre>\n",
+			"option_html": "<pre>文字ツールで特殊文字を挿入</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで特殊文字を挿入</pre>\n",
+			"option_html": "<pre>アピアランスパネルで特殊文字を挿入</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スウォッチパネルで特殊文字を挿入</pre>\n",
+			"option_html": "<pre>スウォッチパネルで特殊文字を挿入</pre>\n"
+		}
+	]
+}

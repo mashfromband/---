@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでドラッグする</pre>\n",
+			"option_html": "<pre>レイヤーパネルでドラッグする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーをリンクする</pre>\n",
+			"option_html": "<pre>レイヤーをリンクする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>新しいレイヤーを作成する</pre>\n",
+			"option_html": "<pre>新しいレイヤーを作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>調整レイヤーを適用する</pre>\n",
+			"option_html": "<pre>調整レイヤーを適用する</pre>\n"
+		}
+	]
+}

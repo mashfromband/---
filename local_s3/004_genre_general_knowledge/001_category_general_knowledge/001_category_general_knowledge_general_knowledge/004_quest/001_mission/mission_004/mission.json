@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ビジネスマナー",
+		"言葉遣い（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>お聞かせください</pre>\n",
+			"option_html": "<pre>お聞かせください</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>今一度、よろしいでしょうか</pre>\n",
+			"option_html": "<pre>今一度、よろしいでしょうか</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>今一度、おっしゃっていただけませんでしょうか</pre>\n",
+			"option_html": "<pre>今一度、おっしゃっていただけませんでしょうか</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>もう一度言ってください</pre>\n",
+			"option_html": "<pre>もう一度言ってください</pre>\n"
+		}
+	]
+}

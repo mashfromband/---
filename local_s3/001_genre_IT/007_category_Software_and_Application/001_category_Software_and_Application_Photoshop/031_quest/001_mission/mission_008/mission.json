@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"ショートカット"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像サイズの変更</pre>\n",
+			"option_html": "<pre>画像サイズの変更</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>キャンバスサイズの変更</pre>\n",
+			"option_html": "<pre>キャンバスサイズの変更</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーの不透明度の調整</pre>\n",
+			"option_html": "<pre>レイヤーの不透明度の調整</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルターの適用</pre>\n",
+			"option_html": "<pre>フィルターの適用</pre>\n"
+		}
+	]
+}

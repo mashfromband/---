@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>各ノードが個別に管理するデータを共有しない</pre>\n",
+			"option_html": "<pre>各ノードが個別に管理するデータを共有しない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>物流データを非公開にすることでセキュリティを向上させる</pre>\n",
+			"option_html": "<pre>物流データを非公開にすることでセキュリティを向上させる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>商品の生産から配送までの履歴を一元的に管理し、改ざんが防止される</pre>\n",
+			"option_html": "<pre>商品の生産から配送までの履歴を一元的に管理し、改ざんが防止される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>中央管理者が全データを保持することで透明性を確保する</pre>\n",
+			"option_html": "<pre>中央管理者が全データを保持することで透明性を確保する</pre>\n"
+		}
+	]
+}

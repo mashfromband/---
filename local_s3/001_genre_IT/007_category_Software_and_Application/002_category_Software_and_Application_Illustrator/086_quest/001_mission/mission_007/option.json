@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スタイルパネル</pre>\n",
+			"option_html": "<pre>スタイルパネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アクションパネル</pre>\n",
+			"option_html": "<pre>アクションパネル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文字ツール</pre>\n",
+			"option_html": "<pre>文字ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スポイトツール</pre>\n",
+			"option_html": "<pre>スポイトツール</pre>\n"
+		}
+	]
+}

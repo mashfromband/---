@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シンボルパネル</pre>\n",
+			"option_html": "<pre>シンボルパネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アートボードツール</pre>\n",
+			"option_html": "<pre>アートボードツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネル</pre>\n",
+			"option_html": "<pre>レイヤーパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果パネル</pre>\n",
+			"option_html": "<pre>効果パネル</pre>\n"
+		}
+	]
+}

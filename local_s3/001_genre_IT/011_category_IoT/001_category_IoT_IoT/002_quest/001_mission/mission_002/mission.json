@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>環境データを測定する</pre>\n",
+			"option_html": "<pre>環境データを測定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワーク接続を管理する</pre>\n",
+			"option_html": "<pre>ネットワーク接続を管理する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>取得したデータを基に物理的な動作を実行する</pre>\n",
+			"option_html": "<pre>取得したデータを基に物理的な動作を実行する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データをクラウドに送信する</pre>\n",
+			"option_html": "<pre>データをクラウドに送信する</pre>\n"
+		}
+	]
+}

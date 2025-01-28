@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>書き出し設定で「透明背景」を選択</pre>\n",
+			"option_html": "<pre>書き出し設定で「透明背景」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PNG保存時に「透明オプション」を選択</pre>\n",
+			"option_html": "<pre>PNG保存時に「透明オプション」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>エクスポート時に「透明背景」を選ぶ</pre>\n",
+			"option_html": "<pre>エクスポート時に「透明背景」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > エクスポート時に透明オプションを選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート時に透明オプションを選択</pre>\n"
+		}
+	]
+}

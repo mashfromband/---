@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>1回</pre>\n",
+			"option_html": "<pre>1回</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>2回</pre>\n",
+			"option_html": "<pre>2回</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>4回以上</pre>\n",
+			"option_html": "<pre>4回以上</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ノックしない</pre>\n",
+			"option_html": "<pre>ノックしない</pre>\n"
+		}
+	]
+}

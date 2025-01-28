@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤースタイル」の「カラーオーバーレイ」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「カラーオーバーレイ」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」の「背景色オプション」を選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」の「背景色オプション」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤーパネル」で背景色を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」で背景色を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「フィルター」メニューから「背景色」を変更する</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「背景色」を変更する</pre>\n"
+		}
+	]
+}

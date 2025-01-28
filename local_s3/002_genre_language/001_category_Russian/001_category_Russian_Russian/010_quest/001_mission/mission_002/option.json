@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Plates are here.</pre>\n",
+			"option_html": "<pre>Plates are here.</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>You have plates.</pre>\n",
+			"option_html": "<pre>You have plates.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Where're our plates?</pre>\n",
+			"option_html": "<pre>Where're our plates?</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>I have apples and plates.</pre>\n",
+			"option_html": "<pre>I have apples and plates.</pre>\n"
+		}
+	]
+}

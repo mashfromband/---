@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤーパネル」で右クリックして「複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」で右クリックして「複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤースタイル」の「コピー」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「コピー」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「文字ツール」から「スタイルをコピー」を選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」から「スタイルをコピー」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤー」メニューから「スタイル複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤー」メニューから「スタイル複製」を選ぶ</pre>\n"
+		}
+	]
+}

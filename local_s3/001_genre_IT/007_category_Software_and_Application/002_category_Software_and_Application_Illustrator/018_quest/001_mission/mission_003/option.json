@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > ロック > 選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; ロック &gt; 選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>表示 > 他をロック</pre>\n",
+			"option_html": "<pre>表示 &gt; 他をロック</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > グループ化</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; グループ化</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > レイヤー > ロック</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; レイヤー &gt; ロック</pre>\n"
+		}
+	]
+}

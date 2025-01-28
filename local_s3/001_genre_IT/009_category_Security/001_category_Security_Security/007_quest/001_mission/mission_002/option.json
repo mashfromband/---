@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ネットワーク速度を高速化するためのプログラム</pre>\n",
+			"option_html": "<pre>ネットワーク速度を高速化するためのプログラム</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セキュリティソフトウェアの一種</pre>\n",
+			"option_html": "<pre>セキュリティソフトウェアの一種</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コンピュータシステムに害を与える悪意のあるソフトウェア</pre>\n",
+			"option_html": "<pre>コンピュータシステムに害を与える悪意のあるソフトウェア</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データのバックアップツール</pre>\n",
+			"option_html": "<pre>データのバックアップツール</pre>\n"
+		}
+	]
+}

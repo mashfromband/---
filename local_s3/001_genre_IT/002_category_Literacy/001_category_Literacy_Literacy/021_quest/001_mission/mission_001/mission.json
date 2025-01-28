@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "メールクライアント\n",
+			"option_html": "<p>メールクライアント</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ブラウザ\n",
+			"option_html": "<p>ブラウザ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "スプレッドシート\n",
+			"option_html": "<p>スプレッドシート</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ファイアウォール\n",
+			"option_html": "<p>ファイアウォール</p>\n"
+		}
+	]
+}

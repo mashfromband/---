@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーがロックされている可能性がある</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている可能性がある</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択しているレイヤーの不透明度が0になっている可能性がある</pre>\n",
+			"option_html": "<pre>選択しているレイヤーの不透明度が0になっている可能性がある</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>移動ツールの「自動選択」が有効になっている可能性がある</pre>\n",
+			"option_html": "<pre>移動ツールの「自動選択」が有効になっている可能性がある</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイルサイズが大きすぎて処理が遅れている可能性がある</pre>\n",
+			"option_html": "<pre>ファイルサイズが大きすぎて処理が遅れている可能性がある</pre>\n"
+		}
+	]
+}

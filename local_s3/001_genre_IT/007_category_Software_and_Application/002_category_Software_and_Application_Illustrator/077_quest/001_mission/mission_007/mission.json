@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでレイヤーを選択し、ゴミ箱アイコンをクリック</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーを選択し、ゴミ箱アイコンをクリック</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > レイヤー > 削除を選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; レイヤー &gt; 削除を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで「新規レイヤー」を作成</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「新規レイヤー」を作成</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルでCtrl + Dを押す</pre>\n",
+			"option_html": "<pre>レイヤーパネルでCtrl + Dを押す</pre>\n"
+		}
+	]
+}

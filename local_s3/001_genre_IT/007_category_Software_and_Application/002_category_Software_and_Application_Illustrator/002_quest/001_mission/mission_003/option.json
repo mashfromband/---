@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラフィックデザインを効率化するため</pre>\n",
+			"option_html": "<pre>グラフィックデザインを効率化するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Adobe PostScriptのデモンストレーションのため</pre>\n",
+			"option_html": "<pre>Adobe PostScriptのデモンストレーションのため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>写真編集を簡単にするため</pre>\n",
+			"option_html": "<pre>写真編集を簡単にするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>動画編集を可能にするため</pre>\n",
+			"option_html": "<pre>動画編集を可能にするため</pre>\n"
+		}
+	]
+}

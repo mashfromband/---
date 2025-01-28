@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの暗号化</pre>\n",
+			"option_html": "<pre>データの暗号化</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの圧縮</pre>\n",
+			"option_html": "<pre>データの圧縮</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの固定長の変換と整合性の検証</pre>\n",
+			"option_html": "<pre>データの固定長の変換と整合性の検証</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データの削除</pre>\n",
+			"option_html": "<pre>データの削除</pre>\n"
+		}
+	]
+}

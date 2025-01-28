@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全ての医療記録を物理的な文書として保管する</pre>\n",
+			"option_html": "<pre>全ての医療記録を物理的な文書として保管する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データを非公開にすることで、全てのアクセスを制限する</pre>\n",
+			"option_html": "<pre>データを非公開にすることで、全てのアクセスを制限する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アクセス権限を患者自身が管理し、必要に応じて安全に共有できる</pre>\n",
+			"option_html": "<pre>アクセス権限を患者自身が管理し、必要に応じて安全に共有できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>医療データを一括で暗号化し、患者がアクセスできないようにする</pre>\n",
+			"option_html": "<pre>医療データを一括で暗号化し、患者がアクセスできないようにする</pre>\n"
+		}
+	]
+}

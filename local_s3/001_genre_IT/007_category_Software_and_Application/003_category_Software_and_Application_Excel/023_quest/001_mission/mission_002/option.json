@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラフのデータ範囲を編集する</pre>\n",
+			"option_html": "<pre>グラフのデータ範囲を編集する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの並べ替え</pre>\n",
+			"option_html": "<pre>データの並べ替え</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルの書式設定</pre>\n",
+			"option_html": "<pre>セルの書式設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルター機能</pre>\n",
+			"option_html": "<pre>フィルター機能</pre>\n"
+		}
+	]
+}

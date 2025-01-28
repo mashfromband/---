@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>焦って間違いを増やす</pre>\n",
+			"option_html": "<pre>焦って間違いを増やす</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>一度に全てを解決しようとする</pre>\n",
+			"option_html": "<pre>一度に全てを解決しようとする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>優先順位を決めて行動する</pre>\n",
+			"option_html": "<pre>優先順位を決めて行動する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他人に全て任せる</pre>\n",
+			"option_html": "<pre>他人に全て任せる</pre>\n"
+		}
+	]
+}

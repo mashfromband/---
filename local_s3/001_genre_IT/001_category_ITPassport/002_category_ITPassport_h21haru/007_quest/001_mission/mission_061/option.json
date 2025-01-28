@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "MTBF(時間)100, MTTR(時間)150, 稼働率(%)40\n",
+			"option_html": "<p>MTBF(時間)100, MTTR(時間)150, 稼働率(%)40</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "MTBF(時間)100, MTTR(時間)150, 稼働率(%)60\n",
+			"option_html": "<p>MTBF(時間)100, MTTR(時間)150, 稼働率(%)60</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "MTBF(時間)150, MTTR(時間)100, 稼働率(%)40\n",
+			"option_html": "<p>MTBF(時間)150, MTTR(時間)100, 稼働率(%)40</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "MTBF(時間)150, MTTR(時間)100, 稼働率(%)60\n",
+			"option_html": "<p>MTBF(時間)150, MTTR(時間)100, 稼働率(%)60</p>\n"
+		}
+	]
+}

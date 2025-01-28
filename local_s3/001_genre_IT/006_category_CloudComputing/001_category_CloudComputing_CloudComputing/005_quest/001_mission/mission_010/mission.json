@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サーバーの運用や管理がすべて自社で必要になるため</pre>\n",
+			"option_html": "<pre>サーバーの運用や管理がすべて自社で必要になるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>固定のハードウェアコストが発生し、柔軟性が低いため</pre>\n",
+			"option_html": "<pre>固定のハードウェアコストが発生し、柔軟性が低いため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>初期費用を抑えつつ必要な分だけリソースを利用できるため</pre>\n",
+			"option_html": "<pre>初期費用を抑えつつ必要な分だけリソースを利用できるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自社で大規模なデータセンターを構築する必要があるため</pre>\n",
+			"option_html": "<pre>自社で大規模なデータセンターを構築する必要があるため</pre>\n"
+		}
+	]
+}

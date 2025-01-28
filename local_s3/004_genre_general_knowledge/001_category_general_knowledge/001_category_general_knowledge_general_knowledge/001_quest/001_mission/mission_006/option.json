@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>5度</pre>\n",
+			"option_html": "<pre>5度</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>15度</pre>\n",
+			"option_html": "<pre>15度</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>30度</pre>\n",
+			"option_html": "<pre>30度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>90度</pre>\n",
+			"option_html": "<pre>90度</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>統合後にレイヤーを元に戻せないこと</pre>\n",
+			"option_html": "<pre>統合後にレイヤーを元に戻せないこと</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>統合するとレイヤーマスクが失われる</pre>\n",
+			"option_html": "<pre>統合するとレイヤーマスクが失われる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>統合すると透明部分が消えること</pre>\n",
+			"option_html": "<pre>統合すると透明部分が消えること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>統合後にフィルターが無効になること</pre>\n",
+			"option_html": "<pre>統合後にフィルターが無効になること</pre>\n"
+		}
+	]
+}

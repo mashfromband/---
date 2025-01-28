@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"コミュニケーション",
+		"人間関係構築（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「はじめまして、私（わたくし）○○会社の○○と申します。よろしくお願いします。」</pre>\n",
+			"option_html": "<pre>「はじめまして、私（わたくし）○○会社の○○と申します。よろしくお願いします。」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「私は○○出身の○○と言います。」</pre>\n",
+			"option_html": "<pre>「私は○○出身の○○と言います。」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「はじめまして、○○と申します。」</pre>\n",
+			"option_html": "<pre>「はじめまして、○○と申します。」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「私（わたくし）こういう者です。」</pre>\n",
+			"option_html": "<pre>「私（わたくし）こういう者です。」</pre>\n"
+		}
+	]
+}

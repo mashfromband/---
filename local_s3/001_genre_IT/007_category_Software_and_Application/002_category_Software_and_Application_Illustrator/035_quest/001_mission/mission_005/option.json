@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>数学的な計算で形状を定義しているから</pre>\n",
+			"option_html": "<pre>数学的な計算で形状を定義しているから</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>高解像度のラスタデータを使用しているから</pre>\n",
+			"option_html": "<pre>高解像度のラスタデータを使用しているから</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データをピクセルに変換して保存しているから</pre>\n",
+			"option_html": "<pre>データをピクセルに変換して保存しているから</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デザインを自動で補正しているから</pre>\n",
+			"option_html": "<pre>デザインを自動で補正しているから</pre>\n"
+		}
+	]
+}

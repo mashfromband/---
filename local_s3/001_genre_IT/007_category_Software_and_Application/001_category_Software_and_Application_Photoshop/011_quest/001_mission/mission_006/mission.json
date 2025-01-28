@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>LUT（Look-Up Table）ファイル</pre>\n",
+			"option_html": "<pre>LUT（Look-Up Table）ファイル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PSDファイル</pre>\n",
+			"option_html": "<pre>PSDファイル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>JPEGファイル</pre>\n",
+			"option_html": "<pre>JPEGファイル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>PNGファイル</pre>\n",
+			"option_html": "<pre>PNGファイル</pre>\n"
+		}
+	]
+}

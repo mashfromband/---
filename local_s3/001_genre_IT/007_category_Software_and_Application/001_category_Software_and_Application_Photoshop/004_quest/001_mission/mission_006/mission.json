@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色相・彩度</pre>\n",
+			"option_html": "<pre>色相・彩度</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トーンカーブ</pre>\n",
+			"option_html": "<pre>トーンカーブ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レベル補正</pre>\n",
+			"option_html": "<pre>レベル補正</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>カラーバランス</pre>\n",
+			"option_html": "<pre>カラーバランス</pre>\n"
+		}
+	]
+}

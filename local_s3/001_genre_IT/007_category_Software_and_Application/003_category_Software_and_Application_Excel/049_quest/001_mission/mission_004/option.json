@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ファイル」タブ→「保存」を選択する</pre>\n",
+			"option_html": "<pre>「ファイル」タブ→「保存」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「挿入」タブ→「グラフを作成する」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「グラフを作成する」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「データ」タブ→「並べ替え」を適用する</pre>\n",
+			"option_html": "<pre>「データ」タブ→「並べ替え」を適用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ホーム」タブ→「罫線」を選択する</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「罫線」を選択する</pre>\n"
+		}
+	]
+}

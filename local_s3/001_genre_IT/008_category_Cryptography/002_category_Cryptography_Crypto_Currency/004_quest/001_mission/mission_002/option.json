@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>秘密鍵を失うと取引を承認できなくなるため</pre>\n",
+			"option_html": "<pre>秘密鍵を失うと取引を承認できなくなるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>秘密鍵を共有することで仮想通貨が増えるため</pre>\n",
+			"option_html": "<pre>秘密鍵を共有することで仮想通貨が増えるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>秘密鍵を公開することで安全性が高まるため</pre>\n",
+			"option_html": "<pre>秘密鍵を公開することで安全性が高まるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>秘密鍵を保管しないと仮想通貨が消滅するため</pre>\n",
+			"option_html": "<pre>秘密鍵を保管しないと仮想通貨が消滅するため</pre>\n"
+		}
+	]
+}

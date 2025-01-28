@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>条件付き書式を設定する</pre>\n",
+			"option_html": "<pre>条件付き書式を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ホームタブで「中央揃え」を選択する</pre>\n",
+			"option_html": "<pre>ホームタブで「中央揃え」を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルの書式設定で「配置」を選び、角度を調整する</pre>\n",
+			"option_html": "<pre>セルの書式設定で「配置」を選び、角度を調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルを結合してから入力する</pre>\n",
+			"option_html": "<pre>セルを結合してから入力する</pre>\n"
+		}
+	]
+}

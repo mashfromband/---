@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>長距離通信と低消費電力の両立を図ること</pre>\n",
+			"option_html": "<pre>長距離通信と低消費電力の両立を図ること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>高速で大容量のデータ通信を行うこと</pre>\n",
+			"option_html": "<pre>高速で大容量のデータ通信を行うこと</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>全てのデバイスがリアルタイムで通信できるようにすること</pre>\n",
+			"option_html": "<pre>全てのデバイスがリアルタイムで通信できるようにすること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワーク上の全デバイスを常時オンラインにすること</pre>\n",
+			"option_html": "<pre>ネットワーク上の全デバイスを常時オンラインにすること</pre>\n"
+		}
+	]
+}

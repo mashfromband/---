@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ステークホルダーの要望をすべて収集する</pre>\n",
+			"option_html": "<pre>ステークホルダーの要望をすべて収集する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトに影響を与える人物や組織を洗い出す</pre>\n",
+			"option_html": "<pre>プロジェクトに影響を与える人物や組織を洗い出す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ステークホルダーへの報告計画を作成する</pre>\n",
+			"option_html": "<pre>ステークホルダーへの報告計画を作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ステークホルダーの影響力を分析する</pre>\n",
+			"option_html": "<pre>ステークホルダーの影響力を分析する</pre>\n"
+		}
+	]
+}

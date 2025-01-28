@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"カラー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スウォッチパネルで色を元に戻す</pre>\n",
+			"option_html": "<pre>スウォッチパネルで色を元に戻す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーパネルで「元に戻す」を選択する</pre>\n",
+			"option_html": "<pre>カラーパネルで「元に戻す」を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 色のリセットを選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 色のリセットを選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + Zを押す</pre>\n",
+			"option_html": "<pre>Ctrl + Zを押す</pre>\n"
+		}
+	]
+}

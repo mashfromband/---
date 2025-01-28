@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「文字ツール」のオプションバーから下線を引く</pre>\n",
+			"option_html": "<pre>「文字ツール」のオプションバーから下線を引く</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤースタイル」から下線を引く</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」から下線を引く</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「フィルター」メニューから下線を引く</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから下線を引く</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「段落」パネルから下線を引く</pre>\n",
+			"option_html": "<pre>「段落」パネルから下線を引く</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨の取引手数料の高さ</pre>\n",
+			"option_html": "<pre>仮想通貨の取引手数料の高さ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の供給量の安定性</pre>\n",
+			"option_html": "<pre>仮想通貨の供給量の安定性</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨を他の通貨に交換する速度</pre>\n",
+			"option_html": "<pre>仮想通貨を他の通貨に交換する速度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨の価格変動の激しさ</pre>\n",
+			"option_html": "<pre>仮想通貨の価格変動の激しさ</pre>\n"
+		}
+	]
+}

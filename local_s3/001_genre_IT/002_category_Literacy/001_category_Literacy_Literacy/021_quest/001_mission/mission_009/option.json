@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ルーター\n",
+			"option_html": "<p>ルーター</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "プリンタ\n",
+			"option_html": "<p>プリンタ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "スキャナ\n",
+			"option_html": "<p>スキャナ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "キーボード\n",
+			"option_html": "<p>キーボード</p>\n"
+		}
+	]
+}

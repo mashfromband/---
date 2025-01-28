@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>有給休暇を取得する必要が発生した時点</pre>\n",
+			"option_html": "<pre>有給休暇を取得する必要が発生した時点</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>有給休暇を取得する日の3日前まで</pre>\n",
+			"option_html": "<pre>有給休暇を取得する日の3日前まで</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>有給休暇を取得する日の前日まで</pre>\n",
+			"option_html": "<pre>有給休暇を取得する日の前日まで</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>有給休暇を取得した後</pre>\n",
+			"option_html": "<pre>有給休暇を取得した後</pre>\n"
+		}
+	]
+}

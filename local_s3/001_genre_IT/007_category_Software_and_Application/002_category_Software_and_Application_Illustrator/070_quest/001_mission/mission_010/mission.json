@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パス > パスのアウトラインを作成</pre>\n",
+			"option_html": "<pre>パス &gt; パスのアウトラインを作成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字 > アウトラインを作成</pre>\n",
+			"option_html": "<pre>文字 &gt; アウトラインを作成</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > パスを変換</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; パスを変換</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字パネルでアウトラインを作成</pre>\n",
+			"option_html": "<pre>文字パネルでアウトラインを作成</pre>\n"
+		}
+	]
+}

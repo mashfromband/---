@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>会社のPR</pre>\n",
+			"option_html": "<pre>会社のPR</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>世間話</pre>\n",
+			"option_html": "<pre>世間話</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>メールアドレス交換</pre>\n",
+			"option_html": "<pre>メールアドレス交換</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>名刺交換</pre>\n",
+			"option_html": "<pre>名刺交換</pre>\n"
+		}
+	]
+}

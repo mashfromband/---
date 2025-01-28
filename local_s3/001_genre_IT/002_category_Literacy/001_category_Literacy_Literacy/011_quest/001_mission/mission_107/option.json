@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "Universal Resource Link\n",
+			"option_html": "<p>Universal Resource Link</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "Unified Resource Locator\n",
+			"option_html": "<p>Unified Resource Locator</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "Uniform Resource Locator\n",
+			"option_html": "<p>Uniform Resource Locator</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "Universal Reference Link\n",
+			"option_html": "<p>Universal Reference Link</p>\n"
+		}
+	]
+}

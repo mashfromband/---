@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "PMI\n",
+			"option_html": "<p>PMI</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "COBIT\n",
+			"option_html": "<p>COBIT</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ITIL\n",
+			"option_html": "<p>ITIL</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "BPR\n",
+			"option_html": "<p>BPR</p>\n"
+		}
+	]
+}

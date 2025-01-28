@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>中央銀行によって発行される</pre>\n",
+			"option_html": "<pre>中央銀行によって発行される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>分散型ネットワークで管理される</pre>\n",
+			"option_html": "<pre>分散型ネットワークで管理される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>利用範囲が限定されている</pre>\n",
+			"option_html": "<pre>利用範囲が限定されている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>実物の形が存在する</pre>\n",
+			"option_html": "<pre>実物の形が存在する</pre>\n"
+		}
+	]
+}

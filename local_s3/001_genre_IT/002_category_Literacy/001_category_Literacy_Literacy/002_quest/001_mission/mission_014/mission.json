@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ストラテジ",
+		"経営戦略",
+		"ビジネス経営"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "グリーンIT\n",
+			"option_html": "<p>グリーンIT</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "BCP(事業継続計画)\n",
+			"option_html": "<p>BCP(事業継続計画)</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ERP\n",
+			"option_html": "<p>ERP</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "環境アセスメント\n",
+			"option_html": "<p>環境アセスメント</p>\n"
+		}
+	]
+}

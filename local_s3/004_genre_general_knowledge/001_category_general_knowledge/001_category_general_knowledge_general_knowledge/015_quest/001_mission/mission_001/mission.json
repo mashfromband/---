@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"組織理解",
+		"労務基礎（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>OJT</pre>\n",
+			"option_html": "<pre>OJT</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>OFF-JT</pre>\n",
+			"option_html": "<pre>OFF-JT</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自己啓発</pre>\n",
+			"option_html": "<pre>自己啓発</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>階層別研修</pre>\n",
+			"option_html": "<pre>階層別研修</pre>\n"
+		}
+	]
+}

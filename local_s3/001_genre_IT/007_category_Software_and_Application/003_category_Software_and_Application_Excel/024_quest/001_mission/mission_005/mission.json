@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"データ整理・管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラフ作成</pre>\n",
+			"option_html": "<pre>グラフ作成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ピボットテーブル</pre>\n",
+			"option_html": "<pre>ピボットテーブル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>高度なフィルター</pre>\n",
+			"option_html": "<pre>高度なフィルター</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルの編集</pre>\n",
+			"option_html": "<pre>セルの編集</pre>\n"
+		}
+	]
+}

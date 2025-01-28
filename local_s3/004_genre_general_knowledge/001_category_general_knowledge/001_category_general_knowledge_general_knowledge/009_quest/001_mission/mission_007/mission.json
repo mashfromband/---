@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"コミュニケーション",
+		"人間関係構築（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自分から一方的に話し続ける</pre>\n",
+			"option_html": "<pre>自分から一方的に話し続ける</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>相手の目を見て頷く、相槌を打つ</pre>\n",
+			"option_html": "<pre>相手の目を見て頷く、相槌を打つ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>基本は笑顔で、時に話題に合わせて表情豊かに応答する</pre>\n",
+			"option_html": "<pre>基本は笑顔で、時に話題に合わせて表情豊かに応答する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分の意見や考えをきちんと述べる</pre>\n",
+			"option_html": "<pre>自分の意見や考えをきちんと述べる</pre>\n"
+		}
+	]
+}

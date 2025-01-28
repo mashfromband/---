@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"インターネット系",
+		"アドレス",
+		"IPアドレス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "コンピュータの製造番号\n",
+			"option_html": "<p>コンピュータの製造番号</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "インターネット上でのデバイスの住所\n",
+			"option_html": "<p>インターネット上でのデバイスの住所</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "デバイスのメモリ容量\n",
+			"option_html": "<p>デバイスのメモリ容量</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "パスワードの一種\n",
+			"option_html": "<p>パスワードの一種</p>\n"
+		}
+	]
+}

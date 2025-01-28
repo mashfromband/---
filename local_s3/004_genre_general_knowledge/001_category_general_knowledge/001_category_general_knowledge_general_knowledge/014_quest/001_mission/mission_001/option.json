@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>他人を管理するだけ</pre>\n",
+			"option_html": "<pre>他人を管理するだけ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>チームの方向性を示す</pre>\n",
+			"option_html": "<pre>チームの方向性を示す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>全ての業務を代行する</pre>\n",
+			"option_html": "<pre>全ての業務を代行する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>評価を行わない</pre>\n",
+			"option_html": "<pre>評価を行わない</pre>\n"
+		}
+	]
+}

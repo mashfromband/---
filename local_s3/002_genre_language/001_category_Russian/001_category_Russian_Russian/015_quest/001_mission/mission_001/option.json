@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>子音交替にパターンはない</pre>\n",
+			"option_html": "<pre>子音交替にパターンはない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>1対1で対応するものがある</pre>\n",
+			"option_html": "<pre>1対1で対応するものがある</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>2文字が1文字に融合するものがある</pre>\n",
+			"option_html": "<pre>2文字が1文字に融合するものがある</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特定の文字の後に л が追加される場合がある</pre>\n",
+			"option_html": "<pre>特定の文字の後に л が追加される場合がある</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"セキュリティ系",
+		"情報セキュリティ",
+		"コンプライアンス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "勝手に利用するのは適切ではない\n",
+			"option_html": "<p>勝手に利用するのは適切ではない</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ログインしているなら問題ない\n",
+			"option_html": "<p>ログインしているなら問題ない</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "上司のパソコンなら問題ない\n",
+			"option_html": "<p>上司のパソコンなら問題ない</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "どのパソコンでも職場のものであれば問題ない\n",
+			"option_html": "<p>どのパソコンでも職場のものであれば問題ない</p>\n"
+		}
+	]
+}

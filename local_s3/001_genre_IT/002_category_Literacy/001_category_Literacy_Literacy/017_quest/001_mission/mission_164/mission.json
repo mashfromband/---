@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"ハードウェア",
+		"ストレージデバイス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "RAM\n",
+			"option_html": "<p>RAM</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "CPUキャッシュ\n",
+			"option_html": "<p>CPUキャッシュ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "SSD\n",
+			"option_html": "<p>SSD</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "レジスタ\n",
+			"option_html": "<p>レジスタ</p>\n"
+		}
+	]
+}

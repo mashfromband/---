@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>編集 > キーボードショートカット</pre>\n",
+			"option_html": "<pre>編集 &gt; キーボードショートカット</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > コマンド設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; コマンド設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ツール > ショートカット管理</pre>\n",
+			"option_html": "<pre>ツール &gt; ショートカット管理</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>設定 > ショートカットキー</pre>\n",
+			"option_html": "<pre>設定 &gt; ショートカットキー</pre>\n"
+		}
+	]
+}

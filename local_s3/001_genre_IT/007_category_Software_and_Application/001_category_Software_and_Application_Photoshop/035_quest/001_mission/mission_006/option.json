@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「編集」メニューの「選択範囲を拡大」</pre>\n",
+			"option_html": "<pre>「編集」メニューの「選択範囲を拡大」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「選択範囲」メニューの「変更」→「拡大」</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューの「変更」→「拡大」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「画像」メニューの「選択範囲」→「拡大」</pre>\n",
+			"option_html": "<pre>「画像」メニューの「選択範囲」→「拡大」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「表示」メニューの「選択」→「拡大」</pre>\n",
+			"option_html": "<pre>「表示」メニューの「選択」→「拡大」</pre>\n"
+		}
+	]
+}

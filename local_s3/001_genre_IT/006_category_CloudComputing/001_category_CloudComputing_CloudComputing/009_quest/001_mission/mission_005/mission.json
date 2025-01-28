@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データ復元時に許容される最大データ損失量を示す指標</pre>\n",
+			"option_html": "<pre>データ復元時に許容される最大データ損失量を示す指標</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウドプロバイダーの物理セキュリティを強化する目標</pre>\n",
+			"option_html": "<pre>クラウドプロバイダーの物理セキュリティを強化する目標</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>システムを完全に新規構築する目標時点</pre>\n",
+			"option_html": "<pre>システムを完全に新規構築する目標時点</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データが完全に暗号化される目標時間</pre>\n",
+			"option_html": "<pre>データが完全に暗号化される目標時間</pre>\n"
+		}
+	]
+}

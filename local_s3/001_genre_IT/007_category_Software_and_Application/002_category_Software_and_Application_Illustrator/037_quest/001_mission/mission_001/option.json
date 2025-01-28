@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでCtrl + Shift + Lを押す</pre>\n",
+			"option_html": "<pre>レイヤーパネルでCtrl + Shift + Lを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルでロックアイコンをクリック</pre>\n",
+			"option_html": "<pre>レイヤーパネルでロックアイコンをクリック</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで複数のレイヤーを選択し、右クリックして「ロック」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで複数のレイヤーを選択し、右クリックして「ロック」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで「ロック設定」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「ロック設定」を選択</pre>\n"
+		}
+	]
+}

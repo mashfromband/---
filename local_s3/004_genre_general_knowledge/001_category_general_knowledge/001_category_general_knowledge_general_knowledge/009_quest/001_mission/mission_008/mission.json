@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"コミュニケーション",
+		"人間関係構築（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>素早く席を立つ</pre>\n",
+			"option_html": "<pre>素早く席を立つ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>出されたお茶を飲み干す</pre>\n",
+			"option_html": "<pre>出されたお茶を飲み干す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>お時間をいただいた御礼を述べる</pre>\n",
+			"option_html": "<pre>お時間をいただいた御礼を述べる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre> いただいた名刺を名刺入れに収める</pre>\n",
+			"option_html": "<pre> いただいた名刺を名刺入れに収める</pre>\n"
+		}
+	]
+}

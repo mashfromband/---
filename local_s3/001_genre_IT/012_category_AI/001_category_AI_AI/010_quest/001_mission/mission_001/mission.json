@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"学生向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>現代社会のニュースや新聞を読む</pre>\n",
+			"option_html": "<pre>現代社会のニュースや新聞を読む</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>現代社会の教科書を繰り返し読む</pre>\n",
+			"option_html": "<pre>現代社会の教科書を繰り返し読む</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>用語の意味や解説を音声で読み上げてくれるツールを使う</pre>\n",
+			"option_html": "<pre>用語の意味や解説を音声で読み上げてくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>用語集を繰り返し読む</pre>\n",
+			"option_html": "<pre>用語集を繰り返し読む</pre>\n"
+		}
+	]
+}

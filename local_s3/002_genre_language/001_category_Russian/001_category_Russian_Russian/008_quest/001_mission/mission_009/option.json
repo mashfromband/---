@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Our actors don't eat apples.</pre>\n",
+			"option_html": "<pre>Our actors don't eat apples.</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Girls're eating apples.</pre>\n",
+			"option_html": "<pre>Girls're eating apples.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Sisters're eating soup.</pre>\n",
+			"option_html": "<pre>Sisters're eating soup.</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Girls're eating cheese.</pre>\n",
+			"option_html": "<pre>Girls're eating cheese.</pre>\n"
+		}
+	]
+}

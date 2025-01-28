@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Illustrator CC 2014</pre>\n",
+			"option_html": "<pre>Illustrator CC 2014</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Illustrator CC 2015</pre>\n",
+			"option_html": "<pre>Illustrator CC 2015</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Illustrator CC 2016</pre>\n",
+			"option_html": "<pre>Illustrator CC 2016</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Illustrator CC 2017</pre>\n",
+			"option_html": "<pre>Illustrator CC 2017</pre>\n"
+		}
+	]
+}

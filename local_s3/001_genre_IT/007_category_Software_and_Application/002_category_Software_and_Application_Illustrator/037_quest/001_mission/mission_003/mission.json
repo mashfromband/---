@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでレイヤーをドラッグして順番を変更する</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーをドラッグして順番を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで「順番変更」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「順番変更」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 配置 > 上に移動</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 上に移動</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで右クリックして「順番変更」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックして「順番変更」を選択</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>公式をクイズ形式で出題してくれるツールを使う</pre>\n",
+			"option_html": "<pre>公式をクイズ形式で出題してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>数学の問題集を解く</pre>\n",
+			"option_html": "<pre>数学の問題集を解く</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>数学の先生に公式を教わる</pre>\n",
+			"option_html": "<pre>数学の先生に公式を教わる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>公式をノートにまとめて覚える</pre>\n",
+			"option_html": "<pre>公式をノートにまとめて覚える</pre>\n"
+		}
+	]
+}

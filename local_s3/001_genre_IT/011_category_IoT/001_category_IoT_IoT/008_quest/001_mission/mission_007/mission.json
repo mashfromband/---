@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>車両のエンジンを完全に停止させる</pre>\n",
+			"option_html": "<pre>車両のエンジンを完全に停止させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>街灯の点灯を管理する</pre>\n",
+			"option_html": "<pre>街灯の点灯を管理する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>運転中の通信を無効化する</pre>\n",
+			"option_html": "<pre>運転中の通信を無効化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>車両同士の通信を行い、安全性を高める</pre>\n",
+			"option_html": "<pre>車両同士の通信を行い、安全性を高める</pre>\n"
+		}
+	]
+}

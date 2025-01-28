@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自分だけが話す</pre>\n",
+			"option_html": "<pre>自分だけが話す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>相手の話をよく聞く</pre>\n",
+			"option_html": "<pre>相手の話をよく聞く</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>相手の話を遮る</pre>\n",
+			"option_html": "<pre>相手の話を遮る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>表情を無視する</pre>\n",
+			"option_html": "<pre>表情を無視する</pre>\n"
+		}
+	]
+}

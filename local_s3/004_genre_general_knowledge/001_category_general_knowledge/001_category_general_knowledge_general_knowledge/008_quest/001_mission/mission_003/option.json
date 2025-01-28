@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>話をまとめて伝える</pre>\n",
+			"option_html": "<pre>話をまとめて伝える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>無反応で終わる</pre>\n",
+			"option_html": "<pre>無反応で終わる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>違う話題に変える</pre>\n",
+			"option_html": "<pre>違う話題に変える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>質問をしない</pre>\n",
+			"option_html": "<pre>質問をしない</pre>\n"
+		}
+	]
+}

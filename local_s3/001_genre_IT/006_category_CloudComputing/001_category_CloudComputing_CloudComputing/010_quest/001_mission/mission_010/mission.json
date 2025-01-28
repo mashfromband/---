@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データ移行中に暗号化されないことがあるため</pre>\n",
+			"option_html": "<pre>データ移行中に暗号化されないことがあるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データ移行後にクラウドサービスの利用が制限されるため</pre>\n",
+			"option_html": "<pre>データ移行後にクラウドサービスの利用が制限されるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クラウド環境ではデータのバックアップが不要になるため</pre>\n",
+			"option_html": "<pre>クラウド環境ではデータのバックアップが不要になるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データの移行中や保存中に不正アクセスされるリスクがあるため</pre>\n",
+			"option_html": "<pre>データの移行中や保存中に不正アクセスされるリスクがあるため</pre>\n"
+		}
+	]
+}

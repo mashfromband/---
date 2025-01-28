@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Altキーを押しながらドラッグ</pre>\n",
+			"option_html": "<pre>Altキーを押しながらドラッグ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シフトキーを押しながらドラッグ</pre>\n",
+			"option_html": "<pre>シフトキーを押しながらドラッグ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 配置 > 水平複製</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 水平複製</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + Alt + D</pre>\n",
+			"option_html": "<pre>Ctrl + Alt + D</pre>\n"
+		}
+	]
+}

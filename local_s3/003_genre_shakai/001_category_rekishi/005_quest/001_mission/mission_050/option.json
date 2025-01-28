@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "文永の役\n",
+			"option_html": "<p>文永の役</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "弘安の役\n",
+			"option_html": "<p>弘安の役</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "建治の役\n",
+			"option_html": "<p>建治の役</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "正応の役\n",
+			"option_html": "<p>正応の役</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>RGBカラープロファイル</pre>\n",
+			"option_html": "<pre>RGBカラープロファイル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Fuji Eterna 250D</pre>\n",
+			"option_html": "<pre>Fuji Eterna 250D</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>CMYKカラー変換</pre>\n",
+			"option_html": "<pre>CMYKカラー変換</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グレースケールプロファイル</pre>\n",
+			"option_html": "<pre>グレースケールプロファイル</pre>\n"
+		}
+	]
+}

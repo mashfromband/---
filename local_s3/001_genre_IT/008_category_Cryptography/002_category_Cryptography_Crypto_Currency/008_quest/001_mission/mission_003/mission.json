@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨を物理的な形で提供する機能</pre>\n",
+			"option_html": "<pre>仮想通貨を物理的な形で提供する機能</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の価格を安定させる機能</pre>\n",
+			"option_html": "<pre>仮想通貨の価格を安定させる機能</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>契約を自動化し、仲介者を排除する機能</pre>\n",
+			"option_html": "<pre>契約を自動化し、仲介者を排除する機能</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨の取引履歴を削除する機能</pre>\n",
+			"option_html": "<pre>仮想通貨の取引履歴を削除する機能</pre>\n"
+		}
+	]
+}

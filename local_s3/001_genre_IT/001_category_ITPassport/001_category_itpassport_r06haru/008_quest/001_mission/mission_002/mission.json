@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"セキュリティ",
+		"情報セキュリティ対策・実装技術"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "a，b\n",
+			"option_html": "<p>a，b</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "a，d\n",
+			"option_html": "<p>a，d</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "b，c\n",
+			"option_html": "<p>b，c</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "c，d\n",
+			"option_html": "<p>c，d</p>\n"
+		}
+	]
+}

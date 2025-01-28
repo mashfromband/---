@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Altキーを押しながらドラッグする</pre>\n",
+			"option_html": "<pre>Altキーを押しながらドラッグする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + C と Ctrl + V を使用する</pre>\n",
+			"option_html": "<pre>Ctrl + C と Ctrl + V を使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ペンツールで移動させる</pre>\n",
+			"option_html": "<pre>ペンツールで移動させる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ダイレクト選択ツールで移動先を指定する</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツールで移動先を指定する</pre>\n"
+		}
+	]
+}

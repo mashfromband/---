@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>彩度が低い画像</pre>\n",
+			"option_html": "<pre>彩度が低い画像</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>明るさが極端な画像</pre>\n",
+			"option_html": "<pre>明るさが極端な画像</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度が高い画像</pre>\n",
+			"option_html": "<pre>彩度が高い画像</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲が多い画像</pre>\n",
+			"option_html": "<pre>選択範囲が多い画像</pre>\n"
+		}
+	]
+}

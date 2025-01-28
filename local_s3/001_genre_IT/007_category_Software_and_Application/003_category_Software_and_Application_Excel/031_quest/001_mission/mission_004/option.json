@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrlキーを押しながら列をドラッグする</pre>\n",
+			"option_html": "<pre>Ctrlキーを押しながら列をドラッグする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Altキーを押しながらセルを選択する</pre>\n",
+			"option_html": "<pre>Altキーを押しながらセルを選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オートフィル後にマウスポインタをセル右下に置く</pre>\n",
+			"option_html": "<pre>オートフィル後にマウスポインタをセル右下に置く</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルをダブルクリックする</pre>\n",
+			"option_html": "<pre>セルをダブルクリックする</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "リファクタリング\n",
+			"option_html": "<p>リファクタリング</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ホワイトボックステスト\n",
+			"option_html": "<p>ホワイトボックステスト</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ブラックボックステスト\n",
+			"option_html": "<p>ブラックボックステスト</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ウォーターフォール開発\n",
+			"option_html": "<p>ウォーターフォール開発</p>\n"
+		}
+	]
+}

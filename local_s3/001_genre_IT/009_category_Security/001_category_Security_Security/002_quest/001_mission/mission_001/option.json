@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>インターネット上の通信を暗号化する攻撃</pre>\n",
+			"option_html": "<pre>インターネット上の通信を暗号化する攻撃</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザーを偽のウェブサイトに誘導して情報を盗む攻撃</pre>\n",
+			"option_html": "<pre>ユーザーを偽のウェブサイトに誘導して情報を盗む攻撃</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コンピュータのハードウェアに直接アクセスして情報を盗む攻撃</pre>\n",
+			"option_html": "<pre>コンピュータのハードウェアに直接アクセスして情報を盗む攻撃</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ウイルスを拡散させて情報を盗む攻撃</pre>\n",
+			"option_html": "<pre>ウイルスを拡散させて情報を盗む攻撃</pre>\n"
+		}
+	]
+}

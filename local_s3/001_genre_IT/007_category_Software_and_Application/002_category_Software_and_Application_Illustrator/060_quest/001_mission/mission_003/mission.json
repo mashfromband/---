@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"カラー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アピアランスパネル</pre>\n",
+			"option_html": "<pre>アピアランスパネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネル</pre>\n",
+			"option_html": "<pre>スウォッチパネル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションパネル</pre>\n",
+			"option_html": "<pre>グラデーションパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>カラーパネル</pre>\n",
+			"option_html": "<pre>カラーパネル</pre>\n"
+		}
+	]
+}

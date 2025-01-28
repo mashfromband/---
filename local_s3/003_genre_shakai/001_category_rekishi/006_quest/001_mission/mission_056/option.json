@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "春華\n",
+			"option_html": "<p>春華</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "秋華\n",
+			"option_html": "<p>秋華</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "春秋\n",
+			"option_html": "<p>春秋</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "春夏\n",
+			"option_html": "<p>春夏</p>\n"
+		}
+	]
+}

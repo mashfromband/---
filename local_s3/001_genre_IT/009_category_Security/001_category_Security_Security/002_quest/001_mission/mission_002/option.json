@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データが暗号化され、復旧のために身代金を要求される</pre>\n",
+			"option_html": "<pre>データが暗号化され、復旧のために身代金を要求される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ウイルスが自動的に削除される</pre>\n",
+			"option_html": "<pre>ウイルスが自動的に削除される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>インターネット通信が高速化する</pre>\n",
+			"option_html": "<pre>インターネット通信が高速化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバイスのハードウェアが破壊される</pre>\n",
+			"option_html": "<pre>デバイスのハードウェアが破壊される</pre>\n"
+		}
+	]
+}

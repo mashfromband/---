@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像レイヤー</pre>\n",
+			"option_html": "<pre>画像レイヤー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>テキストレイヤー</pre>\n",
+			"option_html": "<pre>テキストレイヤー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションレイヤー</pre>\n",
+			"option_html": "<pre>グラデーションレイヤー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>背景レイヤー</pre>\n",
+			"option_html": "<pre>背景レイヤー</pre>\n"
+		}
+	]
+}

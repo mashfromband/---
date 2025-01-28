@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"実践・応用"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを統合する</pre>\n",
+			"option_html": "<pre>レイヤーを統合する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アートボードを使用する</pre>\n",
+			"option_html": "<pre>アートボードを使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションツールを使う</pre>\n",
+			"option_html": "<pre>グラデーションツールを使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルターギャラリーを使う</pre>\n",
+			"option_html": "<pre>フィルターギャラリーを使う</pre>\n"
+		}
+	]
+}

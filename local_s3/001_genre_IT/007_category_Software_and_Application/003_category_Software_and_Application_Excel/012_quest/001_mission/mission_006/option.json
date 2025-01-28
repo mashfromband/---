@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルの背景色を変える</pre>\n",
+			"option_html": "<pre>セルの背景色を変える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>入力後に「Ctrl + C」を押す</pre>\n",
+			"option_html": "<pre>入力後に「Ctrl + C」を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>数式バーをダブルクリックして値を入力する</pre>\n",
+			"option_html": "<pre>数式バーをダブルクリックして値を入力する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>先頭にシングルクォーテーション「'」をつけて入力する</pre>\n",
+			"option_html": "<pre>先頭にシングルクォーテーション「'」をつけて入力する</pre>\n"
+		}
+	]
+}

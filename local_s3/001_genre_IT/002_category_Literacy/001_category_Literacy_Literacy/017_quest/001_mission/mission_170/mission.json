@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"データベース",
+		"データの正規化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "データの可読性を高めること\n",
+			"option_html": "<p>データの可読性を高めること</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "データの重複を排除し、整合性を保つこと\n",
+			"option_html": "<p>データの重複を排除し、整合性を保つこと</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "データのアクセス速度を落とすこと\n",
+			"option_html": "<p>データのアクセス速度を落とすこと</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "データのバックアップを簡易化すること\n",
+			"option_html": "<p>データのバックアップを簡易化すること</p>\n"
+		}
+	]
+}
