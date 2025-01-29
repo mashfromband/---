@@ -92,14 +92,12 @@ h1 {
 
 .tableBody {
   width: 100%;
-  /* border: 1px solid #1f2937; */
 }
 
 .tableRow {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* border: 1px solid #1f2937; */
 }
 
 .tableHead {
