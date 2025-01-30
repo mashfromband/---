@@ -24,7 +24,10 @@
             <tr class="tableRow">
               <th class="tableHead">事業内容</th>
               <td class="tableData">
-                https://www.realizelearning.net/ の運営、開発
+                <a href="https://www.realizelearning.net/" target="_blank"
+                  >Realize Learning</a
+                >
+                の運営、開発
               </td>
             </tr>
             <tr class="tableRow">
@@ -71,6 +74,16 @@ if (!page.value) {
     fatal: true,
   });
 }
+
+const links = [
+  {
+    label: "TOP",
+    to: "/",
+  },
+  {
+    label: "会社概要",
+  },
+];
 </script>
 
 <style scoped>
