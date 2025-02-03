@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"ソフトウェア",
+		"オフィスツール"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "スクリプト\n",
+			"option_html": "<p>スクリプト</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "パッチ\n",
+			"option_html": "<p>パッチ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "プラグイン\n",
+			"option_html": "<p>プラグイン</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "マクロ\n",
+			"option_html": "<p>マクロ</p>\n"
+		}
+	]
+}

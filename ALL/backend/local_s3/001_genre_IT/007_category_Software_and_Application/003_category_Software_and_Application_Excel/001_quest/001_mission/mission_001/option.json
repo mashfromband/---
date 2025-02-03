@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>.txt</pre>\n",
+			"option_html": "<pre>.txt</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>.xlsx</pre>\n",
+			"option_html": "<pre>.xlsx</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>.csv</pre>\n",
+			"option_html": "<pre>.csv</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>.xlsm</pre>\n",
+			"option_html": "<pre>.xlsm</pre>\n"
+		}
+	]
+}

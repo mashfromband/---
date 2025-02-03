@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "704年\n",
+			"option_html": "<p>704年</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "706年\n",
+			"option_html": "<p>706年</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "708年\n",
+			"option_html": "<p>708年</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "710年\n",
+			"option_html": "<p>710年</p>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>出所情報を中央サーバーに保存するため</pre>\n",
+			"option_html": "<pre>出所情報を中央サーバーに保存するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>商品の流通履歴を改ざんできない形で記録するため</pre>\n",
+			"option_html": "<pre>商品の流通履歴を改ざんできない形で記録するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>商品の価格情報を自動的に更新するため</pre>\n",
+			"option_html": "<pre>商品の価格情報を自動的に更新するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>流通業者が商品データを非公開にするため</pre>\n",
+			"option_html": "<pre>流通業者が商品データを非公開にするため</pre>\n"
+		}
+	]
+}

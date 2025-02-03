@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>We have cats.</pre>\n",
+			"option_html": "<pre>We have cats.</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Where're my cats?</pre>\n",
+			"option_html": "<pre>Where're my cats?</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>You have plates.</pre>\n",
+			"option_html": "<pre>You have plates.</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Plates are here.</pre>\n",
+			"option_html": "<pre>Plates are here.</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "IDS\n",
+			"option_html": "<p>IDS</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "IPS\n",
+			"option_html": "<p>IPS</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "DLP\n",
+			"option_html": "<p>DLP</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "UTM\n",
+			"option_html": "<p>UTM</p>\n"
+		}
+	]
+}

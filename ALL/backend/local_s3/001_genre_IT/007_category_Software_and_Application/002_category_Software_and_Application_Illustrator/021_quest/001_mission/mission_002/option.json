@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>回転ツールをダブルクリックして基準点を設定する</pre>\n",
+			"option_html": "<pre>回転ツールをダブルクリックして基準点を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Altキーを押しながら回転ツールでクリックする</pre>\n",
+			"option_html": "<pre>Altキーを押しながら回転ツールでクリックする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 配置 > 回転基準を選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 回転基準を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>表示 > ガイドを基準に回転</pre>\n",
+			"option_html": "<pre>表示 &gt; ガイドを基準に回転</pre>\n"
+		}
+	]
+}

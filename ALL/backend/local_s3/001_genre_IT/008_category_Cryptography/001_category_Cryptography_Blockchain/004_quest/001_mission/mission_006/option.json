@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ブロックを削除してネットワークを最適化する</pre>\n",
+			"option_html": "<pre>ブロックを削除してネットワークを最適化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トランザクションデータの保存と共有を行う</pre>\n",
+			"option_html": "<pre>トランザクションデータの保存と共有を行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ブロックチェーンのトークンを発行する</pre>\n",
+			"option_html": "<pre>ブロックチェーンのトークンを発行する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号化キーを管理する</pre>\n",
+			"option_html": "<pre>暗号化キーを管理する</pre>\n"
+		}
+	]
+}

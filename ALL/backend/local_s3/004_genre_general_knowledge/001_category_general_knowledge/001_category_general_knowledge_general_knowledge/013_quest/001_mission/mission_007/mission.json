@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"組織理解",
+		"組織論の常識（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Plan, Do, Check, Act</pre>\n",
+			"option_html": "<pre>Plan, Do, Check, Act</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Plan, Develop, Check, Act</pre>\n",
+			"option_html": "<pre>Plan, Develop, Check, Act</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Process, Develop, Change, Apply</pre>\n",
+			"option_html": "<pre>Process, Develop, Change, Apply</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Project, Design, Create, Analyze</pre>\n",
+			"option_html": "<pre>Project, Design, Create, Analyze</pre>\n"
+		}
+	]
+}

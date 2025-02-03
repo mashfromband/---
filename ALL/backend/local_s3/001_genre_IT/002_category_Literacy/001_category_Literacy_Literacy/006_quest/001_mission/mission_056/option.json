@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "デュプレックスシステム\n",
+			"option_html": "<p>デュプレックスシステム</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ストライピング\n",
+			"option_html": "<p>ストライピング</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ミラーリング\n",
+			"option_html": "<p>ミラーリング</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "デュアルシステム\n",
+			"option_html": "<p>デュアルシステム</p>\n"
+		}
+	]
+}

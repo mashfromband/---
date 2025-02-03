@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ロシア語",
+		"文法",
+		"正書法の規則"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ы は、特定の文字の直後にあると、и に変化する</pre>\n",
+			"option_html": "<pre>ы は、特定の文字の直後にあると、и に変化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>э は、特定の文字の直後にあると、з に変化する</pre>\n",
+			"option_html": "<pre>э は、特定の文字の直後にあると、з に変化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>я は、特定の文字の直後にあると、а に変化する</pre>\n",
+			"option_html": "<pre>я は、特定の文字の直後にあると、а に変化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ю は、特定の文字の直後にあると、у に変化する</pre>\n",
+			"option_html": "<pre>ю は、特定の文字の直後にあると、у に変化する</pre>\n"
+		}
+	]
+}

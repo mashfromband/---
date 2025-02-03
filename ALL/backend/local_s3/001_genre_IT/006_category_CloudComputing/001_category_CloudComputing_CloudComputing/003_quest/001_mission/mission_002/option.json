@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想マシンのOS管理が容易になる</pre>\n",
+			"option_html": "<pre>仮想マシンのOS管理が容易になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリケーションの開発とデプロイに集中できる</pre>\n",
+			"option_html": "<pre>アプリケーションの開発とデプロイに集中できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データセンターのハードウェア構築が不要になる</pre>\n",
+			"option_html": "<pre>データセンターのハードウェア構築が不要になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>完成されたソフトウェアをすぐに利用できる</pre>\n",
+			"option_html": "<pre>完成されたソフトウェアをすぐに利用できる</pre>\n"
+		}
+	]
+}

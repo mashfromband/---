@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>投票記録を改ざんできない</pre>\n",
+			"option_html": "<pre>投票記録を改ざんできない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>投票数を手動で集計する</pre>\n",
+			"option_html": "<pre>投票数を手動で集計する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>投票者の身元を完全に公開する</pre>\n",
+			"option_html": "<pre>投票者の身元を完全に公開する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>投票用紙の保管コストを削減する</pre>\n",
+			"option_html": "<pre>投票用紙の保管コストを削減する</pre>\n"
+		}
+	]
+}

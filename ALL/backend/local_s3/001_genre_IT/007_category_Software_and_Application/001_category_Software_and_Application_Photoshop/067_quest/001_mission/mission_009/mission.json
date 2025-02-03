@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「文字ツール」で「文字パネル」を使う</pre>\n",
+			"option_html": "<pre>「文字ツール」で「文字パネル」を使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤースタイル」の「間隔調整」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「間隔調整」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>メニューの「イメージ」から調整する</pre>\n",
+			"option_html": "<pre>メニューの「イメージ」から調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ツールバーの「選択範囲」から変更する</pre>\n",
+			"option_html": "<pre>ツールバーの「選択範囲」から変更する</pre>\n"
+		}
+	]
+}

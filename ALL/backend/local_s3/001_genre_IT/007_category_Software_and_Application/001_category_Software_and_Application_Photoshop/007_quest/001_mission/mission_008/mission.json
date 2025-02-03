@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>塗りつぶしの不透明度を調整する</pre>\n",
+			"option_html": "<pre>塗りつぶしの不透明度を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>塗りつぶしをキャンセルする</pre>\n",
+			"option_html": "<pre>塗りつぶしをキャンセルする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>塗りつぶしの設定ダイアログを開く</pre>\n",
+			"option_html": "<pre>塗りつぶしの設定ダイアログを開く</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>塗りつぶしを複製する</pre>\n",
+			"option_html": "<pre>塗りつぶしを複製する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像のシャープさを強調する</pre>\n",
+			"option_html": "<pre>画像のシャープさを強調する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択範囲を保存する</pre>\n",
+			"option_html": "<pre>選択範囲を保存する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像全体をぼかす</pre>\n",
+			"option_html": "<pre>画像全体をぼかす</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ノイズを除去する</pre>\n",
+			"option_html": "<pre>ノイズを除去する</pre>\n"
+		}
+	]
+}

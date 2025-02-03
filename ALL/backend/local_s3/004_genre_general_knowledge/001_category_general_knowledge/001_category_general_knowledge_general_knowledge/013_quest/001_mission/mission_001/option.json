@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>内容の一部を省略する</pre>\n",
+			"option_html": "<pre>内容の一部を省略する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>顧客と協議して内容を確認する</pre>\n",
+			"option_html": "<pre>顧客と協議して内容を確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>印鑑を押さない</pre>\n",
+			"option_html": "<pre>印鑑を押さない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>契約書を作成しない</pre>\n",
+			"option_html": "<pre>契約書を作成しない</pre>\n"
+		}
+	]
+}

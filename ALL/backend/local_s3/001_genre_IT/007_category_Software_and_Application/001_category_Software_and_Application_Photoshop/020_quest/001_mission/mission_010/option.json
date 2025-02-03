@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>赤、黄、緑、青、シアン、マゼンタ、白、ニュートラル、黒</pre>\n",
+			"option_html": "<pre>赤、黄、緑、青、シアン、マゼンタ、白、ニュートラル、黒</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>赤、青、ピンクのみ</pre>\n",
+			"option_html": "<pre>赤、青、ピンクのみ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションの色範囲のみ</pre>\n",
+			"option_html": "<pre>グラデーションの色範囲のみ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択した範囲に基づくすべての色</pre>\n",
+			"option_html": "<pre>選択した範囲に基づくすべての色</pre>\n"
+		}
+	]
+}

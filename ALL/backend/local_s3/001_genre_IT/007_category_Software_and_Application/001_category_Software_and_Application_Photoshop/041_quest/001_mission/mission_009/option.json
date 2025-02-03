@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーをロックすることができる</pre>\n",
+			"option_html": "<pre>レイヤーをロックすることができる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルターの適用を非破壊的に行える</pre>\n",
+			"option_html": "<pre>フィルターの適用を非破壊的に行える</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像のファイルサイズを小さくする</pre>\n",
+			"option_html": "<pre>画像のファイルサイズを小さくする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>解像度を固定する</pre>\n",
+			"option_html": "<pre>解像度を固定する</pre>\n"
+		}
+	]
+}

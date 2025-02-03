@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「複数アートボードの保存」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「複数アートボードの保存」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > エクスポート > アートボードごとに保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; アートボードごとに保存</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 書き出し > 複数アートボード</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; 複数アートボード</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>印刷設定で複数ページ印刷を選択</pre>\n",
+			"option_html": "<pre>印刷設定で複数ページ印刷を選択</pre>\n"
+		}
+	]
+}

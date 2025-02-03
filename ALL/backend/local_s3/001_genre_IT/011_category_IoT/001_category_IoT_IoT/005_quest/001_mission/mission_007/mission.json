@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クラウドを使用せず完全にオフラインで動作するため</pre>\n",
+			"option_html": "<pre>クラウドを使用せず完全にオフラインで動作するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>エッジデバイスが暗号化キーを生成するため</pre>\n",
+			"option_html": "<pre>エッジデバイスが暗号化キーを生成するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セキュリティソフトウェアを自動でインストールできるため</pre>\n",
+			"option_html": "<pre>セキュリティソフトウェアを自動でインストールできるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データをデバイス近くで処理するため、転送中のリスクが減少する</pre>\n",
+			"option_html": "<pre>データをデバイス近くで処理するため、転送中のリスクが減少する</pre>\n"
+		}
+	]
+}

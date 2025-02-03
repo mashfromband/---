@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>トランザクションの透明性を高める</pre>\n",
+			"option_html": "<pre>トランザクションの透明性を高める</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの完全性を確認せずに取引を実行する</pre>\n",
+			"option_html": "<pre>データの完全性を確認せずに取引を実行する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プライバシーを保ちながら取引を検証する</pre>\n",
+			"option_html": "<pre>プライバシーを保ちながら取引を検証する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブロックチェーンの速度を向上させる</pre>\n",
+			"option_html": "<pre>ブロックチェーンの速度を向上させる</pre>\n"
+		}
+	]
+}

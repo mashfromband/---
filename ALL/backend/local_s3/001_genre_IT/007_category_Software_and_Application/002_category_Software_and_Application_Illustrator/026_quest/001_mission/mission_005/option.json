@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>段落スタイルを使用する</pre>\n",
+			"option_html": "<pre>段落スタイルを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>各テキストを1つずつ編集する</pre>\n",
+			"option_html": "<pre>各テキストを1つずつ編集する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>新しいテキストを入力し直す</pre>\n",
+			"option_html": "<pre>新しいテキストを入力し直す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクトを分割して変更する</pre>\n",
+			"option_html": "<pre>オブジェクトを分割して変更する</pre>\n"
+		}
+	]
+}

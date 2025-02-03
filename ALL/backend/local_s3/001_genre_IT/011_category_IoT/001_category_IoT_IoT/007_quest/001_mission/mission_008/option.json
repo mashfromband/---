@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>デバイスがネットワークから自動的に切断されるようにする</pre>\n",
+			"option_html": "<pre>デバイスがネットワークから自動的に切断されるようにする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デバイス同士の通信を完全に遮断する</pre>\n",
+			"option_html": "<pre>デバイス同士の通信を完全に遮断する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>通信の暗号化とデバイス認証の設定</pre>\n",
+			"option_html": "<pre>通信の暗号化とデバイス認証の設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データをクラウドに保存しないようにする</pre>\n",
+			"option_html": "<pre>データをクラウドに保存しないようにする</pre>\n"
+		}
+	]
+}

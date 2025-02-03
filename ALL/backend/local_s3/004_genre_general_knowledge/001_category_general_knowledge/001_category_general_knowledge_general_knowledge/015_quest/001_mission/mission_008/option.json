@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>雇用保険</pre>\n",
+			"option_html": "<pre>雇用保険</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>労災保険</pre>\n",
+			"option_html": "<pre>労災保険</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>健康診断の費用</pre>\n",
+			"option_html": "<pre>健康診断の費用</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>子ども・子育て拠出金</pre>\n",
+			"option_html": "<pre>子ども・子育て拠出金</pre>\n"
+		}
+	]
+}

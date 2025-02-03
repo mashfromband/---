@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「Ctrl + Enter」を押して入力する</pre>\n",
+			"option_html": "<pre>「Ctrl + Enter」を押して入力する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「Alt + Enter」を押して改行する</pre>\n",
+			"option_html": "<pre>「Alt + Enter」を押して改行する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「Ctrl + Z」で操作を元に戻す</pre>\n",
+			"option_html": "<pre>「Ctrl + Z」で操作を元に戻す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「Shift + Tab」でセルを戻る</pre>\n",
+			"option_html": "<pre>「Shift + Tab」でセルを戻る</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「選択範囲」メニューから「拡大/縮小」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「拡大/縮小」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「自由変形ツール」を使用する</pre>\n",
+			"option_html": "<pre>「自由変形ツール」を使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「選択範囲」メニューから「調整」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「調整」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤーパネル」から調整する</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から調整する</pre>\n"
+		}
+	]
+}

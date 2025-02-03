@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Alt（Option）キーを押しながらドラッグする</pre>\n",
+			"option_html": "<pre>Alt（Option）キーを押しながらドラッグする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべて手動で作り直す</pre>\n",
+			"option_html": "<pre>すべて手動で作り直す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>別のファイルを作って再作成する</pre>\n",
+			"option_html": "<pre>別のファイルを作って再作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>一度削除してから描き直す</pre>\n",
+			"option_html": "<pre>一度削除してから描き直す</pre>\n"
+		}
+	]
+}

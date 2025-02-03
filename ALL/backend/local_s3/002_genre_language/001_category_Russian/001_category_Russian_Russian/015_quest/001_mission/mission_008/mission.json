@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"文法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>主格はロシア語の名詞の最も基本的な格である</pre>\n",
+			"option_html": "<pre>主格はロシア語の名詞の最も基本的な格である</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>通常、ロシア語の名詞は単数主格形が辞書の見出しとなる</pre>\n",
+			"option_html": "<pre>通常、ロシア語の名詞は単数主格形が辞書の見出しとなる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ロシア語における主格は主語と同義である</pre>\n",
+			"option_html": "<pre>ロシア語における主格は主語と同義である</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>主格には様々な用法がある</pre>\n",
+			"option_html": "<pre>主格には様々な用法がある</pre>\n"
+		}
+	]
+}

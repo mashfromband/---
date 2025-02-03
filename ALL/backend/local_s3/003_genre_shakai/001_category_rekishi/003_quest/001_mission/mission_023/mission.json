@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "源頼朝\n",
+			"option_html": "<p>源頼朝</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "源義経\n",
+			"option_html": "<p>源義経</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "源義仲\n",
+			"option_html": "<p>源義仲</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "源頼光\n",
+			"option_html": "<p>源頼光</p>\n"
+		}
+	]
+}

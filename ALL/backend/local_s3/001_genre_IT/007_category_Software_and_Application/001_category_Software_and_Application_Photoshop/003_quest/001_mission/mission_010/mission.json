@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像全体を選択する</pre>\n",
+			"option_html": "<pre>画像全体を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>特定のエリアを素早く選択する</pre>\n",
+			"option_html": "<pre>特定のエリアを素早く選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲を消去する</pre>\n",
+			"option_html": "<pre>選択範囲を消去する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲を保存する</pre>\n",
+			"option_html": "<pre>選択範囲を保存する</pre>\n"
+		}
+	]
+}

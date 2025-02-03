@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "貴族共和政\n",
+			"option_html": "<p>貴族共和政</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "民主共和政\n",
+			"option_html": "<p>民主共和政</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "自由共和政\n",
+			"option_html": "<p>自由共和政</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "保守共和政\n",
+			"option_html": "<p>保守共和政</p>\n"
+		}
+	]
+}

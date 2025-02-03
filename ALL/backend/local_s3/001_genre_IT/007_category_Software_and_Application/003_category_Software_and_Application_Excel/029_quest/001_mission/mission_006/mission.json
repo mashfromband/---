@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"データ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>折れ線グラフ</pre>\n",
+			"option_html": "<pre>折れ線グラフ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>棒グラフ</pre>\n",
+			"option_html": "<pre>棒グラフ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>円グラフ</pre>\n",
+			"option_html": "<pre>円グラフ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>散布図</pre>\n",
+			"option_html": "<pre>散布図</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>LEFT関数</pre>\n",
+			"option_html": "<pre>LEFT関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>TRIM関数</pre>\n",
+			"option_html": "<pre>TRIM関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>RIGHT関数</pre>\n",
+			"option_html": "<pre>RIGHT関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>MID関数</pre>\n",
+			"option_html": "<pre>MID関数</pre>\n"
+		}
+	]
+}

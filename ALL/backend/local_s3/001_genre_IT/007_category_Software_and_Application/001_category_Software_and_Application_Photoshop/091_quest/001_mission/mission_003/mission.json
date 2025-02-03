@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「文字パネル」の「幅」を調整する</pre>\n",
+			"option_html": "<pre>「文字パネル」の「幅」を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」でフォントの太さを調整する</pre>\n",
+			"option_html": "<pre>「文字ツール」でフォントの太さを調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「フィルター」メニューでアウトラインを強調する</pre>\n",
+			"option_html": "<pre>「フィルター」メニューでアウトラインを強調する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤースタイル」の「境界線」を太くする</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「境界線」を太くする</pre>\n"
+		}
+	]
+}

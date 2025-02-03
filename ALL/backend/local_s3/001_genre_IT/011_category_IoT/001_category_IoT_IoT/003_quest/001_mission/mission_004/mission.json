@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>大容量データ転送が可能だから</pre>\n",
+			"option_html": "<pre>大容量データ転送が可能だから</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>軽量でリソース制約のあるデバイスに適しているから</pre>\n",
+			"option_html": "<pre>軽量でリソース制約のあるデバイスに適しているから</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>長距離通信を前提としているから</pre>\n",
+			"option_html": "<pre>長距離通信を前提としているから</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル転送に特化しているから</pre>\n",
+			"option_html": "<pre>ファイル転送に特化しているから</pre>\n"
+		}
+	]
+}

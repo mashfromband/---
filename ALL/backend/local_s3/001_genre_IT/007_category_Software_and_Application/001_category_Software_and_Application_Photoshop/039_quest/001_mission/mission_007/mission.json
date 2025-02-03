@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コピー元レイヤーにスタイルが適用されているか確認する</pre>\n",
+			"option_html": "<pre>コピー元レイヤーにスタイルが適用されているか確認する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>適用先レイヤーがスマートオブジェクトでないことを確認する</pre>\n",
+			"option_html": "<pre>適用先レイヤーがスマートオブジェクトでないことを確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>適用先レイヤーが非表示でないことを確認する</pre>\n",
+			"option_html": "<pre>適用先レイヤーが非表示でないことを確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの描画モードを確認する</pre>\n",
+			"option_html": "<pre>レイヤーの描画モードを確認する</pre>\n"
+		}
+	]
+}

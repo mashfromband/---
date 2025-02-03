@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>エラーアイコンにカーソルを合わせる</pre>\n",
+			"option_html": "<pre>エラーアイコンにカーソルを合わせる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを右クリックして「削除」を選択</pre>\n",
+			"option_html": "<pre>セルを右クリックして「削除」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ファイル」タブをクリック</pre>\n",
+			"option_html": "<pre>「ファイル」タブをクリック</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「挿入」タブから「図形」を追加</pre>\n",
+			"option_html": "<pre>「挿入」タブから「図形」を追加</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画質を保ちながらサイズ変更や編集が可能</pre>\n",
+			"option_html": "<pre>画質を保ちながらサイズ変更や編集が可能</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>作業ファイルの容量を小さくできる</pre>\n",
+			"option_html": "<pre>作業ファイルの容量を小さくできる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーの数を減らすことができる</pre>\n",
+			"option_html": "<pre>レイヤーの数を減らすことができる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自動で配色を調整してくれる</pre>\n",
+			"option_html": "<pre>自動で配色を調整してくれる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"組織理解",
+		"会社組織一般知識（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>黙って放置する</pre>\n",
+			"option_html": "<pre>黙って放置する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>上司に事前に相談する</pre>\n",
+			"option_html": "<pre>上司に事前に相談する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自分だけで何とかする</pre>\n",
+			"option_html": "<pre>自分だけで何とかする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>提出期限を無視する</pre>\n",
+			"option_html": "<pre>提出期限を無視する</pre>\n"
+		}
+	]
+}

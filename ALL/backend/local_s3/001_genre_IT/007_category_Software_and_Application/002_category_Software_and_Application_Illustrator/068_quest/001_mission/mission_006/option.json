@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スウォッチパネルで右揃えを選択する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで右揃えを選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルで右揃えを設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで右揃えを設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > 変形で右揃えを設定する</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形で右揃えを設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字パネルで右揃えを選択する</pre>\n",
+			"option_html": "<pre>文字パネルで右揃えを選択する</pre>\n"
+		}
+	]
+}

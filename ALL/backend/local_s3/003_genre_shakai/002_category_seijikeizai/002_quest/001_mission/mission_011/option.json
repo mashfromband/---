@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "サンフランシスコ\n",
+			"option_html": "<p>サンフランシスコ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "シカゴ\n",
+			"option_html": "<p>シカゴ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ボストン\n",
+			"option_html": "<p>ボストン</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ニューヨーク\n",
+			"option_html": "<p>ニューヨーク</p>\n"
+		}
+	]
+}

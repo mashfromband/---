@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Whrere're girls?</pre>\n",
+			"option_html": "<pre>Whrere're girls?</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>You have plates.</pre>\n",
+			"option_html": "<pre>You have plates.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Plates are here.</pre>\n",
+			"option_html": "<pre>Plates are here.</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>I have sisters.</pre>\n",
+			"option_html": "<pre>I have sisters.</pre>\n"
+		}
+	]
+}

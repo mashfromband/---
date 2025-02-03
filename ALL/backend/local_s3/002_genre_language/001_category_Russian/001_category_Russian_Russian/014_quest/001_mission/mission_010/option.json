@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>母音同士に対応関係はない</pre>\n",
+			"option_html": "<pre>母音同士に対応関係はない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ы と и は類似母音である</pre>\n",
+			"option_html": "<pre>ы と и は類似母音である</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>о と е は類似母音である</pre>\n",
+			"option_html": "<pre>о と е は類似母音である</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>э は特殊な母音である</pre>\n",
+			"option_html": "<pre>э は特殊な母音である</pre>\n"
+		}
+	]
+}

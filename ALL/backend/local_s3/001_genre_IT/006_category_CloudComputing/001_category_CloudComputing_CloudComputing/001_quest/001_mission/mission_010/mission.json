@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーがリソースを必要なときに即座に利用できるため</pre>\n",
+			"option_html": "<pre>ユーザーがリソースを必要なときに即座に利用できるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サービスが固定されたスケジュールで提供されるため</pre>\n",
+			"option_html": "<pre>サービスが固定されたスケジュールで提供されるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データを一括で購入する必要があるため</pre>\n",
+			"option_html": "<pre>データを一括で購入する必要があるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>利用者が事前にリソースを予約する必要があるため</pre>\n",
+			"option_html": "<pre>利用者が事前にリソースを予約する必要があるため</pre>\n"
+		}
+	]
+}

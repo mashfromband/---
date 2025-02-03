@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>新規プロジェクトを作成してコピーする</pre>\n",
+			"option_html": "<pre>新規プロジェクトを作成してコピーする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>一度削除して新しいアートボードで再描画する</pre>\n",
+			"option_html": "<pre>一度削除して新しいアートボードで再描画する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべてのレイヤーを結合して移動する</pre>\n",
+			"option_html": "<pre>すべてのレイヤーを結合して移動する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクトをドラッグしてアートボード間を移動する</pre>\n",
+			"option_html": "<pre>オブジェクトをドラッグしてアートボード間を移動する</pre>\n"
+		}
+	]
+}

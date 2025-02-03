@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "司法府\n",
+			"option_html": "<p>司法府</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "弁護府\n",
+			"option_html": "<p>弁護府</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "検察府\n",
+			"option_html": "<p>検察府</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "政府\n",
+			"option_html": "<p>政府</p>\n"
+		}
+	]
+}

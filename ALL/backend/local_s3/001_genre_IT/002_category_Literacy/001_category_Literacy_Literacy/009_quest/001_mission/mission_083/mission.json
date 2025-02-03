@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ストラテジ",
+		"ビジネス用語",
+		"ビジネス経営"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "マトリックス組織\n",
+			"option_html": "<p>マトリックス組織</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "プロジェクト組織\n",
+			"option_html": "<p>プロジェクト組織</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "事業部制組織\n",
+			"option_html": "<p>事業部制組織</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "職能別組織\n",
+			"option_html": "<p>職能別組織</p>\n"
+		}
+	]
+}

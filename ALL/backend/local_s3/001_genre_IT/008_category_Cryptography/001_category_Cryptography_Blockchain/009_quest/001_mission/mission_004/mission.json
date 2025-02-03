@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>食品の賞味期限を自動的に延長する</pre>\n",
+			"option_html": "<pre>食品の賞味期限を自動的に延長する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>食品廃棄物をブロックチェーン上で再利用可能にする</pre>\n",
+			"option_html": "<pre>食品廃棄物をブロックチェーン上で再利用可能にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>食品の輸送中にデータの暗号化を行う</pre>\n",
+			"option_html": "<pre>食品の輸送中にデータの暗号化を行う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>食品の生産から消費までのデータを追跡し、不要な廃棄を防ぐ</pre>\n",
+			"option_html": "<pre>食品の生産から消費までのデータを追跡し、不要な廃棄を防ぐ</pre>\n"
+		}
+	]
+}

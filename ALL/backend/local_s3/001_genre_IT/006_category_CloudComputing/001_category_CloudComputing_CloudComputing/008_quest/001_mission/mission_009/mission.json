@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サーバーの台数を自動的に増やして負荷を分散する</pre>\n",
+			"option_html": "<pre>サーバーの台数を自動的に増やして負荷を分散する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>異常なトラフィックを検出してブロックする</pre>\n",
+			"option_html": "<pre>異常なトラフィックを検出してブロックする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>不正アクセスをすべて手動で遮断する</pre>\n",
+			"option_html": "<pre>不正アクセスをすべて手動で遮断する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウド上のすべてのリソースを暗号化する</pre>\n",
+			"option_html": "<pre>クラウド上のすべてのリソースを暗号化する</pre>\n"
+		}
+	]
+}

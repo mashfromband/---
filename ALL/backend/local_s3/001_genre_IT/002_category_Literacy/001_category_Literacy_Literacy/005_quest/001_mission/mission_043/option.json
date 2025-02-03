@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "FTP\n",
+			"option_html": "<p>FTP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "RPA\n",
+			"option_html": "<p>RPA</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "HTTP\n",
+			"option_html": "<p>HTTP</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ディープランニング\n",
+			"option_html": "<p>ディープランニング</p>\n"
+		}
+	]
+}

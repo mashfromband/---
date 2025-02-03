@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロンプトインジェクション</pre>\n",
+			"option_html": "<pre>プロンプトインジェクション</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>VOCマインド</pre>\n",
+			"option_html": "<pre>VOCマインド</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ルーラルツーリズム</pre>\n",
+			"option_html": "<pre>ルーラルツーリズム</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ジェントリフィケーション</pre>\n",
+			"option_html": "<pre>ジェントリフィケーション</pre>\n"
+		}
+	]
+}

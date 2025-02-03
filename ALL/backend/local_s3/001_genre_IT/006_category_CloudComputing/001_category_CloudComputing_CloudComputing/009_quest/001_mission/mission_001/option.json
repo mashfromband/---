@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サーバーの台数を減らしてコストを削減するため</pre>\n",
+			"option_html": "<pre>サーバーの台数を減らしてコストを削減するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>他のクラウドプロバイダーにデータを移行するため</pre>\n",
+			"option_html": "<pre>他のクラウドプロバイダーにデータを移行するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハードウェア障害やデータ消失時にデータを復元できるようにするため</pre>\n",
+			"option_html": "<pre>ハードウェア障害やデータ消失時にデータを復元できるようにするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データを完全に暗号化するため</pre>\n",
+			"option_html": "<pre>データを完全に暗号化するため</pre>\n"
+		}
+	]
+}

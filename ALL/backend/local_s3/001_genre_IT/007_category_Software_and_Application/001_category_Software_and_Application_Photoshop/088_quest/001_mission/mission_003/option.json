@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Photoshop Document</pre>\n",
+			"option_html": "<pre>Photoshop Document</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Photo Saving Data</pre>\n",
+			"option_html": "<pre>Photo Saving Data</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Photoshop Standard Document</pre>\n",
+			"option_html": "<pre>Photoshop Standard Document</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Photo Designation</pre>\n",
+			"option_html": "<pre>Photo Designation</pre>\n"
+		}
+	]
+}

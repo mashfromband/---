@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリのバージョンを管理するため</pre>\n",
+			"option_html": "<pre>アプリのバージョンを管理するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザーにアプリが信頼できるものであると証明するため</pre>\n",
+			"option_html": "<pre>ユーザーにアプリが信頼できるものであると証明するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリの動作速度を向上させるため</pre>\n",
+			"option_html": "<pre>アプリの動作速度を向上させるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリの価格を設定するため</pre>\n",
+			"option_html": "<pre>アプリの価格を設定するため</pre>\n"
+		}
+	]
+}

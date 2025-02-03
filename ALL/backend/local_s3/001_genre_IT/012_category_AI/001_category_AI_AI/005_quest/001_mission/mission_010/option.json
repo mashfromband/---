@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>すべての授業に出席する</pre>\n",
+			"option_html": "<pre>すべての授業に出席する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>睡眠時間を削って勉強時間を確保する</pre>\n",
+			"option_html": "<pre>睡眠時間を削って勉強時間を確保する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アルバイトの時間を増やす</pre>\n",
+			"option_html": "<pre>アルバイトの時間を増やす</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>時間管理ツールを活用する</pre>\n",
+			"option_html": "<pre>時間管理ツールを活用する</pre>\n"
+		}
+	]
+}

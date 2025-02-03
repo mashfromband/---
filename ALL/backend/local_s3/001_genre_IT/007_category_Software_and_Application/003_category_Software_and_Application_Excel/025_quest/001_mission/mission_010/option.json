@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「挿入」タブ→「テキストボックス」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「テキストボックス」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ホーム」タブ→「フォントの設定」</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「フォントの設定」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ページレイアウト」タブ→「印刷範囲の設定」</pre>\n",
+			"option_html": "<pre>「ページレイアウト」タブ→「印刷範囲の設定」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「データ」タブ→「フィルタの適用」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「フィルタの適用」</pre>\n"
+		}
+	]
+}

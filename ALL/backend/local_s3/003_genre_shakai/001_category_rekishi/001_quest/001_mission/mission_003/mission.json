@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "セバイト\n",
+			"option_html": "<p>セバイト</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ミイラ\n",
+			"option_html": "<p>ミイラ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ジャッカル\n",
+			"option_html": "<p>ジャッカル</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アテン\n",
+			"option_html": "<p>アテン</p>\n"
+		}
+	]
+}

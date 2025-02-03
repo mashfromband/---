@@ -1,0 +1,2450 @@
+openapi: '3.0.3'
+
+info:
+  title: '管理用 API'
+  version: '1.0'
+
+servers:
+  - url: http://localhost:7002/v1
+
+paths:
+  /hello:
+    get:
+      summary: Hello world
+      responses:
+        '200':
+          description: Hello world
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getHelloResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /recruit-company:
+    get:
+      summary: '求人企業リスト取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: '求人企業リスト'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  recruitCompanies:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/getRecruitCompanyListResponse'
+                    description: '求人企業リスト'
+                  total:
+                    type: number
+                    description: '総求人企業数'
+                    example: 100
+                required:
+                  - recruitCompanies
+                  - total
+        '401':
+          description: 'アクセストークン期限切れ'
+    post:
+      summary: '求人企業新規追加'
+      requestBody:
+        description: '新規追加求人企業情報'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postNewRecruitCompanyRequest"
+        required: true
+      responses:
+        '204':
+          description: '新規追加成功'
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+
+  /recruit-company/{recruitCompanyId}:
+    get:
+      summary: '求人企業詳細取得'
+      parameters:
+        - name: recruitCompanyId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人企業ID'
+          example: '1234567890'
+      responses:
+        '200':
+          description: '求人企業詳細'
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/getRecruitCompanyDetailRequest"
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない企業'
+    put:
+      summary: '求人企業情報更新'
+      parameters:
+        - name: recruitCompanyId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人企業ID'
+          example: '1234567890'
+      requestBody:
+        description: '更新求人企業情報'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putRecruitCompanyRequest"
+        required: true
+      responses:
+        '200':
+          description: '更新成功'
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/putRecruitCompanyResponse"
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+        '404':
+          description: '存在しない企業'
+    delete:
+      summary: '求人企業削除'
+      parameters:
+        - name: recruitCompanyId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人企業ID'
+          example: '1234567890'
+      responses:
+        '204':
+          description: '削除成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+        '404':
+          description: '存在しない企業'
+
+  /company-type:
+    get:
+      summary: '企業種別リスト取得'
+      responses:
+        '200':
+          description: '企業種別リスト'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  companyTypes:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/oneCompanyType'
+                    description: '企業種別リスト'
+                required:
+                  - companyTypes
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /wanted-ads:
+    get:
+      summary: '求人広告リスト取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: '求人広告リスト'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  wantedAds:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/getRecruitCompanyWantedAdsListResponse'
+                    description: '求人広告リスト'
+                  total:
+                    type: number
+                    description: '総求人広告数'
+                    example: 100
+                required:
+                  - wantedAds
+                  - total
+        '401':
+          description: 'アクセストークン期限切れ'
+    post:
+      summary: '求人広告新規作成'
+      requestBody:
+        description: '求人広告新規作成'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postNewRecruitCompanyWantedAdsRequest"
+        required: true
+      responses:
+        '204':
+          description: '新規追加成功'
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+
+
+  /wanted-ads/{wantedAdsId}:
+    get:
+      summary: '求人広告詳細取得'
+      parameters:
+        - name: wantedAdsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人広告ID'
+          example: '1234567890'
+      responses:
+        '200':
+          description: '求人広告詳細'
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/getRecruitCompanyWantedAdsDetailResponse"
+        '401':
+          description: 'アクセストークン期限切れ'
+    put:
+      summary: '求人広告更新'
+      parameters:
+        - name: wantedAdsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人広告ID'
+          example: '1234567890'
+      requestBody:
+        description: '求人広告更新'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putRecruitCompanyWantedAds"
+        required: true
+      responses:
+        '204':
+          description: '求人広告更新成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない求人広告'
+    delete:
+      summary: '求人広告削除'
+      parameters:
+        - name: wantedAdsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人広告ID'
+          example: '1234567890'
+      responses:
+        '204':
+          description: '求人広告削除成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない求人広告'
+
+  /official-news:
+    get:
+      summary: '公式ニュースリスト取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: '公式ニュースリスト'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  news:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/oneOfficialNewsSummary'
+                    description: '公式ニュースリスト'
+                  total:
+                    type: number
+                    description: '総公式ニュース数'
+                    example: 100
+                required:
+                  - news
+                  - total
+        '401':
+          description: 'アクセストークン期限切れ'
+    post:
+      summary: '公式ニュース新規作成'
+      requestBody:
+        description: '公式ニュース新規作成'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postNewOfficialNewsResponse"
+        required: true
+      responses:
+        '204':
+          description: '新規追加成功'
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+
+
+  /official-news/{officialNewsId}:
+    get:
+      summary: '公式ニュース詳細取得'
+      parameters:
+        - name: officialNewsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '公式ニュースID'
+          example: '1234567890'
+      responses:
+        '200':
+          description: '公式ニュース詳細'
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/getOfficialNewsDetailResponse"
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない'
+    put:
+      summary: '公式ニュース更新'
+      parameters:
+        - name: officialNewsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '公式ニュースID'
+          example: '1234567890'
+      requestBody:
+        description: '公式ニュース更新'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putUpdateOfficialNewsRequest"
+        required: true
+      responses:
+        '204':
+          description: '公式ニュース更新成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない'
+    delete:
+      summary: '公式ニュース削除'
+      parameters:
+        - name: officialNewsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '公式ニュースID'
+          example: '1234567890'
+      responses:
+        '204':
+          description: '公式ニュース削除成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない'
+
+  /recruit-company/user/{recruitCompanyId}:
+    get:
+      summary: '求人企業ユーザーリスト取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+        - name: recruitCompanyId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人企業ID'
+          example: '1'
+      responses:
+        '200':
+          description: '求人企業ユーザーリスト'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  users:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/oneRecruitCompanyUser'
+                    description: '企業ユーザーリスト'
+                  total:
+                    type: number
+                    description: '企業ユーザー総数'
+                    example: 50
+                required:
+                  - users
+                  - total
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+        '404':
+          description: '企業が存在しない'
+    post:
+      summary: '求人企業ユーザー追加'
+      requestBody:
+        description: '追加求人企業ユーザー'
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/postRecruitCompanyUserRequest'
+        required: true
+      responses:
+        '204':
+          description: 'ユーザー追加成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+        '404':
+          description: 'ユーザーか企業が存在しない'
+    delete:
+      summary: '求人企業ユーザー削除'
+      requestBody:
+        description: '削除求人企業ユーザー'
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/deleteRecruitCompanyUserRequest'
+        required: true
+      responses:
+        '204':
+          description: 'ユーザー削除成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+        '404':
+          description: 'ユーザーか企業が存在しない'
+
+  /recruit-company/{recruitCompanyId}/receive-apply-job-user:
+    get:
+      summary: '求人企業求人応募受取ユーザー取得'
+      parameters:
+        - name: recruitCompanyId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人企業ID'
+          example: '1'
+      responses:
+        '200':
+          description: '求人企業求人応募受取ユーザー'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/oneRecruitCompanyUser'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+        '404':
+          description: '担当者が登録されていない'
+    put:
+      summary: '求人企業求人応募受取ユーザー変更'
+      parameters:
+        - name: recruitCompanyId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人企業ID'
+          example: '1'
+      requestBody:
+        description: '変更先ユーザー'
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/putRecruitCompanyReceiveApplyJobUser'
+        required: true
+      responses:
+        '204':
+          description: 'ユーザー変更成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+        '404':
+          description: 'ユーザーか企業が存在しない'
+
+  /rc/user/me/message-room:
+    get:
+      summary: 'メッセージルーム情報取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+        - in: query
+          name: includeCloseRoom
+          required: false
+          schema:
+            type: number
+          description: '1で非表示のルームも含める。デフォルトは含めない'
+        - in: query
+          name: newPostOnly
+          required: false
+          schema:
+            type: number
+          description: '1での未読ポストがあるもののみ取得。デフォルトは無効'
+      responses:
+        '200':
+          description: 'メッセージルール情報のリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getMessageRoomList'
+        '401':
+          description: 'アクセストークン期限切れ'
+
+  /rc/user/me/message-room/{messageRoomId}:
+    get:
+      summary: 'メッセージルーム情報を取得する'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'sbUrXP0zI6x4_bwXYMVPOEuW7O7pO5VDGcLePoPp0tY'
+      responses:
+        '200':
+          description: 'メッセージルーム情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/oneMessageRoom'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分は参加していなメッセージルームが指定された'
+        '404':
+          description: '存在しないメッセージルーム'
+    delete:
+      summary: 'メッセージルームを非表示にする'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'sbUrXP0zI6x4_bwXYMVPOEuW7O7pO5VDGcLePoPp0tY'
+      responses:
+        '204':
+          description: '非表示化成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分は参加していなメッセージルームが指定された'
+        '404':
+          description: '存在しないメッセージルーム'
+
+  /rc/user/me/message-room/{messageRoomId}/post:
+    get:
+      summary: 'メッセージルームポスト取得'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'ck69Il_FWmJnUvWCyL5Ck8eC7mTU8bCqRoAyt3cRXvc'
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: 'メッセージルームポストリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getMessageRoomPostList'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分は参加していなメッセージルームが指定された'
+        '404':
+          description: 'メッセージルームが存在しない'
+    post:
+      summary: 'メッセージルームにポストを送信する'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'ck69Il_FWmJnUvWCyL5Ck8eC7mTU8bCqRoAyt3cRXvc'
+      requestBody:
+        description: 'ポスト内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postMessageRoomPostRequest"
+        required: true
+      responses:
+        '204':
+          description: 'ポスト送信完了'
+        '400':
+          description: '内容に不備がある'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/postMessageRoomPostFailResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分が所属していないメッセージルームが指定された'
+        '404':
+          description: '存在しない求人広告'
+
+  /rc/apply-for-job/message-room/readonly:
+    get:
+      summary: 'メッセージルーム情報取得(readonly)'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+        - in: query
+          name: includeCloseRoom
+          required: false
+          schema:
+            type: number
+          description: '1で非表示のルームも含める。デフォルトは含めない'
+        - in: query
+          name: newPostOnly
+          required: false
+          schema:
+            type: number
+          description: '1での未読ポストがあるもののみ取得。デフォルトは無効'
+      responses:
+        '200':
+          description: 'メッセージルール情報のリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getMessageRoomList'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+
+  /rc/apply-for-job/message-room/{messageRoomId}/readonly:
+    get:
+      summary: 'メッセージルーム情報を取得する(readonly)'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'sbUrXP0zI6x4_bwXYMVPOEuW7O7pO5VDGcLePoPp0tY'
+      responses:
+        '200':
+          description: 'メッセージルーム情報'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/oneMessageRoom'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+        '404':
+          description: '存在しないメッセージルーム'
+
+  /rc/apply-for-job/message-room/{messageRoomId}/post/readonly:
+    get:
+      summary: 'メッセージルームポスト取得(readonly)'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'ck69Il_FWmJnUvWCyL5Ck8eC7mTU8bCqRoAyt3cRXvc'
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: 'メッセージルームポストリスト'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getMessageRoomPostList'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+        '404':
+          description: 'メッセージルームが存在しない'
+
+  /rc/user/me/message-room/{messageRoomId}/status:
+    put:
+      summary: 'メッセージルームの求人ステータスを変更する'
+      parameters:
+        - in: path
+          name: messageRoomId
+          required: true
+          schema:
+            type: string
+          description: 'メッセージルームID'
+          example: 'ck69Il_FWmJnUvWCyL5Ck8eC7mTU8bCqRoAyt3cRXvc'
+      requestBody:
+        description: 'ポスト内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putMessageRoomApplyJobStatusRequest"
+        required: true
+      responses:
+        '204':
+          description: '変更完了'
+        '400':
+          description: '内容に不備がある'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/postMessageRoomPostFailResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '自分が所属していないメッセージルームが指定された'
+        '404':
+          description: '存在しない求人広告'
+
+  /rc/offer:
+    post:
+      summary: 'ユーザーにオファーを出す'
+      requestBody:
+        description: 'オファー内容'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putOfferFromRecruitCompanyRequest"
+        required: true
+      responses:
+        '204':
+          description: 'オファー完了'
+        '400':
+          description: '内容に不備がある'
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/commonSimpleErrorResponse'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しないユーザー'
+
+  /rc/my-recruit-company:
+    get:
+      summary: '自求人企業詳細取得'
+      responses:
+        '200':
+          description: '自求人企業詳細'
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/getRecruitCompanyDetailRequest"
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない企業'
+    put:
+      summary: '自求人企業情報更新'
+      requestBody:
+        description: '自更新求人企業情報'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putRecruitCompanyRequest"
+        required: true
+      responses:
+        '200':
+          description: '更新成功'
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/putRecruitCompanyResponse"
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+        '404':
+          description: '存在しない企業'
+
+  /rc/my-recruit-company/wanted-ads:
+    get:
+      summary: '自社求人広告リスト取得'
+      parameters:
+        - in: query
+          name: sort
+          required: false
+          schema:
+            type: string
+          description: 'ソート順指定'
+          example: '-id'
+        - in: query
+          name: limit
+          required: false
+          schema:
+            type: number
+          description: '取得上限指定'
+          example: 50
+        - in: query
+          name: offset
+          required: false
+          schema:
+            type: number
+          description: 'オフセット指定'
+          example: 0
+      responses:
+        '200':
+          description: '自社求人広告リスト'
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  wantedAds:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/getRecruitCompanyWantedAdsListResponse'
+                    description: '自社求人広告リスト'
+                  total:
+                    type: number
+                    description: '総自社求人広告数'
+                    example: 100
+                required:
+                  - wantedAds
+                  - total
+        '401':
+          description: 'アクセストークン期限切れ'
+    post:
+      summary: '自社求人広告新規作成'
+      requestBody:
+        description: '自社求人広告新規作成'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postNewMyRecruitCompanyWantedAdsRequest"
+        required: true
+      responses:
+        '204':
+          description: '新規追加成功'
+        '400':
+          description: 'リクエストデータがおかしい'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '403':
+          description: '権限がない'
+
+
+  /rc/my-recruit-company/wanted-ads/{wantedAdsId}:
+    get:
+      summary: '自社求人広告詳細取得'
+      parameters:
+        - name: wantedAdsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人広告ID'
+          example: '1234567890'
+      responses:
+        '200':
+          description: '自社求人広告詳細'
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/getRecruitCompanyWantedAdsDetailResponse"
+        '401':
+          description: 'アクセストークン期限切れ'
+    put:
+      summary: '自社求人広告更新'
+      parameters:
+        - name: wantedAdsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人広告ID'
+          example: '1234567890'
+      requestBody:
+        description: '自社求人広告更新'
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/putMyRecruitCompanyWantedAdsRequest"
+        required: true
+      responses:
+        '204':
+          description: '求人広告更新成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない求人広告'
+    delete:
+      summary: '自社求人広告削除'
+      parameters:
+        - name: wantedAdsId
+          in: path
+          required: true
+          schema: { type: string }
+          description: '求人広告ID'
+          example: '1234567890'
+      responses:
+        '204':
+          description: '求人広告削除成功'
+        '401':
+          description: 'アクセストークン期限切れ'
+        '404':
+          description: '存在しない求人広告'
+
+components:
+  schemas:
+
+    putMyRecruitCompanyWantedAdsRequest:
+      type: object
+      properties:
+        title:
+          type: string
+          description: '求人広告タイトル'
+        position:
+          type: string
+          description: '募集職種'
+        workLocation:
+          type: string
+          description: '勤務地'
+        employmentStatus:
+          type: string
+          description: '雇用形態'
+        numberOfPeople:
+          type: string
+          description: '募集人数'
+        details:
+          type: string
+          description: '仕事内容の詳細'
+        requirements:
+          type: string
+          description: '応募条件'
+        salaryAndBenefits:
+          type: string
+          description: '給与・待遇'
+        officeHour:
+          type: string
+          description: '勤務時間'
+        dayOff:
+          type: string
+          description: '休日・休暇'
+        welfareProgram:
+          type: string
+          description: '福利厚生'
+        howToApply:
+          type: string
+          description: '応募方法'
+        applicationDocuments:
+          type: string
+          description: '応募書類'
+        applicationDeadline:
+          type: string
+          description: '応募締切日(YYYY-MM-DD)'
+        beginAt:
+          type: string
+          description: '掲載開始年月日(YYYY-MM-DD)'
+        endAt:
+          type: string
+          description: '掲載終了年月日(YYYY-MM-DD)'
+      example:
+        title: '求人広告タイトル'
+        position: '募集職種'
+        workLocation: '勤務地'
+        employmentStatus: '雇用形態'
+        numberOfPeople: '募集人数'
+        details: '仕事内容の詳細'
+        requirements: '応募条件'
+        salaryAndBenefits: '給与・待遇'
+        officeHour: '勤務時間'
+        dayOff: '休日・休暇'
+        welfareProgram: '福利厚生'
+        howToApply: '応募方法'
+        applicationDocuments: '応募書類'
+        applicationDeadline: '2026-01-01'
+        beginAt: '2025-01-01'
+        endAt: '2026-01-01'
+      required:
+        - title
+        - position
+        - workLocation
+        - employmentStatus
+        - numberOfPeople
+        - details
+        - requirements
+        - salaryAndBenefits
+        - officeHour
+        - dayOff
+        - welfareProgram
+        - howToApply
+        - applicationDocuments
+        - applicationDeadline
+        - beginAt
+        - endAt
+
+    postNewMyRecruitCompanyWantedAdsRequest:
+      type: object
+      properties:
+        title:
+          type: string
+          description: '求人広告タイトル'
+        position:
+          type: string
+          description: '募集職種'
+        workLocation:
+          type: string
+          description: '勤務地'
+        employmentStatus:
+          type: string
+          description: '雇用形態'
+        numberOfPeople:
+          type: string
+          description: '募集人数'
+        details:
+          type: string
+          description: '仕事内容の詳細'
+        requirements:
+          type: string
+          description: '応募条件'
+        salaryAndBenefits:
+          type: string
+          description: '給与・待遇'
+        officeHour:
+          type: string
+          description: '勤務時間'
+        dayOff:
+          type: string
+          description: '休日・休暇'
+        welfareProgram:
+          type: string
+          description: '福利厚生'
+        howToApply:
+          type: string
+          description: '応募方法'
+        applicationDocuments:
+          type: string
+          description: '応募書類'
+        applicationDeadline:
+          type: string
+          description: '応募締切日(YYYY-MM-DD)'
+        beginAt:
+          type: string
+          description: '掲載開始年月日(YYYY-MM-DD)'
+        endAt:
+          type: string
+          description: '掲載終了年月日(YYYY-MM-DD)'
+      example:
+        title: '求人広告タイトル'
+        position: '募集職種'
+        workLocation: '勤務地'
+        employmentStatus: '雇用形態'
+        numberOfPeople: '募集人数'
+        details: '仕事内容の詳細'
+        requirements: '応募条件'
+        salaryAndBenefits: '給与・待遇'
+        officeHour: '勤務時間'
+        dayOff: '休日・休暇'
+        welfareProgram: '福利厚生'
+        howToApply: '応募方法'
+        applicationDocuments: '応募書類'
+        applicationDeadline: '2026-01-01'
+        beginAt: '2025-01-01'
+        endAt: '2026-01-01'
+      required:
+        - title
+        - position
+        - workLocation
+        - employmentStatus
+        - numberOfPeople
+        - details
+        - requirements
+        - salaryAndBenefits
+        - officeHour
+        - dayOff
+        - welfareProgram
+        - howToApply
+        - applicationDocuments
+        - applicationDeadline
+        - beginAt
+        - endAt
+
+    commonSimpleErrorResponse:
+      type: object
+      properties:
+        reason:
+          type: string
+      required:
+        - reason
+
+    putOfferFromRecruitCompanyRequest:
+      type: object
+      properties:
+        userId:
+          type: string
+          description: 'オファーしたいユーザーID'
+        postBody:
+          type: string
+          description: 'メッセージ本文'
+      example:
+        userId: '1'
+        postBody: 'メッセージ本文'
+      required:
+        - userId
+        - postBody
+
+    putMessageRoomApplyJobStatusRequest:
+      type: object
+      properties:
+        applyJobStatus:
+          type: string
+          enum:
+            - applyJobFromUser
+            - offerFromRecruitCompany
+            - beforeDocumentScreening
+            - documentScreening
+            - beforeInterview
+            - afterInterview
+            - employment
+            - rejection
+            - cancel
+            - unknown
+          description: "採用ステータス"
+      example:
+        applyJobStatus: "offerFromRecruitCompany"
+      required:
+        - applyJobStatus
+
+    postMessageRoomPostRequest:
+      type: object
+      properties:
+        postBody:
+          type: string
+          description: 'ポスト内容'
+      example:
+        postBody: 'ポストポストポスト'
+      required:
+        - postBody
+
+    postMessageRoomPostFailResponse:
+      type: object
+      properties:
+        reason:
+          type: string
+      required:
+        - reason
+
+    oneMessageRoomPost:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'ID'
+        postUserId:
+          type: string
+          description: 'ポストしたユーザーID'
+        postUserName:
+          type: string
+          description: 'ポストしたユーザーネーム'
+        postUnixTime:
+          type: string
+          description: 'ポストした日時(unix time)'
+        postBody:
+          type: string
+          description: 'ポスト内容'
+      example:
+        id: '1234567890'
+        postUserId: 'SGGkkVVQghYpnzn10D8DH6QI1XgJifPYiV9HZ4kGTMo'
+        postUserName: 'ポストしたユーザーネーム'
+        postUnixTime: '1735657200'
+        postBody: 'ポスト内容'
+      required:
+        - id
+        - postUserId
+        - postUserName
+        - postUnixTime
+        - postBody
+
+    getMessageRoomPostList:
+      type: object
+      properties:
+        posts:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneMessageRoomPost'
+          description: 'メッセージルームポストリスト'
+        total:
+          type: number
+          description: '総ポスト数'
+          example: 100
+      required:
+        - posts
+        - total
+
+    oneMessageRoom:
+      type: object
+      properties:
+        id:
+          type: string
+          description: 'ID'
+        isOwner:
+          type: boolean
+          description: '自分がオーナーのメッセージルームか否か'
+        ownerUserId:
+          type: string
+          description: 'オーナーユーザーID'
+        ownerUserType:
+          type: string
+          enum: ['user', 'recruitCompanyUser']
+          description: 'オーナーユーザー種別'
+        ownerUserName:
+          type: string
+          description: 'オーナーユーザーネーム'
+        ownerRecruitCompanyId:
+          type: string
+          description: 'オーナーユーザーが求人企業の場合、求人企業ID'
+        ownerRecruitCompanyName:
+          type: string
+          description: 'オーナーユーザーが求人企業の場合、求人企業名'
+        invitedUserId:
+          type: string
+          description: '招待ユーザーID'
+        invitedUserType:
+          type: string
+          enum: ['user', 'recruitCompanyUser']
+          description: '招待ユーザー種別'
+        invitedUserName:
+          type: string
+          description: '招待ユーザーネーム'
+        invitedRecruitCompanyId:
+          type: string
+          description: '招待ユーザーが求人企業の場合、求人企業ID'
+        invitedRecruitCompanyName:
+          type: string
+          description: '招待ユーザーが求人企業の場合、求人企業名'
+        isClose:
+          type: boolean
+          description: '非表示扱いか否か'
+        isNewPost:
+          type: boolean
+          description: '未読のポストがあるか否か'
+        latestPostUnixTime:
+          type: string
+          description: '最後のポスト投稿日時(unix time)'
+        latestPost:
+          type: object
+          $ref: "#/components/schemas/oneMessageRoomPost"
+          description: '最新のポスト'
+        applyJobStatus:
+          type: string
+          enum:
+            - applyJobFromUser
+            - offerFromRecruitCompany
+            - beforeDocumentScreening
+            - documentScreening
+            - beforeInterview
+            - afterInterview
+            - employment
+            - rejection
+            - cancel
+            - unknown
+          description: "採用ステータス"
+      example:
+        id: 'BVS2lSDjg2Vemf8AjYTTwZ0KaZgt-j5nm3s3-GikgNU'
+        isOwner: true
+        ownerUserId: 'RtG1wMd4XP8ewg9lPHPhythpjqX43uAfhU28XAwgc_Y'
+        ownerUserType: 'user'
+        ownerUserName: 'オーナーユーザーネーム'
+        invitedUserId: '9dSa8mcLq3Bvwh3itra4rnT-CjyWzclErnhZxDWM8K4'
+        invitedUserType: 'recruitCompanyUser'
+        invitedUserName: '招待ユーザーネーム'
+        invitedRecruitCompanyId: 'Niccuq6IpUpNlWtZ-IaTEdcybJL1TJ_IlvxraXRtCEk'
+        invitedRecruitCompanyName: '株式会社◯◯'
+        isClose: false
+        isNewPost: true
+        latestPostUnixTime: '1735657200'
+        latestPost:
+          id: '1234567890'
+          postUserId: 'SGGkkVVQghYpnzn10D8DH6QI1XgJifPYiV9HZ4kGTMo'
+          postUserName: 'ポストしたユーザーネーム'
+          postUnixTime: '1735657200'
+          postBody: 'ポスト内容'
+        applyJobStatus: "offerFromRecruitCompany"
+      required:
+        - id
+        - isOwner
+        - ownerUserId
+        - ownerUserType
+        - ownerUserName
+        - invitedUserId
+        - invitedUserType
+        - invitedUserName
+        - isClose
+        - isNewPost
+        - latestPostUnixTime
+        - applyJobStatus
+
+    getMessageRoomList:
+      type: object
+      properties:
+        messageRooms:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneMessageRoom'
+          description: 'メッセージルームリスト'
+        total:
+          type: number
+          description: '総メッセージルームリスト数'
+          example: 100
+      required:
+        - messageRooms
+        - total
+
+    putRecruitCompanyReceiveApplyJobUser:
+      type: object
+      properties:
+        userId:
+          type: string
+          description: 'ユーザーID'
+      example:
+        userId: '1'
+      required:
+        - userId
+
+    oneRecruitCompanyUser:
+      type: object
+      properties:
+        userId:
+          type: string
+          description: 'ユーザーID'
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+        isReceverApplyJobFromUser:
+          type: boolean
+          description: '求人応募受取ユーザーか否か'
+      example:
+        userId: '1'
+        mailAddress: 'user@example.com'
+        isReceverApplyJobFromUser: true
+      required:
+        - userId
+        - mailAddress
+        - isReceverApplyJobFromUser
+
+    postRecruitCompanyUserRequest:
+      type: object
+      properties:
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+      example:
+        mailAddress: 'user@example.com'
+      required:
+        - mailAddress
+
+    deleteRecruitCompanyUserRequest:
+      type: object
+      properties:
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+      example:
+        mailAddress: 'user@example.com'
+      required:
+        - mailAddress
+
+    getHelloResponse:
+      type: object
+      properties:
+        message:
+          type: string
+          description: 'Hello, world!'
+      example:
+        message: 'Hello, world!'
+      required:
+        - message
+
+    getRecruitCompanyListResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '求人企業ID'
+        outgoingId:
+          type: string
+          description: '求人企業ID(外部公開用)'
+        cpcode:
+          type: string
+          description: 'CPコード'
+        name:
+          type: string
+          description: '求人企業名称'
+      example:
+        id: '1234567890'
+        outgoingId: 'wEfevfV0WM-op4GarAYuMEriL3BadgsgMq0KbE8hR3c'
+        cpcode: 'CP0123456789'
+        name: '求人企業名称'
+      required:
+        - id
+        - outgoingId
+        - cpcode
+        - name
+
+    postNewRecruitCompanyRequest:
+      type: object
+      properties:
+        name:
+          type: string
+          description: '求人企業名称'
+        companyTypeId:
+          type: number
+          description: '企業種別ID'
+        beginPeriodAt:
+          type: string
+          description: '契約開始日時(YYYY-MM-DD)'
+        endPeriodAt:
+          type: string
+          description: '契約終了日時(YYYY-MM-DD)'
+      example:
+        name: '求人企業名称'
+        companyTypeId: 1
+        beginPeriodAt: '2025-01-01'
+        endPeriodAt: '2026-01-01'
+      required:
+        - name
+        - companyTypeId
+        - beginPeriodAt
+        - endPeriodAt
+
+    getRecruitCompanyDetailRequest:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '求人企業ID'
+        outgoingId:
+          type: string
+          description: '求人企業ID(外部公開用)'
+        cpcode:
+          type: string
+          description: 'CPコード'
+        name:
+          type: string
+          description: '求人企業名称'
+        companyTypeId:
+          type: number
+          description: '企業種別ID'
+        beginPeriodAt:
+          type: string
+          description: "契約開始日時(YYYY-MM-DD)"
+        endPeriodAt:
+          type: string
+          description: "契約終了日時(YYYY-MM-DD)"
+        displayName:
+          type: string
+          description: '求人企業名称(表示用)'
+        establishmentDate:
+          type: string
+          description: "設立年月日(YYYY-MM-DD)"
+        postalCode:
+          type: string
+          description: '郵便番号'
+        prefectureCode:
+          type: number
+          description: '都道府県コード'
+        address:
+          type: string
+          description: '住所'
+        phoneNumber:
+          type: string
+          description: '電話番号'
+        faxNumber:
+          type: string
+          description: 'FAX番号'
+        officialSiteUrl:
+          type: string
+          description: '公式サイトURL'
+        profile:
+          type: string
+          description: '企業概要'
+        employees:
+          type: string
+          description: '従業員数'
+        netSales:
+          type: string
+          description: '売上高'
+        contactPersonName:
+          type: string
+          description: '担当者名'
+        contactPersonPosition:
+          type: string
+          description: '担当者役職'
+        contactPersonPhoneNumber:
+          type: string
+          description: '担当者電話番号'
+        contactPersionMailAddress:
+          type: string
+          description: '担当者メールアドレス'
+      example:
+        id: '1234567890'
+        outgoingId: 'V6Py5iIfmrxlDKy_c4W05lOtvkjcpBgSuIysWJpJTWY'
+        cpcode: 'CP0123456789'
+        name: '求人企業名称'
+        companyTypeId: 1
+        beginPeriodAt: '2025-01-01'
+        endPeriodAt: '2026-01-01'
+        displayName: '求人企業名称(表示用)'
+        establishmentDate: '1900-01-01'
+        postalCode: '123-4567'
+        prefectureCode: 13
+        address: '求人企業住所'
+        phoneNumber: '0123-456-7890'
+        faxNumber: '0123-456-7890'
+        officialSiteUrl: 'https://www.example.com/'
+        profile: '求人企業概要'
+        employees: '従業員数 100名'
+        netSales: '売上高'
+        contactPersonName: '採用担当者名'
+        contactPersonPosition: '採用担当者役職'
+        contactPersonPhoneNumber: '0123-456-7890'
+        contactPersionMailAddress: 'saiyou@example.com'
+      required:
+        - id
+        - outgoingId
+        - cpcode
+        - name
+        - companyTypeId
+        - beginPeriodAt
+        - endPeriodAt
+        - displayName
+        - establishmentDate
+        - postalCode
+        - prefectureCode
+        - address
+        - phoneNumber
+        - faxNumber
+        - officialSiteUrl
+        - profile
+        - employees
+        - netSales
+        - contactPersonName
+        - contactPersonPosition
+        - contactPersonPhoneNumber
+        - contactPersionMailAddress
+
+    oneCompanyType:
+      type: object
+      properties:
+        id:
+          type: number
+          description: '企業種別ID'
+        name:
+          type: string
+          description: '企業種別'
+      example:
+        id: 1
+        name: '株式会社'
+      required:
+        - id
+        - name
+
+    putRecruitCompanyRequest:
+      type: object
+      properties:
+        name:
+          type: string
+          description: '求人企業名称'
+        companyTypeId:
+          type: number
+          description: '企業種別ID'
+        beginPeriodAt:
+          type: string
+          description: '契約開始年月日(YYYY-MM-DD) ※企業ユーザーは更新不可'
+        endPeriodAt:
+          type: string
+          description: '契約終了年月日(YYYY-MM-DD) ※企業ユーザーは更新不可'
+        displayName:
+          type: string
+          description: '求人企業名称(表示用)'
+        establishmentDate:
+          type: string
+          description: '設立年月日(YYYY-MM-DD)'
+        postalCode:
+          type: string
+          description: '郵便番号'
+        prefectureCode:
+          type: number
+          description: '都道府県コード'
+        address:
+          type: string
+          description: '住所'
+        phoneNumber:
+          type: string
+          description: '電話番号'
+        faxNumber:
+          type: string
+          description: 'FAX番号'
+        officialSiteUrl:
+          type: string
+          description: '公式サイトURL'
+        profile:
+          type: string
+          description: '企業概要'
+        employees:
+          type: string
+          description: '従業員数'
+        netSales:
+          type: string
+          description: '売上高'
+        contactPersonName:
+          type: string
+          description: '担当者名'
+        contactPersonPosition:
+          type: string
+          description: '担当者役職'
+        contactPersonPhoneNumber:
+          type: string
+          description: '担当者電話番号'
+        contactPersionMailAddress:
+          type: string
+          description: '担当者メールアドレス'
+      example:
+        name: '求人企業名称'
+        companyTypeId: 1
+        beginPeriodAt: '2025-01-01'
+        endPeriodAt: '2026-01-01'
+        displayName: '求人企業名称(表示用)'
+        establishmentDate: '1900-01-01'
+        postalCode: '123-4567'
+        prefectureCode: 13
+        address: '求人企業住所'
+        phoneNumber: '0123-456-7890'
+        faxNumber: '0123-456-7890'
+        officialSiteUrl: 'https://www.example.com/'
+        profile: '求人企業概要'
+        employees: '従業員数 100名'
+        netSales: '売上高'
+        contactPersonName: '採用担当者名'
+        contactPersonPosition: '採用担当者役職'
+        contactPersonPhoneNumber: '0123-456-7890'
+        contactPersionMailAddress: 'saiyou@example.com'
+      required:
+        - name
+        - companyTypeId
+        - beginPeriodAt
+        - endPeriodAt
+        - displayName
+        - establishmentDate
+        - postalCode
+        - prefectureCode
+        - address
+        - phoneNumber
+        - faxNumber
+        - officialSiteUrl
+        - profile
+        - employees
+        - netSales
+        - contactPersonName
+        - contactPersonPosition
+        - contactPersonPhoneNumber
+        - contactPersionMailAddress
+
+    putRecruitCompanyResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '求人企業ID'
+        outgoingId:
+          type: string
+          description: '求人企業ID(外部公開用)'
+        name:
+          type: string
+          description: '求人企業名称'
+        companyTypeId:
+          type: number
+          description: '企業種別ID'
+        beginPeriodAt:
+          type: string
+          description: "契約開始日時(YYYY-MM-DD)"
+        endPeriodAt:
+          type: string
+          description: "契約終了日時(YYYY-MM-DD)"
+        displayName:
+          type: string
+          description: '求人企業名称(表示用)'
+        establishmentDate:
+          type: string
+          description: "設立年月日(YYYY-MM-DD)"
+        postalCode:
+          type: string
+          description: '郵便番号'
+        prefectureCode:
+          type: number
+          description: '都道府県コード'
+        address:
+          type: string
+          description: '住所'
+        phoneNumber:
+          type: string
+          description: '電話番号'
+        faxNumber:
+          type: string
+          description: 'FAX番号'
+        officialSiteUrl:
+          type: string
+          description: '公式サイトURL'
+        profile:
+          type: string
+          description: '企業概要'
+        employees:
+          type: string
+          description: '従業員数'
+        netSales:
+          type: string
+          description: '売上高'
+        contactPersonName:
+          type: string
+          description: '担当者名'
+        contactPersonPosition:
+          type: string
+          description: '担当者役職'
+        contactPersonPhoneNumber:
+          type: string
+          description: '担当者電話番号'
+        contactPersionMailAddress:
+          type: string
+          description: '担当者メールアドレス'
+      example:
+        id: '1234567890'
+        outgoingId: 'V6Py5iIfmrxlDKy_c4W05lOtvkjcpBgSuIysWJpJTWY'
+        name: '求人企業名称'
+        companyTypeId: 1
+        beginPeriodAt: '2025-01-01'
+        endPeriodAt: '2026-01-01'
+        displayName: '求人企業名称(表示用)'
+        establishmentDate: '1900-01-01'
+        postalCode: '123-4567'
+        prefectureCode: 13
+        address: '求人企業住所'
+        phoneNumber: '0123-456-7890'
+        faxNumber: '0123-456-7890'
+        officialSiteUrl: 'https://www.example.com/'
+        profile: '求人企業概要'
+        employees: '従業員数 100名'
+        netSales: '売上高'
+        contactPersonName: '採用担当者名'
+        contactPersonPosition: '採用担当者役職'
+        contactPersonPhoneNumber: '0123-456-7890'
+        contactPersionMailAddress: 'saiyou@example.com'
+      required:
+        - id
+        - outgoingId
+        - name
+        - companyTypeId
+        - beginPeriodAt
+        - endPeriodAt
+        - displayName
+        - establishmentDate
+        - postalCode
+        - prefectureCode
+        - address
+        - phoneNumber
+        - faxNumber
+        - officialSiteUrl
+        - profile
+        - employees
+        - netSales
+        - contactPersonName
+        - contactPersonPosition
+        - contactPersonPhoneNumber
+        - contactPersionMailAddress
+
+    getRecruitCompanyWantedAdsListResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '求人広告ID'
+        outgoingId:
+          type: string
+          description: '求人広告ID(外部公開用)'
+        companyId:
+          type: string
+          description: '求人企業ID'
+        companyName:
+          type: string
+          description: '求人企業名称'
+        title:
+          type: string
+          description: '求人広告タイトル'
+      example:
+        id: '1234567890'
+        outgoingId: '2oJ4kBKFx-iQhrwnIiC9mrGAMlypsjlNrfMRGhjso20'
+        companyId: '1234567890'
+        companyName: '求人企業名称'
+        title: '求人広告タイトル'
+      required:
+        - id
+        - outgoingId
+        - companyId
+        - companyName
+        - title
+
+    getRecruitCompanyWantedAdsDetailResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '求人広告ID'
+        outgoingId:
+          type: string
+          description: '求人広告ID(外部公開用)'
+        companyId:
+          type: string
+          description: '求人企業ID'
+        companyName:
+          type: string
+          description: '求人企業名称'
+        title:
+          type: string
+          description: '求人広告タイトル'
+        position:
+          type: string
+          description: '募集職種'
+        workLocation:
+          type: string
+          description: '勤務地'
+        employmentStatus:
+          type: string
+          description: '雇用形態'
+        numberOfPeople:
+          type: string
+          description: '募集人数'
+        details:
+          type: string
+          description: '仕事内容の詳細'
+        requirements:
+          type: string
+          description: '応募条件'
+        salaryAndBenefits:
+          type: string
+          description: '給与・待遇'
+        officeHour:
+          type: string
+          description: '勤務時間'
+        dayOff:
+          type: string
+          description: '休日・休暇'
+        welfareProgram:
+          type: string
+          description: '福利厚生'
+        howToApply:
+          type: string
+          description: '応募方法'
+        applicationDocuments:
+          type: string
+          description: '応募書類'
+        applicationDeadline:
+          type: string
+          description: '応募締切日(YYYY-MM-DD)'
+        beginAt:
+          type: string
+          description: '掲載開始年月日(YYYY-MM-DD)'
+        endAt:
+          type: string
+          description: '掲載終了年月日(YYYY-MM-DD)'
+      example:
+        id: '1234567890'
+        outgoingId: '2oJ4kBKFx-iQhrwnIiC9mrGAMlypsjlNrfMRGhjso20'
+        companyId: '1234567890'
+        companyName: '求人企業名称'
+        title: '求人広告タイトル'
+        position: '募集職種'
+        workLocation: '勤務地'
+        employmentStatus: '雇用形態'
+        numberOfPeople: '募集人数'
+        details: '仕事内容の詳細'
+        requirements: '応募条件'
+        salaryAndBenefits: '給与・待遇'
+        officeHour: '勤務時間'
+        dayOff: '休日・休暇'
+        welfareProgram: '福利厚生'
+        howToApply: '応募方法'
+        applicationDocuments: '応募書類'
+        applicationDeadline: '2026-01-01'
+        beginAt: '2025-01-01'
+        endAt: '2026-01-01'
+      required:
+        - id
+        - outgoingId
+        - companyId
+        - companyName
+        - title
+        - position
+        - workLocation
+        - employmentStatus
+        - numberOfPeople
+        - details
+        - requirements
+        - salaryAndBenefits
+        - officeHour
+        - dayOff
+        - welfareProgram
+        - howToApply
+        - applicationDocuments
+        - applicationDeadline
+        - beginAt
+        - endAt
+
+    postNewRecruitCompanyWantedAdsRequest:
+      type: object
+      properties:
+        companyId:
+          type: string
+          description: '求人企業ID'
+        title:
+          type: string
+          description: '求人広告タイトル'
+        position:
+          type: string
+          description: '募集職種'
+        workLocation:
+          type: string
+          description: '勤務地'
+        employmentStatus:
+          type: string
+          description: '雇用形態'
+        numberOfPeople:
+          type: string
+          description: '募集人数'
+        details:
+          type: string
+          description: '仕事内容の詳細'
+        requirements:
+          type: string
+          description: '応募条件'
+        salaryAndBenefits:
+          type: string
+          description: '給与・待遇'
+        officeHour:
+          type: string
+          description: '勤務時間'
+        dayOff:
+          type: string
+          description: '休日・休暇'
+        welfareProgram:
+          type: string
+          description: '福利厚生'
+        howToApply:
+          type: string
+          description: '応募方法'
+        applicationDocuments:
+          type: string
+          description: '応募書類'
+        applicationDeadline:
+          type: string
+          description: '応募締切日(YYYY-MM-DD)'
+        beginAt:
+          type: string
+          description: '掲載開始年月日(YYYY-MM-DD)'
+        endAt:
+          type: string
+          description: '掲載終了年月日(YYYY-MM-DD)'
+      example:
+        companyId: '1234567890'
+        title: '求人広告タイトル'
+        position: '募集職種'
+        workLocation: '勤務地'
+        employmentStatus: '雇用形態'
+        numberOfPeople: '募集人数'
+        details: '仕事内容の詳細'
+        requirements: '応募条件'
+        salaryAndBenefits: '給与・待遇'
+        officeHour: '勤務時間'
+        dayOff: '休日・休暇'
+        welfareProgram: '福利厚生'
+        howToApply: '応募方法'
+        applicationDocuments: '応募書類'
+        applicationDeadline: '2026-01-01'
+        beginAt: '2025-01-01'
+        endAt: '2026-01-01'
+      required:
+        - companyId
+        - title
+        - position
+        - workLocation
+        - employmentStatus
+        - numberOfPeople
+        - details
+        - requirements
+        - salaryAndBenefits
+        - officeHour
+        - dayOff
+        - welfareProgram
+        - howToApply
+        - applicationDocuments
+        - applicationDeadline
+        - beginAt
+        - endAt
+
+    putRecruitCompanyWantedAds:
+      type: object
+      properties:
+        companyId:
+          type: string
+          description: '求人企業ID'
+        title:
+          type: string
+          description: '求人広告タイトル'
+        position:
+          type: string
+          description: '募集職種'
+        workLocation:
+          type: string
+          description: '勤務地'
+        employmentStatus:
+          type: string
+          description: '雇用形態'
+        numberOfPeople:
+          type: string
+          description: '募集人数'
+        details:
+          type: string
+          description: '仕事内容の詳細'
+        requirements:
+          type: string
+          description: '応募条件'
+        salaryAndBenefits:
+          type: string
+          description: '給与・待遇'
+        officeHour:
+          type: string
+          description: '勤務時間'
+        dayOff:
+          type: string
+          description: '休日・休暇'
+        welfareProgram:
+          type: string
+          description: '福利厚生'
+        howToApply:
+          type: string
+          description: '応募方法'
+        applicationDocuments:
+          type: string
+          description: '応募書類'
+        applicationDeadline:
+          type: string
+          description: '応募締切日(YYYY-MM-DD)'
+        beginAt:
+          type: string
+          description: '掲載開始年月日(YYYY-MM-DD)'
+        endAt:
+          type: string
+          description: '掲載終了年月日(YYYY-MM-DD)'
+      example:
+        companyId: '1234567890'
+        title: '求人広告タイトル'
+        position: '募集職種'
+        workLocation: '勤務地'
+        employmentStatus: '雇用形態'
+        numberOfPeople: '募集人数'
+        details: '仕事内容の詳細'
+        requirements: '応募条件'
+        salaryAndBenefits: '給与・待遇'
+        officeHour: '勤務時間'
+        dayOff: '休日・休暇'
+        welfareProgram: '福利厚生'
+        howToApply: '応募方法'
+        applicationDocuments: '応募書類'
+        applicationDeadline: '2026-01-01'
+        beginAt: '2025-01-01'
+        endAt: '2026-01-01'
+      required:
+        - companyId
+        - title
+        - position
+        - workLocation
+        - employmentStatus
+        - numberOfPeople
+        - details
+        - requirements
+        - salaryAndBenefits
+        - officeHour
+        - dayOff
+        - welfareProgram
+        - howToApply
+        - applicationDocuments
+        - applicationDeadline
+        - beginAt
+        - endAt
+
+    getOfficialNewsSummaryListResponse:
+      type: object
+      properties:
+        news:
+          type: array
+          items:
+            $ref: '#/components/schemas/oneOfficialNewsSummary'
+        total:
+          type: number
+      required:
+        - news
+        - total
+
+    oneOfficialNewsSummary:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '公式ニュースID'
+        outgoingId:
+          type: string
+          description: '公式ニュースID(外部公開用)'
+        title:
+          type: string
+          description: 'タイトル'
+        priority:
+          type: number
+          description: '優先順位重み付け'
+        beginPeriodAt:
+          type: string
+          description: '掲載開始年月日(YYYY-MM-DD)'
+        endPeriodAt:
+          type: string
+          description: '掲載終了年月日(YYYY-MM-DD)'
+        createdAt:
+          type: string
+          description: '作成日時(YYYY-MM-DD)'
+        updatedAt:
+          type: string
+          description: '最終更新日時(YYYY-MM-DD)'
+      example:
+        id: '1234567890'
+        outgoingId: 'Jh7Swp04rRFFuEQh31EZ4Pqyf-JoGqfpvKubkpHRqsQ'
+        title: 'タイトル'
+        priority: 10
+        beginPeriodAt: '2025-01-01'
+        endPeriodAt: '2026-01-01'
+        createdAt: '2025-01-01'
+        updatedAt: '2025-01-02'
+      required:
+        - id
+        - outgoingId
+        - title
+        - priority
+        - beginPeriodAt
+        - endPeriodAt
+        - createdAt
+        - updatedAt
+
+    getOfficialNewsDetailResponse:
+      type: object
+      properties:
+        id:
+          type: string
+          description: '公式ニュースID'
+        outgoingId:
+          type: string
+          description: '公式ニュースID(外部公開用)'
+        title:
+          type: string
+          description: 'タイトル'
+        detail:
+          type: string
+          description: '本文'
+        priority:
+          type: number
+          description: '優先順位重み付け'
+        beginPeriodAt:
+          type: string
+          description: '掲載開始年月日(YYYY-MM-DD)'
+        endPeriodAt:
+          type: string
+          description: '掲載終了年月日(YYYY-MM-DD)'
+        createdAt:
+          type: string
+          description: '作成年月日(YYYY-MM-DD)'
+        updatedAt:
+          type: string
+          description: '最終更新年月日(YYYY-MM-DD)'
+      example:
+        id: '1234567890'
+        outgoingId: 'Jh7Swp04rRFFuEQh31EZ4Pqyf-JoGqfpvKubkpHRqsQ'
+        title: 'タイトル'
+        detail: '本文'
+        priority: 10
+        beginPeriodAt: '2025-01-01'
+        endPeriodAt: '2026-01-01'
+        createdAt: '2025-01-01'
+        updatedAt: '2025-01-02'
+      required:
+        - id
+        - outgoingId
+        - title
+        - detail
+        - priority
+        - beginPeriodAt
+        - endPeriodAt
+        - createdAt
+        - updatedAt
+
+    postNewOfficialNewsResponse:
+      type: object
+      properties:
+        title:
+          type: string
+          description: 'タイトル'
+        detail:
+          type: string
+          description: '本文'
+        priority:
+          type: number
+          description: '優先順位重み付け'
+        beginPeriodAt:
+          type: string
+          description: '掲載開始年月日(YYYY-MM-DD)'
+        endPeriodAt:
+          type: string
+          description: '掲載終了年月日(YYYY-MM-DD)'
+      example:
+        title: 'タイトル'
+        detail: '本文'
+        priority: 10
+        beginPeriodAt: '2025-01-01'
+        endPeriodAt: '2026-01-01'
+      required:
+        - title
+        - detail
+        - priority
+        - beginPeriodAt
+        - endPeriodAt
+
+    putUpdateOfficialNewsRequest:
+      type: object
+      properties:
+        title:
+          type: string
+          description: 'タイトル'
+        detail:
+          type: string
+          description: '本文'
+        priority:
+          type: number
+          description: '優先順位重み付け'
+        beginPeriodAt:
+          type: string
+          description: '掲載開始年月日(YYYY-MM-DD)'
+        endPeriodAt:
+          type: string
+          description: '掲載終了年月日(YYYY-MM-DD)'
+      example:
+        title: 'タイトル'
+        detail: '本文'
+        priority: 10
+        beginPeriodAt: '2025-01-01'
+        endPeriodAt: '2026-01-01'
+      required:
+        - title
+        - detail
+        - priority
+        - beginPeriodAt
+        - endPeriodAt

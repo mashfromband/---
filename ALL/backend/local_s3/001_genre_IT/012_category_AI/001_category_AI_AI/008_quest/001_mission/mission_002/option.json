@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>読書感想文の書き方に関する本を読んで勉強する</pre>\n",
+			"option_html": "<pre>読書感想文の書き方に関する本を読んで勉強する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>親に読書感想文を書いてもらう</pre>\n",
+			"option_html": "<pre>親に読書感想文を書いてもらう</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>インターネットから読書感想文をコピーする</pre>\n",
+			"option_html": "<pre>インターネットから読書感想文をコピーする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>感想文の構成や内容を提案してくれるツールを使う</pre>\n",
+			"option_html": "<pre>感想文の構成や内容を提案してくれるツールを使う</pre>\n"
+		}
+	]
+}

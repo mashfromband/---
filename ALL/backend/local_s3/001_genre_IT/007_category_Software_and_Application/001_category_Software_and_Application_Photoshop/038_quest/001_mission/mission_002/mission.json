@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アンチエイリアスを有効にする</pre>\n",
+			"option_html": "<pre>アンチエイリアスを有効にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>解像度を上げる</pre>\n",
+			"option_html": "<pre>解像度を上げる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ズームレベルを下げる</pre>\n",
+			"option_html": "<pre>ズームレベルを下げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ピクセル等倍表示に切り替える</pre>\n",
+			"option_html": "<pre>ピクセル等倍表示に切り替える</pre>\n"
+		}
+	]
+}

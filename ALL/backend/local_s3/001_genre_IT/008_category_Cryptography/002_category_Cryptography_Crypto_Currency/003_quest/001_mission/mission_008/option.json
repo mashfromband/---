@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>高性能な計算機や専用ハードウェア</pre>\n",
+			"option_html": "<pre>高性能な計算機や専用ハードウェア</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>銀行口座</pre>\n",
+			"option_html": "<pre>銀行口座</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>中央管理者の許可</pre>\n",
+			"option_html": "<pre>中央管理者の許可</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>インターネット接続とノードの参加</pre>\n",
+			"option_html": "<pre>インターネット接続とノードの参加</pre>\n"
+		}
+	]
+}

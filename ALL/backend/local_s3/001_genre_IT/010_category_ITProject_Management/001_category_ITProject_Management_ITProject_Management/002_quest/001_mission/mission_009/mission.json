@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトの進捗を評価するため</pre>\n",
+			"option_html": "<pre>プロジェクトの進捗を評価するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトの目的や範囲を明確にするため</pre>\n",
+			"option_html": "<pre>プロジェクトの目的や範囲を明確にするため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトの成果物を納品するため</pre>\n",
+			"option_html": "<pre>プロジェクトの成果物を納品するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの品質を最終確認するため</pre>\n",
+			"option_html": "<pre>プロジェクトの品質を最終確認するため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全体の明るさが均等に調整される</pre>\n",
+			"option_html": "<pre>全体の明るさが均等に調整される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>優先的に彩度が下がる</pre>\n",
+			"option_html": "<pre>優先的に彩度が下がる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>優先的に彩度が上がる</pre>\n",
+			"option_html": "<pre>優先的に彩度が上がる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>彩度が完全に無視される</pre>\n",
+			"option_html": "<pre>彩度が完全に無視される</pre>\n"
+		}
+	]
+}

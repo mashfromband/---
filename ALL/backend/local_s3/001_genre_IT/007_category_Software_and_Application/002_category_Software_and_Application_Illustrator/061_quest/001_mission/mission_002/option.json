@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスファインダー</pre>\n",
+			"option_html": "<pre>パスファインダー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グリッド</pre>\n",
+			"option_html": "<pre>グリッド</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ガイド</pre>\n",
+			"option_html": "<pre>ガイド</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アートボードツール</pre>\n",
+			"option_html": "<pre>アートボードツール</pre>\n"
+		}
+	]
+}

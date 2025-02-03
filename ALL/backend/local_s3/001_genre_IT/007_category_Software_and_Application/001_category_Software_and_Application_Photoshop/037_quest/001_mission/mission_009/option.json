@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル形式がPhotoshopでサポートされていない</pre>\n",
+			"option_html": "<pre>ファイル形式がPhotoshopでサポートされていない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル名が長すぎる</pre>\n",
+			"option_html": "<pre>ファイル名が長すぎる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>メモリ不足により一部の画像が開けない</pre>\n",
+			"option_html": "<pre>メモリ不足により一部の画像が開けない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>開こうとしたファイルの保存場所が不明確である</pre>\n",
+			"option_html": "<pre>開こうとしたファイルの保存場所が不明確である</pre>\n"
+		}
+	]
+}

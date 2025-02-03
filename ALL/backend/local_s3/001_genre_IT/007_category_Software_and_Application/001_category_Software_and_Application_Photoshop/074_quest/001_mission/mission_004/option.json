@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>配置ガイド</pre>\n",
+			"option_html": "<pre>配置ガイド</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ぼかしツール</pre>\n",
+			"option_html": "<pre>ぼかしツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスツール</pre>\n",
+			"option_html": "<pre>パスツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ヒストリーパネル</pre>\n",
+			"option_html": "<pre>ヒストリーパネル</pre>\n"
+		}
+	]
+}

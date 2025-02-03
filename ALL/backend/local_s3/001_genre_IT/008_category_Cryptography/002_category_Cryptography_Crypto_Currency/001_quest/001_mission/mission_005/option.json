@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>銀行を通じて取引する</pre>\n",
+			"option_html": "<pre>銀行を通じて取引する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>公開鍵と秘密鍵を使用する</pre>\n",
+			"option_html": "<pre>公開鍵と秘密鍵を使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>中央サーバーで情報を管理する</pre>\n",
+			"option_html": "<pre>中央サーバーで情報を管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>実物の通貨を移動させる</pre>\n",
+			"option_html": "<pre>実物の通貨を移動させる</pre>\n"
+		}
+	]
+}

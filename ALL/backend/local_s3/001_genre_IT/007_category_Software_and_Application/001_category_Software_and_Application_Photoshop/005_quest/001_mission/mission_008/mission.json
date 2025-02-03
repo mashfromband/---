@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>操作を取り消す</pre>\n",
+			"option_html": "<pre>操作を取り消す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>複数の操作を段階的に元に戻す</pre>\n",
+			"option_html": "<pre>複数の操作を段階的に元に戻す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ヒストリーパネルを表示する</pre>\n",
+			"option_html": "<pre>ヒストリーパネルを表示する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲を反転する</pre>\n",
+			"option_html": "<pre>選択範囲を反転する</pre>\n"
+		}
+	]
+}

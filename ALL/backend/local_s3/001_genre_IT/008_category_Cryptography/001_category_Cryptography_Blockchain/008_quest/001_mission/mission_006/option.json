@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>芸術作品の物理的な保護を保証する</pre>\n",
+			"option_html": "<pre>芸術作品の物理的な保護を保証する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>所有権の履歴を改ざんできない形で記録する</pre>\n",
+			"option_html": "<pre>所有権の履歴を改ざんできない形で記録する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>芸術作品の複製を容易に行えるようにする</pre>\n",
+			"option_html": "<pre>芸術作品の複製を容易に行えるようにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>作品の価格を自動的に設定する</pre>\n",
+			"option_html": "<pre>作品の価格を自動的に設定する</pre>\n"
+		}
+	]
+}

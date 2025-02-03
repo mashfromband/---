@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルをドラッグして内容を選択する</pre>\n",
+			"option_html": "<pre>セルをドラッグして内容を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを結合してからコピーする</pre>\n",
+			"option_html": "<pre>セルを結合してからコピーする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「$」記号を使って絶対参照にする</pre>\n",
+			"option_html": "<pre>「$」記号を使って絶対参照にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>書式設定を変更する</pre>\n",
+			"option_html": "<pre>書式設定を変更する</pre>\n"
+		}
+	]
+}

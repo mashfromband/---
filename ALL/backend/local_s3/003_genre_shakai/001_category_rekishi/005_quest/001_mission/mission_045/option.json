@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "乙巳の変\n",
+			"option_html": "<p>乙巳の変</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "乙未の変\n",
+			"option_html": "<p>乙未の変</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "辛未の変\n",
+			"option_html": "<p>辛未の変</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "辛巳の変\n",
+			"option_html": "<p>辛巳の変</p>\n"
+		}
+	]
+}

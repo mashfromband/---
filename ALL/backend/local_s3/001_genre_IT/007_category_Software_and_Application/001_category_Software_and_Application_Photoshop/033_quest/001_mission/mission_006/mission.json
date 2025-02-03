@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ファイル」メニューの「最近のファイル」から選択する</pre>\n",
+			"option_html": "<pre>「ファイル」メニューの「最近のファイル」から選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ウィンドウ」メニューの「ワークスペース」から切り替える</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「ワークスペース」から切り替える</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>キーボードショートカットで切り替える</pre>\n",
+			"option_html": "<pre>キーボードショートカットで切り替える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ワークスペースの切り替えはできない</pre>\n",
+			"option_html": "<pre>ワークスペースの切り替えはできない</pre>\n"
+		}
+	]
+}

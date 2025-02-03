@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "飢餓解消\n",
+			"option_html": "<p>飢餓解消</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "平和\n",
+			"option_html": "<p>平和</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "経済\n",
+			"option_html": "<p>経済</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "政治\n",
+			"option_html": "<p>政治</p>\n"
+		}
+	]
+}

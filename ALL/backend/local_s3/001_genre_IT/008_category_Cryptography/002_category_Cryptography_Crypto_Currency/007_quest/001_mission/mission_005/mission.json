@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>手数料は購入者が自由に決めることができる</pre>\n",
+			"option_html": "<pre>手数料は購入者が自由に決めることができる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>購入時の仮想通貨の価格に対して一定の割合で発生する</pre>\n",
+			"option_html": "<pre>購入時の仮想通貨の価格に対して一定の割合で発生する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>購入金額に関係なく一律固定額で発生する</pre>\n",
+			"option_html": "<pre>購入金額に関係なく一律固定額で発生する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引所が負担するため購入者には発生しない</pre>\n",
+			"option_html": "<pre>取引所が負担するため購入者には発生しない</pre>\n"
+		}
+	]
+}

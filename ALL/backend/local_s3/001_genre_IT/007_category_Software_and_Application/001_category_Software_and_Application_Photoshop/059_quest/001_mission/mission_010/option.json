@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>バイキュービック法を選択する</pre>\n",
+			"option_html": "<pre>バイキュービック法を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを統合する</pre>\n",
+			"option_html": "<pre>レイヤーを統合する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートオブジェクトに変換する</pre>\n",
+			"option_html": "<pre>スマートオブジェクトに変換する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ヒストリーパネルを使用する</pre>\n",
+			"option_html": "<pre>ヒストリーパネルを使用する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツールで一部のテキストを選択し色を変更する</pre>\n",
+			"option_html": "<pre>文字ツールで一部のテキストを選択し色を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字パネルで部分的に色を変更する</pre>\n",
+			"option_html": "<pre>文字パネルで部分的に色を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スウォッチパネルで部分的に色を変更する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで部分的に色を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルで部分的に色を変更する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで部分的に色を変更する</pre>\n"
+		}
+	]
+}

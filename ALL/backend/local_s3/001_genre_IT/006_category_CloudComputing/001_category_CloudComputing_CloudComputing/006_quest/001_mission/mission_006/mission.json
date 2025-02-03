@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>物理サーバーを固定的に運用するため</pre>\n",
+			"option_html": "<pre>物理サーバーを固定的に運用するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想マシンを迅速に作成・削除してリソースを柔軟に調整できるため</pre>\n",
+			"option_html": "<pre>仮想マシンを迅速に作成・削除してリソースを柔軟に調整できるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サーバーのリソースが一箇所に集約されるため</pre>\n",
+			"option_html": "<pre>サーバーのリソースが一箇所に集約されるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>物理サーバーごとに異なるOSをインストールする必要があるため</pre>\n",
+			"option_html": "<pre>物理サーバーごとに異なるOSをインストールする必要があるため</pre>\n"
+		}
+	]
+}

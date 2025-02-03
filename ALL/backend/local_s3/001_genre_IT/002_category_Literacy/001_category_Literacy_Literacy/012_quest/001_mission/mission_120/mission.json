@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ストラテジ系",
+		"経営戦略",
+		"リモートワーク"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "自宅のWi-Fiはパスワードがあるため、他のセキュリティ対策は不要\n",
+			"option_html": "<p>自宅のWi-Fiはパスワードがあるため、他のセキュリティ対策は不要</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "すべての社員が同じパスワードを使うことで管理を簡素化する\n",
+			"option_html": "<p>すべての社員が同じパスワードを使うことで管理を簡素化する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "公共のWi-Fiを使う際はVPNを利用して安全に接続する\n",
+			"option_html": "<p>公共のWi-Fiを使う際はVPNを利用して安全に接続する</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "社員が個人のUSBメモリを使ってファイルを持ち運ぶことを推奨する\n",
+			"option_html": "<p>社員が個人のUSBメモリを使ってファイルを持ち運ぶことを推奨する</p>\n"
+		}
+	]
+}

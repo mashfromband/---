@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Apple Developer Program</pre>\n",
+			"option_html": "<pre>Apple Developer Program</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Google Play Developer Program</pre>\n",
+			"option_html": "<pre>Google Play Developer Program</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Microsoft Developer Program</pre>\n",
+			"option_html": "<pre>Microsoft Developer Program</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Android Developer Program</pre>\n",
+			"option_html": "<pre>Android Developer Program</pre>\n"
+		}
+	]
+}

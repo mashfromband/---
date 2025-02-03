@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>専有型リソースを利用するモデル</pre>\n",
+			"option_html": "<pre>専有型リソースを利用するモデル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>特定の企業のみが利用できるリソースを提供するモデル</pre>\n",
+			"option_html": "<pre>特定の企業のみが利用できるリソースを提供するモデル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>リソースを購入してオンプレミス環境で管理するモデル</pre>\n",
+			"option_html": "<pre>リソースを購入してオンプレミス環境で管理するモデル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>インターネットを通じて多くのユーザーがリソースを共有するモデル</pre>\n",
+			"option_html": "<pre>インターネットを通じて多くのユーザーがリソースを共有するモデル</pre>\n"
+		}
+	]
+}

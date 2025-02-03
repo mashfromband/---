@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スナップ機能</pre>\n",
+			"option_html": "<pre>スナップ機能</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自動配置機能</pre>\n",
+			"option_html": "<pre>自動配置機能</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>手動で位置を調整する</pre>\n",
+			"option_html": "<pre>手動で位置を調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>目測で配置する</pre>\n",
+			"option_html": "<pre>目測で配置する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>描画モードが適切か確認する</pre>\n",
+			"option_html": "<pre>描画モードが適切か確認する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスのレイヤーが選択されているか確認する</pre>\n",
+			"option_html": "<pre>パスのレイヤーが選択されているか確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーがロックされていないか確認する</pre>\n",
+			"option_html": "<pre>レイヤーがロックされていないか確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スナップが有効になっているか確認する</pre>\n",
+			"option_html": "<pre>スナップが有効になっているか確認する</pre>\n"
+		}
+	]
+}

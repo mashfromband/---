@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Chatbase</pre>\n",
+			"option_html": "<pre>Chatbase</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Creative Drive</pre>\n",
+			"option_html": "<pre>Creative Drive</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Tome</pre>\n",
+			"option_html": "<pre>Tome</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Numerous.ai</pre>\n",
+			"option_html": "<pre>Numerous.ai</pre>\n"
+		}
+	]
+}

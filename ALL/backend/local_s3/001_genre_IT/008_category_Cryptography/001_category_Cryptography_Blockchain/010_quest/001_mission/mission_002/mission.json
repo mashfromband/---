@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>リアルタイムのデータ共有に基づいてエネルギー配分を調整する</pre>\n",
+			"option_html": "<pre>リアルタイムのデータ共有に基づいてエネルギー配分を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>エネルギー消費を中央管理で削減する</pre>\n",
+			"option_html": "<pre>エネルギー消費を中央管理で削減する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>エネルギー価格を固定化して需要を制限する</pre>\n",
+			"option_html": "<pre>エネルギー価格を固定化して需要を制限する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>供給量を一定に保ちながら需要を無視する</pre>\n",
+			"option_html": "<pre>供給量を一定に保ちながら需要を無視する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "マルセイユ\n",
+			"option_html": "<p>マルセイユ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アヴィニョン\n",
+			"option_html": "<p>アヴィニョン</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "パリ\n",
+			"option_html": "<p>パリ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "リヨン\n",
+			"option_html": "<p>リヨン</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスファインダーを使用する</pre>\n",
+			"option_html": "<pre>パスファインダーを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シェイプを手動で重ねて調整する</pre>\n",
+			"option_html": "<pre>シェイプを手動で重ねて調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべてのシェイプをレイヤーにまとめる</pre>\n",
+			"option_html": "<pre>すべてのシェイプをレイヤーにまとめる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>合成後に個別のシェイプに戻せない設定にする</pre>\n",
+			"option_html": "<pre>合成後に個別のシェイプに戻せない設定にする</pre>\n"
+		}
+	]
+}

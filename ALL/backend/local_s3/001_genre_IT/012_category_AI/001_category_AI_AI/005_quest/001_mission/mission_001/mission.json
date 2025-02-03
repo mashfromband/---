@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"学生向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像生成AI</pre>\n",
+			"option_html": "<pre>画像生成AI</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>音声合成AI</pre>\n",
+			"option_html": "<pre>音声合成AI</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>テキスト要約AI</pre>\n",
+			"option_html": "<pre>テキスト要約AI</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プログラミングAI</pre>\n",
+			"option_html": "<pre>プログラミングAI</pre>\n"
+		}
+	]
+}

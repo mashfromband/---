@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"基礎理論",
+		"離散数学"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "(not A) and B and C\n",
+			"option_html": "<p>(not A) and B and C</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "(not A) and (B or C)\n",
+			"option_html": "<p>(not A) and (B or C)</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "(not A) or (B and C)\n",
+			"option_html": "<p>(not A) or (B and C)</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "(not A) and (B or C)\n",
+			"option_html": "<p>(not A) and (B or C)</p>\n"
+		}
+	]
+}

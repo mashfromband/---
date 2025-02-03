@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Alt（Option）＋Shiftキーを押しながら操作する</pre>\n",
+			"option_html": "<pre>Alt（Option）＋Shiftキーを押しながら操作する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>手動で各辺を調整する</pre>\n",
+			"option_html": "<pre>手動で各辺を調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクトを削除して描き直す</pre>\n",
+			"option_html": "<pre>オブジェクトを削除して描き直す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スケールツールを使わずに操作する</pre>\n",
+			"option_html": "<pre>スケールツールを使わずに操作する</pre>\n"
+		}
+	]
+}

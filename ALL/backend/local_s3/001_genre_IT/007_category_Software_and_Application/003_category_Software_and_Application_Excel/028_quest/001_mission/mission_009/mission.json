@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"データ整理・管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルを選択して「フィルター」を設定する</pre>\n",
+			"option_html": "<pre>セルを選択して「フィルター」を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを選択して「塗りつぶし」の色を変更する</pre>\n",
+			"option_html": "<pre>セルを選択して「塗りつぶし」の色を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルを選択して「セルの書式設定」を使って色を変更する</pre>\n",
+			"option_html": "<pre>セルを選択して「セルの書式設定」を使って色を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルを選択して「条件付き書式」を選び、ルールを設定する</pre>\n",
+			"option_html": "<pre>セルを選択して「条件付き書式」を選び、ルールを設定する</pre>\n"
+		}
+	]
+}

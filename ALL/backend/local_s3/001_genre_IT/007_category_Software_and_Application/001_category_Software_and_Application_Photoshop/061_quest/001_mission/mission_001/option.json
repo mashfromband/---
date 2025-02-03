@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レベル補正</pre>\n",
+			"option_html": "<pre>レベル補正</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スライスツール</pre>\n",
+			"option_html": "<pre>スライスツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>なげなわツール</pre>\n",
+			"option_html": "<pre>なげなわツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クローンスタンプツール</pre>\n",
+			"option_html": "<pre>クローンスタンプツール</pre>\n"
+		}
+	]
+}

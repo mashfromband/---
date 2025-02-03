@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全てのデータが中央サーバーに保存されている仕組み</pre>\n",
+			"option_html": "<pre>全てのデータが中央サーバーに保存されている仕組み</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データがネットワーク全体に共有され、複数のノードで管理される仕組み</pre>\n",
+			"option_html": "<pre>データがネットワーク全体に共有され、複数のノードで管理される仕組み</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データが定期的に削除される仕組み</pre>\n",
+			"option_html": "<pre>データが定期的に削除される仕組み</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データの記録が一度だけ行われる仕組み</pre>\n",
+			"option_html": "<pre>データの記録が一度だけ行われる仕組み</pre>\n"
+		}
+	]
+}

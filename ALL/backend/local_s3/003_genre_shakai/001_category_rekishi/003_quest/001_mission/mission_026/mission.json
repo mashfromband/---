@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "衣笠家良\n",
+			"option_html": "<p>衣笠家良</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "鴨長明\n",
+			"option_html": "<p>鴨長明</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "伊達行朝\n",
+			"option_html": "<p>伊達行朝</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "丹波忠守\n",
+			"option_html": "<p>丹波忠守</p>\n"
+		}
+	]
+}

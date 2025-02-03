@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>列番号を右クリックして「非表示」を選択する</pre>\n",
+			"option_html": "<pre>列番号を右クリックして「非表示」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを選択して「Deleteキー」を押す</pre>\n",
+			"option_html": "<pre>セルを選択して「Deleteキー」を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「挿入」タブ→「図形を追加」を選択する</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「図形を追加」を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ファイル」タブ→「印刷」を選択する</pre>\n",
+			"option_html": "<pre>「ファイル」タブ→「印刷」を選択する</pre>\n"
+		}
+	]
+}

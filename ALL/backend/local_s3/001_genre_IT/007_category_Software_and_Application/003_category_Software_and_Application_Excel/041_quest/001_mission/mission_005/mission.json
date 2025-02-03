@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"データ入力・編集"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Endキー</pre>\n",
+			"option_html": "<pre>Endキー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Homeキー</pre>\n",
+			"option_html": "<pre>Homeキー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>F1キー</pre>\n",
+			"option_html": "<pre>F1キー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Alt + X</pre>\n",
+			"option_html": "<pre>Alt + X</pre>\n"
+		}
+	]
+}

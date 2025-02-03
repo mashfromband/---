@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>専用の計算機やハードウェア</pre>\n",
+			"option_html": "<pre>専用の計算機やハードウェア</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>銀行口座</pre>\n",
+			"option_html": "<pre>銀行口座</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>中央管理者からの許可</pre>\n",
+			"option_html": "<pre>中央管理者からの許可</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特定の仮想通貨のパスワード</pre>\n",
+			"option_html": "<pre>特定の仮想通貨のパスワード</pre>\n"
+		}
+	]
+}

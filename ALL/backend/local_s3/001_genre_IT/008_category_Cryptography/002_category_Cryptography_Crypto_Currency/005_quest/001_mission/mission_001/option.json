@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引手数料が不要になる</pre>\n",
+			"option_html": "<pre>取引手数料が不要になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>特定の管理者に依存しないため、不正や検閲に強い</pre>\n",
+			"option_html": "<pre>特定の管理者に依存しないため、不正や検閲に強い</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>価格が安定しやすくなる</pre>\n",
+			"option_html": "<pre>価格が安定しやすくなる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>法定通貨に直接交換できる</pre>\n",
+			"option_html": "<pre>法定通貨に直接交換できる</pre>\n"
+		}
+	]
+}

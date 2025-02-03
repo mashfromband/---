@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「データ」タブの「並べ替え」を使用する</pre>\n",
+			"option_html": "<pre>「データ」タブの「並べ替え」を使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ページレイアウト」タブの「幅と高さ」を設定する</pre>\n",
+			"option_html": "<pre>「ページレイアウト」タブの「幅と高さ」を設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「挿入」タブの「画像の挿入」を行う</pre>\n",
+			"option_html": "<pre>「挿入」タブの「画像の挿入」を行う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ホーム」タブの「フォントサイズ変更」を使う</pre>\n",
+			"option_html": "<pre>「ホーム」タブの「フォントサイズ変更」を使う</pre>\n"
+		}
+	]
+}

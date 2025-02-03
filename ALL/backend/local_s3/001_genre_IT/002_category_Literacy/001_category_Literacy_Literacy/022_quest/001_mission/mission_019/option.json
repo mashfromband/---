@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": ".zip\n",
+			"option_html": "<p>.zip</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": ".txt\n",
+			"option_html": "<p>.txt</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": ".exe\n",
+			"option_html": "<p>.exe</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": ".jpg\n",
+			"option_html": "<p>.jpg</p>\n"
+		}
+	]
+}

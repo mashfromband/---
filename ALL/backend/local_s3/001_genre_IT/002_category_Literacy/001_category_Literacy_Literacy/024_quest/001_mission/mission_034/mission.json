@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "インターネット接続速度を向上させる\n",
+			"option_html": "<p>インターネット接続速度を向上させる</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "安全にデータを送受信するための仮想的な専用ネットワークを構築する\n",
+			"option_html": "<p>安全にデータを送受信するための仮想的な専用ネットワークを構築する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ハードウェアの性能を高める\n",
+			"option_html": "<p>ハードウェアの性能を高める</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ウェブサイトのデザインを変更する\n",
+			"option_html": "<p>ウェブサイトのデザインを変更する</p>\n"
+		}
+	]
+}

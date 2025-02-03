@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + L</pre>\n",
+			"option_html": "<pre>Ctrl + L</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > ロック解除</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; ロック解除</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > すべてをロック解除</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; すべてをロック解除</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + Shift + L</pre>\n",
+			"option_html": "<pre>Ctrl + Shift + L</pre>\n"
+		}
+	]
+}

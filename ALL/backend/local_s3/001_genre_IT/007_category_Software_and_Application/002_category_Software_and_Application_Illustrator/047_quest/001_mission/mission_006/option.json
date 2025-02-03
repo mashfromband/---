@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > 書き出し > PNG形式でアートボードごとに保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; PNG形式でアートボードごとに保存</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > エクスポート > 書き出し形式 > PNG</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; 書き出し形式 &gt; PNG</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 書き出し > PNGオプションを選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; PNGオプションを選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>書き出し設定で「アートボードをPNGとしてエクスポート」</pre>\n",
+			"option_html": "<pre>書き出し設定で「アートボードをPNGとしてエクスポート」</pre>\n"
+		}
+	]
+}

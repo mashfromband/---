@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>手動でカンマを入力する</pre>\n",
+			"option_html": "<pre>手動でカンマを入力する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「挿入」タブの「グラフを作成」を選択</pre>\n",
+			"option_html": "<pre>「挿入」タブの「グラフを作成」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「データ」タブの「区切り位置」を選択</pre>\n",
+			"option_html": "<pre>「データ」タブの「区切り位置」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ホーム」タブの「カンマスタイル」を選択</pre>\n",
+			"option_html": "<pre>「ホーム」タブの「カンマスタイル」を選択</pre>\n"
+		}
+	]
+}

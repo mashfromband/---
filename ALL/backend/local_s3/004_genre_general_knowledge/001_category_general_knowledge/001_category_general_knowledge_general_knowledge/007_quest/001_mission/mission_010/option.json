@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>話を要約して確認する</pre>\n",
+			"option_html": "<pre>話を要約して確認する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>何も言わず聞き流す</pre>\n",
+			"option_html": "<pre>何も言わず聞き流す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>頭で理解したふりをする</pre>\n",
+			"option_html": "<pre>頭で理解したふりをする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>相手に何も伝えない</pre>\n",
+			"option_html": "<pre>相手に何も伝えない</pre>\n"
+		}
+	]
+}

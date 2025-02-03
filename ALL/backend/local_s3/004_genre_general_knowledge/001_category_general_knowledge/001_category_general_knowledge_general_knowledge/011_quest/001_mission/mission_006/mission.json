@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"組織理解",
+		"会社組織一般知識（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>件名を明確にする</pre>\n",
+			"option_html": "<pre>件名を明確にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>件名を省略する</pre>\n",
+			"option_html": "<pre>件名を省略する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>内容を簡略化しすぎる</pre>\n",
+			"option_html": "<pre>内容を簡略化しすぎる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>返信不要と伝えない</pre>\n",
+			"option_html": "<pre>返信不要と伝えない</pre>\n"
+		}
+	]
+}

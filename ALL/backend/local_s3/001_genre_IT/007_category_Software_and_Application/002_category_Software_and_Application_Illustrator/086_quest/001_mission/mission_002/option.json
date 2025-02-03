@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アートボードパネル</pre>\n",
+			"option_html": "<pre>アートボードパネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネル</pre>\n",
+			"option_html": "<pre>レイヤーパネル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロパティパネル</pre>\n",
+			"option_html": "<pre>プロパティパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ナビゲーターパネル</pre>\n",
+			"option_html": "<pre>ナビゲーターパネル</pre>\n"
+		}
+	]
+}

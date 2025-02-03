@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ストラテジ系",
+		"ビジネスインダストリ",
+		"e-ビジネス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "売上代金の請求（売上表又は売上データの送付）\n",
+			"option_html": "<p>売上代金の請求（売上表又は売上データの送付）</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "クレジットカードの提示及び売上表へのサイン\n",
+			"option_html": "<p>クレジットカードの提示及び売上表へのサイン</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "利用代金の支払\n",
+			"option_html": "<p>利用代金の支払</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "利用代金の請求（利用代金明細書の送付）\n",
+			"option_html": "<p>利用代金の請求（利用代金明細書の送付）</p>\n"
+		}
+	]
+}

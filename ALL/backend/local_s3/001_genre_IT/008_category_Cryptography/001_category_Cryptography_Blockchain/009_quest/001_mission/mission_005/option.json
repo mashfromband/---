@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>中央集権型のエネルギー取引所を設立する</pre>\n",
+			"option_html": "<pre>中央集権型のエネルギー取引所を設立する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>エネルギー価格を固定する</pre>\n",
+			"option_html": "<pre>エネルギー価格を固定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>エネルギー消費を削減するアルゴリズムを実装する</pre>\n",
+			"option_html": "<pre>エネルギー消費を削減するアルゴリズムを実装する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引記録を透明かつ改ざん防止で管理し、信用を向上させる</pre>\n",
+			"option_html": "<pre>取引記録を透明かつ改ざん防止で管理し、信用を向上させる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>不明なリンクや添付ファイルを開かない</pre>\n",
+			"option_html": "<pre>不明なリンクや添付ファイルを開かない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>定期的にネットワークの速度を測定する</pre>\n",
+			"option_html": "<pre>定期的にネットワークの速度を測定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>マルウェアをインストールする</pre>\n",
+			"option_html": "<pre>マルウェアをインストールする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>すべてのソフトウェアをアップデートせずに使用する</pre>\n",
+			"option_html": "<pre>すべてのソフトウェアをアップデートせずに使用する</pre>\n"
+		}
+	]
+}

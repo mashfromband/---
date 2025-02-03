@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルで不要なレイヤーを選択し、ゴミ箱アイコンをクリック</pre>\n",
+			"option_html": "<pre>レイヤーパネルで不要なレイヤーを選択し、ゴミ箱アイコンをクリック</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで右クリックし「削除」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックし「削除」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > レイヤー > 削除を選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; レイヤー &gt; 削除を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで「レイヤー整理」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「レイヤー整理」を選択</pre>\n"
+		}
+	]
+}

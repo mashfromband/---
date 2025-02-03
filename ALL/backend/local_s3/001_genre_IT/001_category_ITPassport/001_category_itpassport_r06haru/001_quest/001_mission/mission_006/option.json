@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "CEO\n",
+			"option_html": "<p>CEO</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "CFO\n",
+			"option_html": "<p>CFO</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "COO\n",
+			"option_html": "<p>COO</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "CTO\n",
+			"option_html": "<p>CTO</p>\n"
+		}
+	]
+}

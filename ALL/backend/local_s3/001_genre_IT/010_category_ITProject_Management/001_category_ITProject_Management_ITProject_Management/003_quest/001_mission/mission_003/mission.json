@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトのコストを減らすため</pre>\n",
+			"option_html": "<pre>プロジェクトのコストを減らすため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトの成果物を増やすため</pre>\n",
+			"option_html": "<pre>プロジェクトの成果物を増やすため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトの遅延や期限超過を防ぐため</pre>\n",
+			"option_html": "<pre>プロジェクトの遅延や期限超過を防ぐため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの品質を向上させるため</pre>\n",
+			"option_html": "<pre>プロジェクトの品質を向上させるため</pre>\n"
+		}
+	]
+}

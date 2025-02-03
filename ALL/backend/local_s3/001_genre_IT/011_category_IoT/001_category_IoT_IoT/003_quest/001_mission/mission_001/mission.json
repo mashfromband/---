@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>SMTP</pre>\n",
+			"option_html": "<pre>SMTP</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>FTP</pre>\n",
+			"option_html": "<pre>FTP</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>MQTT</pre>\n",
+			"option_html": "<pre>MQTT</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>DNS</pre>\n",
+			"option_html": "<pre>DNS</pre>\n"
+		}
+	]
+}

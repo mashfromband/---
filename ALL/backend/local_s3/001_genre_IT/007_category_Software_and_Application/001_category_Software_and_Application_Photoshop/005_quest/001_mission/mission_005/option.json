@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像を保存する</pre>\n",
+			"option_html": "<pre>画像を保存する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>作業履歴を確認・戻す</pre>\n",
+			"option_html": "<pre>作業履歴を確認・戻す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像の明るさを調整する</pre>\n",
+			"option_html": "<pre>画像の明るさを調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルターを適用する</pre>\n",
+			"option_html": "<pre>フィルターを適用する</pre>\n"
+		}
+	]
+}

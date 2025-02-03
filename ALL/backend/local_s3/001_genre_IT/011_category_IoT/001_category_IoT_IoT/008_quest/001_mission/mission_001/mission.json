@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>家庭内のデバイスやシステムを自動化し、遠隔操作を可能にする</pre>\n",
+			"option_html": "<pre>家庭内のデバイスやシステムを自動化し、遠隔操作を可能にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>家庭内のすべてのデータを保存する</pre>\n",
+			"option_html": "<pre>家庭内のすべてのデータを保存する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>家庭内でインターネット接続を無効化する</pre>\n",
+			"option_html": "<pre>家庭内でインターネット接続を無効化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>家庭内のすべての通信をクラウドに送信する</pre>\n",
+			"option_html": "<pre>家庭内のすべての通信をクラウドに送信する</pre>\n"
+		}
+	]
+}

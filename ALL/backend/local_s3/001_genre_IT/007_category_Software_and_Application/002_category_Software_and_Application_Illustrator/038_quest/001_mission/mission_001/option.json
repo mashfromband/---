@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>目のアイコン</pre>\n",
+			"option_html": "<pre>目のアイコン</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ロックアイコン</pre>\n",
+			"option_html": "<pre>ロックアイコン</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>塗りのアイコン</pre>\n",
+			"option_html": "<pre>塗りのアイコン</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>線のアイコン</pre>\n",
+			"option_html": "<pre>線のアイコン</pre>\n"
+		}
+	]
+}

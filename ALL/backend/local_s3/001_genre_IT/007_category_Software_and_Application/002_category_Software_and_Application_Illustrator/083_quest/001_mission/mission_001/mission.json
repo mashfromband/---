@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"保存形式"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>AI</pre>\n",
+			"option_html": "<pre>AI</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>EPS</pre>\n",
+			"option_html": "<pre>EPS</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>PDF</pre>\n",
+			"option_html": "<pre>PDF</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>SVG</pre>\n",
+			"option_html": "<pre>SVG</pre>\n"
+		}
+	]
+}

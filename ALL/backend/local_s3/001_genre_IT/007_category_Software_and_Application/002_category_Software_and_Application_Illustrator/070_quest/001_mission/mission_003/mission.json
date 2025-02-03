@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツールで縦書きを設定する</pre>\n",
+			"option_html": "<pre>文字ツールで縦書きを設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字パネルで縦書きを選択する</pre>\n",
+			"option_html": "<pre>文字パネルで縦書きを選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで縦書きを設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで縦書きを設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > パス > 縦書きを設定する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; パス &gt; 縦書きを設定する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルターの不透明度が低く設定されている</pre>\n",
+			"option_html": "<pre>フィルターの不透明度が低く設定されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スマートオブジェクトのレイヤーが非表示になっている</pre>\n",
+			"option_html": "<pre>スマートオブジェクトのレイヤーが非表示になっている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートフィルターのマスクが黒で塗りつぶされている</pre>\n",
+			"option_html": "<pre>スマートフィルターのマスクが黒で塗りつぶされている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルターが非対応の形式で適用されている</pre>\n",
+			"option_html": "<pre>フィルターが非対応の形式で適用されている</pre>\n"
+		}
+	]
+}

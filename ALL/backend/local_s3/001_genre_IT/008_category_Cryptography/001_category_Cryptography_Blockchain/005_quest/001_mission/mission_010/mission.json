@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データ全体を公開せずに特定の事実を証明できる</pre>\n",
+			"option_html": "<pre>データ全体を公開せずに特定の事実を証明できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トランザクション速度を大幅に向上させる</pre>\n",
+			"option_html": "<pre>トランザクション速度を大幅に向上させる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>全てのノードの情報を同期する</pre>\n",
+			"option_html": "<pre>全てのノードの情報を同期する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>新しいノードを迅速に追加できる</pre>\n",
+			"option_html": "<pre>新しいノードを迅速に追加できる</pre>\n"
+		}
+	]
+}

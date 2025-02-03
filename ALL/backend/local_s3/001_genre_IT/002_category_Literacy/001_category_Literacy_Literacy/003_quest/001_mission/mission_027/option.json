@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ファイアウォール\n",
+			"option_html": "<p>ファイアウォール</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アンチウイルスソフトウェア\n",
+			"option_html": "<p>アンチウイルスソフトウェア</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ファイル圧縮ソフト\n",
+			"option_html": "<p>ファイル圧縮ソフト</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "暗号化ソフト\n",
+			"option_html": "<p>暗号化ソフト</p>\n"
+		}
+	]
+}

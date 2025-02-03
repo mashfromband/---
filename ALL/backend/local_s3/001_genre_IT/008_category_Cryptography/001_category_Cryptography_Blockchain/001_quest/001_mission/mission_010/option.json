@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データが暗号化されていないから</pre>\n",
+			"option_html": "<pre>データが暗号化されていないから</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ノードが1つしか存在しないから</pre>\n",
+			"option_html": "<pre>ノードが1つしか存在しないから</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トランザクションが自動削除されるから</pre>\n",
+			"option_html": "<pre>トランザクションが自動削除されるから</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハッシュ値が使用されているから</pre>\n",
+			"option_html": "<pre>ハッシュ値が使用されているから</pre>\n"
+		}
+	]
+}

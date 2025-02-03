@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>農地でのWi-Fi使用を禁止する</pre>\n",
+			"option_html": "<pre>農地でのWi-Fi使用を禁止する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>農作物の成長を一切監視しない運用</pre>\n",
+			"option_html": "<pre>農作物の成長を一切監視しない運用</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>農地のリアルタイム監視と水やりの自動化</pre>\n",
+			"option_html": "<pre>農地のリアルタイム監視と水やりの自動化</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>農機具をクラウドと接続しない</pre>\n",
+			"option_html": "<pre>農機具をクラウドと接続しない</pre>\n"
+		}
+	]
+}

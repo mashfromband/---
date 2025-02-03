@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ハイライト部分が暗くなる</pre>\n",
+			"option_html": "<pre>ハイライト部分が暗くなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シャドウ部分が明るくなる</pre>\n",
+			"option_html": "<pre>シャドウ部分が明るくなる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>中間トーンが明るくなる</pre>\n",
+			"option_html": "<pre>中間トーンが明るくなる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像全体がモノクロになる</pre>\n",
+			"option_html": "<pre>画像全体がモノクロになる</pre>\n"
+		}
+	]
+}

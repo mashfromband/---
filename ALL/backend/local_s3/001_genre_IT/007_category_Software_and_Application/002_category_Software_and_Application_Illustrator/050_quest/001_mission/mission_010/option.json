@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルター > アーティスティック > ベベル</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック &gt; ベベル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > 3D > ベベル</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; ベベル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > 3D > ベベル</pre>\n",
+			"option_html": "<pre>フィルター &gt; 3D &gt; ベベル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > アーティスティック > ベベル</pre>\n",
+			"option_html": "<pre>効果 &gt; アーティスティック &gt; ベベル</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"データベース",
+		"トランザクション処理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "インデックスファイル\n",
+			"option_html": "<p>インデックスファイル</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "バックアップファイル\n",
+			"option_html": "<p>バックアップファイル</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ログファイル\n",
+			"option_html": "<p>ログファイル</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ロードモジュールファイル\n",
+			"option_html": "<p>ロードモジュールファイル</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ランド\n",
+			"option_html": "<p>ランド</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "バーリン\n",
+			"option_html": "<p>バーリン</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ソロー\n",
+			"option_html": "<p>ソロー</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "マルクス\n",
+			"option_html": "<p>マルクス</p>\n"
+		}
+	]
+}

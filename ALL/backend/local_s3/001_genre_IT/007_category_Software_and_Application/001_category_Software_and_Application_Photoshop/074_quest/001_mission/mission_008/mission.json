@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"実践・応用"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>調整レイヤー</pre>\n",
+			"option_html": "<pre>調整レイヤー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スポイトツール</pre>\n",
+			"option_html": "<pre>スポイトツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーマスク</pre>\n",
+			"option_html": "<pre>レイヤーマスク</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スライスツール</pre>\n",
+			"option_html": "<pre>スライスツール</pre>\n"
+		}
+	]
+}

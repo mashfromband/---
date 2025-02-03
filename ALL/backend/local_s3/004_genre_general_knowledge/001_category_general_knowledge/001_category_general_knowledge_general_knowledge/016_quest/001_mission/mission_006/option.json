@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>一度の成功で満足する</pre>\n",
+			"option_html": "<pre>一度の成功で満足する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>常に現状を改善する意識を持つ</pre>\n",
+			"option_html": "<pre>常に現状を改善する意識を持つ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>他人を利用する</pre>\n",
+			"option_html": "<pre>他人を利用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>チャレンジを避ける</pre>\n",
+			"option_html": "<pre>チャレンジを避ける</pre>\n"
+		}
+	]
+}

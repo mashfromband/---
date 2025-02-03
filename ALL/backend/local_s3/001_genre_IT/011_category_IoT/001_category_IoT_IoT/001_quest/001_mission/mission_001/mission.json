@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Internet of Technology</pre>\n",
+			"option_html": "<pre>Internet of Technology</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Interconnection of Things</pre>\n",
+			"option_html": "<pre>Interconnection of Things</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Internet of Things</pre>\n",
+			"option_html": "<pre>Internet of Things</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Integration of Technology</pre>\n",
+			"option_html": "<pre>Integration of Technology</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>重要な部分を中心に書く</pre>\n",
+			"option_html": "<pre>重要な部分を中心に書く</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>全て記録する必要はない</pre>\n",
+			"option_html": "<pre>全て記録する必要はない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>メモを取らない</pre>\n",
+			"option_html": "<pre>メモを取らない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>誰かに頼む</pre>\n",
+			"option_html": "<pre>誰かに頼む</pre>\n"
+		}
+	]
+}

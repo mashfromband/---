@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フォント > 埋め込み設定</pre>\n",
+			"option_html": "<pre>フォント &gt; 埋め込み設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 保存時に「フォント埋め込み」</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存時に「フォント埋め込み」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>PDFエクスポート時に「フォント埋め込み」</pre>\n",
+			"option_html": "<pre>PDFエクスポート時に「フォント埋め込み」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>PDF保存時に「フォント埋め込み」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「フォント埋め込み」を選択</pre>\n"
+		}
+	]
+}

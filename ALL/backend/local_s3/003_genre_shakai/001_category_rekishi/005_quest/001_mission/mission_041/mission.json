@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "百済\n",
+			"option_html": "<p>百済</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "高句麗\n",
+			"option_html": "<p>高句麗</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "隋\n",
+			"option_html": "<p>隋</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "唐\n",
+			"option_html": "<p>唐</p>\n"
+		}
+	]
+}

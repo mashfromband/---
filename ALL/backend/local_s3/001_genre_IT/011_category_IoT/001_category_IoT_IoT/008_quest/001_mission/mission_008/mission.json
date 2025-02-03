@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>生産量を制限するため</pre>\n",
+			"option_html": "<pre>生産量を制限するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>生産設備のリアルタイムモニタリングと効率化を実現するため</pre>\n",
+			"option_html": "<pre>生産設備のリアルタイムモニタリングと効率化を実現するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>工場内でインターネット接続を廃止するため</pre>\n",
+			"option_html": "<pre>工場内でインターネット接続を廃止するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>生産設備を完全に停止させるため</pre>\n",
+			"option_html": "<pre>生産設備を完全に停止させるため</pre>\n"
+		}
+	]
+}

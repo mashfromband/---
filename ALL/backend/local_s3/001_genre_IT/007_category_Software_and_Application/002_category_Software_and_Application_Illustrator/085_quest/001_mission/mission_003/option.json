@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > エクスポート > PDF</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; PDF</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 書き出し > PDF</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; PDF</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 印刷設定 > PDF</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷設定 &gt; PDF</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 3D > PDF</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; PDF</pre>\n"
+		}
+	]
+}

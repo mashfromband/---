@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オーバーレイの不透明度が低く設定されている</pre>\n",
+			"option_html": "<pre>オーバーレイの不透明度が低く設定されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パターンのスケールが0%に設定されている</pre>\n",
+			"option_html": "<pre>パターンのスケールが0%に設定されている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーの不透明度が低すぎる</pre>\n",
+			"option_html": "<pre>レイヤーの不透明度が低すぎる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パターンが非対応の形式で登録されている</pre>\n",
+			"option_html": "<pre>パターンが非対応の形式で登録されている</pre>\n"
+		}
+	]
+}

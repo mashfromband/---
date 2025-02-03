@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"コミュニケーション",
+		"よい印象を与える（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自信を持つ練習をする</pre>\n",
+			"option_html": "<pre>自信を持つ練習をする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>全く練習しない</pre>\n",
+			"option_html": "<pre>全く練習しない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スライドを雑に作る</pre>\n",
+			"option_html": "<pre>スライドを雑に作る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>話す内容を暗記しない</pre>\n",
+			"option_html": "<pre>話す内容を暗記しない</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>すべての取引履歴がブロックチェーンに記録される</pre>\n",
+			"option_html": "<pre>すべての取引履歴がブロックチェーンに記録される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>資金の使用目的を非公開にする</pre>\n",
+			"option_html": "<pre>資金の使用目的を非公開にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>資金提供者の身元を完全に隠す</pre>\n",
+			"option_html": "<pre>資金提供者の身元を完全に隠す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>中央機関がすべての資金を管理する</pre>\n",
+			"option_html": "<pre>中央機関がすべての資金を管理する</pre>\n"
+		}
+	]
+}

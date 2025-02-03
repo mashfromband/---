@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "GPS\n",
+			"option_html": "<p>GPS</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "MIMO\n",
+			"option_html": "<p>MIMO</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "キャリアアグリゲーション\n",
+			"option_html": "<p>キャリアアグリゲーション</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "マルチホップ\n",
+			"option_html": "<p>マルチホップ</p>\n"
+		}
+	]
+}

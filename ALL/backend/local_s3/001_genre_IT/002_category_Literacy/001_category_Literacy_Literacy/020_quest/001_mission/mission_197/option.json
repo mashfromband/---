@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "SNSで個人情報を公開する\n",
+			"option_html": "<p>SNSで個人情報を公開する</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "利用しているサービスのプライバシー設定を確認する\n",
+			"option_html": "<p>利用しているサービスのプライバシー設定を確認する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "不特定のサイトで安易に個人情報を入力する\n",
+			"option_html": "<p>不特定のサイトで安易に個人情報を入力する</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "他人の個人情報をSNSで共有する\n",
+			"option_html": "<p>他人の個人情報をSNSで共有する</p>\n"
+		}
+	]
+}

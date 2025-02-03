@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「フォントを埋め込む」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「フォントを埋め込む」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 印刷設定でフォントを埋め込む</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷設定でフォントを埋め込む</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>エクスポート時に「フォント埋め込み」を選択</pre>\n",
+			"option_html": "<pre>エクスポート時に「フォント埋め込み」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>PDF保存時に「フォント自動埋め込み」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「フォント自動埋め込み」を選択</pre>\n"
+		}
+	]
+}

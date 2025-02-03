@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引を手動で記録する技術</pre>\n",
+			"option_html": "<pre>取引を手動で記録する技術</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークの接続ポイント</pre>\n",
+			"option_html": "<pre>ネットワークの接続ポイント</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>取引データを連結して保存する分散型台帳</pre>\n",
+			"option_html": "<pre>取引データを連結して保存する分散型台帳</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨の管理アプリケーション</pre>\n",
+			"option_html": "<pre>仮想通貨の管理アプリケーション</pre>\n"
+		}
+	]
+}

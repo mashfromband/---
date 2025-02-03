@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>あなたたち</pre>\n",
+			"option_html": "<pre>あなたたち</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>あなた</pre>\n",
+			"option_html": "<pre>あなた</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>お前</pre>\n",
+			"option_html": "<pre>お前</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>彼ら</pre>\n",
+			"option_html": "<pre>彼ら</pre>\n"
+		}
+	]
+}

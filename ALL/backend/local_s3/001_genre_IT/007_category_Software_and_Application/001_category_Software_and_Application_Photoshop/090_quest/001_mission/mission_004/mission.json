@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤー</pre>\n",
+			"option_html": "<pre>レイヤー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アートボード</pre>\n",
+			"option_html": "<pre>アートボード</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グリッド</pre>\n",
+			"option_html": "<pre>グリッド</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートオブジェクト</pre>\n",
+			"option_html": "<pre>スマートオブジェクト</pre>\n"
+		}
+	]
+}

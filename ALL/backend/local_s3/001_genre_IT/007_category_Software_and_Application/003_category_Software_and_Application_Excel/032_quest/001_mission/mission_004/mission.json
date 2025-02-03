@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"数式・関数"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>MAX関数とMIN関数</pre>\n",
+			"option_html": "<pre>MAX関数とMIN関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>AVERAGE関数とCOUNT関数</pre>\n",
+			"option_html": "<pre>AVERAGE関数とCOUNT関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>IF関数とSUMIF関数</pre>\n",
+			"option_html": "<pre>IF関数とSUMIF関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>COUNTIF関数とSUMIF関数</pre>\n",
+			"option_html": "<pre>COUNTIF関数とSUMIF関数</pre>\n"
+		}
+	]
+}

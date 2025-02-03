@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択範囲を複製する</pre>\n",
+			"option_html": "<pre>選択範囲を複製する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色の階調を滑らかにしてグラデーションのバンディングを防ぐ</pre>\n",
+			"option_html": "<pre>色の階調を滑らかにしてグラデーションのバンディングを防ぐ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>明るさを均一に調整する</pre>\n",
+			"option_html": "<pre>明るさを均一に調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを削除する</pre>\n",
+			"option_html": "<pre>レイヤーを削除する</pre>\n"
+		}
+	]
+}

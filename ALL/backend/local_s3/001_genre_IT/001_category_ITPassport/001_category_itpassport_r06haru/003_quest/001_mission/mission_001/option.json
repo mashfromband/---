@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アクティベーション\n",
+			"option_html": "<p>アクティベーション</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アドウェア\n",
+			"option_html": "<p>アドウェア</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "サブスクリプション\n",
+			"option_html": "<p>サブスクリプション</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ボリュームライセンス\n",
+			"option_html": "<p>ボリュームライセンス</p>\n"
+		}
+	]
+}

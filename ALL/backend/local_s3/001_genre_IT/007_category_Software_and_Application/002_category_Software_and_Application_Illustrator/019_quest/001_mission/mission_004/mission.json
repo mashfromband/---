@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>リフレクトツール</pre>\n",
+			"option_html": "<pre>リフレクトツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>回転ツール</pre>\n",
+			"option_html": "<pre>回転ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>拡大縮小ツール</pre>\n",
+			"option_html": "<pre>拡大縮小ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>変形ツール</pre>\n",
+			"option_html": "<pre>変形ツール</pre>\n"
+		}
+	]
+}

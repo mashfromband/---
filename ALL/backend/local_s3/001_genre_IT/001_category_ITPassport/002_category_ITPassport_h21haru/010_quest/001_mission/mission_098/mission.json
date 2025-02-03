@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"中間C",
+		"ストラテジ系",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "①\n",
+			"option_html": "<p>①</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "②\n",
+			"option_html": "<p>②</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "③\n",
+			"option_html": "<p>③</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "④\n",
+			"option_html": "<p>④</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データ処理をリアルタイムで行い、都市機能を効率化するため</pre>\n",
+			"option_html": "<pre>データ処理をリアルタイムで行い、都市機能を効率化するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウドへの依存を完全になくすため</pre>\n",
+			"option_html": "<pre>クラウドへの依存を完全になくすため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>インターネット接続が不要になるため</pre>\n",
+			"option_html": "<pre>インターネット接続が不要になるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>都市全体の電力消費を増加させるため</pre>\n",
+			"option_html": "<pre>都市全体の電力消費を増加させるため</pre>\n"
+		}
+	]
+}

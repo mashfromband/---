@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ハッシュ関数</pre>\n",
+			"option_html": "<pre>ハッシュ関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トランザクション</pre>\n",
+			"option_html": "<pre>トランザクション</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コンセンサスアルゴリズム</pre>\n",
+			"option_html": "<pre>コンセンサスアルゴリズム</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートコントラクト</pre>\n",
+			"option_html": "<pre>スマートコントラクト</pre>\n"
+		}
+	]
+}

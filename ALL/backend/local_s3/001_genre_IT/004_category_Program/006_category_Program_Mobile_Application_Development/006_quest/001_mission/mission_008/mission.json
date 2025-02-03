@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>開発チームが内部的にアプリをテストする</pre>\n",
+			"option_html": "<pre>開発チームが内部的にアプリをテストする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>限定されたユーザーにアプリを試用してもらい、フィードバックを収集する</pre>\n",
+			"option_html": "<pre>限定されたユーザーにアプリを試用してもらい、フィードバックを収集する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリのコードを最適化する</pre>\n",
+			"option_html": "<pre>アプリのコードを最適化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリのバージョン管理を行う</pre>\n",
+			"option_html": "<pre>アプリのバージョン管理を行う</pre>\n"
+		}
+	]
+}

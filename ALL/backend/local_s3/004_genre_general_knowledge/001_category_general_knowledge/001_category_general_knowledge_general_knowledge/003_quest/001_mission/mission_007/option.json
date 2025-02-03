@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>座ったときは外す</pre>\n",
+			"option_html": "<pre>座ったときは外す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>常に全て留める</pre>\n",
+			"option_html": "<pre>常に全て留める</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>留めない</pre>\n",
+			"option_html": "<pre>留めない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>どの場面でも外す</pre>\n",
+			"option_html": "<pre>どの場面でも外す</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「最適化オプション」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「最適化オプション」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PDF保存時に「圧縮設定」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「圧縮設定」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 書き出しで圧縮を選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出しで圧縮を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>編集 > PDF設定で圧縮</pre>\n",
+			"option_html": "<pre>編集 &gt; PDF設定で圧縮</pre>\n"
+		}
+	]
+}

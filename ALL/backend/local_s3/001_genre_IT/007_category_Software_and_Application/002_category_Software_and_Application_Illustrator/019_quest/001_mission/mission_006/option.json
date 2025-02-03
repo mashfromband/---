@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>リフレクトツール</pre>\n",
+			"option_html": "<pre>リフレクトツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>回転ツール</pre>\n",
+			"option_html": "<pre>回転ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スケールツール</pre>\n",
+			"option_html": "<pre>スケールツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自由変形ツール</pre>\n",
+			"option_html": "<pre>自由変形ツール</pre>\n"
+		}
+	]
+}

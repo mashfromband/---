@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリの見た目を評価するため</pre>\n",
+			"option_html": "<pre>アプリの見た目を評価するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザーの個人情報を収集するため</pre>\n",
+			"option_html": "<pre>ユーザーの個人情報を収集するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリがストアのガイドラインに準拠しているか確認するため</pre>\n",
+			"option_html": "<pre>アプリがストアのガイドラインに準拠しているか確認するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリの価格を決定するため</pre>\n",
+			"option_html": "<pre>アプリの価格を決定するため</pre>\n"
+		}
+	]
+}

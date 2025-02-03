@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "タワー型サーバ\n",
+			"option_html": "<p>タワー型サーバ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "デスクトップ型サーバ\n",
+			"option_html": "<p>デスクトップ型サーバ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ブレード型サーバ\n",
+			"option_html": "<p>ブレード型サーバ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ラックマウント型サーバ\n",
+			"option_html": "<p>ラックマウント型サーバ</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "司馬光\n",
+			"option_html": "<p>司馬光</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "王安石\n",
+			"option_html": "<p>王安石</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "欧陽脩\n",
+			"option_html": "<p>欧陽脩</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "宋祁\n",
+			"option_html": "<p>宋祁</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>チームメンバーの役割分担</pre>\n",
+			"option_html": "<pre>チームメンバーの役割分担</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトのコスト管理計画</pre>\n",
+			"option_html": "<pre>プロジェクトのコスト管理計画</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトで行う作業の範囲や内容</pre>\n",
+			"option_html": "<pre>プロジェクトで行う作業の範囲や内容</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトのスケジュール管理計画</pre>\n",
+			"option_html": "<pre>プロジェクトのスケジュール管理計画</pre>\n"
+		}
+	]
+}

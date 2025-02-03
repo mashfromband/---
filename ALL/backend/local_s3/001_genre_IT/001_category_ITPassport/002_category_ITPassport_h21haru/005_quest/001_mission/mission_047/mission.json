@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"マネジメント系",
+		"システム開発技術",
+		"システム開発技術"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "画面・帳票レイアウトの設計\n",
+			"option_html": "<p>画面・帳票レイアウトの設計</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "性能要件の確定\n",
+			"option_html": "<p>性能要件の確定</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "物理データの設計\n",
+			"option_html": "<p>物理データの設計</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プログラムの設計\n",
+			"option_html": "<p>プログラムの設計</p>\n"
+		}
+	]
+}

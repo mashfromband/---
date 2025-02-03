@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想マシンのOSとアプリケーション</pre>\n",
+			"option_html": "<pre>仮想マシンのOSとアプリケーション</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データセンターの物理ハードウェア</pre>\n",
+			"option_html": "<pre>データセンターの物理ハードウェア</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>開発環境とデプロイ管理</pre>\n",
+			"option_html": "<pre>開発環境とデプロイ管理</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>完成されたソフトウェアの操作</pre>\n",
+			"option_html": "<pre>完成されたソフトウェアの操作</pre>\n"
+		}
+	]
+}

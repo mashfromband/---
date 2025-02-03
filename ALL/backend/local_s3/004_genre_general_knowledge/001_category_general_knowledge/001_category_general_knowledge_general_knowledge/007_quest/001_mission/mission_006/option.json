@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アイコンタクトを取る</pre>\n",
+			"option_html": "<pre>アイコンタクトを取る</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>足を組み、腕を組む</pre>\n",
+			"option_html": "<pre>足を組み、腕を組む</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマホを見続ける</pre>\n",
+			"option_html": "<pre>スマホを見続ける</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>時計を何度も見る</pre>\n",
+			"option_html": "<pre>時計を何度も見る</pre>\n"
+		}
+	]
+}

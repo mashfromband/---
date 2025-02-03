@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>中央管理者が存在する</pre>\n",
+			"option_html": "<pre>中央管理者が存在する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>取引所専用の仕組みである</pre>\n",
+			"option_html": "<pre>取引所専用の仕組みである</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべての参加者が同じ役割を持つ</pre>\n",
+			"option_html": "<pre>すべての参加者が同じ役割を持つ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートコントラクトに基づいて運営される</pre>\n",
+			"option_html": "<pre>スマートコントラクトに基づいて運営される</pre>\n"
+		}
+	]
+}

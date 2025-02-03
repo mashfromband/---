@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > グループ</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; グループ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルでグループ作成</pre>\n",
+			"option_html": "<pre>レイヤーパネルでグループ作成</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アクションパネルで一括処理</pre>\n",
+			"option_html": "<pre>アクションパネルで一括処理</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>変形パネルを使ってまとめて操作</pre>\n",
+			"option_html": "<pre>変形パネルを使ってまとめて操作</pre>\n"
+		}
+	]
+}

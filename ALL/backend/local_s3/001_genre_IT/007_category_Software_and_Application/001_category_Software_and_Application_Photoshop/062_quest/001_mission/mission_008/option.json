@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>明るさ・コントラスト</pre>\n",
+			"option_html": "<pre>明るさ・コントラスト</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スマートオブジェクト</pre>\n",
+			"option_html": "<pre>スマートオブジェクト</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ヒストリーパネル</pre>\n",
+			"option_html": "<pre>ヒストリーパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ペンツール</pre>\n",
+			"option_html": "<pre>ペンツール</pre>\n"
+		}
+	]
+}

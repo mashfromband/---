@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"パス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツールでパスを閉じる</pre>\n",
+			"option_html": "<pre>文字ツールでパスを閉じる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ダイレクト選択ツールでアンカーポイントを選択する</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツールでアンカーポイントを選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ペンツールで最後のアンカーポイントをクリックする</pre>\n",
+			"option_html": "<pre>ペンツールで最後のアンカーポイントをクリックする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルでパスを閉じる</pre>\n",
+			"option_html": "<pre>アピアランスパネルでパスを閉じる</pre>\n"
+		}
+	]
+}

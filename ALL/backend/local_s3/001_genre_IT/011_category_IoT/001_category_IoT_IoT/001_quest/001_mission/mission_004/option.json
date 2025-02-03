@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの解析と意思決定</pre>\n",
+			"option_html": "<pre>データの解析と意思決定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの収集と共有</pre>\n",
+			"option_html": "<pre>データの収集と共有</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハードウェアの自動組み立て</pre>\n",
+			"option_html": "<pre>ハードウェアの自動組み立て</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>インターネットの接続速度向上</pre>\n",
+			"option_html": "<pre>インターネットの接続速度向上</pre>\n"
+		}
+	]
+}

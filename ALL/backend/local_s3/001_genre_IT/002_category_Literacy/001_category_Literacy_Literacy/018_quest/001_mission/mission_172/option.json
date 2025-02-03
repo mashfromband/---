@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "インターネットの速度を向上させる\n",
+			"option_html": "<p>インターネットの速度を向上させる</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "IPアドレスとドメイン名を対応付ける\n",
+			"option_html": "<p>IPアドレスとドメイン名を対応付ける</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "メールアドレスを暗号化する\n",
+			"option_html": "<p>メールアドレスを暗号化する</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "IPアドレスを割り当てる\n",
+			"option_html": "<p>IPアドレスを割り当てる</p>\n"
+		}
+	]
+}

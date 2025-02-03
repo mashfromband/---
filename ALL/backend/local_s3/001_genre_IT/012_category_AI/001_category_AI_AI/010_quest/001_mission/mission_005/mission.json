@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"学生向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>進路指導の先生に相談する</pre>\n",
+			"option_html": "<pre>進路指導の先生に相談する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>適性や興味に合った進路を提案してくれるツールを使う</pre>\n",
+			"option_html": "<pre>適性や興味に合った進路を提案してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>大学や専門学校のホームページを見る</pre>\n",
+			"option_html": "<pre>大学や専門学校のホームページを見る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>親に相談する</pre>\n",
+			"option_html": "<pre>親に相談する</pre>\n"
+		}
+	]
+}

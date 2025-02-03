@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色の調整を行う</pre>\n",
+			"option_html": "<pre>色の調整を行う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>過去の操作履歴を確認する</pre>\n",
+			"option_html": "<pre>過去の操作履歴を確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像を保存する</pre>\n",
+			"option_html": "<pre>画像を保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを削除する</pre>\n",
+			"option_html": "<pre>レイヤーを削除する</pre>\n"
+		}
+	]
+}

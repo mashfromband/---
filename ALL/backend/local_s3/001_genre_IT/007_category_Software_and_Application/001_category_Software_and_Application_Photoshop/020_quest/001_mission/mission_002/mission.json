@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色がモノクロになる</pre>\n",
+			"option_html": "<pre>色がモノクロになる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度が最大になる</pre>\n",
+			"option_html": "<pre>彩度が最大になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>明るさが最大になる</pre>\n",
+			"option_html": "<pre>明るさが最大になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>色が大幅に変化し、完全に異なるトーンになる</pre>\n",
+			"option_html": "<pre>色が大幅に変化し、完全に異なるトーンになる</pre>\n"
+		}
+	]
+}

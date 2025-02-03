@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトをスマートオブジェクトとして保存する</pre>\n",
+			"option_html": "<pre>オブジェクトをスマートオブジェクトとして保存する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サイズ変更が必要な場合は削除して新規作成する</pre>\n",
+			"option_html": "<pre>サイズ変更が必要な場合は削除して新規作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サイズを固定して変更しない</pre>\n",
+			"option_html": "<pre>サイズを固定して変更しない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>すべてのオブジェクトを1つのレイヤーにまとめる</pre>\n",
+			"option_html": "<pre>すべてのオブジェクトを1つのレイヤーにまとめる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"パス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アンカーポイント削除ツールを使う</pre>\n",
+			"option_html": "<pre>アンカーポイント削除ツールを使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ペンツールで削除する</pre>\n",
+			"option_html": "<pre>ペンツールで削除する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ダイレクト選択ツールで削除する</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツールで削除する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > パス > 削除を選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; パス &gt; 削除を選択する</pre>\n"
+		}
+	]
+}

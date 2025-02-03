@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>彩度スライダーを最大値にする</pre>\n",
+			"option_html": "<pre>彩度スライダーを最大値にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色相スライダーを最大値にする</pre>\n",
+			"option_html": "<pre>色相スライダーを最大値にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>明度スライダーを最小値にする</pre>\n",
+			"option_html": "<pre>明度スライダーを最小値にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>対象の色を選択し、彩度スライダーを最小値にする</pre>\n",
+			"option_html": "<pre>対象の色を選択し、彩度スライダーを最小値にする</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨を使用すると税金が免除されるため</pre>\n",
+			"option_html": "<pre>仮想通貨を使用すると税金が免除されるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨は現金と同じように匿名性が高いため</pre>\n",
+			"option_html": "<pre>仮想通貨は現金と同じように匿名性が高いため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>送金が迅速で透明性が高いため</pre>\n",
+			"option_html": "<pre>送金が迅速で透明性が高いため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨の価値が常に上昇するため</pre>\n",
+			"option_html": "<pre>仮想通貨の価値が常に上昇するため</pre>\n"
+		}
+	]
+}

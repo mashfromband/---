@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アルバニア\n",
+			"option_html": "<p>アルバニア</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "トルコ\n",
+			"option_html": "<p>トルコ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ルーマニア\n",
+			"option_html": "<p>ルーマニア</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ブルガリア\n",
+			"option_html": "<p>ブルガリア</p>\n"
+		}
+	]
+}

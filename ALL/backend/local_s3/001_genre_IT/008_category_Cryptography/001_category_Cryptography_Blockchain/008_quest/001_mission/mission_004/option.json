@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーのデータを中央機関が一括管理する</pre>\n",
+			"option_html": "<pre>ユーザーのデータを中央機関が一括管理する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべてのユーザー情報を公開する</pre>\n",
+			"option_html": "<pre>すべてのユーザー情報を公開する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>個人データの管理権限をユーザー自身に与える</pre>\n",
+			"option_html": "<pre>個人データの管理権限をユーザー自身に与える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データを完全に削除する</pre>\n",
+			"option_html": "<pre>データを完全に削除する</pre>\n"
+		}
+	]
+}

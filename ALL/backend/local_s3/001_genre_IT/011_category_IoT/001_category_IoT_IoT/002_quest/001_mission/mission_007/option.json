@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>環境データを収集する</pre>\n",
+			"option_html": "<pre>環境データを収集する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データを保存する</pre>\n",
+			"option_html": "<pre>データを保存する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>他のデバイスと通信を行う</pre>\n",
+			"option_html": "<pre>他のデバイスと通信を行う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバイスの物理的な動作を制御する</pre>\n",
+			"option_html": "<pre>デバイスの物理的な動作を制御する</pre>\n"
+		}
+	]
+}

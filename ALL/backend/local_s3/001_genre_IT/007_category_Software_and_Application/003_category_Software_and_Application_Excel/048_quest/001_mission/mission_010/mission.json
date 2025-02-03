@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ホーム」タブ→「小数点の増減」</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「小数点の増減」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「挿入」タブ→「グラフを挿入」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「グラフを挿入」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「データ」タブ→「重複の削除」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「重複の削除」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ファイル」タブ→「オプション」</pre>\n",
+			"option_html": "<pre>「ファイル」タブ→「オプション」</pre>\n"
+		}
+	]
+}

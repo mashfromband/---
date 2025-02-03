@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "タバコ\n",
+			"option_html": "<p>タバコ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "酒\n",
+			"option_html": "<p>酒</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "教会\n",
+			"option_html": "<p>教会</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "聖堂\n",
+			"option_html": "<p>聖堂</p>\n"
+		}
+	]
+}

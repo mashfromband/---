@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスファインダー > 型抜き</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 型抜き</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > パス > アウトライン化</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; パス &gt; アウトライン化</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダー > 合体</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 合体</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > パス > アウトラインストローク</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; パス &gt; アウトラインストローク</pre>\n"
+		}
+	]
+}

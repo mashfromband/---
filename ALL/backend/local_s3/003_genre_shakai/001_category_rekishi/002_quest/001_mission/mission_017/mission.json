@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "仙台城\n",
+			"option_html": "<p>仙台城</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "久保田城\n",
+			"option_html": "<p>久保田城</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "根城\n",
+			"option_html": "<p>根城</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "多賀城\n",
+			"option_html": "<p>多賀城</p>\n"
+		}
+	]
+}

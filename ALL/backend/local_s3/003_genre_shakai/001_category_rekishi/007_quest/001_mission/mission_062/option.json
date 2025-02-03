@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ビザンツ帝国\n",
+			"option_html": "<p>ビザンツ帝国</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ラテン帝国\n",
+			"option_html": "<p>ラテン帝国</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ローマ帝国\n",
+			"option_html": "<p>ローマ帝国</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "カネム・ボルヌ帝国\n",
+			"option_html": "<p>カネム・ボルヌ帝国</p>\n"
+		}
+	]
+}

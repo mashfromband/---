@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > ぼかし</pre>\n",
+			"option_html": "<pre>効果 &gt; ぼかし</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 不透明度</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 不透明度</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>編集 > フィルター</pre>\n",
+			"option_html": "<pre>編集 &gt; フィルター</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>表示 > エフェクト</pre>\n",
+			"option_html": "<pre>表示 &gt; エフェクト</pre>\n"
+		}
+	]
+}

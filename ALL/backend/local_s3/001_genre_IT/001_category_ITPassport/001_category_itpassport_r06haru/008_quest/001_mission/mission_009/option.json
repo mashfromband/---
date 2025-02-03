@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "DNSサーバ\n",
+			"option_html": "<p>DNSサーバ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "NTPサーバ\n",
+			"option_html": "<p>NTPサーバ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ストリーミングサーバ\n",
+			"option_html": "<p>ストリーミングサーバ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プロキシサーバ\n",
+			"option_html": "<p>プロキシサーバ</p>\n"
+		}
+	]
+}

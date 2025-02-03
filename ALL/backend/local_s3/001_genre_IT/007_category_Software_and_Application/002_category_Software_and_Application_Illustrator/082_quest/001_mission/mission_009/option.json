@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーをロックまたは非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーをロックまたは非表示にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべてのレイヤーを一度に削除する</pre>\n",
+			"option_html": "<pre>すべてのレイヤーを一度に削除する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべてのオブジェクトを同じレイヤーに統合する</pre>\n",
+			"option_html": "<pre>すべてのオブジェクトを同じレイヤーに統合する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>必要なオブジェクトを再作成する</pre>\n",
+			"option_html": "<pre>必要なオブジェクトを再作成する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>VLOOKUP</pre>\n",
+			"option_html": "<pre>VLOOKUP</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>FIND</pre>\n",
+			"option_html": "<pre>FIND</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>MATCH</pre>\n",
+			"option_html": "<pre>MATCH</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>COUNTIF</pre>\n",
+			"option_html": "<pre>COUNTIF</pre>\n"
+		}
+	]
+}

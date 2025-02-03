@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>デバイスの性能を完全に停止させるため</pre>\n",
+			"option_html": "<pre>デバイスの性能を完全に停止させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>古いデータを削除するため</pre>\n",
+			"option_html": "<pre>古いデータを削除するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスの接続を無効にするため</pre>\n",
+			"option_html": "<pre>デバイスの接続を無効にするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セキュリティの脆弱性を修正し、新しい機能を追加するため</pre>\n",
+			"option_html": "<pre>セキュリティの脆弱性を修正し、新しい機能を追加するため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>暗号化</pre>\n",
+			"option_html": "<pre>暗号化</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フォーキング</pre>\n",
+			"option_html": "<pre>フォーキング</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ノード</pre>\n",
+			"option_html": "<pre>ノード</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハッシュ関数</pre>\n",
+			"option_html": "<pre>ハッシュ関数</pre>\n"
+		}
+	]
+}

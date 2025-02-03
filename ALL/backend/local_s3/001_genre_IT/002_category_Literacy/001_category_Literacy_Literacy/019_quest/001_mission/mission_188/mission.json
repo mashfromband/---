@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"セキュリティ系",
+		"情報セキュリティ",
+		"ID・パスワード管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "同じ文字を繰り返す\n",
+			"option_html": "<p>同じ文字を繰り返す</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "簡単な単語や数字の組み合わせにする\n",
+			"option_html": "<p>簡単な単語や数字の組み合わせにする</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "英字、数字、記号を組み合わせる\n",
+			"option_html": "<p>英字、数字、記号を組み合わせる</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "生年月日を使う\n",
+			"option_html": "<p>生年月日を使う</p>\n"
+		}
+	]
+}

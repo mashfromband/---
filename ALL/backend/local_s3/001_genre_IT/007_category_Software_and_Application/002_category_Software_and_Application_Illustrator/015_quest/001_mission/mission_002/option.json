@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスファインダー > 合体</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 合体</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シェイプ形成ツール</pre>\n",
+			"option_html": "<pre>シェイプ形成ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハサミツール</pre>\n",
+			"option_html": "<pre>ハサミツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アンカーポイントツール</pre>\n",
+			"option_html": "<pre>アンカーポイントツール</pre>\n"
+		}
+	]
+}

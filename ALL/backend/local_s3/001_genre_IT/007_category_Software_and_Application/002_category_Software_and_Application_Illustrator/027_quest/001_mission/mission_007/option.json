@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスの選択ツール</pre>\n",
+			"option_html": "<pre>パスの選択ツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字ツール</pre>\n",
+			"option_html": "<pre>文字ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文字の配置ツール</pre>\n",
+			"option_html": "<pre>文字の配置ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスに文字を沿わせるツール</pre>\n",
+			"option_html": "<pre>パスに文字を沿わせるツール</pre>\n"
+		}
+	]
+}

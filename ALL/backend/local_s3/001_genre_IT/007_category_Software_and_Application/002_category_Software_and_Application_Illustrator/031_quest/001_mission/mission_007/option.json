@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツール</pre>\n",
+			"option_html": "<pre>文字ツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ペンツール</pre>\n",
+			"option_html": "<pre>ペンツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アンカーポイント追加ツール</pre>\n",
+			"option_html": "<pre>アンカーポイント追加ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ダイレクト選択ツール</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツール</pre>\n"
+		}
+	]
+}

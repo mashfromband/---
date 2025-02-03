@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスのアウトライン化</pre>\n",
+			"option_html": "<pre>パスのアウトライン化</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクトのロック</pre>\n",
+			"option_html": "<pre>オブジェクトのロック</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーの分割</pre>\n",
+			"option_html": "<pre>レイヤーの分割</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクトのリサイズ</pre>\n",
+			"option_html": "<pre>オブジェクトのリサイズ</pre>\n"
+		}
+	]
+}

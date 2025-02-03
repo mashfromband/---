@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>常に一定のコストで運用できる</pre>\n",
+			"option_html": "<pre>常に一定のコストで運用できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>開発者がインフラの構築や管理に専念できる</pre>\n",
+			"option_html": "<pre>開発者がインフラの構築や管理に専念できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>使用した分だけ課金されるため、コスト効率が高い</pre>\n",
+			"option_html": "<pre>使用した分だけ課金されるため、コスト効率が高い</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サーバーを直接操作してリソースを管理できる</pre>\n",
+			"option_html": "<pre>サーバーを直接操作してリソースを管理できる</pre>\n"
+		}
+	]
+}

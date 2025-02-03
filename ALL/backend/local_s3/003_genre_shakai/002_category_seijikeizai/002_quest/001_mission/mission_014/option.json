@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "請願権\n",
+			"option_html": "<p>請願権</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "裁判をうける\n権利\n",
+			"option_html": "<p>裁判をうける<br>権利</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "国家賠償\n請求権\n",
+			"option_html": "<p>国家賠償<br>請求権</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "刑事補償\n請求権\n",
+			"option_html": "<p>刑事補償<br>請求権</p>\n"
+		}
+	]
+}

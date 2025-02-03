@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>列番号を右クリックし「削除」を選択する</pre>\n",
+			"option_html": "<pre>列番号を右クリックし「削除」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを選択し「Enter」を押す</pre>\n",
+			"option_html": "<pre>セルを選択し「Enter」を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「データ」タブ→「並べ替え」を選択する</pre>\n",
+			"option_html": "<pre>「データ」タブ→「並べ替え」を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「挿入」タブ→「グラフを追加」を選択する</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「グラフを追加」を選択する</pre>\n"
+		}
+	]
+}

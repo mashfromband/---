@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フォントがインストールされているか確認する</pre>\n",
+			"option_html": "<pre>フォントがインストールされているか確認する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>テキストレイヤーが非表示になっていないか確認する</pre>\n",
+			"option_html": "<pre>テキストレイヤーが非表示になっていないか確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>テキストの不透明度が100%であるか確認する</pre>\n",
+			"option_html": "<pre>テキストの不透明度が100%であるか確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フォントのサイズが適切か確認する</pre>\n",
+			"option_html": "<pre>フォントのサイズが適切か確認する</pre>\n"
+		}
+	]
+}

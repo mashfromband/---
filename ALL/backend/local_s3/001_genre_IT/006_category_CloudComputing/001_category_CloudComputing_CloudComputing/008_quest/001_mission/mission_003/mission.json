@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クラウドリソースの料金を最適化する</pre>\n",
+			"option_html": "<pre>クラウドリソースの料金を最適化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データのバックアップとリストアを自動化する</pre>\n",
+			"option_html": "<pre>データのバックアップとリストアを自動化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザーとリソースへのアクセスを管理する</pre>\n",
+			"option_html": "<pre>ユーザーとリソースへのアクセスを管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドインフラの物理的な保守を行う</pre>\n",
+			"option_html": "<pre>クラウドインフラの物理的な保守を行う</pre>\n"
+		}
+	]
+}

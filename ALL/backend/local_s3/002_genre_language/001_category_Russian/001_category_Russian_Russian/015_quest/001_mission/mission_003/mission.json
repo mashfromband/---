@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"文法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>子音交替にパターンはない</pre>\n",
+			"option_html": "<pre>子音交替にパターンはない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>л, р は п に対応している</pre>\n",
+			"option_html": "<pre>л, р は п に対応している</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ст, ск は щ に対応している</pre>\n",
+			"option_html": "<pre>ст, ск は щ に対応している</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>т, к, ц は ч に対応している</pre>\n",
+			"option_html": "<pre>т, к, ц は ч に対応している</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>内部: 経営者、チームメンバー、外部: 顧客、サプライヤー</pre>\n",
+			"option_html": "<pre>内部: 経営者、チームメンバー、外部: 顧客、サプライヤー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>内部: 顧客、外部: プロジェクトマネージャー</pre>\n",
+			"option_html": "<pre>内部: 顧客、外部: プロジェクトマネージャー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>内部: サプライヤー、外部: チームメンバー</pre>\n",
+			"option_html": "<pre>内部: サプライヤー、外部: チームメンバー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>内部: クライアント、外部: 経営陣</pre>\n",
+			"option_html": "<pre>内部: クライアント、外部: 経営陣</pre>\n"
+		}
+	]
+}

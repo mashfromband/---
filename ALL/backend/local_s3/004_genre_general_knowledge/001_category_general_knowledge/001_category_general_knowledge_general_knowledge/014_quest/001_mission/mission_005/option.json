@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>社員の満足度</pre>\n",
+			"option_html": "<pre>社員の満足度</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>重要業績評価指標</pre>\n",
+			"option_html": "<pre>重要業績評価指標</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>新人教育プログラム</pre>\n",
+			"option_html": "<pre>新人教育プログラム</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>会社の倫理基準</pre>\n",
+			"option_html": "<pre>会社の倫理基準</pre>\n"
+		}
+	]
+}

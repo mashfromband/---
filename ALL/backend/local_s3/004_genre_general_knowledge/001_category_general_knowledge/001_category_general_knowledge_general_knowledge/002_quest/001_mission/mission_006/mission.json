@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ビジネスマナー",
+		"服装・身だしなみ（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>清潔感</pre>\n",
+			"option_html": "<pre>清潔感</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>流行を追うこと</pre>\n",
+			"option_html": "<pre>流行を追うこと</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>個性の表現</pre>\n",
+			"option_html": "<pre>個性の表現</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>華美なアクセサリー</pre>\n",
+			"option_html": "<pre>華美なアクセサリー</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでレイヤーをドラッグして重ねる</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーをドラッグして重ねる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > グループ化</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; グループ化</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで統合を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで統合を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルでレイヤーの名前を変更する</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーの名前を変更する</pre>\n"
+		}
+	]
+}

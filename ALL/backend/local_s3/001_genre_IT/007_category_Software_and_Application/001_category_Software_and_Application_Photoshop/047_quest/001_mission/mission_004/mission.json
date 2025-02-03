@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「編集」メニュー</pre>\n",
+			"option_html": "<pre>「編集」メニュー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ウィンドウ」メニュー</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニュー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネル</pre>\n",
+			"option_html": "<pre>レイヤーパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「表示」メニュー</pre>\n",
+			"option_html": "<pre>「表示」メニュー</pre>\n"
+		}
+	]
+}

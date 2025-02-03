@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シャドウ部分を強調する</pre>\n",
+			"option_html": "<pre>シャドウ部分を強調する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションを滑らかにしてバンディングを防ぐ</pre>\n",
+			"option_html": "<pre>グラデーションを滑らかにしてバンディングを防ぐ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハイライト部分を明るくする</pre>\n",
+			"option_html": "<pre>ハイライト部分を明るくする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲を複製する</pre>\n",
+			"option_html": "<pre>選択範囲を複製する</pre>\n"
+		}
+	]
+}

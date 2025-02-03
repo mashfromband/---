@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "従業員の福利厚生プラン\n",
+			"option_html": "<p>従業員の福利厚生プラン</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "経営者のリーダーシップとビジョン\n",
+			"option_html": "<p>経営者のリーダーシップとビジョン</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "従業員の年齢層とスキルレベル\n",
+			"option_html": "<p>従業員の年齢層とスキルレベル</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "企業の物理的なオフィス環境\n",
+			"option_html": "<p>企業の物理的なオフィス環境</p>\n"
+		}
+	]
+}

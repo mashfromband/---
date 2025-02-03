@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルで「新規レイヤー」を追加する</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「新規レイヤー」を追加する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 配置 > レイヤーに分割</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; レイヤーに分割</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで「選択オブジェクトをレイヤーに分配」</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「選択オブジェクトをレイヤーに分配」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > 変形 > レイヤー分割</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; レイヤー分割</pre>\n"
+		}
+	]
+}

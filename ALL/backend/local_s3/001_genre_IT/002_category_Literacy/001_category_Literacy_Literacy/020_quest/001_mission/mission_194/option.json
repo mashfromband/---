@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "PCの性能を向上させる\n",
+			"option_html": "<p>PCの性能を向上させる</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ウイルスやマルウェアからPCを保護する\n",
+			"option_html": "<p>ウイルスやマルウェアからPCを保護する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "電源を自動で切る\n",
+			"option_html": "<p>電源を自動で切る</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "インターネット速度を向上させる\n",
+			"option_html": "<p>インターネット速度を向上させる</p>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "総理大臣\n",
+			"option_html": "<p>総理大臣</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "天皇\n",
+			"option_html": "<p>天皇</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "知事\n",
+			"option_html": "<p>知事</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "議長\n",
+			"option_html": "<p>議長</p>\n"
+		}
+	]
+}

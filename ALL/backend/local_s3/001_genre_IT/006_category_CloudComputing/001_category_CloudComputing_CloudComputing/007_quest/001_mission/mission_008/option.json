@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>長時間動作するバッチプロセス</pre>\n",
+			"option_html": "<pre>長時間動作するバッチプロセス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>イベントトリガーによって短時間で実行される関数</pre>\n",
+			"option_html": "<pre>イベントトリガーによって短時間で実行される関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サーバー内で常駐する長時間プロセス</pre>\n",
+			"option_html": "<pre>サーバー内で常駐する長時間プロセス</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>定期的に再起動される仮想マシン</pre>\n",
+			"option_html": "<pre>定期的に再起動される仮想マシン</pre>\n"
+		}
+	]
+}

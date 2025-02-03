@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "自社体制\n",
+			"option_html": "<p>自社体制</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "保革体制\n",
+			"option_html": "<p>保革体制</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "30年体制\n",
+			"option_html": "<p>30年体制</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "55年体制\n",
+			"option_html": "<p>55年体制</p>\n"
+		}
+	]
+}

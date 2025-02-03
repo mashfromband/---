@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仕事に集中させる</pre>\n",
+			"option_html": "<pre>仕事に集中させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仕事と生活の調和を取る</pre>\n",
+			"option_html": "<pre>仕事と生活の調和を取る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仕事の効率を下げる</pre>\n",
+			"option_html": "<pre>仕事の効率を下げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>生活を犠牲にする</pre>\n",
+			"option_html": "<pre>生活を犠牲にする</pre>\n"
+		}
+	]
+}

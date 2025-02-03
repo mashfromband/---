@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"セキュリティ",
+		"セキュリティ対策"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ファイアウォール\n",
+			"option_html": "<p>ファイアウォール</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "暗号化\n",
+			"option_html": "<p>暗号化</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "オンラインストレージ\n",
+			"option_html": "<p>オンラインストレージ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "キャッシュクリア\n",
+			"option_html": "<p>キャッシュクリア</p>\n"
+		}
+	]
+}

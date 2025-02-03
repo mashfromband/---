@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>件名は省略してもよい</pre>\n",
+			"option_html": "<pre>件名は省略してもよい</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>宛先が正しいか確認する</pre>\n",
+			"option_html": "<pre>宛先が正しいか確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>どんな内容でも添付ファイルを送る</pre>\n",
+			"option_html": "<pre>どんな内容でも添付ファイルを送る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>上司の確認なしに送信する</pre>\n",
+			"option_html": "<pre>上司の確認なしに送信する</pre>\n"
+		}
+	]
+}

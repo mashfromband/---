@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>バイブランスは自然な彩度調整を行い、彩度は全体を均等に調整する</pre>\n",
+			"option_html": "<pre>バイブランスは自然な彩度調整を行い、彩度は全体を均等に調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>バイブランスは明るさを調整し、彩度は色相を変更する</pre>\n",
+			"option_html": "<pre>バイブランスは明るさを調整し、彩度は色相を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>両者は同じ機能を持つ</pre>\n",
+			"option_html": "<pre>両者は同じ機能を持つ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>バイブランスは選択範囲にのみ影響する</pre>\n",
+			"option_html": "<pre>バイブランスは選択範囲にのみ影響する</pre>\n"
+		}
+	]
+}

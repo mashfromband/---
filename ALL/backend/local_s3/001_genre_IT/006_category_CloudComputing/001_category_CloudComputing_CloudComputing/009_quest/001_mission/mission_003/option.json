@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サーバー間の負荷分散を自動化するツール</pre>\n",
+			"option_html": "<pre>サーバー間の負荷分散を自動化するツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの暗号化キーを保管するプロセス</pre>\n",
+			"option_html": "<pre>データの暗号化キーを保管するプロセス</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データとシステムの状態を特定の時点で記録するコピー</pre>\n",
+			"option_html": "<pre>データとシステムの状態を特定の時点で記録するコピー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワークトラフィックの監視結果を保存する仕組み</pre>\n",
+			"option_html": "<pre>ネットワークトラフィックの監視結果を保存する仕組み</pre>\n"
+		}
+	]
+}

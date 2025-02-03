@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>専門性の向上</pre>\n",
+			"option_html": "<pre>専門性の向上</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>他部署の業務を理解する</pre>\n",
+			"option_html": "<pre>他部署の業務を理解する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仕事量を減らす</pre>\n",
+			"option_html": "<pre>仕事量を減らす</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>常に同じ業務を行う</pre>\n",
+			"option_html": "<pre>常に同じ業務を行う</pre>\n"
+		}
+	]
+}

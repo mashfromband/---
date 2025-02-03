@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Altキーを押しながら描画する</pre>\n",
+			"option_html": "<pre>Altキーを押しながら描画する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Shiftキーを押しながら描画する</pre>\n",
+			"option_html": "<pre>Shiftキーを押しながら描画する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrlキーを押して描画を解除してから描画を開始する</pre>\n",
+			"option_html": "<pre>Ctrlキーを押して描画を解除してから描画を開始する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ペンツールをダブルクリックして「新しいパスを作成」を選択する</pre>\n",
+			"option_html": "<pre>ペンツールをダブルクリックして「新しいパスを作成」を選択する</pre>\n"
+		}
+	]
+}

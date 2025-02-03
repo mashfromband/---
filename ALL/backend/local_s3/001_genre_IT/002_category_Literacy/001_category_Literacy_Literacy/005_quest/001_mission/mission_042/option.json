@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "Ping疎通\n",
+			"option_html": "<p>Ping疎通</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ネットワーク管理\n",
+			"option_html": "<p>ネットワーク管理</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "データの検索と操作\n",
+			"option_html": "<p>データの検索と操作</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "システム監査\n",
+			"option_html": "<p>システム監査</p>\n"
+		}
+	]
+}

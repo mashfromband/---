@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトの目標やスコープ</pre>\n",
+			"option_html": "<pre>プロジェクトの目標やスコープ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトの進捗報告書</pre>\n",
+			"option_html": "<pre>プロジェクトの進捗報告書</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>チームメンバーの休暇予定</pre>\n",
+			"option_html": "<pre>チームメンバーの休暇予定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの最終成果物</pre>\n",
+			"option_html": "<pre>プロジェクトの最終成果物</pre>\n"
+		}
+	]
+}

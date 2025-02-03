@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスツール</pre>\n",
+			"option_html": "<pre>パスツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>移動ツール</pre>\n",
+			"option_html": "<pre>移動ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スポイトツール</pre>\n",
+			"option_html": "<pre>スポイトツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クローンスタンプツール</pre>\n",
+			"option_html": "<pre>クローンスタンプツール</pre>\n"
+		}
+	]
+}

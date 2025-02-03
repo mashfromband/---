@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + S</pre>\n",
+			"option_html": "<pre>Ctrl + S</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Escキー</pre>\n",
+			"option_html": "<pre>Escキー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Alt + Tab</pre>\n",
+			"option_html": "<pre>Alt + Tab</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Shift + F5</pre>\n",
+			"option_html": "<pre>Shift + F5</pre>\n"
+		}
+	]
+}

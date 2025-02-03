@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"生成AI",
+		"概要"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>VertexAI</pre>\n",
+			"option_html": "<pre>VertexAI</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Gemini</pre>\n",
+			"option_html": "<pre>Gemini</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ChatGPT</pre>\n",
+			"option_html": "<pre>ChatGPT</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Claude</pre>\n",
+			"option_html": "<pre>Claude</pre>\n"
+		}
+	]
+}

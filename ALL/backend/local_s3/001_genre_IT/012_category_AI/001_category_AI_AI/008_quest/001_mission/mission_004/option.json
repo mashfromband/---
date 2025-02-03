@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>数学の先生に質問する</pre>\n",
+			"option_html": "<pre>数学の先生に質問する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>友達に解き方を教えてもらう</pre>\n",
+			"option_html": "<pre>友達に解き方を教えてもらう</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文章問題を解くための参考書を勉強する</pre>\n",
+			"option_html": "<pre>文章問題を解くための参考書を勉強する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>問題文を分析し、解き方を教えてくれるツールを使う</pre>\n",
+			"option_html": "<pre>問題文を分析し、解き方を教えてくれるツールを使う</pre>\n"
+		}
+	]
+}

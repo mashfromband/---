@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリをアプリストアに登録する</pre>\n",
+			"option_html": "<pre>アプリをアプリストアに登録する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリのデザインを作成する</pre>\n",
+			"option_html": "<pre>アプリのデザインを作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザーのレビューを収集する</pre>\n",
+			"option_html": "<pre>ユーザーのレビューを収集する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリのコードを最適化する</pre>\n",
+			"option_html": "<pre>アプリのコードを最適化する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > グループ</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; グループ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>編集 > グループ化</pre>\n",
+			"option_html": "<pre>編集 &gt; グループ化</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > アングル > グループ</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; アングル &gt; グループ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 編集 > グループ化</pre>\n",
+			"option_html": "<pre>ファイル &gt; 編集 &gt; グループ化</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択範囲の境界</pre>\n",
+			"option_html": "<pre>選択範囲の境界</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>全体の明るさ</pre>\n",
+			"option_html": "<pre>全体の明るさ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シャドウ、中間調、ハイライト</pre>\n",
+			"option_html": "<pre>シャドウ、中間調、ハイライト</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの不透明度</pre>\n",
+			"option_html": "<pre>レイヤーの不透明度</pre>\n"
+		}
+	]
+}

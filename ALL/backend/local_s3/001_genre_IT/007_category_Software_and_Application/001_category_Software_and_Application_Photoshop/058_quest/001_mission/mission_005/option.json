@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ペンツール</pre>\n",
+			"option_html": "<pre>ペンツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ぼかしツール</pre>\n",
+			"option_html": "<pre>ぼかしツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>なげなわツール</pre>\n",
+			"option_html": "<pre>なげなわツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>塗りつぶしツール</pre>\n",
+			"option_html": "<pre>塗りつぶしツール</pre>\n"
+		}
+	]
+}

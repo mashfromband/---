@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ユニットテスト\n",
+			"option_html": "<p>ユニットテスト</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "リグレッションテスト\n",
+			"option_html": "<p>リグレッションテスト</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ペネトレーションテスト\n",
+			"option_html": "<p>ペネトレーションテスト</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "インテグレーションテスト\n",
+			"option_html": "<p>インテグレーションテスト</p>\n"
+		}
+	]
+}

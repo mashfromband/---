@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ROUND関数</pre>\n",
+			"option_html": "<pre>ROUND関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>CEILING関数</pre>\n",
+			"option_html": "<pre>CEILING関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>FLOOR関数</pre>\n",
+			"option_html": "<pre>FLOOR関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>INT関数</pre>\n",
+			"option_html": "<pre>INT関数</pre>\n"
+		}
+	]
+}

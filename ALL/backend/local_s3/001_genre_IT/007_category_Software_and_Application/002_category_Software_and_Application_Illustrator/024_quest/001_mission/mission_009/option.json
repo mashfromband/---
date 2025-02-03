@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > グリッド > 間隔設定</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; グリッド &gt; 間隔設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>編集 > 環境設定 > グリッド</pre>\n",
+			"option_html": "<pre>編集 &gt; 環境設定 &gt; グリッド</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>表示 > グリッド > グリッド設定</pre>\n",
+			"option_html": "<pre>表示 &gt; グリッド &gt; グリッド設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アートボードパネルでグリッド間隔を調整</pre>\n",
+			"option_html": "<pre>アートボードパネルでグリッド間隔を調整</pre>\n"
+		}
+	]
+}

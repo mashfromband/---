@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ジハード\n",
+			"option_html": "<p>ジハード</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ズィンミー\n",
+			"option_html": "<p>ズィンミー</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "クライザ\n",
+			"option_html": "<p>クライザ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "クルド\n",
+			"option_html": "<p>クルド</p>\n"
+		}
+	]
+}

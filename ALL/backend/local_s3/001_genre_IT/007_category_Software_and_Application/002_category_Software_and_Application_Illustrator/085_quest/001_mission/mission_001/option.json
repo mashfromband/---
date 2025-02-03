@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > エクスポート > アートボードごとに保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; アートボードごとに保存</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 書き出し > 複数アートボード</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; 複数アートボード</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > エクスポート > 書き出しアートボード</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; 書き出しアートボード</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 保存 > 複数アートボード</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存 &gt; 複数アートボード</pre>\n"
+		}
+	]
+}

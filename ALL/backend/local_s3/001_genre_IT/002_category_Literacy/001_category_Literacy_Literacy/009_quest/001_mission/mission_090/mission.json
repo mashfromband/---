@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"テクノロジ系",
+		"システム",
+		"システム開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "魔の川\n",
+			"option_html": "<p>魔の川</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ダーウィンの海\n",
+			"option_html": "<p>ダーウィンの海</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "キャズム\n",
+			"option_html": "<p>キャズム</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "死の谷\n",
+			"option_html": "<p>死の谷</p>\n"
+		}
+	]
+}

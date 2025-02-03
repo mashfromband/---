@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ストラテジ系",
+		"システム戦略",
+		"業務プロセス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "a\n",
+			"option_html": "<p>a</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "a，c\n",
+			"option_html": "<p>a，c</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "b\n",
+			"option_html": "<p>b</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "b，c\n",
+			"option_html": "<p>b，c</p>\n"
+		}
+	]
+}

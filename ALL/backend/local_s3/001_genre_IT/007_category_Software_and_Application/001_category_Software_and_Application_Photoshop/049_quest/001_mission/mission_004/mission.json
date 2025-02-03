@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>切り抜き範囲が背景色で埋められている</pre>\n",
+			"option_html": "<pre>切り抜き範囲が背景色で埋められている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トリミング範囲が固定サイズに設定されている</pre>\n",
+			"option_html": "<pre>トリミング範囲が固定サイズに設定されている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>背景レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>背景レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スナップが有効になっている</pre>\n",
+			"option_html": "<pre>スナップが有効になっている</pre>\n"
+		}
+	]
+}

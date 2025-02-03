@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ストラテジ系",
+		"ビジネスインダストリ",
+		"エンジニアリングシステム"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "(C+E+G)/3-(D+F+H)/3\n",
+			"option_html": "<p>(C+E+G)/3-(D+F+H)/3</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "(C+E+G)/3-H\n",
+			"option_html": "<p>(C+E+G)/3-H</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "(E+G+I)/3-(F+H+J)/3\n",
+			"option_html": "<p>(E+G+I)/3-(F+H+J)/3</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "(E+G+I)/3-J\n",
+			"option_html": "<p>(E+G+I)/3-J</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"カラー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトを選択してCtrl + Shift + Vを押す</pre>\n",
+			"option_html": "<pre>オブジェクトを選択してCtrl + Shift + Vを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクトを選択してスポイトツールで色をドラッグする</pre>\n",
+			"option_html": "<pre>オブジェクトを選択してスポイトツールで色をドラッグする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スポイトツールで色をコピー後、色を適用する</pre>\n",
+			"option_html": "<pre>スポイトツールで色をコピー後、色を適用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>直接スポイトツールでオブジェクトに色を適用する</pre>\n",
+			"option_html": "<pre>直接スポイトツールでオブジェクトに色を適用する</pre>\n"
+		}
+	]
+}

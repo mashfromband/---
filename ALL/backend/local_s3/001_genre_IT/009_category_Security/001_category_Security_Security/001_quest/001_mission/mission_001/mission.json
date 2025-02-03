@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>他人のデータを自由に使えるようにする</pre>\n",
+			"option_html": "<pre>他人のデータを自由に使えるようにする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>インターネットの通信速度を上げる</pre>\n",
+			"option_html": "<pre>インターネットの通信速度を上げる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サーバーの容量を増やす</pre>\n",
+			"option_html": "<pre>サーバーの容量を増やす</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データを保護し、システムを安全に使えるようにする</pre>\n",
+			"option_html": "<pre>データを保護し、システムを安全に使えるようにする</pre>\n"
+		}
+	]
+}

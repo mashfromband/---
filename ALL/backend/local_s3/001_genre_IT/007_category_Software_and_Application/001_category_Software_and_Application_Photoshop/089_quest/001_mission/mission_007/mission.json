@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>編集履歴を削除する</pre>\n",
+			"option_html": "<pre>編集履歴を削除する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルターを適用後でも調整可能にする</pre>\n",
+			"option_html": "<pre>フィルターを適用後でも調整可能にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像の解像度を向上させる</pre>\n",
+			"option_html": "<pre>画像の解像度を向上させる</pre>\n"
+		}
+	]
+}

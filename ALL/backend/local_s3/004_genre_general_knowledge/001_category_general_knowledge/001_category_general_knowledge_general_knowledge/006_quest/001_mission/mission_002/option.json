@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>声が明るく元気であること</pre>\n",
+			"option_html": "<pre>声が明るく元気であること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>相手に背を向ける</pre>\n",
+			"option_html": "<pre>相手に背を向ける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>無表情で挨拶する</pre>\n",
+			"option_html": "<pre>無表情で挨拶する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>一言も発しない</pre>\n",
+			"option_html": "<pre>一言も発しない</pre>\n"
+		}
+	]
+}

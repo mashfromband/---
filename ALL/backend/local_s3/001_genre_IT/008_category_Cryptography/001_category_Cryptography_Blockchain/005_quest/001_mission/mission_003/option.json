@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの改ざんを防ぐため</pre>\n",
+			"option_html": "<pre>データの改ざんを防ぐため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>過去の取引を検索しやすくするため</pre>\n",
+			"option_html": "<pre>過去の取引を検索しやすくするため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トランザクション処理を高速化するため</pre>\n",
+			"option_html": "<pre>トランザクション処理を高速化するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>各ブロックのサイズを均一にするため</pre>\n",
+			"option_html": "<pre>各ブロックのサイズを均一にするため</pre>\n"
+		}
+	]
+}

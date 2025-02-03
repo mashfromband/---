@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでCtrl + Aを押す</pre>\n",
+			"option_html": "<pre>レイヤーパネルでCtrl + Aを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 選択 > すべて選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 選択 &gt; すべて選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで選択したオブジェクトをドラッグ</pre>\n",
+			"option_html": "<pre>レイヤーパネルで選択したオブジェクトをドラッグ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで右クリックして「すべて選択」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックして「すべて選択」を選択</pre>\n"
+		}
+	]
+}

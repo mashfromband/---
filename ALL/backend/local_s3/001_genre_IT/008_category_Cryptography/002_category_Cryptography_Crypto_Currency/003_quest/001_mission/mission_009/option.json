@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データをネットワーク全体で共有・管理するシステム</pre>\n",
+			"option_html": "<pre>データをネットワーク全体で共有・管理するシステム</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべてのデータを中央サーバーに保管する仕組み</pre>\n",
+			"option_html": "<pre>すべてのデータを中央サーバーに保管する仕組み</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザーが自分のデバイスでのみデータを管理する方法</pre>\n",
+			"option_html": "<pre>ユーザーが自分のデバイスでのみデータを管理する方法</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特定の機関が台帳を集中管理するモデル</pre>\n",
+			"option_html": "<pre>特定の機関が台帳を集中管理するモデル</pre>\n"
+		}
+	]
+}

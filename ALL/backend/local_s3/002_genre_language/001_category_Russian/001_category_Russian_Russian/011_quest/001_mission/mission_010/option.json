@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>имя</pre>\n",
+			"option_html": "<pre>имя</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>время</pre>\n",
+			"option_html": "<pre>время</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>неделя</pre>\n",
+			"option_html": "<pre>неделя</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>семя</pre>\n",
+			"option_html": "<pre>семя</pre>\n"
+		}
+	]
+}

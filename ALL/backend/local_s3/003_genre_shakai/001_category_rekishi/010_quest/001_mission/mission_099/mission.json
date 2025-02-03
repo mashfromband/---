@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "花営三代記\n",
+			"option_html": "<p>花営三代記</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "中世日本紀\n",
+			"option_html": "<p>中世日本紀</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "神皇正統記\n",
+			"option_html": "<p>神皇正統記</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "常楽記\n",
+			"option_html": "<p>常楽記</p>\n"
+		}
+	]
+}

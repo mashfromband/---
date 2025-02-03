@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスワードを忘れやすくなる</pre>\n",
+			"option_html": "<pre>パスワードを忘れやすくなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>システムに負荷がかかる</pre>\n",
+			"option_html": "<pre>システムに負荷がかかる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>複数のサービスで同じパスワードが漏洩すると、他のサービスにも不正アクセスされる可能性がある</pre>\n",
+			"option_html": "<pre>複数のサービスで同じパスワードが漏洩すると、他のサービスにも不正アクセスされる可能性がある</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスワードの入力が面倒になる</pre>\n",
+			"option_html": "<pre>パスワードの入力が面倒になる</pre>\n"
+		}
+	]
+}

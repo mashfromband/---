@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Altキーを押しながらドラッグし、Ctrl + Dを押す</pre>\n",
+			"option_html": "<pre>Altキーを押しながらドラッグし、Ctrl + Dを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 配置 > 直線整列</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 直線整列</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダーで「並べる」を選択</pre>\n",
+			"option_html": "<pre>パスファインダーで「並べる」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アラインパネルで「間隔を指定して整列」を設定</pre>\n",
+			"option_html": "<pre>アラインパネルで「間隔を指定して整列」を設定</pre>\n"
+		}
+	]
+}

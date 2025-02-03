@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>分散型ネットワーク</pre>\n",
+			"option_html": "<pre>分散型ネットワーク</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>暗号化アルゴリズム</pre>\n",
+			"option_html": "<pre>暗号化アルゴリズム</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハッシュ値とチェーン構造</pre>\n",
+			"option_html": "<pre>ハッシュ値とチェーン構造</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>トークンエコノミー</pre>\n",
+			"option_html": "<pre>トークンエコノミー</pre>\n"
+		}
+	]
+}

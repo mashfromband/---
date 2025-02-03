@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤーパネル」から「レイヤーマスクを追加」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から「レイヤーマスクを追加」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「選択範囲」メニューから「レイヤーマスクを追加」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「レイヤーマスクを追加」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤー」メニューから「レイヤーマスクを追加」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤー」メニューから「レイヤーマスクを追加」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「フィルター」メニューから「レイヤーマスク」を追加する</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「レイヤーマスク」を追加する</pre>\n"
+		}
+	]
+}

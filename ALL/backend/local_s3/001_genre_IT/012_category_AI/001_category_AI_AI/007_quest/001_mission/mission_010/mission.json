@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自然言語で指示するだけでコードを生成してくれるツールを使う</pre>\n",
+			"option_html": "<pre>自然言語で指示するだけでコードを生成してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プログラミングの参考書をたくさん読む</pre>\n",
+			"option_html": "<pre>プログラミングの参考書をたくさん読む</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プログラミングスクールに通って学ぶ</pre>\n",
+			"option_html": "<pre>プログラミングスクールに通って学ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オンライン学習サイトで学ぶ</pre>\n",
+			"option_html": "<pre>オンライン学習サイトで学ぶ</pre>\n"
+		}
+	]
+}

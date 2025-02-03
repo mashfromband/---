@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スナップがオンになっている</pre>\n",
+			"option_html": "<pre>スナップがオンになっている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>対象のオブジェクトがロックされている</pre>\n",
+			"option_html": "<pre>対象のオブジェクトがロックされている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グループ化されていない</pre>\n",
+			"option_html": "<pre>グループ化されていない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーが非表示になっている</pre>\n",
+			"option_html": "<pre>レイヤーが非表示になっている</pre>\n"
+		}
+	]
+}

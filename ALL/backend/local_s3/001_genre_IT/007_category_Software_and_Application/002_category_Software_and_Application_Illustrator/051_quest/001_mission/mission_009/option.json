@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > 変形 > 波紋</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; 波紋</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター > 波 > 波紋</pre>\n",
+			"option_html": "<pre>フィルター &gt; 波 &gt; 波紋</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > スタイライズ > 波紋</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; 波紋</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルター > アーティスティック > 波紋</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック &gt; 波紋</pre>\n"
+		}
+	]
+}

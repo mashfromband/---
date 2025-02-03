@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"数式・関数"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>SEARCH関数</pre>\n",
+			"option_html": "<pre>SEARCH関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>FIND関数</pre>\n",
+			"option_html": "<pre>FIND関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>SUBSTITUTE関数</pre>\n",
+			"option_html": "<pre>SUBSTITUTE関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>REPLACE関数</pre>\n",
+			"option_html": "<pre>REPLACE関数</pre>\n"
+		}
+	]
+}

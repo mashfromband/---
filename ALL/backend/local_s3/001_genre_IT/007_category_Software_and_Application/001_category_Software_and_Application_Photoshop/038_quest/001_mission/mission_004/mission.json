@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「表示」メニューの「背景を変更」から設定する</pre>\n",
+			"option_html": "<pre>「表示」メニューの「背景を変更」から設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「編集」メニューの「環境設定」で背景色を選択する</pre>\n",
+			"option_html": "<pre>「編集」メニューの「環境設定」で背景色を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>カンバス上で右クリックして背景色を選択する</pre>\n",
+			"option_html": "<pre>カンバス上で右クリックして背景色を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>背景色は変更できない</pre>\n",
+			"option_html": "<pre>背景色は変更できない</pre>\n"
+		}
+	]
+}

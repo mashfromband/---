@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>タイプツール</pre>\n",
+			"option_html": "<pre>タイプツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>エリア内文字ツール</pre>\n",
+			"option_html": "<pre>エリア内文字ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パス上文字ツール</pre>\n",
+			"option_html": "<pre>パス上文字ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自由変形ツール</pre>\n",
+			"option_html": "<pre>自由変形ツール</pre>\n"
+		}
+	]
+}

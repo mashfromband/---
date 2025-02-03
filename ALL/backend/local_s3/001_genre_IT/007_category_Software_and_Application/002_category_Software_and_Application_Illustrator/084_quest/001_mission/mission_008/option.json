@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「ページ番号を追加」オプションを選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「ページ番号を追加」オプションを選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アートボードツールで番号を付ける</pre>\n",
+			"option_html": "<pre>アートボードツールで番号を付ける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 書き出し > ページ番号</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; ページ番号</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>印刷設定でページ番号を設定</pre>\n",
+			"option_html": "<pre>印刷設定でページ番号を設定</pre>\n"
+		}
+	]
+}

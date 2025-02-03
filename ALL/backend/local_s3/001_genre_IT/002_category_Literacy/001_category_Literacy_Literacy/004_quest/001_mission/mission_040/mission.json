@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ストラテジ系",
+		"ビジネス用語",
+		"経営戦略"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "コアコンピタンス\n",
+			"option_html": "<p>コアコンピタンス</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "コーポレートガバナンス\n",
+			"option_html": "<p>コーポレートガバナンス</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "クラウドコンピューティング　\n",
+			"option_html": "<p>クラウドコンピューティング　</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "UTM　\n",
+			"option_html": "<p>UTM　</p>\n"
+		}
+	]
+}

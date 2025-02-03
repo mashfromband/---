@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>同じデータが複数のノードに保存されているため</pre>\n",
+			"option_html": "<pre>同じデータが複数のノードに保存されているため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データがネットワーク全体で一斉に消去されるため</pre>\n",
+			"option_html": "<pre>データがネットワーク全体で一斉に消去されるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの容量が小さくなるため</pre>\n",
+			"option_html": "<pre>データの容量が小さくなるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>トランザクションの速度が向上するため</pre>\n",
+			"option_html": "<pre>トランザクションの速度が向上するため</pre>\n"
+		}
+	]
+}

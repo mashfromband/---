@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"パス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パス > 方向反転を選択する</pre>\n",
+			"option_html": "<pre>パス &gt; 方向反転を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>変形 > 反転を選択する</pre>\n",
+			"option_html": "<pre>変形 &gt; 反転を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ダイレクト選択ツールで反転を選択する</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツールで反転を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ペンツールで反転を選択する</pre>\n",
+			"option_html": "<pre>ペンツールで反転を選択する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルの書式設定で「通貨」を選択する</pre>\n",
+			"option_html": "<pre>セルの書式設定で「通貨」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルの書式設定で「標準」を選択する</pre>\n",
+			"option_html": "<pre>セルの書式設定で「標準」を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルの書式設定で「日付」を選択する</pre>\n",
+			"option_html": "<pre>セルの書式設定で「日付」を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルの書式設定で「分数」を選択する</pre>\n",
+			"option_html": "<pre>セルの書式設定で「分数」を選択する</pre>\n"
+		}
+	]
+}

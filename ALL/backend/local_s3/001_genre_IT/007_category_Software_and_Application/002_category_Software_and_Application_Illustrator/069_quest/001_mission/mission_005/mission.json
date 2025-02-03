@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字パネルで傾斜角を設定する</pre>\n",
+			"option_html": "<pre>文字パネルで傾斜角を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > 変形 > 斜めに傾けるを選択する</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; 斜めに傾けるを選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで傾斜を設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで傾斜を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スウォッチパネルで傾斜を設定する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで傾斜を設定する</pre>\n"
+		}
+	]
+}

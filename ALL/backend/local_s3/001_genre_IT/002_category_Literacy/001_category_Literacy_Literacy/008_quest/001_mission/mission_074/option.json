@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "売り上げの増加\n",
+			"option_html": "<p>売り上げの増加</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "エンジニアの育成\n",
+			"option_html": "<p>エンジニアの育成</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "開発期間の短縮\n",
+			"option_html": "<p>開発期間の短縮</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "エンジニアの賃金の増加\n",
+			"option_html": "<p>エンジニアの賃金の増加</p>\n"
+		}
+	]
+}

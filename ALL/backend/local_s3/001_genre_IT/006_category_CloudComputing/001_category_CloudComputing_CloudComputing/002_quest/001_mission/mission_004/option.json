@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>高いセキュリティと完全なカスタマイズ性</pre>\n",
+			"option_html": "<pre>高いセキュリティと完全なカスタマイズ性</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>専有型リソースと専用ネットワーク</pre>\n",
+			"option_html": "<pre>専有型リソースと専用ネットワーク</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>柔軟なスケーラビリティと低コストの利用</pre>\n",
+			"option_html": "<pre>柔軟なスケーラビリティと低コストの利用</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サーバーの完全な物理的所有</pre>\n",
+			"option_html": "<pre>サーバーの完全な物理的所有</pre>\n"
+		}
+	]
+}

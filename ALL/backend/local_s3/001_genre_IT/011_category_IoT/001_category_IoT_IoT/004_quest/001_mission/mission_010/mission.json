@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>デバイスの物理的な操作を制御する</pre>\n",
+			"option_html": "<pre>デバイスの物理的な操作を制御する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの収集、保存、分析を一括で行う</pre>\n",
+			"option_html": "<pre>データの収集、保存、分析を一括で行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイス同士を直接接続し、ネットワークを不要にする</pre>\n",
+			"option_html": "<pre>デバイス同士を直接接続し、ネットワークを不要にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>インターネット接続を介さずにデータを管理する</pre>\n",
+			"option_html": "<pre>インターネット接続を介さずにデータを管理する</pre>\n"
+		}
+	]
+}

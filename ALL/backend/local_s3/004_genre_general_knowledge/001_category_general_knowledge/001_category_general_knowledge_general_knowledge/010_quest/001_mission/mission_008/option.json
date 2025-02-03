@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>専門的な内容をできるだけ詳しく話す</pre>\n",
+			"option_html": "<pre>専門的な内容をできるだけ詳しく話す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ストーリーや事例を使って説明する</pre>\n",
+			"option_html": "<pre>ストーリーや事例を使って説明する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プレゼン資料を長く作成する</pre>\n",
+			"option_html": "<pre>プレゼン資料を長く作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>一方的に話し続ける</pre>\n",
+			"option_html": "<pre>一方的に話し続ける</pre>\n"
+		}
+	]
+}

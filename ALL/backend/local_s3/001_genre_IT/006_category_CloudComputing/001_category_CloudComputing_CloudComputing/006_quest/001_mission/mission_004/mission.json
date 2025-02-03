@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想マシンのハイパーバイザーとして物理リソースを分配する</pre>\n",
+			"option_html": "<pre>仮想マシンのハイパーバイザーとして物理リソースを分配する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリケーションをコンテナ化し、簡単にデプロイ・実行できる環境を提供する</pre>\n",
+			"option_html": "<pre>アプリケーションをコンテナ化し、簡単にデプロイ・実行できる環境を提供する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>複数の仮想サーバーを統合してデータを管理する</pre>\n",
+			"option_html": "<pre>複数の仮想サーバーを統合してデータを管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想ネットワーク機器を物理環境で構築する</pre>\n",
+			"option_html": "<pre>仮想ネットワーク機器を物理環境で構築する</pre>\n"
+		}
+	]
+}

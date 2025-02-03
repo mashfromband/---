@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Altキーを押しながらドラッグし、Ctrl + Dを押す</pre>\n",
+			"option_html": "<pre>Altキーを押しながらドラッグし、Ctrl + Dを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スマートガイドを有効にしてドラッグする</pre>\n",
+			"option_html": "<pre>スマートガイドを有効にしてドラッグする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 配置 > 整列</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 整列</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アラインパネルで「直線配置」を設定する</pre>\n",
+			"option_html": "<pre>アラインパネルで「直線配置」を設定する</pre>\n"
+		}
+	]
+}

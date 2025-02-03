@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトの計画を立てる</pre>\n",
+			"option_html": "<pre>プロジェクトの計画を立てる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>成果物の最終確認と引き渡し</pre>\n",
+			"option_html": "<pre>成果物の最終確認と引き渡し</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトのタスクを実行する</pre>\n",
+			"option_html": "<pre>プロジェクトのタスクを実行する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトのリスクを再評価する</pre>\n",
+			"option_html": "<pre>プロジェクトのリスクを再評価する</pre>\n"
+		}
+	]
+}

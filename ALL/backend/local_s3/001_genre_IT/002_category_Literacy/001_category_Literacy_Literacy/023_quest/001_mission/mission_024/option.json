@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "RAM\n",
+			"option_html": "<p>RAM</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "CPU\n",
+			"option_html": "<p>CPU</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ハードディスク（HDD）\n",
+			"option_html": "<p>ハードディスク（HDD）</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "グラフィックカード\n",
+			"option_html": "<p>グラフィックカード</p>\n"
+		}
+	]
+}

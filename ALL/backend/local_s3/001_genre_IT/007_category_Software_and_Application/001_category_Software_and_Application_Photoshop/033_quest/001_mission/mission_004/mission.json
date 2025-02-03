@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Photoshopを再起動する</pre>\n",
+			"option_html": "<pre>Photoshopを再起動する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ウィンドウ」メニューで「ツールバーのリセット」を選択する</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューで「ツールバーのリセット」を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「編集」メニューの「環境設定」→「ツールバーのリセット」を選択する</pre>\n",
+			"option_html": "<pre>「編集」メニューの「環境設定」→「ツールバーのリセット」を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ツールバーのカスタマイズはリセットできない</pre>\n",
+			"option_html": "<pre>ツールバーのカスタマイズはリセットできない</pre>\n"
+		}
+	]
+}

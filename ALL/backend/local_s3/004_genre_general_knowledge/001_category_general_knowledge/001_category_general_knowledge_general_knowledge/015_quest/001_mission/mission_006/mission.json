@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"組織理解",
+		"労務基礎（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>上司が部下を評価する事</pre>\n",
+			"option_html": "<pre>上司が部下を評価する事</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>外部の専門家が行う評価</pre>\n",
+			"option_html": "<pre>外部の専門家が行う評価</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仕事の成果のみで評価する事</pre>\n",
+			"option_html": "<pre>仕事の成果のみで評価する事</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>複数の業務関係者から評価</pre>\n",
+			"option_html": "<pre>複数の業務関係者から評価</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > トリミング</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; トリミング</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>表示 > トリミングビュー</pre>\n",
+			"option_html": "<pre>表示 &gt; トリミングビュー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > トリミング</pre>\n",
+			"option_html": "<pre>効果 &gt; トリミング</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アートボードツールで調整</pre>\n",
+			"option_html": "<pre>アートボードツールで調整</pre>\n"
+		}
+	]
+}

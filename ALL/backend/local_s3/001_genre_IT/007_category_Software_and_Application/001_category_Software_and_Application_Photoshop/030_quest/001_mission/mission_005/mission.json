@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>比率を保ったまま変形する</pre>\n",
+			"option_html": "<pre>比率を保ったまま変形する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>変形が無効になる</pre>\n",
+			"option_html": "<pre>変形が無効になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自由に形を変形できる</pre>\n",
+			"option_html": "<pre>自由に形を変形できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーが複製される</pre>\n",
+			"option_html": "<pre>レイヤーが複製される</pre>\n"
+		}
+	]
+}

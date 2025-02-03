@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>圧縮率が高い</pre>\n",
+			"option_html": "<pre>圧縮率が高い</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像の共有がしやすい</pre>\n",
+			"option_html": "<pre>画像の共有がしやすい</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーが削除される</pre>\n",
+			"option_html": "<pre>レイヤーが削除される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>動画を埋め込める</pre>\n",
+			"option_html": "<pre>動画を埋め込める</pre>\n"
+		}
+	]
+}

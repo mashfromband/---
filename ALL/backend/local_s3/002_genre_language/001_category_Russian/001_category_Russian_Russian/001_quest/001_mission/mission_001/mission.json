@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"アルファベット"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>キリル文字</pre>\n",
+			"option_html": "<pre>キリル文字</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ギリシャ文字</pre>\n",
+			"option_html": "<pre>ギリシャ文字</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ヘブライ文字</pre>\n",
+			"option_html": "<pre>ヘブライ文字</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アラビア文字</pre>\n",
+			"option_html": "<pre>アラビア文字</pre>\n"
+		}
+	]
+}

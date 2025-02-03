@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "所得税\n",
+			"option_html": "<p>所得税</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "住民税\n",
+			"option_html": "<p>住民税</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "法人税\n",
+			"option_html": "<p>法人税</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "相続税\n",
+			"option_html": "<p>相続税</p>\n"
+		}
+	]
+}

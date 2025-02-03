@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "情報システム部長\n",
+			"option_html": "<p>情報システム部長</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "CEO\n",
+			"option_html": "<p>CEO</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "CIO\n",
+			"option_html": "<p>CIO</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "人事部長\n",
+			"option_html": "<p>人事部長</p>\n"
+		}
+	]
+}

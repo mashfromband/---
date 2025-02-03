@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイルを閉じて再度開く</pre>\n",
+			"option_html": "<pre>ファイルを閉じて再度開く</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl（Cmd）+Zを使う</pre>\n",
+			"option_html": "<pre>Ctrl（Cmd）+Zを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>元に戻したい部分を再作成する</pre>\n",
+			"option_html": "<pre>元に戻したい部分を再作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>別のファイルから要素をコピーして貼り付ける</pre>\n",
+			"option_html": "<pre>別のファイルから要素をコピーして貼り付ける</pre>\n"
+		}
+	]
+}

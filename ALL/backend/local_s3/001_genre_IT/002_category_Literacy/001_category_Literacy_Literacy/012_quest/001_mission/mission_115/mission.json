@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"セキュリティ系",
+		"認証",
+		"2要素認証"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "2つのデバイスで同時にログインする\n",
+			"option_html": "<p>2つのデバイスで同時にログインする</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "2つの異なる証拠を提供して認証を行う\n",
+			"option_html": "<p>2つの異なる証拠を提供して認証を行う</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "2つの異なるネットワークを経由して認証する\n",
+			"option_html": "<p>2つの異なるネットワークを経由して認証する</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "2回パスワードを入力する\n",
+			"option_html": "<p>2回パスワードを入力する</p>\n"
+		}
+	]
+}

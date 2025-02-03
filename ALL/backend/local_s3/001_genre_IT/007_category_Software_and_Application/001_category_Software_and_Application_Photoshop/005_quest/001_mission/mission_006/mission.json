@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択ツール</pre>\n",
+			"option_html": "<pre>選択ツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クロップツール</pre>\n",
+			"option_html": "<pre>クロップツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>移動ツール</pre>\n",
+			"option_html": "<pre>移動ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スライスツール</pre>\n",
+			"option_html": "<pre>スライスツール</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>合性名詞</pre>\n",
+			"option_html": "<pre>合性名詞</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>総性名詞</pre>\n",
+			"option_html": "<pre>総性名詞</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>両性名詞</pre>\n",
+			"option_html": "<pre>両性名詞</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>双性名詞</pre>\n",
+			"option_html": "<pre>双性名詞</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>背筋を伸ばし腰から曲げる</pre>\n",
+			"option_html": "<pre>背筋を伸ばし腰から曲げる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>首だけ下げる</pre>\n",
+			"option_html": "<pre>首だけ下げる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>背中を丸めて曲げる</pre>\n",
+			"option_html": "<pre>背中を丸めて曲げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>手をポケットに入れたまま</pre>\n",
+			"option_html": "<pre>手をポケットに入れたまま</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>上司に許可なく残業する</pre>\n",
+			"option_html": "<pre>上司に許可なく残業する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自己申告で労働時間を記録する</pre>\n",
+			"option_html": "<pre>自己申告で労働時間を記録する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>記録を正確に報告する</pre>\n",
+			"option_html": "<pre>記録を正確に報告する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>勤務時間を短縮して記録する</pre>\n",
+			"option_html": "<pre>勤務時間を短縮して記録する</pre>\n"
+		}
+	]
+}

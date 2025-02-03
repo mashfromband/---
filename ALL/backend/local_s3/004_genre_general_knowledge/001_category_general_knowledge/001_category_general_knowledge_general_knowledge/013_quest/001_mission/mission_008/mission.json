@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"組織理解",
+		"組織論の常識（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>階層が少なく意思決定が速い</pre>\n",
+			"option_html": "<pre>階層が少なく意思決定が速い</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>上下関係が厳格である</pre>\n",
+			"option_html": "<pre>上下関係が厳格である</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>意見が通りにくい</pre>\n",
+			"option_html": "<pre>意見が通りにくい</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>指揮命令系統が複雑</pre>\n",
+			"option_html": "<pre>指揮命令系統が複雑</pre>\n"
+		}
+	]
+}

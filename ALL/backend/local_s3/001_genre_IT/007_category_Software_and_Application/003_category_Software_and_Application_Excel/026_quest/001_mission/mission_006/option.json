@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ホーム」タブの「塗りつぶしの色」を変更する</pre>\n",
+			"option_html": "<pre>「ホーム」タブの「塗りつぶしの色」を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「データ」タブの「重複の削除」を選択する</pre>\n",
+			"option_html": "<pre>「データ」タブの「重複の削除」を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ページレイアウト」タブの「改ページの挿入」を選択する</pre>\n",
+			"option_html": "<pre>「ページレイアウト」タブの「改ページの挿入」を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「挿入」タブで「テキストボックス」を追加する</pre>\n",
+			"option_html": "<pre>「挿入」タブで「テキストボックス」を追加する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>管理者が仲介するため取引が迅速に行える</pre>\n",
+			"option_html": "<pre>管理者が仲介するため取引が迅速に行える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>利用可能な仮想通貨の種類が制限される</pre>\n",
+			"option_html": "<pre>利用可能な仮想通貨の種類が制限される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>取引が中央管理者なしに直接行われ、プライバシーが保護される</pre>\n",
+			"option_html": "<pre>取引が中央管理者なしに直接行われ、プライバシーが保護される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引には必ず第三者の承認が必要となる</pre>\n",
+			"option_html": "<pre>取引には必ず第三者の承認が必要となる</pre>\n"
+		}
+	]
+}

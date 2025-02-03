@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ブラシサイズを大きくする</pre>\n",
+			"option_html": "<pre>ブラシサイズを大きくする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>流量を調整する</pre>\n",
+			"option_html": "<pre>流量を調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サンプリング元を手動で設定する</pre>\n",
+			"option_html": "<pre>サンプリング元を手動で設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>描画モードを「通常」に変更する</pre>\n",
+			"option_html": "<pre>描画モードを「通常」に変更する</pre>\n"
+		}
+	]
+}

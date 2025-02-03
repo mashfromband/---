@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラデーションエディターの右端の色を緑色に設定する</pre>\n",
+			"option_html": "<pre>グラデーションエディターの右端の色を緑色に設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションエディターの左端の色を緑色に設定する</pre>\n",
+			"option_html": "<pre>グラデーションエディターの左端の色を緑色に設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションエディターの中央部分の色を緑色に設定する</pre>\n",
+			"option_html": "<pre>グラデーションエディターの中央部分の色を緑色に設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>彩度スライダーを右に動かす</pre>\n",
+			"option_html": "<pre>彩度スライダーを右に動かす</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アンチエイリアスを有効にする</pre>\n",
+			"option_html": "<pre>アンチエイリアスを有効にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ブラシの硬さを調整する</pre>\n",
+			"option_html": "<pre>ブラシの硬さを調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>流量を上げる</pre>\n",
+			"option_html": "<pre>流量を上げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スナップを無効にする</pre>\n",
+			"option_html": "<pre>スナップを無効にする</pre>\n"
+		}
+	]
+}

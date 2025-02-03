@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "クロスライセンス\n",
+			"option_html": "<p>クロスライセンス</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "M&A\n",
+			"option_html": "<p>M&amp;A</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ジョイントベンチャー\n",
+			"option_html": "<p>ジョイントベンチャー</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "スピンオフ\n",
+			"option_html": "<p>スピンオフ</p>\n"
+		}
+	]
+}

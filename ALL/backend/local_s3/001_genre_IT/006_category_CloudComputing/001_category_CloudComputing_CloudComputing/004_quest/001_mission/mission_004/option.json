@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クラウドサービスの先駆者としての豊富な実績</pre>\n",
+			"option_html": "<pre>クラウドサービスの先駆者としての豊富な実績</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Windows環境との統合が容易である</pre>\n",
+			"option_html": "<pre>Windows環境との統合が容易である</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>AIやデータ分析の特化サービスを提供している</pre>\n",
+			"option_html": "<pre>AIやデータ分析の特化サービスを提供している</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オフィスツールを中心としたサービスを提供している</pre>\n",
+			"option_html": "<pre>オフィスツールを中心としたサービスを提供している</pre>\n"
+		}
+	]
+}

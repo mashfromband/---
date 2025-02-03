@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 色 > 反転</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 色 &gt; 反転</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーパネルで反転色を選択する</pre>\n",
+			"option_html": "<pre>カラーパネルで反転色を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スウォッチパネルで反転を選択する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで反転を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グラデーションパネルで反転を設定する</pre>\n",
+			"option_html": "<pre>グラデーションパネルで反転を設定する</pre>\n"
+		}
+	]
+}

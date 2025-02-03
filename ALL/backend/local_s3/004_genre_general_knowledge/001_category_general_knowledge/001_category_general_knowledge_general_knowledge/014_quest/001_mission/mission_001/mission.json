@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"組織理解",
+		"組織論の常識（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>他人を管理するだけ</pre>\n",
+			"option_html": "<pre>他人を管理するだけ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>チームの方向性を示す</pre>\n",
+			"option_html": "<pre>チームの方向性を示す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>全ての業務を代行する</pre>\n",
+			"option_html": "<pre>全ての業務を代行する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>評価を行わない</pre>\n",
+			"option_html": "<pre>評価を行わない</pre>\n"
+		}
+	]
+}

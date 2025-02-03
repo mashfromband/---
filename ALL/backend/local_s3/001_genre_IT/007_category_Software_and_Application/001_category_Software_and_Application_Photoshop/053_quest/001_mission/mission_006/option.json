@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色を調整するため</pre>\n",
+			"option_html": "<pre>色を調整するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>複数のレイアウトを1つのドキュメントで管理するため</pre>\n",
+			"option_html": "<pre>複数のレイアウトを1つのドキュメントで管理するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像を切り抜くため</pre>\n",
+			"option_html": "<pre>画像を切り抜くため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイルサイズを縮小するため</pre>\n",
+			"option_html": "<pre>ファイルサイズを縮小するため</pre>\n"
+		}
+	]
+}

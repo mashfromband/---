@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ソーシャルエンジニアリング\n",
+			"option_html": "<p>ソーシャルエンジニアリング</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "トロイの木馬\n",
+			"option_html": "<p>トロイの木馬</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "スプーフィング\n",
+			"option_html": "<p>スプーフィング</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "マルウェア感染\n",
+			"option_html": "<p>マルウェア感染</p>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"テクノロジ系",
+		"システム開発",
+		"システム"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "リファクタリング\n",
+			"option_html": "<p>リファクタリング</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アジャイル開発\n",
+			"option_html": "<p>アジャイル開発</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ウォーターフォール開発\n",
+			"option_html": "<p>ウォーターフォール開発</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "DevOps\n",
+			"option_html": "<p>DevOps</p>\n"
+		}
+	]
+}

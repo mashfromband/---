@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "西晋\n",
+			"option_html": "<p>西晋</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "東晋\n",
+			"option_html": "<p>東晋</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "南晋\n",
+			"option_html": "<p>南晋</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "北晋\n",
+			"option_html": "<p>北晋</p>\n"
+		}
+	]
+}

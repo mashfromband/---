@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ウェブページが見つからない\n",
+			"option_html": "<p>ウェブページが見つからない</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "サーバーが停止している\n",
+			"option_html": "<p>サーバーが停止している</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "インターネット接続がない\n",
+			"option_html": "<p>インターネット接続がない</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ブラウザの設定が間違っている\n",
+			"option_html": "<p>ブラウザの設定が間違っている</p>\n"
+		}
+	]
+}

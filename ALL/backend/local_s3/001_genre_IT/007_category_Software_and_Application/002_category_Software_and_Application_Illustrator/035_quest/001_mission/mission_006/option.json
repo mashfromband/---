@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイルの「書き出し」機能を使用する</pre>\n",
+			"option_html": "<pre>ファイルの「書き出し」機能を使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ベクター画像を一度ビットマップに変換する</pre>\n",
+			"option_html": "<pre>ベクター画像を一度ビットマップに変換する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>他のソフトウェアで形式を変更する</pre>\n",
+			"option_html": "<pre>他のソフトウェアで形式を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スクリーンショットを撮って保存する</pre>\n",
+			"option_html": "<pre>スクリーンショットを撮って保存する</pre>\n"
+		}
+	]
+}

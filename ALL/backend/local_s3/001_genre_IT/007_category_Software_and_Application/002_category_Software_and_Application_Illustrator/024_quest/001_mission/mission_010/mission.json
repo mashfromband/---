@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>リピートグリッドを使用する</pre>\n",
+			"option_html": "<pre>リピートグリッドを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべてのシェイプを手動で配置する</pre>\n",
+			"option_html": "<pre>すべてのシェイプを手動で配置する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>他のプロジェクトからシェイプをコピーする</pre>\n",
+			"option_html": "<pre>他のプロジェクトからシェイプをコピーする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>1つずつ目視で位置を調整する</pre>\n",
+			"option_html": "<pre>1つずつ目視で位置を調整する</pre>\n"
+		}
+	]
+}

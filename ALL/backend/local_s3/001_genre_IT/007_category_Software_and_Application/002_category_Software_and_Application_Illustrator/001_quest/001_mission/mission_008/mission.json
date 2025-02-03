@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Illustrator CS</pre>\n",
+			"option_html": "<pre>Illustrator CS</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Illustrator CS2</pre>\n",
+			"option_html": "<pre>Illustrator CS2</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Illustrator CS3</pre>\n",
+			"option_html": "<pre>Illustrator CS3</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Illustrator CC</pre>\n",
+			"option_html": "<pre>Illustrator CC</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "スポーツカー\n",
+			"option_html": "<p>スポーツカー</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "新幹線\n",
+			"option_html": "<p>新幹線</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "地下鉄\n",
+			"option_html": "<p>地下鉄</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "リニア\nモーターカー\n",
+			"option_html": "<p>リニア<br>モーターカー</p>\n"
+		}
+	]
+}

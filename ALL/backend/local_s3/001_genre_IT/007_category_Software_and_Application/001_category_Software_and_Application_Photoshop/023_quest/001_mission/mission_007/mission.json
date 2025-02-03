@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>.psdファイル</pre>\n",
+			"option_html": "<pre>.psdファイル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>.pngファイル</pre>\n",
+			"option_html": "<pre>.pngファイル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>.jpegファイル</pre>\n",
+			"option_html": "<pre>.jpegファイル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>.cubeファイル</pre>\n",
+			"option_html": "<pre>.cubeファイル</pre>\n"
+		}
+	]
+}

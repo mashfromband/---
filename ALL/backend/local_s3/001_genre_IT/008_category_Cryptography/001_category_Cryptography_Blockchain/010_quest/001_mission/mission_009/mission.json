@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>成績データを物理的な文書として保管する</pre>\n",
+			"option_html": "<pre>成績データを物理的な文書として保管する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>成績データを暗号化せずに公開する</pre>\n",
+			"option_html": "<pre>成績データを暗号化せずに公開する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>成績データを改ざん不可能な形で記録し、関係者が容易に確認できるようにする</pre>\n",
+			"option_html": "<pre>成績データを改ざん不可能な形で記録し、関係者が容易に確認できるようにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>成績データを集中管理し、透明性を排除する</pre>\n",
+			"option_html": "<pre>成績データを集中管理し、透明性を排除する</pre>\n"
+		}
+	]
+}

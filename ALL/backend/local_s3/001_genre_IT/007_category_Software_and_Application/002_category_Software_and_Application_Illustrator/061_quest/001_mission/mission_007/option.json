@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スマートガイド</pre>\n",
+			"option_html": "<pre>スマートガイド</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アラインパネルで「分布」を設定</pre>\n",
+			"option_html": "<pre>アラインパネルで「分布」を設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シェイプ形成ツール</pre>\n",
+			"option_html": "<pre>シェイプ形成ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クリッピングマスク</pre>\n",
+			"option_html": "<pre>クリッピングマスク</pre>\n"
+		}
+	]
+}

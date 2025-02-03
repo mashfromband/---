@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "参議院\n",
+			"option_html": "<p>参議院</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "貴族院\n",
+			"option_html": "<p>貴族院</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "上院\n",
+			"option_html": "<p>上院</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "下院\n",
+			"option_html": "<p>下院</p>\n"
+		}
+	]
+}

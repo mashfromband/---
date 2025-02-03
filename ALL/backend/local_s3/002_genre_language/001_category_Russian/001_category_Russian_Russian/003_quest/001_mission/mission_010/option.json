@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>直前の音を発音しない</pre>\n",
+			"option_html": "<pre>直前の音を発音しない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>直前の音を本来の音のまま発音する</pre>\n",
+			"option_html": "<pre>直前の音を本来の音のまま発音する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>口の中の天井部分に舌をあてた状態で直前の音を発音する</pre>\n",
+			"option_html": "<pre>口の中の天井部分に舌をあてた状態で直前の音を発音する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>直前の音を無視する</pre>\n",
+			"option_html": "<pre>直前の音を無視する</pre>\n"
+		}
+	]
+}

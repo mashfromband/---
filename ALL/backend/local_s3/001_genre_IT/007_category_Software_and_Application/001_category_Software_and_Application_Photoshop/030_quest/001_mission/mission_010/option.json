@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像のシャドウやハイライトの色調を調整する</pre>\n",
+			"option_html": "<pre>画像のシャドウやハイライトの色調を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像全体をモノクロにする</pre>\n",
+			"option_html": "<pre>画像全体をモノクロにする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを複製する</pre>\n",
+			"option_html": "<pre>レイヤーを複製する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルターを適用する</pre>\n",
+			"option_html": "<pre>フィルターを適用する</pre>\n"
+		}
+	]
+}

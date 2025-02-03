@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コンセンサスアルゴリズムによる検証</pre>\n",
+			"option_html": "<pre>コンセンサスアルゴリズムによる検証</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>中央サーバーによる承認</pre>\n",
+			"option_html": "<pre>中央サーバーによる承認</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザー同士の直接確認</pre>\n",
+			"option_html": "<pre>ユーザー同士の直接確認</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>手動でのデータ入力</pre>\n",
+			"option_html": "<pre>手動でのデータ入力</pre>\n"
+		}
+	]
+}

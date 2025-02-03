@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>マイニングの報酬を増やす</pre>\n",
+			"option_html": "<pre>マイニングの報酬を増やす</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の価格を安定させる</pre>\n",
+			"option_html": "<pre>仮想通貨の価格を安定させる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>新しい仮想通貨を開発する</pre>\n",
+			"option_html": "<pre>新しい仮想通貨を開発する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引を高速化する</pre>\n",
+			"option_html": "<pre>取引を高速化する</pre>\n"
+		}
+	]
+}

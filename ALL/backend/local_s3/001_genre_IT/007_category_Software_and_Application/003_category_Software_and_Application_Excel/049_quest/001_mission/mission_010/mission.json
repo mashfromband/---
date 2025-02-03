@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「データ」タブ→「並べ替え」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「並べ替え」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ホーム」タブ→「コピー」</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「コピー」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「挿入」タブ→「図形を追加」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「図形を追加」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ファイル」タブ→「オプション」</pre>\n",
+			"option_html": "<pre>「ファイル」タブ→「オプション」</pre>\n"
+		}
+	]
+}

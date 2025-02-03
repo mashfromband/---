@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仲介者を介さず、送金が迅速で安価に行える</pre>\n",
+			"option_html": "<pre>仲介者を介さず、送金が迅速で安価に行える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨は為替レートの影響を受けない</pre>\n",
+			"option_html": "<pre>仮想通貨は為替レートの影響を受けない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>国ごとに異なる規制を無視して送金できる</pre>\n",
+			"option_html": "<pre>国ごとに異なる規制を無視して送金できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>送金が完全に無料で行える</pre>\n",
+			"option_html": "<pre>送金が完全に無料で行える</pre>\n"
+		}
+	]
+}

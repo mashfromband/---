@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーマスク</pre>\n",
+			"option_html": "<pre>レイヤーマスク</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>背景消しゴムツール</pre>\n",
+			"option_html": "<pre>背景消しゴムツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>なげなわツール</pre>\n",
+			"option_html": "<pre>なげなわツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ヒストリーパネル</pre>\n",
+			"option_html": "<pre>ヒストリーパネル</pre>\n"
+		}
+	]
+}

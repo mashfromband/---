@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの復旧速度が向上するため</pre>\n",
+			"option_html": "<pre>データの復旧速度が向上するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>地域的な災害が発生しても別の場所からデータを復元できるため</pre>\n",
+			"option_html": "<pre>地域的な災害が発生しても別の場所からデータを復元できるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サーバーの台数を減らしてコストを削減できるため</pre>\n",
+			"option_html": "<pre>サーバーの台数を減らしてコストを削減できるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザー認証が簡略化されるため</pre>\n",
+			"option_html": "<pre>ユーザー認証が簡略化されるため</pre>\n"
+		}
+	]
+}

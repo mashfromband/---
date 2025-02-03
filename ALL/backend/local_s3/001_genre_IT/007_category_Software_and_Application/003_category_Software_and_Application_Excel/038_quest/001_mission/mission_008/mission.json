@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データを選択して「Alt + D」を押す</pre>\n",
+			"option_html": "<pre>データを選択して「Alt + D」を押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを選択して「Ctrl + X」を押す</pre>\n",
+			"option_html": "<pre>セルを選択して「Ctrl + X」を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>行を選択して「右クリック→削除」を選択</pre>\n",
+			"option_html": "<pre>行を選択して「右クリック→削除」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルタ機能を使わずに「Shift + R」を押す</pre>\n",
+			"option_html": "<pre>フィルタ機能を使わずに「Shift + R」を押す</pre>\n"
+		}
+	]
+}

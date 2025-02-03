@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > プリント</pre>\n",
+			"option_html": "<pre>ファイル &gt; プリント</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>編集 > プリント設定</pre>\n",
+			"option_html": "<pre>編集 &gt; プリント設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 印刷設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイアウト > プリント設定</pre>\n",
+			"option_html": "<pre>レイアウト &gt; プリント設定</pre>\n"
+		}
+	]
+}

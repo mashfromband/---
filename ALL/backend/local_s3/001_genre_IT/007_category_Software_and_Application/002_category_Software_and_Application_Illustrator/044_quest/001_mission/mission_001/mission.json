@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>同じ外観を選択ツールを使用する</pre>\n",
+			"option_html": "<pre>同じ外観を選択ツールを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクトを1つずつ手動でクリックする</pre>\n",
+			"option_html": "<pre>オブジェクトを1つずつ手動でクリックする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべてのオブジェクトをまとめて選択して調整する</pre>\n",
+			"option_html": "<pre>すべてのオブジェクトをまとめて選択して調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>作業を一度中断して別ファイルで確認する</pre>\n",
+			"option_html": "<pre>作業を一度中断して別ファイルで確認する</pre>\n"
+		}
+	]
+}

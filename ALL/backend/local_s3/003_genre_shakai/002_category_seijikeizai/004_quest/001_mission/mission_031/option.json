@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "1945年～55年\n",
+			"option_html": "<p>1945年～55年</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "1945年～65年\n",
+			"option_html": "<p>1945年～65年</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "1950年～55年\n",
+			"option_html": "<p>1950年～55年</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "1950年～65年\n",
+			"option_html": "<p>1950年～65年</p>\n"
+		}
+	]
+}

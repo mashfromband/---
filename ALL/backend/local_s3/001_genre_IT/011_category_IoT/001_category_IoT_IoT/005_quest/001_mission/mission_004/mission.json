@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データをクラウドに送信しないため</pre>\n",
+			"option_html": "<pre>データをクラウドに送信しないため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>センサーが高速で動作するため</pre>\n",
+			"option_html": "<pre>センサーが高速で動作するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイス近くでデータを処理するため</pre>\n",
+			"option_html": "<pre>デバイス近くでデータを処理するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>インターネットを使用しないため</pre>\n",
+			"option_html": "<pre>インターネットを使用しないため</pre>\n"
+		}
+	]
+}

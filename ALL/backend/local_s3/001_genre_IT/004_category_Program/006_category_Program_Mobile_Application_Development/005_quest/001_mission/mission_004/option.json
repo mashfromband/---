@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Webアプリケーション専用の開発ツールである</pre>\n",
+			"option_html": "<pre>Webアプリケーション専用の開発ツールである</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>iOSアプリの設計、開発、デバッグ、テストをサポートする</pre>\n",
+			"option_html": "<pre>iOSアプリの設計、開発、デバッグ、テストをサポートする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Androidアプリのエミュレーターを提供する</pre>\n",
+			"option_html": "<pre>Androidアプリのエミュレーターを提供する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>すべてのモバイルプラットフォーム向けアプリを開発する</pre>\n",
+			"option_html": "<pre>すべてのモバイルプラットフォーム向けアプリを開発する</pre>\n"
+		}
+	]
+}

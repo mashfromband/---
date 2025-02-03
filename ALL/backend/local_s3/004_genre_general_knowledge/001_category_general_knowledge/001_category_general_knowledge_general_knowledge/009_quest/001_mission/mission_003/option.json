@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>会社の所在地の確認</pre>\n",
+			"option_html": "<pre>会社の所在地の確認</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>会社名や相手の氏名の読み方の確認</pre>\n",
+			"option_html": "<pre>会社名や相手の氏名の読み方の確認</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>相手の所属部署の確認</pre>\n",
+			"option_html": "<pre>相手の所属部署の確認</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>電話番号、メールアドレスの記載の有無の確認</pre>\n",
+			"option_html": "<pre>電話番号、メールアドレスの記載の有無の確認</pre>\n"
+		}
+	]
+}

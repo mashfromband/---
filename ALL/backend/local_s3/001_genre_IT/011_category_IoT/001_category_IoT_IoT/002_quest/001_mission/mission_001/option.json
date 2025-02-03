@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>他のデバイスと直接通信を行う</pre>\n",
+			"option_html": "<pre>他のデバイスと直接通信を行う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>環境や対象物のデータを収集する</pre>\n",
+			"option_html": "<pre>環境や対象物のデータを収集する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスをインターネットに接続する</pre>\n",
+			"option_html": "<pre>デバイスをインターネットに接続する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データを解析して意思決定を行う</pre>\n",
+			"option_html": "<pre>データを解析して意思決定を行う</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "生活保護法\n",
+			"option_html": "<p>生活保護法</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "児童福祉法\n",
+			"option_html": "<p>児童福祉法</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "老人福祉法\n",
+			"option_html": "<p>老人福祉法</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "精神保健\n福祉士法\n",
+			"option_html": "<p>精神保健<br>福祉士法</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>使わないサービスでも固定料金が必要になる</pre>\n",
+			"option_html": "<pre>使わないサービスでも固定料金が必要になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>初期費用を一度に請求するため</pre>\n",
+			"option_html": "<pre>初期費用を一度に請求するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>大量のリソースを一括購入することが前提となる</pre>\n",
+			"option_html": "<pre>大量のリソースを一括購入することが前提となる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザーが利用した分だけ支払う仕組みによりコスト効率が向上する</pre>\n",
+			"option_html": "<pre>ユーザーが利用した分だけ支払う仕組みによりコスト効率が向上する</pre>\n"
+		}
+	]
+}

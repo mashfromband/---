@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"選択・マスキング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「Ctrl + Shift + H」を押す</pre>\n",
+			"option_html": "<pre>「Ctrl + Shift + H」を押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「Ctrl + D」を押す</pre>\n",
+			"option_html": "<pre>「Ctrl + D」を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「Ctrl + H」を押す</pre>\n",
+			"option_html": "<pre>「Ctrl + H」を押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「Ctrl + Shift + D」を押す</pre>\n",
+			"option_html": "<pre>「Ctrl + Shift + D」を押す</pre>\n"
+		}
+	]
+}

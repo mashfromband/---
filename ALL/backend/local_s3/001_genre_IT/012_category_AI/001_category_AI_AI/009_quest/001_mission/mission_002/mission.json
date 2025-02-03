@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>適性や興味に合ったキャリアプランを提案してくれるツールを使う</pre>\n",
+			"option_html": "<pre>適性や興味に合ったキャリアプランを提案してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>キャリアカウンセラーに相談する</pre>\n",
+			"option_html": "<pre>キャリアカウンセラーに相談する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>興味のある職業についてインターネットで調べる</pre>\n",
+			"option_html": "<pre>興味のある職業についてインターネットで調べる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>親や先生に相談する</pre>\n",
+			"option_html": "<pre>親や先生に相談する</pre>\n"
+		}
+	]
+}

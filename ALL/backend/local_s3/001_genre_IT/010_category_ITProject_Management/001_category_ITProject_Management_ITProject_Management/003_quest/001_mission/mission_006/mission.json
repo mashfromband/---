@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スコープクリープ</pre>\n",
+			"option_html": "<pre>スコープクリープ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スコープベースライン</pre>\n",
+			"option_html": "<pre>スコープベースライン</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スコープフリーズ</pre>\n",
+			"option_html": "<pre>スコープフリーズ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スコープ調整</pre>\n",
+			"option_html": "<pre>スコープ調整</pre>\n"
+		}
+	]
+}

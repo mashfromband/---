@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色調補正</pre>\n",
+			"option_html": "<pre>色調補正</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>コンテンツに応じた塗りつぶし</pre>\n",
+			"option_html": "<pre>コンテンツに応じた塗りつぶし</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スポイトツール</pre>\n",
+			"option_html": "<pre>スポイトツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>カラーマッチ</pre>\n",
+			"option_html": "<pre>カラーマッチ</pre>\n"
+		}
+	]
+}

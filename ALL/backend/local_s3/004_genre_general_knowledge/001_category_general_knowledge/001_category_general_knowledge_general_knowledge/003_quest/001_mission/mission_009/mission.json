@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ビジネスマナー",
+		"服装・身だしなみ（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>毎日清潔に保つ</pre>\n",
+			"option_html": "<pre>毎日清潔に保つ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サイズが合わなくてもそのまま着る</pre>\n",
+			"option_html": "<pre>サイズが合わなくてもそのまま着る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自分の好きな服を混ぜる</pre>\n",
+			"option_html": "<pre>自分の好きな服を混ぜる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>汚れたまま着る</pre>\n",
+			"option_html": "<pre>汚れたまま着る</pre>\n"
+		}
+	]
+}

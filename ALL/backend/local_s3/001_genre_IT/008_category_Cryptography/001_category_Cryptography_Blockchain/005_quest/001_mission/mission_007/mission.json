@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>新しい技術の開発を防止する</pre>\n",
+			"option_html": "<pre>新しい技術の開発を防止する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ノード間のデータ同期を高速化する</pre>\n",
+			"option_html": "<pre>ノード間のデータ同期を高速化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワークの参加者が合意形成を行うための仕組みを提供する</pre>\n",
+			"option_html": "<pre>ネットワークの参加者が合意形成を行うための仕組みを提供する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>トランザクション手数料を減少させる</pre>\n",
+			"option_html": "<pre>トランザクション手数料を減少させる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>RAND</pre>\n",
+			"option_html": "<pre>RAND</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>RANDBETWEEN</pre>\n",
+			"option_html": "<pre>RANDBETWEEN</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>SORTBY</pre>\n",
+			"option_html": "<pre>SORTBY</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>RANDARRAY</pre>\n",
+			"option_html": "<pre>RANDARRAY</pre>\n"
+		}
+	]
+}

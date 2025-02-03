@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"文法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>どこ</pre>\n",
+			"option_html": "<pre>どこ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>なぜ</pre>\n",
+			"option_html": "<pre>なぜ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>いつ</pre>\n",
+			"option_html": "<pre>いつ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>なに</pre>\n",
+			"option_html": "<pre>なに</pre>\n"
+		}
+	]
+}

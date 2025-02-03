@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラデーションのスムージングが無効になっている</pre>\n",
+			"option_html": "<pre>グラデーションのスムージングが無効になっている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>塗りの不透明度が低すぎる</pre>\n",
+			"option_html": "<pre>塗りの不透明度が低すぎる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーション方向が適切でない</pre>\n",
+			"option_html": "<pre>グラデーション方向が適切でない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スナップが有効になっている</pre>\n",
+			"option_html": "<pre>スナップが有効になっている</pre>\n"
+		}
+	]
+}

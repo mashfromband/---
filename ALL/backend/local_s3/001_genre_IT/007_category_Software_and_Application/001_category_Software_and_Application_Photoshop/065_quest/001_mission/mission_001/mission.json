@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「文字ツール」の「太字オプション」を選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」の「太字オプション」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤースタイル」の「太字」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「太字」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「文字パネル」から「太字」を選ぶ</pre>\n",
+			"option_html": "<pre>「文字パネル」から「太字」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「フィルター」メニューから「太字」を選ぶ</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「太字」を選ぶ</pre>\n"
+		}
+	]
+}

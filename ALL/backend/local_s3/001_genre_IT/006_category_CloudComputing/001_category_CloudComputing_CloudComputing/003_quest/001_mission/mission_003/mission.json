@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クラウド上の仮想サーバー</pre>\n",
+			"option_html": "<pre>クラウド上の仮想サーバー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>メールや文書作成のオンラインツール</pre>\n",
+			"option_html": "<pre>メールや文書作成のオンラインツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>開発環境を提供するプラットフォーム</pre>\n",
+			"option_html": "<pre>開発環境を提供するプラットフォーム</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワーク設定の提供</pre>\n",
+			"option_html": "<pre>ネットワーク設定の提供</pre>\n"
+		}
+	]
+}

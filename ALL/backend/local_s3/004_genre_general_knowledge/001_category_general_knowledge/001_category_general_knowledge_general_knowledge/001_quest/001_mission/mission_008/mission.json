@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ビジネスマナー",
+		"挨拶・姿勢態度（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>無表情でいる</pre>\n",
+			"option_html": "<pre>無表情でいる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>笑顔を見せる</pre>\n",
+			"option_html": "<pre>笑顔を見せる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>眉間にシワを寄せる</pre>\n",
+			"option_html": "<pre>眉間にシワを寄せる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>真顔を貫く</pre>\n",
+			"option_html": "<pre>真顔を貫く</pre>\n"
+		}
+	]
+}

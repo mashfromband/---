@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ホームタブで「条件付き書式」を設定する</pre>\n",
+			"option_html": "<pre>ホームタブで「条件付き書式」を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データタブで「重複の削除」を選択する</pre>\n",
+			"option_html": "<pre>データタブで「重複の削除」を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コピーして「値として貼り付け」する</pre>\n",
+			"option_html": "<pre>コピーして「値として貼り付け」する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「セルの書式設定」で「通貨」を選ぶ</pre>\n",
+			"option_html": "<pre>「セルの書式設定」で「通貨」を選ぶ</pre>\n"
+		}
+	]
+}

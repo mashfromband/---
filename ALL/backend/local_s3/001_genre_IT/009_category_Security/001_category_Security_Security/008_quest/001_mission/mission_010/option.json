@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アクセス制御の設定ミスや弱いパスワードの使用</pre>\n",
+			"option_html": "<pre>アクセス制御の設定ミスや弱いパスワードの使用</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウドサービスの使用時間が長い場合</pre>\n",
+			"option_html": "<pre>クラウドサービスの使用時間が長い場合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クラウドサービスの利用料金が高額な場合</pre>\n",
+			"option_html": "<pre>クラウドサービスの利用料金が高額な場合</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドプロバイダーが自動的にデータを公開するため</pre>\n",
+			"option_html": "<pre>クラウドプロバイダーが自動的にデータを公開するため</pre>\n"
+		}
+	]
+}

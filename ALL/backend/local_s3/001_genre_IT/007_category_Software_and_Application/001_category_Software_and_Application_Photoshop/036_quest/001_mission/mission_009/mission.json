@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>過去の履歴ステップを削除する</pre>\n",
+			"option_html": "<pre>過去の履歴ステップを削除する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>過去のステップから画像を元に戻す</pre>\n",
+			"option_html": "<pre>過去のステップから画像を元に戻す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>履歴を記録して保存する</pre>\n",
+			"option_html": "<pre>履歴を記録して保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像の保存をキャンセルする</pre>\n",
+			"option_html": "<pre>画像の保存をキャンセルする</pre>\n"
+		}
+	]
+}

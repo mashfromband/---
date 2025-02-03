@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーの不透明度が低く設定されている</pre>\n",
+			"option_html": "<pre>レイヤーの不透明度が低く設定されている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーマスクが適用されている</pre>\n",
+			"option_html": "<pre>レイヤーマスクが適用されている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーが隠されている</pre>\n",
+			"option_html": "<pre>レイヤーが隠されている</pre>\n"
+		}
+	]
+}

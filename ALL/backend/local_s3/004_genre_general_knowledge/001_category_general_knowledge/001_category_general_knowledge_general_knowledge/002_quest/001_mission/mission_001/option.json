@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>会話の後に行う</pre>\n",
+			"option_html": "<pre>会話の後に行う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>初対面の挨拶直後に行う</pre>\n",
+			"option_html": "<pre>初対面の挨拶直後に行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>帰り際に行う</pre>\n",
+			"option_html": "<pre>帰り際に行う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>名刺交換をしない</pre>\n",
+			"option_html": "<pre>名刺交換をしない</pre>\n"
+		}
+	]
+}

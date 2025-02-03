@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 複製</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 複製</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字ツールで複製を選択する</pre>\n",
+			"option_html": "<pre>文字ツールで複製を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで複製を作成する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで複製を作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + C と Ctrl + V を使う</pre>\n",
+			"option_html": "<pre>Ctrl + C と Ctrl + V を使う</pre>\n"
+		}
+	]
+}

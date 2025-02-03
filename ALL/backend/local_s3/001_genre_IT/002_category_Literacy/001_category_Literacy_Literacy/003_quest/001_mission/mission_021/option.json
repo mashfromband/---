@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "USBメモリを使用する\n",
+			"option_html": "<p>USBメモリを使用する</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アンチウイルスソフトをインストールして定期的に更新する\n",
+			"option_html": "<p>アンチウイルスソフトをインストールして定期的に更新する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "クラウドストレージを利用する\n",
+			"option_html": "<p>クラウドストレージを利用する</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ファイルの圧縮を行う\n",
+			"option_html": "<p>ファイルの圧縮を行う</p>\n"
+		}
+	]
+}

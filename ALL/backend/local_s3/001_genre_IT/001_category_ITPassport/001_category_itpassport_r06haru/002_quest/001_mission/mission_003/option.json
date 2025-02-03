@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アカウントアグリゲーション\n",
+			"option_html": "<p>アカウントアグリゲーション</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "キーマッピング\n",
+			"option_html": "<p>キーマッピング</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "垂直統合\n",
+			"option_html": "<p>垂直統合</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "名寄せ\n",
+			"option_html": "<p>名寄せ</p>\n"
+		}
+	]
+}

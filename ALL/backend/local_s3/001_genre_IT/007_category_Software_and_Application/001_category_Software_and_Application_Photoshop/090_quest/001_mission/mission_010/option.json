@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「イメージ」メニューで「配置」を選ぶ</pre>\n",
+			"option_html": "<pre>「イメージ」メニューで「配置」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤーパネル」の「配置」オプションを使う</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」の「配置」オプションを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「文字ツール」で行間を手動で調整する</pre>\n",
+			"option_html": "<pre>「文字ツール」で行間を手動で調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「文字パネル」の「段落」オプションを使う</pre>\n",
+			"option_html": "<pre>「文字パネル」の「段落」オプションを使う</pre>\n"
+		}
+	]
+}

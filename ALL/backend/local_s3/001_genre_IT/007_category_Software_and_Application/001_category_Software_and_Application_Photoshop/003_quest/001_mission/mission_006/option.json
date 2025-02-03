@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択範囲を作成する</pre>\n",
+			"option_html": "<pre>選択範囲を作成する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色域指定</pre>\n",
+			"option_html": "<pre>色域指定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トーンカーブ</pre>\n",
+			"option_html": "<pre>トーンカーブ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グラデーションマップ</pre>\n",
+			"option_html": "<pre>グラデーションマップ</pre>\n"
+		}
+	]
+}

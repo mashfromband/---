@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>公衆Wi-Fiでは利用料金が発生するため</pre>\n",
+			"option_html": "<pre>公衆Wi-Fiでは利用料金が発生するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>公衆Wi-Fiでは接続台数に制限があるため</pre>\n",
+			"option_html": "<pre>公衆Wi-Fiでは接続台数に制限があるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>公衆Wi-Fiでは通信内容が第三者に盗聴されやすいため</pre>\n",
+			"option_html": "<pre>公衆Wi-Fiでは通信内容が第三者に盗聴されやすいため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>公衆Wi-Fiでは通信速度が遅くなるため</pre>\n",
+			"option_html": "<pre>公衆Wi-Fiでは通信速度が遅くなるため</pre>\n"
+		}
+	]
+}

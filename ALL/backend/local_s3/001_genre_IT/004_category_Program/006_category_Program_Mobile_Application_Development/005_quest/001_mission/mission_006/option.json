@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>実際のデバイスなしでアプリを動作確認できる</pre>\n",
+			"option_html": "<pre>実際のデバイスなしでアプリを動作確認できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリのコードを自動生成するため</pre>\n",
+			"option_html": "<pre>アプリのコードを自動生成するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>他のOSで動作するアプリをテストするため</pre>\n",
+			"option_html": "<pre>他のOSで動作するアプリをテストするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリのデザインを編集するため</pre>\n",
+			"option_html": "<pre>アプリのデザインを編集するため</pre>\n"
+		}
+	]
+}

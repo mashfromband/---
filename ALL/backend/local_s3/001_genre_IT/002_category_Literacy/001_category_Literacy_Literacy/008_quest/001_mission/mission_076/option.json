@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "SMTP\n",
+			"option_html": "<p>SMTP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "DNS\n",
+			"option_html": "<p>DNS</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ICMP\n",
+			"option_html": "<p>ICMP</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "DHCP\n",
+			"option_html": "<p>DHCP</p>\n"
+		}
+	]
+}

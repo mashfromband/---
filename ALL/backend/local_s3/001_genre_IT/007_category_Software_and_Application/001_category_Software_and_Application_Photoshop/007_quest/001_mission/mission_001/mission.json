@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像を分割して保存するためのエリアを指定する</pre>\n",
+			"option_html": "<pre>画像を分割して保存するためのエリアを指定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択範囲を複製する</pre>\n",
+			"option_html": "<pre>選択範囲を複製する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーを非表示にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>テキストを入力する</pre>\n",
+			"option_html": "<pre>テキストを入力する</pre>\n"
+		}
+	]
+}

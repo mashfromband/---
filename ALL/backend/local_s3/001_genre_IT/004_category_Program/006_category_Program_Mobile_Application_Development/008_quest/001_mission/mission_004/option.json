@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーごとに固定されたパスワードを使用する</pre>\n",
+			"option_html": "<pre>ユーザーごとに固定されたパスワードを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>認証後に一時的なトークンを発行し、セッション管理を行う</pre>\n",
+			"option_html": "<pre>認証後に一時的なトークンを発行し、セッション管理を行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ログイン情報をアプリ内に保存する</pre>\n",
+			"option_html": "<pre>ログイン情報をアプリ内に保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワーク通信を暗号化する</pre>\n",
+			"option_html": "<pre>ネットワーク通信を暗号化する</pre>\n"
+		}
+	]
+}

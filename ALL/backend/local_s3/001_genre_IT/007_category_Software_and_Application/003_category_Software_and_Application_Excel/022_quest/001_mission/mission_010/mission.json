@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"データ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの入力規則</pre>\n",
+			"option_html": "<pre>データの入力規則</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>条件付き書式</pre>\n",
+			"option_html": "<pre>条件付き書式</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター</pre>\n",
+			"option_html": "<pre>フィルター</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ピボットテーブル</pre>\n",
+			"option_html": "<pre>ピボットテーブル</pre>\n"
+		}
+	]
+}

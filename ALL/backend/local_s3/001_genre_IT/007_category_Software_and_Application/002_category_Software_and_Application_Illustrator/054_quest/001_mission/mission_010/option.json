@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アピアランスパネルで不透明度を設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで不透明度を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーパネルで不透明度を設定する</pre>\n",
+			"option_html": "<pre>カラーパネルで不透明度を設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スウォッチパネルで不透明度を設定する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで不透明度を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>透明パネルで不透明度を調整する</pre>\n",
+			"option_html": "<pre>透明パネルで不透明度を調整する</pre>\n"
+		}
+	]
+}

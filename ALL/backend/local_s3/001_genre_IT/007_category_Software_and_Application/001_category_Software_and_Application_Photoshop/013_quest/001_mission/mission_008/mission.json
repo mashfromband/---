@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像の色が反転する（ネガポジ変換）</pre>\n",
+			"option_html": "<pre>画像の色が反転する（ネガポジ変換）</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択範囲が反転する</pre>\n",
+			"option_html": "<pre>選択範囲が反転する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーが非表示になる</pre>\n",
+			"option_html": "<pre>レイヤーが非表示になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの透明度が変更される</pre>\n",
+			"option_html": "<pre>レイヤーの透明度が変更される</pre>\n"
+		}
+	]
+}

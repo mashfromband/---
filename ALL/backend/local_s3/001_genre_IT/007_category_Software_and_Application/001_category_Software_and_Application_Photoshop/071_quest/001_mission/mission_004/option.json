@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「自由変形」を使って斜めに変形させる</pre>\n",
+			"option_html": "<pre>「自由変形」を使って斜めに変形させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」で「斜め」オプションを選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」で「斜め」オプションを選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤースタイル」から「斜め」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」から「斜め」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「フィルター」メニューから「斜め変形」を選ぶ</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「斜め変形」を選ぶ</pre>\n"
+		}
+	]
+}

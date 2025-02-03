@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"フィルター"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > パス > オフセットパス</pre>\n",
+			"option_html": "<pre>効果 &gt; パス &gt; オフセットパス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター > パス > オフセットパス</pre>\n",
+			"option_html": "<pre>フィルター &gt; パス &gt; オフセットパス</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > 変形 > オフセットパス</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; オフセットパス</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > パス > オフセットパス</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; パス &gt; オフセットパス</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"パス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ペンツールで複製する</pre>\n",
+			"option_html": "<pre>ペンツールで複製する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ダイレクト選択ツールで複製する</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツールで複製する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + C と Ctrl + F を使って複製する</pre>\n",
+			"option_html": "<pre>Ctrl + C と Ctrl + F を使って複製する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字ツールで複製する</pre>\n",
+			"option_html": "<pre>文字ツールで複製する</pre>\n"
+		}
+	]
+}

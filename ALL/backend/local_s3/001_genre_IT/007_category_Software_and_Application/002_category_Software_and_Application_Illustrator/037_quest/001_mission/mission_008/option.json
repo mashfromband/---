@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルで複数のレイヤーを選択しCtrl + Gを押す</pre>\n",
+			"option_html": "<pre>レイヤーパネルで複数のレイヤーを選択しCtrl + Gを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで新規レイヤーを作成しオブジェクトをドラッグする</pre>\n",
+			"option_html": "<pre>レイヤーパネルで新規レイヤーを作成しオブジェクトをドラッグする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > グループ化を選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; グループ化を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで右クリックし「レイヤーをまとめる」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックし「レイヤーをまとめる」を選択</pre>\n"
+		}
+	]
+}

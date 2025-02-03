@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「編集」メニューの「縮小」オプションを選択する</pre>\n",
+			"option_html": "<pre>「編集」メニューの「縮小」オプションを選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「選択範囲」メニューの「変更」→「縮小」を選択する</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューの「変更」→「縮小」を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲を右クリックして「縮小」を選択する</pre>\n",
+			"option_html": "<pre>選択範囲を右クリックして「縮小」を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲を縮小する機能はない</pre>\n",
+			"option_html": "<pre>選択範囲を縮小する機能はない</pre>\n"
+		}
+	]
+}

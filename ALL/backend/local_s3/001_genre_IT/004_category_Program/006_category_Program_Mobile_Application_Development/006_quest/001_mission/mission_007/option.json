@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリ全体のユーザーインターフェースを検証する</pre>\n",
+			"option_html": "<pre>アプリ全体のユーザーインターフェースを検証する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>個々の機能やモジュールが正しく動作するかを確認する</pre>\n",
+			"option_html": "<pre>個々の機能やモジュールが正しく動作するかを確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリのリリース準備を整える</pre>\n",
+			"option_html": "<pre>アプリのリリース準備を整える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリの配信を自動化する</pre>\n",
+			"option_html": "<pre>アプリの配信を自動化する</pre>\n"
+		}
+	]
+}

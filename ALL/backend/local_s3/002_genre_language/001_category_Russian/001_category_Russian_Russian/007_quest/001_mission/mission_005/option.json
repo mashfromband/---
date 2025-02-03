@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>I wanna live in this country with you.</pre>\n",
+			"option_html": "<pre>I wanna live in this country with you.</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>I have apples and plates.</pre>\n",
+			"option_html": "<pre>I have apples and plates.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>These girls are sisters</pre>\n",
+			"option_html": "<pre>These girls are sisters</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>These men are actors.</pre>\n",
+			"option_html": "<pre>These men are actors.</pre>\n"
+		}
+	]
+}

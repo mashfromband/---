@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨は国ごとに異なるルールを持つため</pre>\n",
+			"option_html": "<pre>仮想通貨は国ごとに異なるルールを持つため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>法定通貨は暗号化されていないため</pre>\n",
+			"option_html": "<pre>法定通貨は暗号化されていないため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨はブロックチェーン技術を使うため</pre>\n",
+			"option_html": "<pre>仮想通貨はブロックチェーン技術を使うため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>法定通貨は完全に電子化されているため</pre>\n",
+			"option_html": "<pre>法定通貨は完全に電子化されているため</pre>\n"
+		}
+	]
+}

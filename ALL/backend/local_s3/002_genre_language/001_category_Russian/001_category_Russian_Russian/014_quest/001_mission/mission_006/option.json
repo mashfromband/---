@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>絶対に単数形でしか使用しない</pre>\n",
+			"option_html": "<pre>絶対に単数形でしか使用しない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>一般的に、液体や気体などを表す名詞であることが多い</pre>\n",
+			"option_html": "<pre>一般的に、液体や気体などを表す名詞であることが多い</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>一般的に、なにかのまとまりを表す名詞であることが多い</pre>\n",
+			"option_html": "<pre>一般的に、なにかのまとまりを表す名詞であることが多い</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>一般的に、具体性のない概念を表す名詞であることが多い</pre>\n",
+			"option_html": "<pre>一般的に、具体性のない概念を表す名詞であることが多い</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>暗号化されたデータのこと</pre>\n",
+			"option_html": "<pre>暗号化されたデータのこと</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>暗号化するための鍵のこと</pre>\n",
+			"option_html": "<pre>暗号化するための鍵のこと</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>暗号化される前の元のデータのこと</pre>\n",
+			"option_html": "<pre>暗号化される前の元のデータのこと</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号化の強度を示す指標のこと</pre>\n",
+			"option_html": "<pre>暗号化の強度を示す指標のこと</pre>\n"
+		}
+	]
+}

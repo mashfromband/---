@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "景気改革\n",
+			"option_html": "<p>景気改革</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "政治改革\n",
+			"option_html": "<p>政治改革</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "3本の矢\n",
+			"option_html": "<p>3本の矢</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アベノミクス\n",
+			"option_html": "<p>アベノミクス</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ダイエット食品を食べる</pre>\n",
+			"option_html": "<pre>ダイエット食品を食べる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>食事制限をする</pre>\n",
+			"option_html": "<pre>食事制限をする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>消費カロリーや栄養バランスを計算してくれるツールを使う</pre>\n",
+			"option_html": "<pre>消費カロリーや栄養バランスを計算してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>運動する</pre>\n",
+			"option_html": "<pre>運動する</pre>\n"
+		}
+	]
+}

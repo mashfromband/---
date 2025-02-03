@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤーパネル」から「複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から「複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤー」メニューから「レイヤー複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤー」メニューから「レイヤー複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「編集」メニューから「複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「編集」メニューから「複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤー」メニューから「新規複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤー」メニューから「新規複製」を選ぶ</pre>\n"
+		}
+	]
+}

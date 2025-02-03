@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像を非破壊的に色調補正できる</pre>\n",
+			"option_html": "<pre>画像を非破壊的に色調補正できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイルサイズを軽減できる</pre>\n",
+			"option_html": "<pre>ファイルサイズを軽減できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを統合できる</pre>\n",
+			"option_html": "<pre>レイヤーを統合できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>背景を削除できる</pre>\n",
+			"option_html": "<pre>背景を削除できる</pre>\n"
+		}
+	]
+}

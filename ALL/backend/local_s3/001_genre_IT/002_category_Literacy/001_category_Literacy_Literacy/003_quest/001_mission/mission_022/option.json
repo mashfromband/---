@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "Windows\n",
+			"option_html": "<p>Windows</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "CPU\n",
+			"option_html": "<p>CPU</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "エクスプローラー\n",
+			"option_html": "<p>エクスプローラー</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ミドルウェア\n",
+			"option_html": "<p>ミドルウェア</p>\n"
+		}
+	]
+}

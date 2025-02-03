@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>DALL·E 2</pre>\n",
+			"option_html": "<pre>DALL·E 2</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>SUNO</pre>\n",
+			"option_html": "<pre>SUNO</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Midjourney</pre>\n",
+			"option_html": "<pre>Midjourney</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Firefly</pre>\n",
+			"option_html": "<pre>Firefly</pre>\n"
+		}
+	]
+}

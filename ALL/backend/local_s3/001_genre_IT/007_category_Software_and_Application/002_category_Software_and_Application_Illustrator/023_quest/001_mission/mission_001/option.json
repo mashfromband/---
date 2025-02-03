@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色の不透明度を設定するため</pre>\n",
+			"option_html": "<pre>色の不透明度を設定するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色相、彩度、明度を調整するため</pre>\n",
+			"option_html": "<pre>色相、彩度、明度を調整するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションの色を設定するため</pre>\n",
+			"option_html": "<pre>グラデーションの色を設定するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>それぞれの色の成分（赤、緑、青）を調整するため</pre>\n",
+			"option_html": "<pre>それぞれの色の成分（赤、緑、青）を調整するため</pre>\n"
+		}
+	]
+}

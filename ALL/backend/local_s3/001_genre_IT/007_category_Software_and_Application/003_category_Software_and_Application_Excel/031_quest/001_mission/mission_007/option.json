@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>COUNTIF関数</pre>\n",
+			"option_html": "<pre>COUNTIF関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>AND関数</pre>\n",
+			"option_html": "<pre>AND関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>OR関数</pre>\n",
+			"option_html": "<pre>OR関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ISNUMBER関数</pre>\n",
+			"option_html": "<pre>ISNUMBER関数</pre>\n"
+		}
+	]
+}

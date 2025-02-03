@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>テキストの描画モードが「通常」以外に設定されている</pre>\n",
+			"option_html": "<pre>テキストの描画モードが「通常」以外に設定されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不透明度が低すぎる</pre>\n",
+			"option_html": "<pre>不透明度が低すぎる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文字の変形が有効になっている</pre>\n",
+			"option_html": "<pre>文字の変形が有効になっている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>使用しているフォントが正しくインストールされていない</pre>\n",
+			"option_html": "<pre>使用しているフォントが正しくインストールされていない</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトメニューで行揃えを設定する</pre>\n",
+			"option_html": "<pre>オブジェクトメニューで行揃えを設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字ツールで行揃えを設定する</pre>\n",
+			"option_html": "<pre>文字ツールで行揃えを設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで行揃えを設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで行揃えを設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字パネルで行揃えを設定する</pre>\n",
+			"option_html": "<pre>文字パネルで行揃えを設定する</pre>\n"
+		}
+	]
+}

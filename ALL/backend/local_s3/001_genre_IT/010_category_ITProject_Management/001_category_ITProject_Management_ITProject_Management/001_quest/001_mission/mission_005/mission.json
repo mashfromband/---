@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクト中に作成されるすべての文書</pre>\n",
+			"option_html": "<pre>プロジェクト中に作成されるすべての文書</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトを通じて作り出される最終的な結果や製品</pre>\n",
+			"option_html": "<pre>プロジェクトを通じて作り出される最終的な結果や製品</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>チームメンバーが行った活動の記録</pre>\n",
+			"option_html": "<pre>チームメンバーが行った活動の記録</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの進捗報告書のみ</pre>\n",
+			"option_html": "<pre>プロジェクトの進捗報告書のみ</pre>\n"
+		}
+	]
+}

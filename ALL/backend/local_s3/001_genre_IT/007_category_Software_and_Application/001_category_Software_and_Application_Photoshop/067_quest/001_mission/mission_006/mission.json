@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤースタイル」から「回転軸」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」から「回転軸」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」で回転軸を変更する</pre>\n",
+			"option_html": "<pre>「文字ツール」で回転軸を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「自由変形」ツールを使って回転軸を変更する</pre>\n",
+			"option_html": "<pre>「自由変形」ツールを使って回転軸を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「変形」メニューから回転軸を選ぶ</pre>\n",
+			"option_html": "<pre>「変形」メニューから回転軸を選ぶ</pre>\n"
+		}
+	]
+}

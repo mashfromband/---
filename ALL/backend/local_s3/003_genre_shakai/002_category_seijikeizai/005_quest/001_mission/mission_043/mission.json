@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"国際",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "田中角栄\n",
+			"option_html": "<p>田中角栄</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "三木武夫\n",
+			"option_html": "<p>三木武夫</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "福田赳夫\n",
+			"option_html": "<p>福田赳夫</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "大平正芳\n",
+			"option_html": "<p>大平正芳</p>\n"
+		}
+	]
+}

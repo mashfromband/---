@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーを非表示にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グループを解除する</pre>\n",
+			"option_html": "<pre>グループを解除する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを複製する</pre>\n",
+			"option_html": "<pre>レイヤーを複製する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲を保存する</pre>\n",
+			"option_html": "<pre>選択範囲を保存する</pre>\n"
+		}
+	]
+}

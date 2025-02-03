@@ -1,0 +1,58 @@
+version: '3'
+
+services:
+
+  mysql:
+    container_name: rl-mysql
+    image: mysql:8
+    volumes:
+      - ./mysql/data:/var/lib/mysql
+      - ./mysql/logs:/var/log/mysql
+      - ./mysql/conf.d/my.cnf:/etc/mysql/conf.d/my.cnf
+    environment:
+      - MYSQL_DATABASE=${RL_MYSQL_DEFAULT_DATABASE}
+      - MYSQL_USER=${RL_MYSQL_DEFAULT_USER}
+      - MYSQL_PASSWORD=${RL_MYSQL_DEFAULT_PASSWORD}
+      - MYSQL_ROOT_PASSWORD=${RL_MYSQL_DEFAULT_ROOT_PASSWORD}
+      - MYSQL_PORT=${RL_MYSQL_DEFAULT_PORT_INSIDE}
+      - TZ=${RL_MYSQL_DEFAULT_TZ}
+    ports:
+      - ${RL_MYSQL_DEFAULT_PORT_OUTSIDE}:${RL_MYSQL_DEFAULT_PORT_INSIDE}
+
+  redis:
+    container_name: rl-redis
+    image: redis:5
+    volumes:
+      - ./redis/data:/data
+    ports:
+      - ${RL_REDIS_DEFAULT_PORT_OUTSIDE}:${RL_REDIS_DEFAULT_PORT_INSIDE}
+
+  swagger-ui-auth:
+    image: swaggerapi/swagger-ui
+    container_name: "swagger-ui-auth"
+    ports:
+      - "8001:8080"
+    volumes:
+      - ../spec/api/auth.yaml:/openapi.yaml
+    environment:
+      SWAGGER_JSON: /openapi.yaml
+
+  swagger-ui-contents:
+    image: swaggerapi/swagger-ui
+    container_name: "swagger-ui-contents"
+    ports:
+      - "8002:8080"
+    volumes:
+      - ../spec/api/contents.yaml:/openapi.yaml
+    environment:
+      SWAGGER_JSON: /openapi.yaml
+
+  swagger-ui-management:
+    image: swaggerapi/swagger-ui
+    container_name: "swagger-ui-management"
+    ports:
+      - "8003:8080"
+    volumes:
+      - ../spec/api/management.yaml:/openapi.yaml
+    environment:
+      SWAGGER_JSON: /openapi.yaml

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"オブジェクト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>回転ツールを使用し、ダブルクリックして角度を入力する</pre>\n",
+			"option_html": "<pre>回転ツールを使用し、ダブルクリックして角度を入力する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自由変形ツールを使用してドラッグする</pre>\n",
+			"option_html": "<pre>自由変形ツールを使用してドラッグする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シアーツールを使用して斜め方向に変形する</pre>\n",
+			"option_html": "<pre>シアーツールを使用して斜め方向に変形する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スケールツールを使用して数値を入力する</pre>\n",
+			"option_html": "<pre>スケールツールを使用して数値を入力する</pre>\n"
+		}
+	]
+}

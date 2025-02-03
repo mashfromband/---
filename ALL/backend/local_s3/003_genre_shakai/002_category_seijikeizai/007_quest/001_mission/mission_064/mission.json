@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "好況→不況\n→後退→\n回復\n",
+			"option_html": "<p>好況→不況<br>→後退→<br>回復</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "後退→好況\n→不況→\n回復\n",
+			"option_html": "<p>後退→好況<br>→不況→<br>回復</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "好況→後退\n→不況→\n回復\n",
+			"option_html": "<p>好況→後退<br>→不況→<br>回復</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "好況→回復\n→不況→\n後退\n",
+			"option_html": "<p>好況→回復<br>→不況→<br>後退</p>\n"
+		}
+	]
+}

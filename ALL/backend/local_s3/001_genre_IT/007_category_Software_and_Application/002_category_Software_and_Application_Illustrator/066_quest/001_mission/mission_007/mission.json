@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツールで太字を選択する</pre>\n",
+			"option_html": "<pre>文字ツールで太字を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字パネルで太字や斜体を選択する</pre>\n",
+			"option_html": "<pre>文字パネルで太字や斜体を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルでスタイルを選択する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでスタイルを選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スウォッチパネルで太字を選ぶ</pre>\n",
+			"option_html": "<pre>スウォッチパネルで太字を選ぶ</pre>\n"
+		}
+	]
+}

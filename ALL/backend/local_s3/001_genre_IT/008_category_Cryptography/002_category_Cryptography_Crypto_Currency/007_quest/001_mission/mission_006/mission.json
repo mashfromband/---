@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>送金先の銀行口座番号と送金額</pre>\n",
+			"option_html": "<pre>送金先の銀行口座番号と送金額</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>送金先の名前と住所</pre>\n",
+			"option_html": "<pre>送金先の名前と住所</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>送金先のウォレットアドレスと送金額</pre>\n",
+			"option_html": "<pre>送金先のウォレットアドレスと送金額</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>送金先の連絡先とパスワード</pre>\n",
+			"option_html": "<pre>送金先の連絡先とパスワード</pre>\n"
+		}
+	]
+}

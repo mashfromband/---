@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シンボルを作成して使用</pre>\n",
+			"option_html": "<pre>シンボルを作成して使用</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ペンツールを使って手動で再作成</pre>\n",
+			"option_html": "<pre>ペンツールを使って手動で再作成</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションを使用</pre>\n",
+			"option_html": "<pre>グラデーションを使用</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを複製して使う</pre>\n",
+			"option_html": "<pre>レイヤーを複製して使う</pre>\n"
+		}
+	]
+}

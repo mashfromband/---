@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データを暗号化する</pre>\n",
+			"option_html": "<pre>データを暗号化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データをバックアップする</pre>\n",
+			"option_html": "<pre>データをバックアップする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データを第三者と共有する</pre>\n",
+			"option_html": "<pre>データを第三者と共有する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サーバーの稼働時間を延長する</pre>\n",
+			"option_html": "<pre>サーバーの稼働時間を延長する</pre>\n"
+		}
+	]
+}

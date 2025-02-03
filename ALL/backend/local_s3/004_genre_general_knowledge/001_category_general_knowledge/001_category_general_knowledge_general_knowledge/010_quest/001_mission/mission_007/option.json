@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>相手を論破する</pre>\n",
+			"option_html": "<pre>相手を論破する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>感情的な言葉で応じる</pre>\n",
+			"option_html": "<pre>感情的な言葉で応じる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>相手の感情に寄り添い、冷静に対応する</pre>\n",
+			"option_html": "<pre>相手の感情に寄り添い、冷静に対応する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>その場を離れて時間を置く</pre>\n",
+			"option_html": "<pre>その場を離れて時間を置く</pre>\n"
+		}
+	]
+}

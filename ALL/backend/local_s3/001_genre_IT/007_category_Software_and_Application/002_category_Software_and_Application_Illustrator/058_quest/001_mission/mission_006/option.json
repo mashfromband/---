@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スウォッチパネルで色を選んで設定する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで色を選んで設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーパネルで色を手動で設定する</pre>\n",
+			"option_html": "<pre>カラーパネルで色を手動で設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションパネルでストップを追加する</pre>\n",
+			"option_html": "<pre>グラデーションパネルでストップを追加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルでストップを追加する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでストップを追加する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アクションパネル</pre>\n",
+			"option_html": "<pre>アクションパネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スポイトツール</pre>\n",
+			"option_html": "<pre>スポイトツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションパネル</pre>\n",
+			"option_html": "<pre>グラデーションパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスファインダーパネル</pre>\n",
+			"option_html": "<pre>パスファインダーパネル</pre>\n"
+		}
+	]
+}

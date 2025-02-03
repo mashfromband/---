@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「要点を教えてください」と頼む</pre>\n",
+			"option_html": "<pre>「要点を教えてください」と頼む</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>途中で話を切る</pre>\n",
+			"option_html": "<pre>途中で話を切る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>話を放置する</pre>\n",
+			"option_html": "<pre>話を放置する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>時間を気にして態度に出す</pre>\n",
+			"option_html": "<pre>時間を気にして態度に出す</pre>\n"
+		}
+	]
+}

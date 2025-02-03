@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"基本操作",
+		"ショートカット"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + B</pre>\n",
+			"option_html": "<pre>Ctrl + B</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Alt + T</pre>\n",
+			"option_html": "<pre>Alt + T</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + P</pre>\n",
+			"option_html": "<pre>Ctrl + P</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Shift + Z</pre>\n",
+			"option_html": "<pre>Shift + Z</pre>\n"
+		}
+	]
+}

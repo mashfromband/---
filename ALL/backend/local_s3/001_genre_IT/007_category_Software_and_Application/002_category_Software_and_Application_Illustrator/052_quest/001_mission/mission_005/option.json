@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルター > アーティスティック > 霧</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック &gt; 霧</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > スタイライズ > 霧</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; 霧</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > スタイライズ > 霧</pre>\n",
+			"option_html": "<pre>フィルター &gt; スタイライズ &gt; 霧</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > アーティスティック > 霧</pre>\n",
+			"option_html": "<pre>効果 &gt; アーティスティック &gt; 霧</pre>\n"
+		}
+	]
+}

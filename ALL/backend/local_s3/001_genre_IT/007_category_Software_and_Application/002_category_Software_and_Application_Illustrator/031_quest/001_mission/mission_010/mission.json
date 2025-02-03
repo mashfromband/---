@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>角をライブコーナーツールで編集する</pre>\n",
+			"option_html": "<pre>角をライブコーナーツールで編集する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスを削除して再描画する</pre>\n",
+			"option_html": "<pre>パスを削除して再描画する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションツールで調整する</pre>\n",
+			"option_html": "<pre>グラデーションツールで調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アートボード全体を変更する</pre>\n",
+			"option_html": "<pre>アートボード全体を変更する</pre>\n"
+		}
+	]
+}

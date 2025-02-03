@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ビジネスマナー",
+		"上座下座（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>助手席</pre>\n",
+			"option_html": "<pre>助手席</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>運転手の後ろの席</pre>\n",
+			"option_html": "<pre>運転手の後ろの席</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>助手席の後ろの席</pre>\n",
+			"option_html": "<pre>助手席の後ろの席</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>どこでも良い</pre>\n",
+			"option_html": "<pre>どこでも良い</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>デバイスの消費電力が増加する</pre>\n",
+			"option_html": "<pre>デバイスの消費電力が増加する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データ漏洩やデバイスの不正利用</pre>\n",
+			"option_html": "<pre>データ漏洩やデバイスの不正利用</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>通信プロトコルが変更される</pre>\n",
+			"option_html": "<pre>通信プロトコルが変更される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドストレージが削除される</pre>\n",
+			"option_html": "<pre>クラウドストレージが削除される</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>彩度が均等に調整される</pre>\n",
+			"option_html": "<pre>彩度が均等に調整される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度が大幅に下がる</pre>\n",
+			"option_html": "<pre>彩度が大幅に下がる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>最小限の影響しか与えない</pre>\n",
+			"option_html": "<pre>最小限の影響しか与えない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>高彩度の色だけが暗くなる</pre>\n",
+			"option_html": "<pre>高彩度の色だけが暗くなる</pre>\n"
+		}
+	]
+}

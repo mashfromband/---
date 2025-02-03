@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プルーフ・オブ・ステークとプルーフ・オブ・バーン</pre>\n",
+			"option_html": "<pre>プルーフ・オブ・ステークとプルーフ・オブ・バーン</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プルーフ・オブ・ワークとプルーフ・オブ・ステーク</pre>\n",
+			"option_html": "<pre>プルーフ・オブ・ワークとプルーフ・オブ・ステーク</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プルーフ・オブ・バーンとプルーフ・オブ・トラスト</pre>\n",
+			"option_html": "<pre>プルーフ・オブ・バーンとプルーフ・オブ・トラスト</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プルーフ・オブ・トラストとプルーフ・オブ・ハッシュ</pre>\n",
+			"option_html": "<pre>プルーフ・オブ・トラストとプルーフ・オブ・ハッシュ</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>バックアップ</pre>\n",
+			"option_html": "<pre>バックアップ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>暗号化</pre>\n",
+			"option_html": "<pre>暗号化</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>モニタリング</pre>\n",
+			"option_html": "<pre>モニタリング</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パッチ適用</pre>\n",
+			"option_html": "<pre>パッチ適用</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>トーンカーブのS字調整</pre>\n",
+			"option_html": "<pre>トーンカーブのS字調整</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ポスタリゼーション</pre>\n",
+			"option_html": "<pre>ポスタリゼーション</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションマップ</pre>\n",
+			"option_html": "<pre>グラデーションマップ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>明るさ・コントラスト</pre>\n",
+			"option_html": "<pre>明るさ・コントラスト</pre>\n"
+		}
+	]
+}

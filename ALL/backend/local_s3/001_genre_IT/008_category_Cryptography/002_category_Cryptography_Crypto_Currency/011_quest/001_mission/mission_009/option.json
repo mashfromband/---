@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ハッキングによる資産の消失</pre>\n",
+			"option_html": "<pre>ハッキングによる資産の消失</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>取引時に設定した価格と実際の約定価格の差</pre>\n",
+			"option_html": "<pre>取引時に設定した価格と実際の約定価格の差</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨の流動性が高まる現象</pre>\n",
+			"option_html": "<pre>仮想通貨の流動性が高まる現象</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>送金時に発生する手数料の計算ミス</pre>\n",
+			"option_html": "<pre>送金時に発生する手数料の計算ミス</pre>\n"
+		}
+	]
+}

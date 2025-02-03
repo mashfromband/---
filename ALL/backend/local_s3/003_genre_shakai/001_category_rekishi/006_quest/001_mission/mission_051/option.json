@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "土岐康行の乱\n",
+			"option_html": "<p>土岐康行の乱</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "田村庄司の乱\n",
+			"option_html": "<p>田村庄司の乱</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "中先代の乱\n",
+			"option_html": "<p>中先代の乱</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "明徳の乱\n",
+			"option_html": "<p>明徳の乱</p>\n"
+		}
+	]
+}

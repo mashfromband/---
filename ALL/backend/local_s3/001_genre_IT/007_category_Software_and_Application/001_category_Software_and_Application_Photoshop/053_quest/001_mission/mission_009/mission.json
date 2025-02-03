@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色の調整</pre>\n",
+			"option_html": "<pre>色の調整</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーの統合</pre>\n",
+			"option_html": "<pre>レイヤーの統合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>正確な位置合わせ</pre>\n",
+			"option_html": "<pre>正確な位置合わせ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>解像度の変更</pre>\n",
+			"option_html": "<pre>解像度の変更</pre>\n"
+		}
+	]
+}

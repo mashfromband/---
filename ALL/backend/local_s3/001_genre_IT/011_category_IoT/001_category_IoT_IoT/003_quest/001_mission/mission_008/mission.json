@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>低電力かつ広範囲の通信が可能</pre>\n",
+			"option_html": "<pre>低電力かつ広範囲の通信が可能</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>高速で大容量のデータ通信を実現する</pre>\n",
+			"option_html": "<pre>高速で大容量のデータ通信を実現する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>短距離専用の高電力通信を提供する</pre>\n",
+			"option_html": "<pre>短距離専用の高電力通信を提供する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>衛星を利用したリアルタイム通信</pre>\n",
+			"option_html": "<pre>衛星を利用したリアルタイム通信</pre>\n"
+		}
+	]
+}

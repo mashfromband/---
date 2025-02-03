@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シンボルライブラリを使用</pre>\n",
+			"option_html": "<pre>シンボルライブラリを使用</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで複製</pre>\n",
+			"option_html": "<pre>レイヤーパネルで複製</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アートボードをコピー</pre>\n",
+			"option_html": "<pre>アートボードをコピー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スポイトツールを使う</pre>\n",
+			"option_html": "<pre>スポイトツールを使う</pre>\n"
+		}
+	]
+}

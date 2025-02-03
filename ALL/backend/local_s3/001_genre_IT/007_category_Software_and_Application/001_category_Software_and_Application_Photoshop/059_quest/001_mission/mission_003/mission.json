@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを整理して作業効率を向上させる</pre>\n",
+			"option_html": "<pre>レイヤーを整理して作業効率を向上させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを永久に統合する</pre>\n",
+			"option_html": "<pre>レイヤーを永久に統合する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像を別の形式で保存する</pre>\n",
+			"option_html": "<pre>画像を別の形式で保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの透明度を固定する</pre>\n",
+			"option_html": "<pre>レイヤーの透明度を固定する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>必要なものをメモ帳に書き出して、財布に入れておく</pre>\n",
+			"option_html": "<pre>必要なものをメモ帳に書き出して、財布に入れておく</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スーパーのチラシをスマートフォンで撮影し、買い物リストを作成する</pre>\n",
+			"option_html": "<pre>スーパーのチラシをスマートフォンで撮影し、買い物リストを作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>買い物リストを冷蔵庫に貼っておく</pre>\n",
+			"option_html": "<pre>買い物リストを冷蔵庫に貼っておく</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>過去の購入履歴を分析し、買い忘れそうなものを予測して通知してくれるアプリを使う</pre>\n",
+			"option_html": "<pre>過去の購入履歴を分析し、買い忘れそうなものを予測して通知してくれるアプリを使う</pre>\n"
+		}
+	]
+}

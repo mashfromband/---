@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"雑学"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Photoshop 6.0</pre>\n",
+			"option_html": "<pre>Photoshop 6.0</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Photoshop 5.0</pre>\n",
+			"option_html": "<pre>Photoshop 5.0</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Photoshop CS3</pre>\n",
+			"option_html": "<pre>Photoshop CS3</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Photoshop 7.0</pre>\n",
+			"option_html": "<pre>Photoshop 7.0</pre>\n"
+		}
+	]
+}

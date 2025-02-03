@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツールで行間を調整する</pre>\n",
+			"option_html": "<pre>文字ツールで行間を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルで行間を設定する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで行間を設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで行間を設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで行間を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字パネルで行間を設定する</pre>\n",
+			"option_html": "<pre>文字パネルで行間を設定する</pre>\n"
+		}
+	]
+}

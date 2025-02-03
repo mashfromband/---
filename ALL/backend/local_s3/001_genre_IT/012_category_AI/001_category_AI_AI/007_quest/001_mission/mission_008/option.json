@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>楽器を習って、作曲の基礎を学ぶ</pre>\n",
+			"option_html": "<pre>楽器を習って、作曲の基礎を学ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>メロディーやコード進行を自動生成してくれるツールを使う</pre>\n",
+			"option_html": "<pre>メロディーやコード進行を自動生成してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>作曲ソフトの使い方を覚える</pre>\n",
+			"option_html": "<pre>作曲ソフトの使い方を覚える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>音楽教室に通って作曲を学ぶ</pre>\n",
+			"option_html": "<pre>音楽教室に通って作曲を学ぶ</pre>\n"
+		}
+	]
+}

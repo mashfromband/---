@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ストラテジ系",
+		"経営戦略",
+		"リスク管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "リスク対応策の実施\n",
+			"option_html": "<p>リスク対応策の実施</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "リスクの特定\n",
+			"option_html": "<p>リスクの特定</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "リスクの監視と制御\n",
+			"option_html": "<p>リスクの監視と制御</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "リスクの評価\n",
+			"option_html": "<p>リスクの評価</p>\n"
+		}
+	]
+}

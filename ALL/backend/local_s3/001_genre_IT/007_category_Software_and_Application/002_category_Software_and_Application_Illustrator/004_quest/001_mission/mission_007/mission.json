@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Windows</pre>\n",
+			"option_html": "<pre>Windows</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Mac OS</pre>\n",
+			"option_html": "<pre>Mac OS</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>MS-DOS</pre>\n",
+			"option_html": "<pre>MS-DOS</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Linux</pre>\n",
+			"option_html": "<pre>Linux</pre>\n"
+		}
+	]
+}

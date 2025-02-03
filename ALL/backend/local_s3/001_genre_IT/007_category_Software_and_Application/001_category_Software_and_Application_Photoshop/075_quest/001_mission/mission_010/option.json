@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>背景消しゴムツール</pre>\n",
+			"option_html": "<pre>背景消しゴムツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ぼかしツール</pre>\n",
+			"option_html": "<pre>ぼかしツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートオブジェクト</pre>\n",
+			"option_html": "<pre>スマートオブジェクト</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーグループ</pre>\n",
+			"option_html": "<pre>レイヤーグループ</pre>\n"
+		}
+	]
+}

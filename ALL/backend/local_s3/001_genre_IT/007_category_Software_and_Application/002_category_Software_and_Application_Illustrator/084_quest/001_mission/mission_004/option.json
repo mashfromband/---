@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アンカーポイントツールを使用する</pre>\n",
+			"option_html": "<pre>アンカーポイントツールを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択ツールで全体を削除して作り直す</pre>\n",
+			"option_html": "<pre>選択ツールで全体を削除して作り直す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>必要なポイントも含めてランダムに削除する</pre>\n",
+			"option_html": "<pre>必要なポイントも含めてランダムに削除する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>手動でアンカーポイントを1つずつ削除する</pre>\n",
+			"option_html": "<pre>手動でアンカーポイントを1つずつ削除する</pre>\n"
+		}
+	]
+}

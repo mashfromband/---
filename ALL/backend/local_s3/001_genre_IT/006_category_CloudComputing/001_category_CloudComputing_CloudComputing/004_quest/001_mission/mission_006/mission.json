@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想サーバーの提供が主力であるため</pre>\n",
+			"option_html": "<pre>仮想サーバーの提供が主力であるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データ処理や分析を高速かつ大規模に行えるサービスが充実しているため</pre>\n",
+			"option_html": "<pre>データ処理や分析を高速かつ大規模に行えるサービスが充実しているため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Windows環境との統合に優れているため</pre>\n",
+			"option_html": "<pre>Windows環境との統合に優れているため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>完成されたソフトウェアをすぐに利用できるため</pre>\n",
+			"option_html": "<pre>完成されたソフトウェアをすぐに利用できるため</pre>\n"
+		}
+	]
+}

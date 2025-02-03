@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイルサイズが小さくなる</pre>\n",
+			"option_html": "<pre>ファイルサイズが小さくなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>非破壊編集が可能になる</pre>\n",
+			"option_html": "<pre>非破壊編集が可能になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>色の自動調整が行われる</pre>\n",
+			"option_html": "<pre>色の自動調整が行われる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーが自動的に結合される</pre>\n",
+			"option_html": "<pre>レイヤーが自動的に結合される</pre>\n"
+		}
+	]
+}

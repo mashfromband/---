@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自分の仕事に無関心でいる</pre>\n",
+			"option_html": "<pre>自分の仕事に無関心でいる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>問題が起きても無視する</pre>\n",
+			"option_html": "<pre>問題が起きても無視する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自分の役割を理解する</pre>\n",
+			"option_html": "<pre>自分の役割を理解する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他人のせいにする</pre>\n",
+			"option_html": "<pre>他人のせいにする</pre>\n"
+		}
+	]
+}

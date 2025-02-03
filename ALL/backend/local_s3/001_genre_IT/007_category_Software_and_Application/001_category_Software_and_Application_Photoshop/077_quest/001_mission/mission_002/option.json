@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色調補正</pre>\n",
+			"option_html": "<pre>色調補正</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スライスツール</pre>\n",
+			"option_html": "<pre>スライスツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クイック選択ツール</pre>\n",
+			"option_html": "<pre>クイック選択ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ヒストリーパネル</pre>\n",
+			"option_html": "<pre>ヒストリーパネル</pre>\n"
+		}
+	]
+}

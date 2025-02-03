@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ストラテジ系",
+		"システム戦略",
+		"情報システム戦略"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "IT技術の進化\n",
+			"option_html": "<p>IT技術の進化</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "経営戦略との整合性\n",
+			"option_html": "<p>経営戦略との整合性</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "原稿システムとの整合性\n",
+			"option_html": "<p>原稿システムとの整合性</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ライバル企業の情報戦略\n",
+			"option_html": "<p>ライバル企業の情報戦略</p>\n"
+		}
+	]
+}

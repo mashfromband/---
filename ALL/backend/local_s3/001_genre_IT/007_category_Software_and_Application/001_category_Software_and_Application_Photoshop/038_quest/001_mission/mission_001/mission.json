@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Rキー</pre>\n",
+			"option_html": "<pre>Rキー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Tキー</pre>\n",
+			"option_html": "<pre>Tキー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + R（Windows） / Command + R（Mac）</pre>\n",
+			"option_html": "<pre>Ctrl + R（Windows） / Command + R（Mac）</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>キャンバスはショートカットでは回転できない</pre>\n",
+			"option_html": "<pre>キャンバスはショートカットでは回転できない</pre>\n"
+		}
+	]
+}

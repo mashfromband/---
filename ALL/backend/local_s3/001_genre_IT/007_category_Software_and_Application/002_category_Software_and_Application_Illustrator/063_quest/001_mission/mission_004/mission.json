@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"ツール"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 変形 > 回転 > -90°を設定</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; 回転 &gt; -90°を設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>回転ツールを使用し、Altキーを押しながら -90°を入力</pre>\n",
+			"option_html": "<pre>回転ツールを使用し、Altキーを押しながら -90°を入力</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シアーツールで角度を -90°に設定</pre>\n",
+			"option_html": "<pre>シアーツールで角度を -90°に設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自由変形ツールで手動で回転</pre>\n",
+			"option_html": "<pre>自由変形ツールで手動で回転</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ギーザ\n",
+			"option_html": "<p>ギーザ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ピラミッド\n",
+			"option_html": "<p>ピラミッド</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ダム\n",
+			"option_html": "<p>ダム</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アマルナ\n",
+			"option_html": "<p>アマルナ</p>\n"
+		}
+	]
+}

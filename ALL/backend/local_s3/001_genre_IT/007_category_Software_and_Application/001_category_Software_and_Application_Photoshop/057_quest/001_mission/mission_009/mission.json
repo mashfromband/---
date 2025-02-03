@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスツール</pre>\n",
+			"option_html": "<pre>パスツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>コンテンツに応じた移動ツール</pre>\n",
+			"option_html": "<pre>コンテンツに応じた移動ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートフィルター</pre>\n",
+			"option_html": "<pre>スマートフィルター</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ヒストリーパネル</pre>\n",
+			"option_html": "<pre>ヒストリーパネル</pre>\n"
+		}
+	]
+}

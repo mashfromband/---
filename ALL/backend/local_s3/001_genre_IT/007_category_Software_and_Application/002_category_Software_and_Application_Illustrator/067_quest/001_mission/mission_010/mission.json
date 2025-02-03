@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字パネルでフォントを選択する</pre>\n",
+			"option_html": "<pre>文字パネルでフォントを選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルでフォントを選択する</pre>\n",
+			"option_html": "<pre>スウォッチパネルでフォントを選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションパネルでフォントを選択する</pre>\n",
+			"option_html": "<pre>グラデーションパネルでフォントを選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルでフォントを選択する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでフォントを選択する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"データ整理・管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルの書式設定を変更する</pre>\n",
+			"option_html": "<pre>セルの書式設定を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>数式を変更する</pre>\n",
+			"option_html": "<pre>数式を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの並べ替え</pre>\n",
+			"option_html": "<pre>データの並べ替え</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルを削除して再入力する</pre>\n",
+			"option_html": "<pre>セルを削除して再入力する</pre>\n"
+		}
+	]
+}

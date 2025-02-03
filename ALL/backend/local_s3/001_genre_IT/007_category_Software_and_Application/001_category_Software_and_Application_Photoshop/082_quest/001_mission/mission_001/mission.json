@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"選択・マスキング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>背景を削除する</pre>\n",
+			"option_html": "<pre>背景を削除する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像のカラー調整を行う</pre>\n",
+			"option_html": "<pre>画像のカラー調整を行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像のリサイズを行う</pre>\n",
+			"option_html": "<pre>画像のリサイズを行う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像を切り抜く</pre>\n",
+			"option_html": "<pre>画像を切り抜く</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "オムニチャネル\n",
+			"option_html": "<p>オムニチャネル</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "フィンテック\n",
+			"option_html": "<p>フィンテック</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ブロックチェーン\n",
+			"option_html": "<p>ブロックチェーン</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ワントゥワンマーケティング\n",
+			"option_html": "<p>ワントゥワンマーケティング</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「データ」タブ→「外部データの取得」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「外部データの取得」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ファイル」タブ→「新規作成」</pre>\n",
+			"option_html": "<pre>「ファイル」タブ→「新規作成」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ホーム」タブ→「条件付き書式」→「重複値の強調表示」</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「条件付き書式」→「重複値の強調表示」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「挿入」タブ→「グラフの作成」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「グラフの作成」</pre>\n"
+		}
+	]
+}

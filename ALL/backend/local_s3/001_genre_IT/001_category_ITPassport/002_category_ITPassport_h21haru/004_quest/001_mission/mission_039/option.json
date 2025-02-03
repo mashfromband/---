@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "応答性\n",
+			"option_html": "<p>応答性</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "可用性\n",
+			"option_html": "<p>可用性</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "完全性\n",
+			"option_html": "<p>完全性</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "機密性\n",
+			"option_html": "<p>機密性</p>\n"
+		}
+	]
+}

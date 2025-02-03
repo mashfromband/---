@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"良い仕事をする為に",
+		"ノウハウとマインド（25）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自分の利益だけを追求する</pre>\n",
+			"option_html": "<pre>自分の利益だけを追求する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>チーム全体の利益を考える</pre>\n",
+			"option_html": "<pre>チーム全体の利益を考える</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>他人の仕事に無関心でいる</pre>\n",
+			"option_html": "<pre>他人の仕事に無関心でいる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分の作業だけに集中する</pre>\n",
+			"option_html": "<pre>自分の作業だけに集中する</pre>\n"
+		}
+	]
+}

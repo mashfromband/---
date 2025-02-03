@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>感情や表情を合わせる</pre>\n",
+			"option_html": "<pre>感情や表情を合わせる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>話を無視する</pre>\n",
+			"option_html": "<pre>話を無視する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自分の考えを押し付ける</pre>\n",
+			"option_html": "<pre>自分の考えを押し付ける</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>話を途中で切り上げる</pre>\n",
+			"option_html": "<pre>話を途中で切り上げる</pre>\n"
+		}
+	]
+}

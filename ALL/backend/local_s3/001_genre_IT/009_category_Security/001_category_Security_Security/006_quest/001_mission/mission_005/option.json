@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>HTTPで送信される通信</pre>\n",
+			"option_html": "<pre>HTTPで送信される通信</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>HTTPSを利用した通信</pre>\n",
+			"option_html": "<pre>HTTPSを利用した通信</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>通常のメール送信（平文通信）</pre>\n",
+			"option_html": "<pre>通常のメール送信（平文通信）</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号化されていないWi-Fiを使った通信</pre>\n",
+			"option_html": "<pre>暗号化されていないWi-Fiを使った通信</pre>\n"
+		}
+	]
+}

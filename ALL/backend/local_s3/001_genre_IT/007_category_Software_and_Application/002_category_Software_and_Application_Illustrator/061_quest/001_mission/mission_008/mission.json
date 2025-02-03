@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"オブジェクト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > クリッピングマスク > 作成</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; クリッピングマスク &gt; 作成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスファインダー > 型抜き</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 型抜き</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 配置 > クリッピング</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; クリッピング</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シェイプ形成ツール</pre>\n",
+			"option_html": "<pre>シェイプ形成ツール</pre>\n"
+		}
+	]
+}

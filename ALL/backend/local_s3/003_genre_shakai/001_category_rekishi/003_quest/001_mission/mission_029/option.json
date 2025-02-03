@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "寧波の乱\n",
+			"option_html": "<p>寧波の乱</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "永享の乱\n",
+			"option_html": "<p>永享の乱</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "応仁の乱\n",
+			"option_html": "<p>応仁の乱</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "三浦の乱\n",
+			"option_html": "<p>三浦の乱</p>\n"
+		}
+	]
+}

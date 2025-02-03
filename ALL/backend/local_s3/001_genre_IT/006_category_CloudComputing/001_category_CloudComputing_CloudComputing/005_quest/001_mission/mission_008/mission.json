@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>個々の企業がサーバーを購入し、常時稼働させる必要があるため</pre>\n",
+			"option_html": "<pre>個々の企業がサーバーを購入し、常時稼働させる必要があるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データセンターの運用が地域限定になるため</pre>\n",
+			"option_html": "<pre>データセンターの運用が地域限定になるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>大規模データセンターで効率的にリソースを管理・運用するため</pre>\n",
+			"option_html": "<pre>大規模データセンターで効率的にリソースを管理・運用するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>物理的なサーバーを分散配置するためエネルギー消費が高くなる</pre>\n",
+			"option_html": "<pre>物理的なサーバーを分散配置するためエネルギー消費が高くなる</pre>\n"
+		}
+	]
+}

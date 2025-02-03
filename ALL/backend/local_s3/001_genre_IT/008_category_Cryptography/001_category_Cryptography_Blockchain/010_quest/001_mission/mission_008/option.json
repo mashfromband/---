@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>車両履歴を透明かつ改ざん不可能な形で管理し、信頼性を向上させる</pre>\n",
+			"option_html": "<pre>車両履歴を透明かつ改ざん不可能な形で管理し、信頼性を向上させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>車両登録を非公開にしてデータの安全性を確保する</pre>\n",
+			"option_html": "<pre>車両登録を非公開にしてデータの安全性を確保する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自動車保険を物理的な文書で保管する</pre>\n",
+			"option_html": "<pre>自動車保険を物理的な文書で保管する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>車両のエンジン性能を向上させる</pre>\n",
+			"option_html": "<pre>車両のエンジン性能を向上させる</pre>\n"
+		}
+	]
+}

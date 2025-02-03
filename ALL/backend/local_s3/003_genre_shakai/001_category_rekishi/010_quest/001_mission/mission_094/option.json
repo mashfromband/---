@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "文徳天皇\n",
+			"option_html": "<p>文徳天皇</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "清和天皇\n",
+			"option_html": "<p>清和天皇</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "陽成天皇\n",
+			"option_html": "<p>陽成天皇</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "光孝天皇\n",
+			"option_html": "<p>光孝天皇</p>\n"
+		}
+	]
+}

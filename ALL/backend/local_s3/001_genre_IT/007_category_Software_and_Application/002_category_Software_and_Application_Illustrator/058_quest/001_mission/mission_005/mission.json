@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"カラー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>塗りの色を透明に設定する</pre>\n",
+			"option_html": "<pre>塗りの色を透明に設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不透明度を0%に設定する</pre>\n",
+			"option_html": "<pre>不透明度を0%に設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>塗りの色を「なし」に設定する</pre>\n",
+			"option_html": "<pre>塗りの色を「なし」に設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スウォッチパネルで「なし」を選択する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで「なし」を選択する</pre>\n"
+		}
+	]
+}

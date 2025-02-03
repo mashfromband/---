@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスの始点を再度クリックする</pre>\n",
+			"option_html": "<pre>パスの始点を再度クリックする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスの終点で右クリックする</pre>\n",
+			"option_html": "<pre>パスの終点で右クリックする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>キーボードのEscキーを押す</pre>\n",
+			"option_html": "<pre>キーボードのEscキーを押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「パスを閉じる」ボタンをクリックする</pre>\n",
+			"option_html": "<pre>「パスを閉じる」ボタンをクリックする</pre>\n"
+		}
+	]
+}

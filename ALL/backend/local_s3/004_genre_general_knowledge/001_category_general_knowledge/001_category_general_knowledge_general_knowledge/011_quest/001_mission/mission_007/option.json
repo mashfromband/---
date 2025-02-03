@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>会社の許可があれば可能</pre>\n",
+			"option_html": "<pre>会社の許可があれば可能</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>機密情報は絶対に投稿しない</pre>\n",
+			"option_html": "<pre>機密情報は絶対に投稿しない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>投稿内容に制限はない</pre>\n",
+			"option_html": "<pre>投稿内容に制限はない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>上司が見る可能性はない</pre>\n",
+			"option_html": "<pre>上司が見る可能性はない</pre>\n"
+		}
+	]
+}

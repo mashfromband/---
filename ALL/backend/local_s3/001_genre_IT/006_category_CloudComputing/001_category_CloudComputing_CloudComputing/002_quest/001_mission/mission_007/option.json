@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>すべてのリソースが固定料金で提供されるため</pre>\n",
+			"option_html": "<pre>すべてのリソースが固定料金で提供されるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>初期投資が不要で、従量課金制を採用しているため</pre>\n",
+			"option_html": "<pre>初期投資が不要で、従量課金制を採用しているため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>専有型リソースを利用するため</pre>\n",
+			"option_html": "<pre>専有型リソースを利用するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サーバーを完全に購入する必要があるため</pre>\n",
+			"option_html": "<pre>サーバーを完全に購入する必要があるため</pre>\n"
+		}
+	]
+}

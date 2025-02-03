@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "FTP\n",
+			"option_html": "<p>FTP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "HTTP\n",
+			"option_html": "<p>HTTP</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "NTP\n",
+			"option_html": "<p>NTP</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "DHCP\n",
+			"option_html": "<p>DHCP</p>\n"
+		}
+	]
+}

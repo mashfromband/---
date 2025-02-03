@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>映画風の色調補正を行う</pre>\n",
+			"option_html": "<pre>映画風の色調補正を行う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>明るさを均等に調整する</pre>\n",
+			"option_html": "<pre>明るさを均等に調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度を均等に下げる</pre>\n",
+			"option_html": "<pre>彩度を均等に下げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの透明度を調整する</pre>\n",
+			"option_html": "<pre>レイヤーの透明度を調整する</pre>\n"
+		}
+	]
+}

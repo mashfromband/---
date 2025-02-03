@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > レイヤー名を変更を選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; レイヤー名を変更を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで右クリックし「名前を変更」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックし「名前を変更」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルでレイヤー名をダブルクリックして変更</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤー名をダブルクリックして変更</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで「プロパティ」を選択して変更</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「プロパティ」を選択して変更</pre>\n"
+		}
+	]
+}

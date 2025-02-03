@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サーバーやハードウェアを固定的に運用することが前提であるため</pre>\n",
+			"option_html": "<pre>サーバーやハードウェアを固定的に運用することが前提であるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>必要に応じてリソースを増減できるため、ビジネスの変化に対応しやすい</pre>\n",
+			"option_html": "<pre>必要に応じてリソースを増減できるため、ビジネスの変化に対応しやすい</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>特定の環境下でしかソフトウェアが利用できないため</pre>\n",
+			"option_html": "<pre>特定の環境下でしかソフトウェアが利用できないため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>事前にすべてのリソースを購入しなければならないため</pre>\n",
+			"option_html": "<pre>事前にすべてのリソースを購入しなければならないため</pre>\n"
+		}
+	]
+}

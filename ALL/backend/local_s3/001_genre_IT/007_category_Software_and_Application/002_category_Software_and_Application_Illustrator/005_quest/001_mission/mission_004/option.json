@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>書体が削除された文字</pre>\n",
+			"option_html": "<pre>書体が削除された文字</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字が編集不可能なパスに変換された状態</pre>\n",
+			"option_html": "<pre>文字が編集不可能なパスに変換された状態</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文字が太字になる状態</pre>\n",
+			"option_html": "<pre>文字が太字になる状態</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字がデフォルト設定に戻る状態</pre>\n",
+			"option_html": "<pre>文字がデフォルト設定に戻る状態</pre>\n"
+		}
+	]
+}

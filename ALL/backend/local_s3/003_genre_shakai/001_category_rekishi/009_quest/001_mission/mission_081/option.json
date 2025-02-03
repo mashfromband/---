@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ニジェール\n",
+			"option_html": "<p>ニジェール</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "セネガル\n",
+			"option_html": "<p>セネガル</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ギニア\n",
+			"option_html": "<p>ギニア</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "マリ\n",
+			"option_html": "<p>マリ</p>\n"
+		}
+	]
+}

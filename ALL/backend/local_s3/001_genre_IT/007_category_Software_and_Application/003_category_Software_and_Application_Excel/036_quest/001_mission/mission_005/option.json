@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + W</pre>\n",
+			"option_html": "<pre>Ctrl + W</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Alt + F4</pre>\n",
+			"option_html": "<pre>Alt + F4</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + Q</pre>\n",
+			"option_html": "<pre>Ctrl + Q</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>全て正しい</pre>\n",
+			"option_html": "<pre>全て正しい</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "斡旋\n",
+			"option_html": "<p>斡旋</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "調査\n",
+			"option_html": "<p>調査</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "調停\n",
+			"option_html": "<p>調停</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "仲裁\n",
+			"option_html": "<p>仲裁</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>マイニング速度を向上させる技術</pre>\n",
+			"option_html": "<pre>マイニング速度を向上させる技術</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トランザクションデータを効率的に管理するための構造</pre>\n",
+			"option_html": "<pre>トランザクションデータを効率的に管理するための構造</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>分散型ウォレットを管理する仕組み</pre>\n",
+			"option_html": "<pre>分散型ウォレットを管理する仕組み</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブロックチェーンを保管する専用デバイス</pre>\n",
+			"option_html": "<pre>ブロックチェーンを保管する専用デバイス</pre>\n"
+		}
+	]
+}

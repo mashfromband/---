@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ライブトレースツール</pre>\n",
+			"option_html": "<pre>ライブトレースツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>イメージトレースツール</pre>\n",
+			"option_html": "<pre>イメージトレースツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダー</pre>\n",
+			"option_html": "<pre>パスファインダー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスのオフセット</pre>\n",
+			"option_html": "<pre>パスのオフセット</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"システム",
+		"コンピューター"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "エクスプローラー\n",
+			"option_html": "<p>エクスプローラー</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "CPU\n",
+			"option_html": "<p>CPU</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "NAS\n",
+			"option_html": "<p>NAS</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ハブ\n",
+			"option_html": "<p>ハブ</p>\n"
+		}
+	]
+}

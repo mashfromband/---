@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨の供給量</pre>\n",
+			"option_html": "<pre>仮想通貨の供給量</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の手数料率</pre>\n",
+			"option_html": "<pre>仮想通貨の手数料率</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>売値と買値の差額</pre>\n",
+			"option_html": "<pre>売値と買値の差額</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨の取引時間帯</pre>\n",
+			"option_html": "<pre>仮想通貨の取引時間帯</pre>\n"
+		}
+	]
+}

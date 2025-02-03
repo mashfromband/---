@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Amazon AppstoreとPlay Store</pre>\n",
+			"option_html": "<pre>Amazon AppstoreとPlay Store</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Windows StoreとMac App Store</pre>\n",
+			"option_html": "<pre>Windows StoreとMac App Store</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Samsung Galaxy StoreとHUAWEI AppGallery</pre>\n",
+			"option_html": "<pre>Samsung Galaxy StoreとHUAWEI AppGallery</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>App StoreとGoogle Play</pre>\n",
+			"option_html": "<pre>App StoreとGoogle Play</pre>\n"
+		}
+	]
+}

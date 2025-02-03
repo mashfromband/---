@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > リピート</pre>\n",
+			"option_html": "<pre>効果 &gt; リピート</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > リピート > 回転</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; リピート &gt; 回転</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>編集 > リピート > コピー</pre>\n",
+			"option_html": "<pre>編集 &gt; リピート &gt; コピー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスファインダー > リピート</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; リピート</pre>\n"
+		}
+	]
+}

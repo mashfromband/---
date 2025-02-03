@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでロックする</pre>\n",
+			"option_html": "<pre>レイヤーパネルでロックする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>透明度を0%にする</pre>\n",
+			"option_html": "<pre>透明度を0%にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで目のアイコンをオフにする</pre>\n",
+			"option_html": "<pre>レイヤーパネルで目のアイコンをオフにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>表示メニューで「隠す」を選択する</pre>\n",
+			"option_html": "<pre>表示メニューで「隠す」を選択する</pre>\n"
+		}
+	]
+}

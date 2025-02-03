@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データをクラウド上に保存し、必要に応じてアクセスできる</pre>\n",
+			"option_html": "<pre>データをクラウド上に保存し、必要に応じてアクセスできる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想サーバーを柔軟に構築・管理する</pre>\n",
+			"option_html": "<pre>仮想サーバーを柔軟に構築・管理する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>イベントベースでコードを実行する機能を提供する</pre>\n",
+			"option_html": "<pre>イベントベースでコードを実行する機能を提供する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データをリアルタイムで高速に分析する</pre>\n",
+			"option_html": "<pre>データをリアルタイムで高速に分析する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"文法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>硬変化と軟変化は完全に不規則に変化するため暗記が必要である</pre>\n",
+			"option_html": "<pre>硬変化と軟変化は完全に不規則に変化するため暗記が必要である</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>硬母音に変化したり硬母音が出現したりする単語の変化を硬変化という</pre>\n",
+			"option_html": "<pre>硬母音に変化したり硬母音が出現したりする単語の変化を硬変化という</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>軟母音に変化したり軟母音が出現したりする単語の変化を軟変化という</pre>\n",
+			"option_html": "<pre>軟母音に変化したり軟母音が出現したりする単語の変化を軟変化という</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>硬変化と軟変化は密接な関わりがある</pre>\n",
+			"option_html": "<pre>硬変化と軟変化は密接な関わりがある</pre>\n"
+		}
+	]
+}

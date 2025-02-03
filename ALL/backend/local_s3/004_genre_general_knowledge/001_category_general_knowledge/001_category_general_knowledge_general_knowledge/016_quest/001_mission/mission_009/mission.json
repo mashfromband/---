@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"良い仕事をする為に",
+		"ノウハウとマインド（25）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仕事を嫌いになる</pre>\n",
+			"option_html": "<pre>仕事を嫌いになる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仕事を楽しむ心を持つ</pre>\n",
+			"option_html": "<pre>仕事を楽しむ心を持つ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>常に緊張し続ける</pre>\n",
+			"option_html": "<pre>常に緊張し続ける</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他人の意見に左右される</pre>\n",
+			"option_html": "<pre>他人の意見に左右される</pre>\n"
+		}
+	]
+}

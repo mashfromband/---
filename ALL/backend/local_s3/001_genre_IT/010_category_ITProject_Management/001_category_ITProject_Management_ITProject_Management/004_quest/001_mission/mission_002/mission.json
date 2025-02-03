@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ステークホルダー全員の要望をすべて満たすこと</pre>\n",
+			"option_html": "<pre>ステークホルダー全員の要望をすべて満たすこと</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ステークホルダーの期待を管理し、プロジェクトへの関与を適切にコントロールすること</pre>\n",
+			"option_html": "<pre>ステークホルダーの期待を管理し、プロジェクトへの関与を適切にコントロールすること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ステークホルダーの影響力を最小限にすること</pre>\n",
+			"option_html": "<pre>ステークホルダーの影響力を最小限にすること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ステークホルダーとのコミュニケーションを最小限に抑えること</pre>\n",
+			"option_html": "<pre>ステークホルダーとのコミュニケーションを最小限に抑えること</pre>\n"
+		}
+	]
+}

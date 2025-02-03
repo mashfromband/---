@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーの許可なくデータを収集する</pre>\n",
+			"option_html": "<pre>ユーザーの許可なくデータを収集する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワーク速度を向上させる</pre>\n",
+			"option_html": "<pre>ネットワーク速度を向上させる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データを暗号化して復号を要求する</pre>\n",
+			"option_html": "<pre>データを暗号化して復号を要求する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セキュリティソフトを削除する</pre>\n",
+			"option_html": "<pre>セキュリティソフトを削除する</pre>\n"
+		}
+	]
+}

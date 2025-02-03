@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文書の削除を容易にする</pre>\n",
+			"option_html": "<pre>文書の削除を容易にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>社内ネットワークの速度を向上させる</pre>\n",
+			"option_html": "<pre>社内ネットワークの速度を向上させる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文書の保存容量を削減する</pre>\n",
+			"option_html": "<pre>文書の保存容量を削減する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>改ざん防止と履歴の追跡可能性</pre>\n",
+			"option_html": "<pre>改ざん防止と履歴の追跡可能性</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"ショートカット"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + T / Command + T</pre>\n",
+			"option_html": "<pre>Ctrl + T / Command + T</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + Alt + I / Command + Option + I</pre>\n",
+			"option_html": "<pre>Ctrl + Alt + I / Command + Option + I</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + Alt + C / Command + Option + C</pre>\n",
+			"option_html": "<pre>Ctrl + Alt + C / Command + Option + C</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + R / Command + R</pre>\n",
+			"option_html": "<pre>Ctrl + R / Command + R</pre>\n"
+		}
+	]
+}

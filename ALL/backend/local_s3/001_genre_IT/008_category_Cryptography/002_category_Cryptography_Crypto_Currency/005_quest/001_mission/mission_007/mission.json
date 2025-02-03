@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨は為替レートの影響を受けない</pre>\n",
+			"option_html": "<pre>仮想通貨は為替レートの影響を受けない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>送金時間が短く、手数料が比較的低い</pre>\n",
+			"option_html": "<pre>送金時間が短く、手数料が比較的低い</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨で送金すると税金が免除される</pre>\n",
+			"option_html": "<pre>仮想通貨で送金すると税金が免除される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>送金額に制限がないため</pre>\n",
+			"option_html": "<pre>送金額に制限がないため</pre>\n"
+		}
+	]
+}

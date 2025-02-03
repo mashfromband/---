@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>RGB</pre>\n",
+			"option_html": "<pre>RGB</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>CMYK</pre>\n",
+			"option_html": "<pre>CMYK</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Labカラー</pre>\n",
+			"option_html": "<pre>Labカラー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グレースケール</pre>\n",
+			"option_html": "<pre>グレースケール</pre>\n"
+		}
+	]
+}

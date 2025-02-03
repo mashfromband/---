@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"セキュリティ",
+		"情報セキュリティ対策・実装技術"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "個人の指紋や虹彩などの特徴に基づく認証\n",
+			"option_html": "<p>個人の指紋や虹彩などの特徴に基づく認証</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "個人の知識に基づく認証\n",
+			"option_html": "<p>個人の知識に基づく認証</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "個人のパターン認識能力に基づく認証\n",
+			"option_html": "<p>個人のパターン認識能力に基づく認証</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "個人の問題解決能力に基づく認証\n",
+			"option_html": "<p>個人の問題解決能力に基づく認証</p>\n"
+		}
+	]
+}

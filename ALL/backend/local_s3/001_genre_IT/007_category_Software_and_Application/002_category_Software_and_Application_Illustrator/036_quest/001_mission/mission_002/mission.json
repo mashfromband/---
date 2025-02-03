@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>イメージトレース</pre>\n",
+			"option_html": "<pre>イメージトレース</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ライブトレース</pre>\n",
+			"option_html": "<pre>ライブトレース</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダー</pre>\n",
+			"option_html": "<pre>パスファインダー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネル</pre>\n",
+			"option_html": "<pre>アピアランスパネル</pre>\n"
+		}
+	]
+}

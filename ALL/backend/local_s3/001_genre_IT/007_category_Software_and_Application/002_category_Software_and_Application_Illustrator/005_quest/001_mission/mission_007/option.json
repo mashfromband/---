@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>線の幅を変える</pre>\n",
+			"option_html": "<pre>線の幅を変える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>図形を拡大縮小する</pre>\n",
+			"option_html": "<pre>図形を拡大縮小する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションを適用する</pre>\n",
+			"option_html": "<pre>グラデーションを適用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>テキストを編集する</pre>\n",
+			"option_html": "<pre>テキストを編集する</pre>\n"
+		}
+	]
+}

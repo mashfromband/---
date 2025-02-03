@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + Tab</pre>\n",
+			"option_html": "<pre>Ctrl + Tab</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + H</pre>\n",
+			"option_html": "<pre>Ctrl + H</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Tab</pre>\n",
+			"option_html": "<pre>Tab</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Shift + Tab</pre>\n",
+			"option_html": "<pre>Shift + Tab</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルA1とセルB1の値の合計</pre>\n",
+			"option_html": "<pre>セルA1とセルB1の値の合計</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルA1の値のみ</pre>\n",
+			"option_html": "<pre>セルA1の値のみ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルB1の値のみ</pre>\n",
+			"option_html": "<pre>セルB1の値のみ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>数式そのもの「=A1+B1」</pre>\n",
+			"option_html": "<pre>数式そのもの「=A1+B1」</pre>\n"
+		}
+	]
+}

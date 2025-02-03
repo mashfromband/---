@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「透明背景を保持」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「透明背景を保持」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>エクスポート時に「透明オプション」を選択</pre>\n",
+			"option_html": "<pre>エクスポート時に「透明オプション」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アートボード設定で透明を選択</pre>\n",
+			"option_html": "<pre>アートボード設定で透明を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>透明オプションで背景を透明に設定</pre>\n",
+			"option_html": "<pre>透明オプションで背景を透明に設定</pre>\n"
+		}
+	]
+}

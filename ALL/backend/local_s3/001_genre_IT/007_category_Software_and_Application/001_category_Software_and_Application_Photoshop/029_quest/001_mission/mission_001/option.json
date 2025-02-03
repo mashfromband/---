@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>緑のスライダーを右に動かす</pre>\n",
+			"option_html": "<pre>緑のスライダーを右に動かす</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>赤のスライダーを左に動かす</pre>\n",
+			"option_html": "<pre>赤のスライダーを左に動かす</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>黄色のスライダーを左に動かす</pre>\n",
+			"option_html": "<pre>黄色のスライダーを左に動かす</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>赤のスライダーを右に動かす</pre>\n",
+			"option_html": "<pre>赤のスライダーを右に動かす</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "TCP/IP\n",
+			"option_html": "<p>TCP/IP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "DNS\n",
+			"option_html": "<p>DNS</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "MQTT\n",
+			"option_html": "<p>MQTT</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "FTP\n",
+			"option_html": "<p>FTP</p>\n"
+		}
+	]
+}

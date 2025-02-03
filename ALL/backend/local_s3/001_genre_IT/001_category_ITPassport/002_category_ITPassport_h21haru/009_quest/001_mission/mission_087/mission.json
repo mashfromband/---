@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"ソフトウェア",
+		"オフィスツール"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "合計(A$1`~`A10)\n",
+			"option_html": "<p>合計(A$1<code>~</code>A10)</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "合計(A$1`~`A$10)-合計($A$1`~`A10)\n",
+			"option_html": "<p>合計(A$1<code>~</code>A$10)-合計($A$1<code>~</code>A10)</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "合計(A$1`~`A$10)-合計($A$10-A10)\n",
+			"option_html": "<p>合計(A$1<code>~</code>A$10)-合計($A$10-A10)</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "合計(A$1`~`A$10)-合計($A$1`~`A10)+A10\n",
+			"option_html": "<p>合計(A$1<code>~</code>A$10)-合計($A$1<code>~</code>A10)+A10</p>\n"
+		}
+	]
+}

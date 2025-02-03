@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>JPEG保存時に「品質：高」を選択</pre>\n",
+			"option_html": "<pre>JPEG保存時に「品質：高」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>JPEGエクスポート時に「解像度：高」を選択</pre>\n",
+			"option_html": "<pre>JPEGエクスポート時に「解像度：高」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>書き出し設定で「高品質」を選択</pre>\n",
+			"option_html": "<pre>書き出し設定で「高品質」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>保存設定で「高品質」を選択</pre>\n",
+			"option_html": "<pre>保存設定で「高品質」を選択</pre>\n"
+		}
+	]
+}

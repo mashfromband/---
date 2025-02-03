@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スウォッチパネル</pre>\n",
+			"option_html": "<pre>スウォッチパネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アライメントパネル</pre>\n",
+			"option_html": "<pre>アライメントパネル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文字ツール</pre>\n",
+			"option_html": "<pre>文字ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネル</pre>\n",
+			"option_html": "<pre>レイヤーパネル</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>チームメンバーの意見や評価</pre>\n",
+			"option_html": "<pre>チームメンバーの意見や評価</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトの目標と成果物</pre>\n",
+			"option_html": "<pre>プロジェクトの目標と成果物</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>人、物、時間、コスト</pre>\n",
+			"option_html": "<pre>人、物、時間、コスト</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの進捗報告書</pre>\n",
+			"option_html": "<pre>プロジェクトの進捗報告書</pre>\n"
+		}
+	]
+}

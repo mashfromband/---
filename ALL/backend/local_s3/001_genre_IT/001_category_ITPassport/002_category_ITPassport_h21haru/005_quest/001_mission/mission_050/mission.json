@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"マネジメント系",
+		"プロジェクトマネジメント",
+		"プロジェクトマネジメント"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "E-R図\n",
+			"option_html": "<p>E-R図</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アローダイアグラム\n",
+			"option_html": "<p>アローダイアグラム</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ガントチャート\n",
+			"option_html": "<p>ガントチャート</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "状態遷移図\n",
+			"option_html": "<p>状態遷移図</p>\n"
+		}
+	]
+}

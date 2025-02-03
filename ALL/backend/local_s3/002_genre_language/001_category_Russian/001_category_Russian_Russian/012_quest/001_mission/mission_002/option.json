@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>不活動体は基本的にすべて中性名詞である</pre>\n",
+			"option_html": "<pre>不活動体は基本的にすべて中性名詞である</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>形容詞を名詞化した不変化名詞は基本的に女性名詞である</pre>\n",
+			"option_html": "<pre>形容詞を名詞化した不変化名詞は基本的に女性名詞である</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>活動体は基本的にすべて男性名詞である</pre>\n",
+			"option_html": "<pre>活動体は基本的にすべて男性名詞である</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>その言葉の自然性がそのまま文法性になる</pre>\n",
+			"option_html": "<pre>その言葉の自然性がそのまま文法性になる</pre>\n"
+		}
+	]
+}

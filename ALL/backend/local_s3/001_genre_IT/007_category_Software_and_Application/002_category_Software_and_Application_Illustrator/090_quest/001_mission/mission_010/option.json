@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトを選択し、レイヤーパネルで「新規レイヤー」を作成</pre>\n",
+			"option_html": "<pre>オブジェクトを選択し、レイヤーパネルで「新規レイヤー」を作成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクトを選択し、レイヤーパネルで「新規レイヤーに移動」を選択</pre>\n",
+			"option_html": "<pre>オブジェクトを選択し、レイヤーパネルで「新規レイヤーに移動」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで「レイヤーをまとめる」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「レイヤーをまとめる」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ショートカットCtrl + Gでグループ化する</pre>\n",
+			"option_html": "<pre>ショートカットCtrl + Gでグループ化する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "スキミング\n",
+			"option_html": "<p>スキミング</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "AML(Anti-Money-Laundering)\n",
+			"option_html": "<p>AML(Anti-Money-Laundering)</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ショルダーハック\n",
+			"option_html": "<p>ショルダーハック</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "フィッシング\n",
+			"option_html": "<p>フィッシング</p>\n"
+		}
+	]
+}

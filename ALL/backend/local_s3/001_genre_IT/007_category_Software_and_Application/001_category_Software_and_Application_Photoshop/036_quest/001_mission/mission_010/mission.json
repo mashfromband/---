@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Photoshop内でフォントをインストールする</pre>\n",
+			"option_html": "<pre>Photoshop内でフォントをインストールする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Adobe Fontsやシステムのフォント設定を利用する</pre>\n",
+			"option_html": "<pre>Adobe Fontsやシステムのフォント設定を利用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ウィンドウ」メニューの「フォント」からインストールする</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「フォント」からインストールする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>新しいフォントはPhotoshopでは利用できない</pre>\n",
+			"option_html": "<pre>新しいフォントはPhotoshopでは利用できない</pre>\n"
+		}
+	]
+}

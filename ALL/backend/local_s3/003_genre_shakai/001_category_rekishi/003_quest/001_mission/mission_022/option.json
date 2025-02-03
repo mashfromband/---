@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "伊勢大輔\n",
+			"option_html": "<p>伊勢大輔</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "小式部内侍\n",
+			"option_html": "<p>小式部内侍</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "清少納言\n",
+			"option_html": "<p>清少納言</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "和泉式部\n",
+			"option_html": "<p>和泉式部</p>\n"
+		}
+	]
+}

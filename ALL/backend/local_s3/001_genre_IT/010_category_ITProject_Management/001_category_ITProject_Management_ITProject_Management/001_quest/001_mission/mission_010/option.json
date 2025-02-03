@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スコープ、時間、コスト</pre>\n",
+			"option_html": "<pre>スコープ、時間、コスト</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スコープ、品質、目標</pre>\n",
+			"option_html": "<pre>スコープ、品質、目標</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>時間、成果物、報告書</pre>\n",
+			"option_html": "<pre>時間、成果物、報告書</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>コスト、リソース、評価</pre>\n",
+			"option_html": "<pre>コスト、リソース、評価</pre>\n"
+		}
+	]
+}

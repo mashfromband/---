@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>特定のOS専用機能を最大限に活用するプロジェクト</pre>\n",
+			"option_html": "<pre>特定のOS専用機能を最大限に活用するプロジェクト</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>複数のプラットフォームで同時にリリースする必要があるプロジェクト</pre>\n",
+			"option_html": "<pre>複数のプラットフォームで同時にリリースする必要があるプロジェクト</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>高度なグラフィック処理が求められるプロジェクト</pre>\n",
+			"option_html": "<pre>高度なグラフィック処理が求められるプロジェクト</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>低コストでテキストのみを表示するWebアプリケーション</pre>\n",
+			"option_html": "<pre>低コストでテキストのみを表示するWebアプリケーション</pre>\n"
+		}
+	]
+}

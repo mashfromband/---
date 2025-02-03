@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "コンピュータの物理的な修理を行う\n",
+			"option_html": "<p>コンピュータの物理的な修理を行う</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ソフトウェアとハードウェアを管理する\n",
+			"option_html": "<p>ソフトウェアとハードウェアを管理する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "インターネットの接続速度を向上させる\n",
+			"option_html": "<p>インターネットの接続速度を向上させる</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "電源を供給する\n",
+			"option_html": "<p>電源を供給する</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Alt + Xキーを押す</pre>\n",
+			"option_html": "<pre>Alt + Xキーを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + Shift + Cを押す</pre>\n",
+			"option_html": "<pre>Ctrl + Shift + Cを押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Xキーを押して切り替え、Shift + Xキーを押す</pre>\n",
+			"option_html": "<pre>Xキーを押して切り替え、Shift + Xキーを押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>塗りと線のツールをドラッグする</pre>\n",
+			"option_html": "<pre>塗りと線のツールをドラッグする</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>インターネットの速度を高速化する</pre>\n",
+			"option_html": "<pre>インターネットの速度を高速化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>通信内容を暗号化し、セキュリティを向上させる</pre>\n",
+			"option_html": "<pre>通信内容を暗号化し、セキュリティを向上させる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク上のすべての通信を監視する</pre>\n",
+			"option_html": "<pre>ネットワーク上のすべての通信を監視する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワークの利用料金を削減する</pre>\n",
+			"option_html": "<pre>ネットワークの利用料金を削減する</pre>\n"
+		}
+	]
+}

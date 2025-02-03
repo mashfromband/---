@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"学生向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>授業中にSNSを見る</pre>\n",
+			"option_html": "<pre>授業中にSNSを見る</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>常に同じ場所で授業を受ける</pre>\n",
+			"option_html": "<pre>常に同じ場所で授業を受ける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>集中支援アプリを利用する</pre>\n",
+			"option_html": "<pre>集中支援アプリを利用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>難しい課題から取り組む</pre>\n",
+			"option_html": "<pre>難しい課題から取り組む</pre>\n"
+		}
+	]
+}

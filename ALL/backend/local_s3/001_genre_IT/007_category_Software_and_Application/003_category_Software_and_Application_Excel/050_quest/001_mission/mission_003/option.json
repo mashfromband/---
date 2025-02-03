@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルが結合されている</pre>\n",
+			"option_html": "<pre>セルが結合されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セル内が空白である</pre>\n",
+			"option_html": "<pre>セル内が空白である</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シートが保護されている</pre>\n",
+			"option_html": "<pre>シートが保護されている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>数式内に不適切なデータ型が含まれている</pre>\n",
+			"option_html": "<pre>数式内に不適切なデータ型が含まれている</pre>\n"
+		}
+	]
+}

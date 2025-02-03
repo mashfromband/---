@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "源通具\n",
+			"option_html": "<p>源通具</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "藤原定家\n",
+			"option_html": "<p>藤原定家</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "藤原有家\n",
+			"option_html": "<p>藤原有家</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "遍昭\n",
+			"option_html": "<p>遍昭</p>\n"
+		}
+	]
+}

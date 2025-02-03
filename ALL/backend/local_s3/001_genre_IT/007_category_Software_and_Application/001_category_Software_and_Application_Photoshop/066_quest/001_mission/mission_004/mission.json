@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤースタイル」の「トラッキング」オプションを使う</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「トラッキング」オプションを使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字パネル」の「トラッキング」を調整する</pre>\n",
+			"option_html": "<pre>「文字パネル」の「トラッキング」を調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「文字ツール」で「文字間隔」を手動で調整する</pre>\n",
+			"option_html": "<pre>「文字ツール」で「文字間隔」を手動で調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「段落」パネルの「文字間隔」を変更する</pre>\n",
+			"option_html": "<pre>「段落」パネルの「文字間隔」を変更する</pre>\n"
+		}
+	]
+}

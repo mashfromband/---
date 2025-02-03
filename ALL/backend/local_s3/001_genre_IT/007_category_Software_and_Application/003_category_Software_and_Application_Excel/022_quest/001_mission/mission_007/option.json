@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データタブ</pre>\n",
+			"option_html": "<pre>データタブ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ホームタブ</pre>\n",
+			"option_html": "<pre>ホームタブ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>挿入タブ</pre>\n",
+			"option_html": "<pre>挿入タブ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>参照タブ</pre>\n",
+			"option_html": "<pre>参照タブ</pre>\n"
+		}
+	]
+}

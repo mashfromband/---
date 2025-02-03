@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ソンガイ帝国\n",
+			"option_html": "<p>ソンガイ帝国</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "イスラム帝国\n",
+			"option_html": "<p>イスラム帝国</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "オスマン帝国\n",
+			"option_html": "<p>オスマン帝国</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アンジュー帝国\n",
+			"option_html": "<p>アンジュー帝国</p>\n"
+		}
+	]
+}

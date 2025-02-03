@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"バイリンガル向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>We have cats.</pre>\n",
+			"option_html": "<pre>We have cats.</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Girls're eating cheese.</pre>\n",
+			"option_html": "<pre>Girls're eating cheese.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Whrere're girls?</pre>\n",
+			"option_html": "<pre>Whrere're girls?</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>I have apples and plates.</pre>\n",
+			"option_html": "<pre>I have apples and plates.</pre>\n"
+		}
+	]
+}

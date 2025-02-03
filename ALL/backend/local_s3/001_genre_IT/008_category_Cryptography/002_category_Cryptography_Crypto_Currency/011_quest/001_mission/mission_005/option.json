@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ブロックチェーンの取引数</pre>\n",
+			"option_html": "<pre>ブロックチェーンの取引数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>マイニングの成功率</pre>\n",
+			"option_html": "<pre>マイニングの成功率</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>マイニング機器の計算能力</pre>\n",
+			"option_html": "<pre>マイニング機器の計算能力</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号化アルゴリズムの強度</pre>\n",
+			"option_html": "<pre>暗号化アルゴリズムの強度</pre>\n"
+		}
+	]
+}

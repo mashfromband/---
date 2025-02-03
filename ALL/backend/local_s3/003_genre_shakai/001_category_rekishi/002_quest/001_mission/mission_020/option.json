@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "額田王\n",
+			"option_html": "<p>額田王</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "紀貫之\n",
+			"option_html": "<p>紀貫之</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "紀友則\n",
+			"option_html": "<p>紀友則</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "壬生忠岑\n",
+			"option_html": "<p>壬生忠岑</p>\n"
+		}
+	]
+}

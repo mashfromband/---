@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スライスツール</pre>\n",
+			"option_html": "<pre>スライスツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションツール</pre>\n",
+			"option_html": "<pre>グラデーションツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>修復ブラシツール</pre>\n",
+			"option_html": "<pre>修復ブラシツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤースタイル</pre>\n",
+			"option_html": "<pre>レイヤースタイル</pre>\n"
+		}
+	]
+}

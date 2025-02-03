@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "VPN\n",
+			"option_html": "<p>VPN</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SSL/TLS\n",
+			"option_html": "<p>SSL/TLS</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "UPS\n",
+			"option_html": "<p>UPS</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "デジタル署名\n",
+			"option_html": "<p>デジタル署名</p>\n"
+		}
+	]
+}

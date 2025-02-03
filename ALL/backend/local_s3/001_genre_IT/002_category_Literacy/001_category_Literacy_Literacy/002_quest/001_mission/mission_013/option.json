@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "HTML\n",
+			"option_html": "<p>HTML</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SQL\n",
+			"option_html": "<p>SQL</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "CSS\n",
+			"option_html": "<p>CSS</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "JAVA\n",
+			"option_html": "<p>JAVA</p>\n"
+		}
+	]
+}

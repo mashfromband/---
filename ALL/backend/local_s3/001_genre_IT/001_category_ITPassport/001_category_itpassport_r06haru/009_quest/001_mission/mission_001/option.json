@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "\n![81a.png/image-size:306×68](img/81a.png \"81a.png\")\n",
+			"option_html": "<p><img title=\"81a.png\" alt=\"81a.png/image-size:306×68\" src=\"[[[IMG_SRC_TOP_URL]]]/001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/009_quest/001_mission/img/81a.png\"></p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "\n![81i.png/image-size:306×69](img/81i.png \"81i.png\")\n",
+			"option_html": "<p><img title=\"81i.png\" alt=\"81i.png/image-size:306×69\" src=\"[[[IMG_SRC_TOP_URL]]]/001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/009_quest/001_mission/img/81i.png\"></p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "\n![81u.png/image-size:306×69](img/81u.png \"81u.png\")\n",
+			"option_html": "<p><img title=\"81u.png\" alt=\"81u.png/image-size:306×69\" src=\"[[[IMG_SRC_TOP_URL]]]/001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/009_quest/001_mission/img/81u.png\"></p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "\n![81e.png/image-size:306×69](img/81e.png \"81e.png\")\n",
+			"option_html": "<p><img title=\"81e.png\" alt=\"81e.png/image-size:306×69\" src=\"[[[IMG_SRC_TOP_URL]]]/001_genre_IT/001_category_ITPassport/001_category_ITPassport_r06haru/009_quest/001_mission/img/81e.png\"></p>\n"
+		}
+	]
+}

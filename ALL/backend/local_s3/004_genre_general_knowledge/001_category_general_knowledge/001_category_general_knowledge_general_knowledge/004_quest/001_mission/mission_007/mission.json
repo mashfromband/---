@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ビジネスマナー",
+		"言葉遣い（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>我が社</pre>\n",
+			"option_html": "<pre>我が社</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>我々の会社</pre>\n",
+			"option_html": "<pre>我々の会社</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>御社</pre>\n",
+			"option_html": "<pre>御社</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>私共の会社</pre>\n",
+			"option_html": "<pre>私共の会社</pre>\n"
+		}
+	]
+}

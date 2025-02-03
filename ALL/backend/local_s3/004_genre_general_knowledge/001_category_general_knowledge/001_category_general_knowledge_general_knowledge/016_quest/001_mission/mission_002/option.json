@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自分を責め続ける</pre>\n",
+			"option_html": "<pre>自分を責め続ける</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>失敗を他人のせいにする</pre>\n",
+			"option_html": "<pre>失敗を他人のせいにする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>失敗から学び、次に活かす</pre>\n",
+			"option_html": "<pre>失敗から学び、次に活かす</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>再挑戦を諦める</pre>\n",
+			"option_html": "<pre>再挑戦を諦める</pre>\n"
+		}
+	]
+}

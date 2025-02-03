@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>iOSはオープンソースであり、Androidはクローズドソースである</pre>\n",
+			"option_html": "<pre>iOSはオープンソースであり、Androidはクローズドソースである</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>iOSとAndroidの両方は同じ開発ツールを使用する</pre>\n",
+			"option_html": "<pre>iOSとAndroidの両方は同じ開発ツールを使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>iOSはAppleが開発したプラットフォームで、AndroidはGoogleが開発したプラットフォームである</pre>\n",
+			"option_html": "<pre>iOSはAppleが開発したプラットフォームで、AndroidはGoogleが開発したプラットフォームである</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>iOSは主にアジアで人気があり、Androidは欧米で人気がある</pre>\n",
+			"option_html": "<pre>iOSは主にアジアで人気があり、Androidは欧米で人気がある</pre>\n"
+		}
+	]
+}

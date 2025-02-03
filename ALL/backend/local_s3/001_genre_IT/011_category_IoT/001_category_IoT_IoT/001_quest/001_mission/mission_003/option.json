@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>センサー、アクチュエーター、クラウドコンピューティング</pre>\n",
+			"option_html": "<pre>センサー、アクチュエーター、クラウドコンピューティング</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>コンピューター、インターネット、電子メール</pre>\n",
+			"option_html": "<pre>コンピューター、インターネット、電子メール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デスクトップPC、スマートフォン、サーバー</pre>\n",
+			"option_html": "<pre>デスクトップPC、スマートフォン、サーバー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>モバイルアプリ、データベース、Wi-Fi</pre>\n",
+			"option_html": "<pre>モバイルアプリ、データベース、Wi-Fi</pre>\n"
+		}
+	]
+}

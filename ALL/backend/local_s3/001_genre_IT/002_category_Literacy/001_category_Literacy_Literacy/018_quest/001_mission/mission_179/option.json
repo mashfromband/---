@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "RAMは不揮発性、ROMは揮発性メモリである\n",
+			"option_html": "<p>RAMは不揮発性、ROMは揮発性メモリである</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "RAMは一時的なデータ保存に使われ、ROMは永続的なデータ保存に使われる\n",
+			"option_html": "<p>RAMは一時的なデータ保存に使われ、ROMは永続的なデータ保存に使われる</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "RAMは読み出し専用、ROMは読み書きが可能\n",
+			"option_html": "<p>RAMは読み出し専用、ROMは読み書きが可能</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "両方とも一時的なデータ保存に使われる\n",
+			"option_html": "<p>両方とも一時的なデータ保存に使われる</p>\n"
+		}
+	]
+}

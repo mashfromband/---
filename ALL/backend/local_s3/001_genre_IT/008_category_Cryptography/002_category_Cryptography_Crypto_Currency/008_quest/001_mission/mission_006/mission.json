@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ゲーム内通貨の価値を固定することができる</pre>\n",
+			"option_html": "<pre>ゲーム内通貨の価値を固定することができる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ゲーム内取引を現実世界の価値と結びつけることができる</pre>\n",
+			"option_html": "<pre>ゲーム内取引を現実世界の価値と結びつけることができる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ゲーム内アイテムをすべて無料で提供できるようになる</pre>\n",
+			"option_html": "<pre>ゲーム内アイテムをすべて無料で提供できるようになる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ゲーム内通貨が中央管理者によって制御されるようになる</pre>\n",
+			"option_html": "<pre>ゲーム内通貨が中央管理者によって制御されるようになる</pre>\n"
+		}
+	]
+}

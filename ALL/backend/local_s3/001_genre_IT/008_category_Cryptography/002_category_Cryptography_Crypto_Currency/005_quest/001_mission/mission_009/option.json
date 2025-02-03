@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>不正取引や詐欺の対策が難しい場合がある</pre>\n",
+			"option_html": "<pre>不正取引や詐欺の対策が難しい場合がある</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の価格が法定通貨と連動する</pre>\n",
+			"option_html": "<pre>仮想通貨の価格が法定通貨と連動する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワークの管理が容易になる</pre>\n",
+			"option_html": "<pre>ネットワークの管理が容易になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>必ず政府の規制を受ける</pre>\n",
+			"option_html": "<pre>必ず政府の規制を受ける</pre>\n"
+		}
+	]
+}

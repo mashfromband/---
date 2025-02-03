@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>軽い世間話</pre>\n",
+			"option_html": "<pre>軽い世間話</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>名刺に記載の情報に関する確認</pre>\n",
+			"option_html": "<pre>名刺に記載の情報に関する確認</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>出身などの軽い自己紹介</pre>\n",
+			"option_html": "<pre>出身などの軽い自己紹介</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>商談</pre>\n",
+			"option_html": "<pre>商談</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ランダムカラー生成ツール</pre>\n",
+			"option_html": "<pre>ランダムカラー生成ツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色調補正ツール</pre>\n",
+			"option_html": "<pre>色調補正ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スポイトツール</pre>\n",
+			"option_html": "<pre>スポイトツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>カラースウォッチツール</pre>\n",
+			"option_html": "<pre>カラースウォッチツール</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全てのデバイスが同時にクラウドに接続できる</pre>\n",
+			"option_html": "<pre>全てのデバイスが同時にクラウドに接続できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークが一部損傷しても通信が維持される</pre>\n",
+			"option_html": "<pre>ネットワークが一部損傷しても通信が維持される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>長距離通信が不要になる</pre>\n",
+			"option_html": "<pre>長距離通信が不要になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバイスがネットワーク外の機能を制御できる</pre>\n",
+			"option_html": "<pre>デバイスがネットワーク外の機能を制御できる</pre>\n"
+		}
+	]
+}

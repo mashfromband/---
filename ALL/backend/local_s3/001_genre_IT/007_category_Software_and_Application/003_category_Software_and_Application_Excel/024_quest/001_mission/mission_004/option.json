@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「挿入」タブ→「テーブル」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「テーブル」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ホーム」タブ→「フィルタ」</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「フィルタ」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「挿入」タブ→「ピボットテーブル」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「ピボットテーブル」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「データ」タブ→「並べ替え」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「並べ替え」</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルで右クリックし「最前面に移動」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックし「最前面に移動」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルでレイヤーを上にドラッグする</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーを上にドラッグする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 配置 > 最前面に移動</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 最前面に移動</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルでCtrl + Shift + ]を押す</pre>\n",
+			"option_html": "<pre>レイヤーパネルでCtrl + Shift + ]を押す</pre>\n"
+		}
+	]
+}

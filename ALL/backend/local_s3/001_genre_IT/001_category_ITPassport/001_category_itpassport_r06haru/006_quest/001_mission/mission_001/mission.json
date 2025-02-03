@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"マネジメント系",
+		"プロジェクトマネジメント",
+		"プロジェクトマネジメント"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "散布図\n",
+			"option_html": "<p>散布図</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "チェックシート\n",
+			"option_html": "<p>チェックシート</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "特性要因図\n",
+			"option_html": "<p>特性要因図</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "パレート図\n",
+			"option_html": "<p>パレート図</p>\n"
+		}
+	]
+}

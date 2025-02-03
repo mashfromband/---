@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"グラフ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>[グラフ]を右クリックして[数値変更]を選ぶ</pre>\n",
+			"option_html": "<pre>[グラフ]を右クリックして[数値変更]を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>[挿入]タブから[全データ数値変更]を選ぶ</pre>\n",
+			"option_html": "<pre>[挿入]タブから[全データ数値変更]を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>[グラフツール]の[書式]タブから[データラベルの書式設定]を選び、全ての数値を変更する</pre>\n",
+			"option_html": "<pre>[グラフツール]の[書式]タブから[データラベルの書式設定]を選び、全ての数値を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>[ページレイアウト]タブから[数値設定]を選ぶ</pre>\n",
+			"option_html": "<pre>[ページレイアウト]タブから[数値設定]を選ぶ</pre>\n"
+		}
+	]
+}

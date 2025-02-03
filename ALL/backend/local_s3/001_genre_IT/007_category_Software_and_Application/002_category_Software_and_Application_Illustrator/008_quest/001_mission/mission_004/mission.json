@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイルサイズを小さくするため</pre>\n",
+			"option_html": "<pre>ファイルサイズを小さくするため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色の明度を調整するため</pre>\n",
+			"option_html": "<pre>色の明度を調整するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アートボードの複製を作成するため</pre>\n",
+			"option_html": "<pre>アートボードの複製を作成するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像の解像度を高くするため</pre>\n",
+			"option_html": "<pre>画像の解像度を高くするため</pre>\n"
+		}
+	]
+}

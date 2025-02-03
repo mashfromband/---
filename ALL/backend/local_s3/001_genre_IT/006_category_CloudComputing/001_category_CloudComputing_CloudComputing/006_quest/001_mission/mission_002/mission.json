@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想マシンの作成と管理を行い、物理リソースを効率的に分配する</pre>\n",
+			"option_html": "<pre>仮想マシンの作成と管理を行い、物理リソースを効率的に分配する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>コンテナのデプロイと管理を自動化する</pre>\n",
+			"option_html": "<pre>コンテナのデプロイと管理を自動化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの暗号化とアクセス制御を行う</pre>\n",
+			"option_html": "<pre>データの暗号化とアクセス制御を行う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サーバーやネットワークの物理的な保守を担当する</pre>\n",
+			"option_html": "<pre>サーバーやネットワークの物理的な保守を担当する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>許容値が低く設定されている</pre>\n",
+			"option_html": "<pre>許容値が低く設定されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーが非表示になっている</pre>\n",
+			"option_html": "<pre>レイヤーが非表示になっている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>塗りつぶしツールが選択されていない</pre>\n",
+			"option_html": "<pre>塗りつぶしツールが選択されていない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>塗りつぶしの描画モードが「乗算」になっている</pre>\n",
+			"option_html": "<pre>塗りつぶしの描画モードが「乗算」になっている</pre>\n"
+		}
+	]
+}

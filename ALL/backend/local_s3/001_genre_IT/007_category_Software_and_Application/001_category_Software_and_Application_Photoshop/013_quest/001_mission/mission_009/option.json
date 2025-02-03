@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>青とシアンを増加させる</pre>\n",
+			"option_html": "<pre>青とシアンを増加させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>赤と黄色を増加させる</pre>\n",
+			"option_html": "<pre>赤と黄色を増加させる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>マゼンタと青を減少させる</pre>\n",
+			"option_html": "<pre>マゼンタと青を減少させる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>緑とシアンを減少させる</pre>\n",
+			"option_html": "<pre>緑とシアンを減少させる</pre>\n"
+		}
+	]
+}

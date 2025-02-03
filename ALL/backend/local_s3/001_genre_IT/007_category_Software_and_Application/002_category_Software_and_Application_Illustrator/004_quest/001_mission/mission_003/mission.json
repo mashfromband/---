@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コンピュータグラフィックスの計算を簡素化するため</pre>\n",
+			"option_html": "<pre>コンピュータグラフィックスの計算を簡素化するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像の解像度を上げるため</pre>\n",
+			"option_html": "<pre>画像の解像度を上げるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>滑らかな曲線を効率よく描画するため</pre>\n",
+			"option_html": "<pre>滑らかな曲線を効率よく描画するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>色を自動調整するため</pre>\n",
+			"option_html": "<pre>色を自動調整するため</pre>\n"
+		}
+	]
+}

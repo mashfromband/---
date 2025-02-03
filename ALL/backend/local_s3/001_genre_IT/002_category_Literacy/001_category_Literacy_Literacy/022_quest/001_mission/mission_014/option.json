@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "バイト\n",
+			"option_html": "<p>バイト</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ビット\n",
+			"option_html": "<p>ビット</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "キロバイト\n",
+			"option_html": "<p>キロバイト</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "メガバイト\n",
+			"option_html": "<p>メガバイト</p>\n"
+		}
+	]
+}

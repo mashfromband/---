@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>環境データを収集する</pre>\n",
+			"option_html": "<pre>環境データを収集する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>取得したデータを処理し、動作指示を出す</pre>\n",
+			"option_html": "<pre>取得したデータを処理し、動作指示を出す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスをインターネットに接続する</pre>\n",
+			"option_html": "<pre>デバイスをインターネットに接続する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>周囲に物理的な動作を加える</pre>\n",
+			"option_html": "<pre>周囲に物理的な動作を加える</pre>\n"
+		}
+	]
+}

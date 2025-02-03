@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アセットエクスポートパネルを使用する</pre>\n",
+			"option_html": "<pre>アセットエクスポートパネルを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アートボードごとに手動でエクスポートする</pre>\n",
+			"option_html": "<pre>アートボードごとに手動でエクスポートする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>必要なアートワークをコピーして別ファイルに保存する</pre>\n",
+			"option_html": "<pre>必要なアートワークをコピーして別ファイルに保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>作業中のアートボードを全選択して出力する</pre>\n",
+			"option_html": "<pre>作業中のアートボードを全選択して出力する</pre>\n"
+		}
+	]
+}

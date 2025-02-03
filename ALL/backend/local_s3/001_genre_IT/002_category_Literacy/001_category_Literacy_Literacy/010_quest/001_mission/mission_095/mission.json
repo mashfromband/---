@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"マネジメント系",
+		"プロジェクトマネジメント",
+		"システム開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ステークホルダ\n",
+			"option_html": "<p>ステークホルダ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "WBS\n",
+			"option_html": "<p>WBS</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "TCO\n",
+			"option_html": "<p>TCO</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ITIL\n",
+			"option_html": "<p>ITIL</p>\n"
+		}
+	]
+}

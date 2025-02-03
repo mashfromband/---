@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スポイトツール</pre>\n",
+			"option_html": "<pre>スポイトツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アクションパネル</pre>\n",
+			"option_html": "<pre>アクションパネル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ペンツール</pre>\n",
+			"option_html": "<pre>ペンツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シンボルツール</pre>\n",
+			"option_html": "<pre>シンボルツール</pre>\n"
+		}
+	]
+}

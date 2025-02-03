@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「フィルター」メニューから「シャドウ」を選ぶ</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「シャドウ」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤースタイル」の「ドロップシャドウ」を使う</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「ドロップシャドウ」を使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「画像」メニューの「シャドウ」を使う</pre>\n",
+			"option_html": "<pre>「画像」メニューの「シャドウ」を使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤーパネル」から「シャドウ」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から「シャドウ」を選ぶ</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像解像度</pre>\n",
+			"option_html": "<pre>画像解像度</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像サイズ</pre>\n",
+			"option_html": "<pre>画像サイズ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>エクスポート</pre>\n",
+			"option_html": "<pre>エクスポート</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>トリミングツール</pre>\n",
+			"option_html": "<pre>トリミングツール</pre>\n"
+		}
+	]
+}

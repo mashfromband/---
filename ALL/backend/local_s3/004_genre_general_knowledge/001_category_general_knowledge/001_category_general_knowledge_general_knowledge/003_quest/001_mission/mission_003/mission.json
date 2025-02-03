@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ビジネスマナー",
+		"服装・身だしなみ（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>たっぷりつける</pre>\n",
+			"option_html": "<pre>たっぷりつける</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ほのかに香る程度</pre>\n",
+			"option_html": "<pre>ほのかに香る程度</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>香らないようにする</pre>\n",
+			"option_html": "<pre>香らないようにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他人に確認する</pre>\n",
+			"option_html": "<pre>他人に確認する</pre>\n"
+		}
+	]
+}

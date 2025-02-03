@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>部署間の連携が良くなる</pre>\n",
+			"option_html": "<pre>部署間の連携が良くなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>部署間の連携が不足する</pre>\n",
+			"option_html": "<pre>部署間の連携が不足する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>情報共有が活発になる</pre>\n",
+			"option_html": "<pre>情報共有が活発になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>チームのモチベーションが上がる</pre>\n",
+			"option_html": "<pre>チームのモチベーションが上がる</pre>\n"
+		}
+	]
+}

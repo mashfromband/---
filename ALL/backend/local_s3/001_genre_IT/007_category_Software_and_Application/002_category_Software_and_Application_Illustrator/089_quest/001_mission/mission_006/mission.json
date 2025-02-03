@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グループ機能を使う</pre>\n",
+			"option_html": "<pre>グループ機能を使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーをひとつにまとめる</pre>\n",
+			"option_html": "<pre>レイヤーをひとつにまとめる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>全体を一度に選択してそのまま管理する</pre>\n",
+			"option_html": "<pre>全体を一度に選択してそのまま管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グループ化せずに編集する</pre>\n",
+			"option_html": "<pre>グループ化せずに編集する</pre>\n"
+		}
+	]
+}

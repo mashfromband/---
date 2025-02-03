@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "クラウドストレージ\n",
+			"option_html": "<p>クラウドストレージ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ローカルストレージ\n",
+			"option_html": "<p>ローカルストレージ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "キャッシュメモリ\n",
+			"option_html": "<p>キャッシュメモリ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "フラッシュメモリ\n",
+			"option_html": "<p>フラッシュメモリ</p>\n"
+		}
+	]
+}

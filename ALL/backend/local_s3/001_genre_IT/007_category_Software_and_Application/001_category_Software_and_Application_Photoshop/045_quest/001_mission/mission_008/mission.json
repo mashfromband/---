@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アンカーポイントを増やす</pre>\n",
+			"option_html": "<pre>アンカーポイントを増やす</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シフトキーを押しながらカーブを調整する</pre>\n",
+			"option_html": "<pre>シフトキーを押しながらカーブを調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハンドルを手動で調整する</pre>\n",
+			"option_html": "<pre>ハンドルを手動で調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>描画モードを変更する</pre>\n",
+			"option_html": "<pre>描画モードを変更する</pre>\n"
+		}
+	]
+}

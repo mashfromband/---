@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アピアランスパネルを使用する</pre>\n",
+			"option_html": "<pre>アピアランスパネルを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべての設定を1つずつ試して確認する</pre>\n",
+			"option_html": "<pre>すべての設定を1つずつ試して確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを複製して調整する</pre>\n",
+			"option_html": "<pre>レイヤーを複製して調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>必要な場合は新しいプロジェクトを作る</pre>\n",
+			"option_html": "<pre>必要な場合は新しいプロジェクトを作る</pre>\n"
+		}
+	]
+}

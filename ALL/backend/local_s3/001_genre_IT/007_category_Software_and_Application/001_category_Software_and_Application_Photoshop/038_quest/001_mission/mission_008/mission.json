@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラデーションの透明度が設定されている</pre>\n",
+			"option_html": "<pre>グラデーションの透明度が設定されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションの角度が適切でない</pre>\n",
+			"option_html": "<pre>グラデーションの角度が適切でない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲が適切に設定されていない</pre>\n",
+			"option_html": "<pre>選択範囲が適切に設定されていない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>描画モードが「通常」以外に設定されている</pre>\n",
+			"option_html": "<pre>描画モードが「通常」以外に設定されている</pre>\n"
+		}
+	]
+}

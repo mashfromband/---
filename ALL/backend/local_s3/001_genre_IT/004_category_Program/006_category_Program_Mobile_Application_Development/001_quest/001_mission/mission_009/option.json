@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリの動作速度を改善し、ユーザー体験を向上させるため</pre>\n",
+			"option_html": "<pre>アプリの動作速度を改善し、ユーザー体験を向上させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリのデザインを向上させるため</pre>\n",
+			"option_html": "<pre>アプリのデザインを向上させるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスのバッテリー消費を増やすため</pre>\n",
+			"option_html": "<pre>デバイスのバッテリー消費を増やすため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリの容量を増加させるため</pre>\n",
+			"option_html": "<pre>アプリの容量を増加させるため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ストラテジ系",
+		"経営戦略マネジメント",
+		"経営戦略手法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "機会・脅威\n",
+			"option_html": "<p>機会・脅威</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "資源・技術\n",
+			"option_html": "<p>資源・技術</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "市場・顧客\n",
+			"option_html": "<p>市場・顧客</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "強み・弱み\n",
+			"option_html": "<p>強み・弱み</p>\n"
+		}
+	]
+}

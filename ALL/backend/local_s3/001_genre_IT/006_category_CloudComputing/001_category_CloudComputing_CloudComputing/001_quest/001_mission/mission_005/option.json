@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データを一つのロケーションに集中させるため</pre>\n",
+			"option_html": "<pre>データを一つのロケーションに集中させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>世界中のユーザーにサービスを提供するため</pre>\n",
+			"option_html": "<pre>世界中のユーザーにサービスを提供するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ローカルネットワークのみで利用するため</pre>\n",
+			"option_html": "<pre>ローカルネットワークのみで利用するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サーバーのメンテナンスを不要にするため</pre>\n",
+			"option_html": "<pre>サーバーのメンテナンスを不要にするため</pre>\n"
+		}
+	]
+}

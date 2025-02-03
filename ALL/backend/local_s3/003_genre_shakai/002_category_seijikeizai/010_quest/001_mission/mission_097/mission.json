@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"国際",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "プラハの春\n",
+			"option_html": "<p>プラハの春</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ブラチスラバの\n春\n",
+			"option_html": "<p>ブラチスラバの<br>春</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ニトラの春\n",
+			"option_html": "<p>ニトラの春</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ブルノの春\n",
+			"option_html": "<p>ブルノの春</p>\n"
+		}
+	]
+}

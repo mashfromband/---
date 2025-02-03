@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ビジネスマナー",
+		"挨拶・姿勢態度（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>笑顔を忘れる</pre>\n",
+			"option_html": "<pre>笑顔を忘れる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>名乗らずに話しかける</pre>\n",
+			"option_html": "<pre>名乗らずに話しかける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>相手の目を見て名乗る</pre>\n",
+			"option_html": "<pre>相手の目を見て名乗る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>深くお辞儀をしない</pre>\n",
+			"option_html": "<pre>深くお辞儀をしない</pre>\n"
+		}
+	]
+}

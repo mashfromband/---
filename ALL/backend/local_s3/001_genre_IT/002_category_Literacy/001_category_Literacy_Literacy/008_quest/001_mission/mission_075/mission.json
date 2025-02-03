@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"通信技術",
+		"プロトコル"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "FTP\n",
+			"option_html": "<p>FTP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "HTTP\n",
+			"option_html": "<p>HTTP</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "NTP\n",
+			"option_html": "<p>NTP</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "DHCP\n",
+			"option_html": "<p>DHCP</p>\n"
+		}
+	]
+}

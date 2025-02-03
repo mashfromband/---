@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ファイル」メニューの「別名で保存」</pre>\n",
+			"option_html": "<pre>「ファイル」メニューの「別名で保存」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「編集」メニューの「環境設定」</pre>\n",
+			"option_html": "<pre>「編集」メニューの「環境設定」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ウィンドウ」メニューの「形式設定」</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「形式設定」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「表示」メニューの「保存設定」</pre>\n",
+			"option_html": "<pre>「表示」メニューの「保存設定」</pre>\n"
+		}
+	]
+}

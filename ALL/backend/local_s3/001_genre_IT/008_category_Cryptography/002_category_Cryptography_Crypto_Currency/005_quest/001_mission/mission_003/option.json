@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨の価格を安定させるため</pre>\n",
+			"option_html": "<pre>仮想通貨の価格を安定させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>インフレを防ぐため</pre>\n",
+			"option_html": "<pre>インフレを防ぐため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>全ての通貨をデジタル化するため</pre>\n",
+			"option_html": "<pre>全ての通貨をデジタル化するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引速度を速くするため</pre>\n",
+			"option_html": "<pre>取引速度を速くするため</pre>\n"
+		}
+	]
+}

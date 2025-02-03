@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Androidアプリ開発の公式言語としてGoogleが推奨している</pre>\n",
+			"option_html": "<pre>Androidアプリ開発の公式言語としてGoogleが推奨している</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>iOSアプリ開発においてSwiftと置き換わることがある</pre>\n",
+			"option_html": "<pre>iOSアプリ開発においてSwiftと置き換わることがある</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>古い言語であり、現在は主にメンテナンス用に使用される</pre>\n",
+			"option_html": "<pre>古い言語であり、現在は主にメンテナンス用に使用される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プラットフォームに依存しない完全なWeb開発専用の言語である</pre>\n",
+			"option_html": "<pre>プラットフォームに依存しない完全なWeb開発専用の言語である</pre>\n"
+		}
+	]
+}

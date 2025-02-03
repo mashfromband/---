@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"雑学"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>3000×3000ピクセル</pre>\n",
+			"option_html": "<pre>3000×3000ピクセル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>2000×2000ピクセル</pre>\n",
+			"option_html": "<pre>2000×2000ピクセル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>1000×1000ピクセル</pre>\n",
+			"option_html": "<pre>1000×1000ピクセル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>5000×5000ピクセル</pre>\n",
+			"option_html": "<pre>5000×5000ピクセル</pre>\n"
+		}
+	]
+}

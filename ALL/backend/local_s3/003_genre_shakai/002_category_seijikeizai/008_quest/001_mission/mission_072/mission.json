@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "1915年\n",
+			"option_html": "<p>1915年</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "1925年\n",
+			"option_html": "<p>1925年</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "1935年\n",
+			"option_html": "<p>1935年</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "1945年\n",
+			"option_html": "<p>1945年</p>\n"
+		}
+	]
+}

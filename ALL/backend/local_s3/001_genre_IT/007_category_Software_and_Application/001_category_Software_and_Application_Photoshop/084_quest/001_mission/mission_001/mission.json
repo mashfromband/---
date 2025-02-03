@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「色調補正」パネル</pre>\n",
+			"option_html": "<pre>「色調補正」パネル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「フィルターパネル」</pre>\n",
+			"option_html": "<pre>「フィルターパネル」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「画像調整」パネル</pre>\n",
+			"option_html": "<pre>「画像調整」パネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤースタイル」パネル</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」パネル</pre>\n"
+		}
+	]
+}

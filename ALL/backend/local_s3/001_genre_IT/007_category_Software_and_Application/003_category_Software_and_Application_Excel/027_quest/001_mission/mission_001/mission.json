@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「折り返し」を設定する</pre>\n",
+			"option_html": "<pre>「折り返し」を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「条件付き書式」を適用する</pre>\n",
+			"option_html": "<pre>「条件付き書式」を適用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「テキストボックス」を追加する</pre>\n",
+			"option_html": "<pre>「テキストボックス」を追加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「図形」を挿入する</pre>\n",
+			"option_html": "<pre>「図形」を挿入する</pre>\n"
+		}
+	]
+}

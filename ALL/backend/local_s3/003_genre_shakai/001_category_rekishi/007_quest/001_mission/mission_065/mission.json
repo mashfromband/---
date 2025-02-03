@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "525年\n",
+			"option_html": "<p>525年</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "526年\n",
+			"option_html": "<p>526年</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "527年\n",
+			"option_html": "<p>527年</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "528年\n",
+			"option_html": "<p>528年</p>\n"
+		}
+	]
+}

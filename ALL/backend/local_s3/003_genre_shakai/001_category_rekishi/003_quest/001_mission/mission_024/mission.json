@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "石橋山の戦い\n",
+			"option_html": "<p>石橋山の戦い</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "一の谷の戦い\n",
+			"option_html": "<p>一の谷の戦い</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "壇ノ浦の戦い\n",
+			"option_html": "<p>壇ノ浦の戦い</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "屋島の戦い\n",
+			"option_html": "<p>屋島の戦い</p>\n"
+		}
+	]
+}

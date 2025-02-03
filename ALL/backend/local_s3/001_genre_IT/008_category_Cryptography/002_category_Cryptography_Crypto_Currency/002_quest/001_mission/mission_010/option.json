@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引データが紙に記録されるため</pre>\n",
+			"option_html": "<pre>取引データが紙に記録されるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>改ざんを検出するための専門機関が存在するため</pre>\n",
+			"option_html": "<pre>改ざんを検出するための専門機関が存在するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべての取引が公開されていないため</pre>\n",
+			"option_html": "<pre>すべての取引が公開されていないため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブロックチェーンが過去の取引データを暗号化して連結している</pre>\n",
+			"option_html": "<pre>ブロックチェーンが過去の取引データを暗号化して連結している</pre>\n"
+		}
+	]
+}

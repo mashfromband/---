@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "回帰分析\n",
+			"option_html": "<p>回帰分析</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "線形計画法\n",
+			"option_html": "<p>線形計画法</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "デルファイ法\n",
+			"option_html": "<p>デルファイ法</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "パレート分析\n",
+			"option_html": "<p>パレート分析</p>\n"
+		}
+	]
+}

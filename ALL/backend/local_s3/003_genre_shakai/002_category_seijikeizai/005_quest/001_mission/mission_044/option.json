@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アラブの春\n",
+			"option_html": "<p>アラブの春</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "カイロの春\n",
+			"option_html": "<p>カイロの春</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "トリポリの春\n",
+			"option_html": "<p>トリポリの春</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "チュニスの春\n",
+			"option_html": "<p>チュニスの春</p>\n"
+		}
+	]
+}

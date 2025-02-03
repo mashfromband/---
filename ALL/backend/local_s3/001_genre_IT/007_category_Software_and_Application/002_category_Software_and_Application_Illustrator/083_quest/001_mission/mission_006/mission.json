@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロパティパネルで描画モードを選択</pre>\n",
+			"option_html": "<pre>プロパティパネルで描画モードを選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルで描画モードを設定</pre>\n",
+			"option_html": "<pre>アピアランスパネルで描画モードを設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ツールバーで描画モードを変更</pre>\n",
+			"option_html": "<pre>ツールバーで描画モードを変更</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > 描画モード > 内側描画</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 描画モード &gt; 内側描画</pre>\n"
+		}
+	]
+}

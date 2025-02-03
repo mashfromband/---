@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全体がモノクロ化される</pre>\n",
+			"option_html": "<pre>全体がモノクロ化される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>青い部分が暗くなる</pre>\n",
+			"option_html": "<pre>青い部分が暗くなる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度が上がる</pre>\n",
+			"option_html": "<pre>彩度が上がる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>青い部分が明るくなる</pre>\n",
+			"option_html": "<pre>青い部分が明るくなる</pre>\n"
+		}
+	]
+}

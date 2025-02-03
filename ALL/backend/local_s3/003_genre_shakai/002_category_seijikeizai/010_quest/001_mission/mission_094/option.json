@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "NNP\n",
+			"option_html": "<p>NNP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "NI\n",
+			"option_html": "<p>NI</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "GNP\n",
+			"option_html": "<p>GNP</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "GDP\n",
+			"option_html": "<p>GDP</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>年号を覚えるための語呂合わせを作る</pre>\n",
+			"option_html": "<pre>年号を覚えるための語呂合わせを作る</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>歴史の教科書を繰り返し読む</pre>\n",
+			"option_html": "<pre>歴史の教科書を繰り返し読む</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>年号をクイズ形式で出題してくれるツールを使う</pre>\n",
+			"option_html": "<pre>年号をクイズ形式で出題してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>歴史ドラマを見る</pre>\n",
+			"option_html": "<pre>歴史ドラマを見る</pre>\n"
+		}
+	]
+}

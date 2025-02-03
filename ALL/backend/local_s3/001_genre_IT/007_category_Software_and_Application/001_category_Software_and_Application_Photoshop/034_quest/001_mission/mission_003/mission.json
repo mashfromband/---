@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「フィルター」メニューの「シャープ」→「アンシャープマスク」</pre>\n",
+			"option_html": "<pre>「フィルター」メニューの「シャープ」→「アンシャープマスク」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「画像」メニューの「調整」→「アンシャープマスク」</pre>\n",
+			"option_html": "<pre>「画像」メニューの「調整」→「アンシャープマスク」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「編集」メニューの「シャープ化」</pre>\n",
+			"option_html": "<pre>「編集」メニューの「シャープ化」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「表示」メニューの「アンシャープマスク」</pre>\n",
+			"option_html": "<pre>「表示」メニューの「アンシャープマスク」</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > ドキュメント設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; ドキュメント設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>編集 > アートボード設定</pre>\n",
+			"option_html": "<pre>編集 &gt; アートボード設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アートボード > サイズ変更</pre>\n",
+			"option_html": "<pre>アートボード &gt; サイズ変更</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>変形 > アートボード変更</pre>\n",
+			"option_html": "<pre>変形 &gt; アートボード変更</pre>\n"
+		}
+	]
+}

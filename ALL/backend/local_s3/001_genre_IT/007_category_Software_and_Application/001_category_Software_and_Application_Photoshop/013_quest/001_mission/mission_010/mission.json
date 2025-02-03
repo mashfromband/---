@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像全体が明るくなる</pre>\n",
+			"option_html": "<pre>画像全体が明るくなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像の中間トーンが青みがかった色になる</pre>\n",
+			"option_html": "<pre>画像の中間トーンが青みがかった色になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度が増加する</pre>\n",
+			"option_html": "<pre>彩度が増加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハイライトのみが青くなる</pre>\n",
+			"option_html": "<pre>ハイライトのみが青くなる</pre>\n"
+		}
+	]
+}

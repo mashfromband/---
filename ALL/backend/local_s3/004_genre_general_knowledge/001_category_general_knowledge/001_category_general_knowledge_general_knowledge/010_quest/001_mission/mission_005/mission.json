@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"コミュニケーション",
+		"伝える（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>情報をすべて含める</pre>\n",
+			"option_html": "<pre>情報をすべて含める</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>主題を明確にし、要点を簡潔に書く</pre>\n",
+			"option_html": "<pre>主題を明確にし、要点を簡潔に書く</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>長文で丁寧に説明する</pre>\n",
+			"option_html": "<pre>長文で丁寧に説明する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>簡単な言葉だけで話す</pre>\n",
+			"option_html": "<pre>簡単な言葉だけで話す</pre>\n"
+		}
+	]
+}

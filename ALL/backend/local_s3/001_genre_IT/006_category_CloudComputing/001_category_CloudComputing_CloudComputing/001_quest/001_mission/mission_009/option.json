@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データを単一の物理サーバーに保存する仕組み</pre>\n",
+			"option_html": "<pre>データを単一の物理サーバーに保存する仕組み</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データを複数の地域やサーバーに分散して保存する仕組み</pre>\n",
+			"option_html": "<pre>データを複数の地域やサーバーに分散して保存する仕組み</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データを一箇所に圧縮して保存する仕組み</pre>\n",
+			"option_html": "<pre>データを一箇所に圧縮して保存する仕組み</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データをローカルデバイスに保存する仕組み</pre>\n",
+			"option_html": "<pre>データをローカルデバイスに保存する仕組み</pre>\n"
+		}
+	]
+}

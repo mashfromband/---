@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「Alt + S」を押す</pre>\n",
+			"option_html": "<pre>「Alt + S」を押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「Ctrl + N」を押す</pre>\n",
+			"option_html": "<pre>「Ctrl + N」を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「Shift + F2」を押す</pre>\n",
+			"option_html": "<pre>「Shift + F2」を押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「+」アイコンをクリックする</pre>\n",
+			"option_html": "<pre>「+」アイコンをクリックする</pre>\n"
+		}
+	]
+}

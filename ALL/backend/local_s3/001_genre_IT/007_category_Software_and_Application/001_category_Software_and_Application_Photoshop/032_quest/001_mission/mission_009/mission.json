@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色の階調が滑らかになり、バンディングを防ぐ</pre>\n",
+			"option_html": "<pre>色の階調が滑らかになり、バンディングを防ぐ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度が増加する</pre>\n",
+			"option_html": "<pre>彩度が増加する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーが自動的に結合される</pre>\n",
+			"option_html": "<pre>レイヤーが自動的に結合される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲が保存される</pre>\n",
+			"option_html": "<pre>選択範囲が保存される</pre>\n"
+		}
+	]
+}

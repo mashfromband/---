@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > 印刷 > アートボードサイズ調整</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷 &gt; アートボードサイズ調整</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>印刷設定 > ページサイズ設定</pre>\n",
+			"option_html": "<pre>印刷設定 &gt; ページサイズ設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > プリント設定 > アートボードの設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; プリント設定 &gt; アートボードの設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 書き出し > アートボード</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; アートボード</pre>\n"
+		}
+	]
+}

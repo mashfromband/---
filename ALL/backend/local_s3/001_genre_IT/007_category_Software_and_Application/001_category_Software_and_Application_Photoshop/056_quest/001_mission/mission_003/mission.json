@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイルが圧縮される</pre>\n",
+			"option_html": "<pre>ファイルが圧縮される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>元のファイルを上書きせずに保存できる</pre>\n",
+			"option_html": "<pre>元のファイルを上書きせずに保存できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フォーマットが自動的に選択される</pre>\n",
+			"option_html": "<pre>フォーマットが自動的に選択される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>解像度が最適化される</pre>\n",
+			"option_html": "<pre>解像度が最適化される</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>即時公開</pre>\n",
+			"option_html": "<pre>即時公開</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>約24～48時間</pre>\n",
+			"option_html": "<pre>約24～48時間</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>約1週間</pre>\n",
+			"option_html": "<pre>約1週間</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>約1か月</pre>\n",
+			"option_html": "<pre>約1か月</pre>\n"
+		}
+	]
+}

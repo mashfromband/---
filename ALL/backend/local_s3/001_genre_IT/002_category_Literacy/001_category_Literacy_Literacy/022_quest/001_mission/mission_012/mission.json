@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "HTTP\n",
+			"option_html": "<p>HTTP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SMTP\n",
+			"option_html": "<p>SMTP</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "POP3\n",
+			"option_html": "<p>POP3</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "FTP\n",
+			"option_html": "<p>FTP</p>\n"
+		}
+	]
+}

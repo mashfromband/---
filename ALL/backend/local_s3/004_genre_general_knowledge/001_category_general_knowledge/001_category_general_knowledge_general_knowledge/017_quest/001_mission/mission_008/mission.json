@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"良い仕事をする為に",
+		"ノウハウとマインド（25）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スキーム</pre>\n",
+			"option_html": "<pre>スキーム</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プラン</pre>\n",
+			"option_html": "<pre>プラン</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フロー</pre>\n",
+			"option_html": "<pre>フロー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ストラテジー</pre>\n",
+			"option_html": "<pre>ストラテジー</pre>\n"
+		}
+	]
+}

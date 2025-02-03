@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>設定されていない</pre>\n",
+			"option_html": "<pre>設定されていない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションの左側の色</pre>\n",
+			"option_html": "<pre>グラデーションの左側の色</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>中間部分の色</pre>\n",
+			"option_html": "<pre>中間部分の色</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グラデーションの右側の色</pre>\n",
+			"option_html": "<pre>グラデーションの右側の色</pre>\n"
+		}
+	]
+}

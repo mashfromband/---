@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「Web用に保存」機能</pre>\n",
+			"option_html": "<pre>「Web用に保存」機能</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ぼかしツールを使う</pre>\n",
+			"option_html": "<pre>ぼかしツールを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レベル補正を使う</pre>\n",
+			"option_html": "<pre>レベル補正を使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ペンツールを使う</pre>\n",
+			"option_html": "<pre>ペンツールを使う</pre>\n"
+		}
+	]
+}

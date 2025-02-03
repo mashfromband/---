@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "レンタルサーバ\n",
+			"option_html": "<p>レンタルサーバ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "データベース管理システムの提供\n",
+			"option_html": "<p>データベース管理システムの提供</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "オンライン文書編集ツール\n",
+			"option_html": "<p>オンライン文書編集ツール</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "オンライン ストレージ\n",
+			"option_html": "<p>オンライン ストレージ</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データをクラウドに送信せず、デバイス近くで処理する</pre>\n",
+			"option_html": "<pre>データをクラウドに送信せず、デバイス近くで処理する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>インターネット接続を必要としない</pre>\n",
+			"option_html": "<pre>インターネット接続を必要としない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データを収集せず直接削除する</pre>\n",
+			"option_html": "<pre>データを収集せず直接削除する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワーク速度を自動的に向上させる</pre>\n",
+			"option_html": "<pre>ネットワーク速度を自動的に向上させる</pre>\n"
+		}
+	]
+}

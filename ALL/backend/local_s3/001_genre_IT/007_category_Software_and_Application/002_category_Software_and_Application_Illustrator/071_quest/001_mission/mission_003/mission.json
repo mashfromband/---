@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツール</pre>\n",
+			"option_html": "<pre>文字ツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>変形ツール</pre>\n",
+			"option_html": "<pre>変形ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネル</pre>\n",
+			"option_html": "<pre>アピアランスパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字パネル</pre>\n",
+			"option_html": "<pre>文字パネル</pre>\n"
+		}
+	]
+}

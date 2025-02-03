@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"雑学"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>2003年</pre>\n",
+			"option_html": "<pre>2003年</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>2005年</pre>\n",
+			"option_html": "<pre>2005年</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>2010年</pre>\n",
+			"option_html": "<pre>2010年</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>2013年</pre>\n",
+			"option_html": "<pre>2013年</pre>\n"
+		}
+	]
+}

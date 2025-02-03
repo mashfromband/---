@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"データ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>UPPER</pre>\n",
+			"option_html": "<pre>UPPER</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>LOWER</pre>\n",
+			"option_html": "<pre>LOWER</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>PROPER</pre>\n",
+			"option_html": "<pre>PROPER</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>CONCATENATE</pre>\n",
+			"option_html": "<pre>CONCATENATE</pre>\n"
+		}
+	]
+}

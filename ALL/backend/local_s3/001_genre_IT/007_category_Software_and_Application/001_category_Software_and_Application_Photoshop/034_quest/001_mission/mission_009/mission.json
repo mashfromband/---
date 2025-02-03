@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「編集」メニューの「カラー補正」</pre>\n",
+			"option_html": "<pre>「編集」メニューの「カラー補正」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「画像」メニューの「色調補正」→「カラーバランス」</pre>\n",
+			"option_html": "<pre>「画像」メニューの「色調補正」→「カラーバランス」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ウィンドウ」メニューの「カラーバランス」</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「カラーバランス」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ファイル」メニューの「カラーバランス」</pre>\n",
+			"option_html": "<pre>「ファイル」メニューの「カラーバランス」</pre>\n"
+		}
+	]
+}

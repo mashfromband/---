@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"システム開発",
+		"システム"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ベンチマークテスト\n",
+			"option_html": "<p>ベンチマークテスト</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "コンプライアンス監査\n",
+			"option_html": "<p>コンプライアンス監査</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ペネトレーションテスト\n",
+			"option_html": "<p>ペネトレーションテスト</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ブラックボックステスト\n",
+			"option_html": "<p>ブラックボックステスト</p>\n"
+		}
+	]
+}

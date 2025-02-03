@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>工場用ロボットアーム</pre>\n",
+			"option_html": "<pre>工場用ロボットアーム</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自動運転車のセンサー</pre>\n",
+			"option_html": "<pre>自動運転車のセンサー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートサーモスタット</pre>\n",
+			"option_html": "<pre>スマートサーモスタット</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>衛星通信システム</pre>\n",
+			"option_html": "<pre>衛星通信システム</pre>\n"
+		}
+	]
+}

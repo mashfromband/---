@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択範囲を非表示にする</pre>\n",
+			"option_html": "<pre>選択範囲を非表示にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲をより広い範囲に調整する</pre>\n",
+			"option_html": "<pre>選択範囲をより広い範囲に調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像全体を塗りつぶす</pre>\n",
+			"option_html": "<pre>画像全体を塗りつぶす</pre>\n"
+		}
+	]
+}

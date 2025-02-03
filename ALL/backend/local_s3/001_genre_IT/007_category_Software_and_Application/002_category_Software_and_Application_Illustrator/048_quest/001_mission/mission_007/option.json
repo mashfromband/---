@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > 書き出し > PNG形式で「透明背景」を選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; PNG形式で「透明背景」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > エクスポート > 透明背景で保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; 透明背景で保存</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アートボードツールで「透明背景」オプションを選択</pre>\n",
+			"option_html": "<pre>アートボードツールで「透明背景」オプションを選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 保存 > PNG形式</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存 &gt; PNG形式</pre>\n"
+		}
+	]
+}

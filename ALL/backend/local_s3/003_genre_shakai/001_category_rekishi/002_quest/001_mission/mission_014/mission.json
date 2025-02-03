@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "卑弥呼\n",
+			"option_html": "<p>卑弥呼</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "壱与\n",
+			"option_html": "<p>壱与</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "推古天皇\n",
+			"option_html": "<p>推古天皇</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "斉明天皇\n",
+			"option_html": "<p>斉明天皇</p>\n"
+		}
+	]
+}

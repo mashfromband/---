@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>相手の反論を無視する</pre>\n",
+			"option_html": "<pre>相手の反論を無視する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>感情的に主張する</pre>\n",
+			"option_html": "<pre>感情的に主張する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データや具体的な事例を添える</pre>\n",
+			"option_html": "<pre>データや具体的な事例を添える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分の立場を強調する</pre>\n",
+			"option_html": "<pre>自分の立場を強調する</pre>\n"
+		}
+	]
+}

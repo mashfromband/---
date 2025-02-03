@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ブロックチェーンが取引データを暗号化し、連結して記録するため</pre>\n",
+			"option_html": "<pre>ブロックチェーンが取引データを暗号化し、連結して記録するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべての取引が非公開で行われるため</pre>\n",
+			"option_html": "<pre>すべての取引が非公開で行われるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>専門機関が全ての取引を監視するため</pre>\n",
+			"option_html": "<pre>専門機関が全ての取引を監視するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データが手動で確認されるため</pre>\n",
+			"option_html": "<pre>データが手動で確認されるため</pre>\n"
+		}
+	]
+}

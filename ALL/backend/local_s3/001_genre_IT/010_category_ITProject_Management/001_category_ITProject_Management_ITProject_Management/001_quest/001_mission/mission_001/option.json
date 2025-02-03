@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトは反復的に行われる活動である</pre>\n",
+			"option_html": "<pre>プロジェクトは反復的に行われる活動である</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトは一時的でユニークな活動である</pre>\n",
+			"option_html": "<pre>プロジェクトは一時的でユニークな活動である</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>日常業務は明確な目標を持たない活動である</pre>\n",
+			"option_html": "<pre>日常業務は明確な目標を持たない活動である</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>日常業務は必ず期限が決まっている活動である</pre>\n",
+			"option_html": "<pre>日常業務は必ず期限が決まっている活動である</pre>\n"
+		}
+	]
+}

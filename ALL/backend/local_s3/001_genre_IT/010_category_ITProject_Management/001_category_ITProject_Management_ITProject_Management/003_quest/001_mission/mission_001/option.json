@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>品質、時間、リソース</pre>\n",
+			"option_html": "<pre>品質、時間、リソース</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スケジュール、成果物、品質</pre>\n",
+			"option_html": "<pre>スケジュール、成果物、品質</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スコープ、時間、コスト</pre>\n",
+			"option_html": "<pre>スコープ、時間、コスト</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スコープ、品質、リスク</pre>\n",
+			"option_html": "<pre>スコープ、品質、リスク</pre>\n"
+		}
+	]
+}

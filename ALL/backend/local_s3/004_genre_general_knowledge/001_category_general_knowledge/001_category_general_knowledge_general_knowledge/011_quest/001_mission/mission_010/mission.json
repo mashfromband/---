@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"組織理解",
+		"会社組織一般知識（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>会社のルールを確認する</pre>\n",
+			"option_html": "<pre>会社のルールを確認する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>勝手に観光する</pre>\n",
+			"option_html": "<pre>勝手に観光する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>出張報告を省略する</pre>\n",
+			"option_html": "<pre>出張報告を省略する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>支払いを記録しない</pre>\n",
+			"option_html": "<pre>支払いを記録しない</pre>\n"
+		}
+	]
+}

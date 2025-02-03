@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ランダムな順序</pre>\n",
+			"option_html": "<pre>ランダムな順序</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ZからA</pre>\n",
+			"option_html": "<pre>ZからA</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>昇順ではなく降順</pre>\n",
+			"option_html": "<pre>昇順ではなく降順</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>AからZ</pre>\n",
+			"option_html": "<pre>AからZ</pre>\n"
+		}
+	]
+}

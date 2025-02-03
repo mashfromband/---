@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Tabキーを押す</pre>\n",
+			"option_html": "<pre>Tabキーを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl+Shift+Pを押す</pre>\n",
+			"option_html": "<pre>Ctrl+Shift+Pを押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Escキーを押す</pre>\n",
+			"option_html": "<pre>Escキーを押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Altキーを押しながらクリック</pre>\n",
+			"option_html": "<pre>Altキーを押しながらクリック</pre>\n"
+		}
+	]
+}

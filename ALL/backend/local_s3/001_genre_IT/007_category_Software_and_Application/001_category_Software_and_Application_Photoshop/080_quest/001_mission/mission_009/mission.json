@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"選択・マスキング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>素早く選択範囲を作成できる</pre>\n",
+			"option_html": "<pre>素早く選択範囲を作成できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>直線的な選択範囲を作成するのに適している</pre>\n",
+			"option_html": "<pre>直線的な選択範囲を作成するのに適している</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>テクスチャー部分を簡単に選択できる</pre>\n",
+			"option_html": "<pre>テクスチャー部分を簡単に選択できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自動的に選択範囲をトリミングすることができる</pre>\n",
+			"option_html": "<pre>自動的に選択範囲をトリミングすることができる</pre>\n"
+		}
+	]
+}

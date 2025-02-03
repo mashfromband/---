@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨が消滅するリスク</pre>\n",
+			"option_html": "<pre>仮想通貨が消滅するリスク</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨が他人に不正に引き出されるリスク</pre>\n",
+			"option_html": "<pre>仮想通貨が他人に不正に引き出されるリスク</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨が増える可能性</pre>\n",
+			"option_html": "<pre>仮想通貨が増える可能性</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨が価格変動に影響されやすくなる</pre>\n",
+			"option_html": "<pre>仮想通貨が価格変動に影響されやすくなる</pre>\n"
+		}
+	]
+}

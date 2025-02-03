@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"フィルター"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルター > ぼかし > 放射状ぼかし</pre>\n",
+			"option_html": "<pre>フィルター &gt; ぼかし &gt; 放射状ぼかし</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > 3D > 放射状ぼかし</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; 放射状ぼかし</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > スタイライズ > 放射状ぼかし</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; 放射状ぼかし</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルター > スタイライズ > 放射状ぼかし</pre>\n",
+			"option_html": "<pre>フィルター &gt; スタイライズ &gt; 放射状ぼかし</pre>\n"
+		}
+	]
+}

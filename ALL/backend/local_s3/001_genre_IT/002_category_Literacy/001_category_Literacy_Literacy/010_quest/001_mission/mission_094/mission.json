@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"テクノロジ系",
+		"システム",
+		"システム開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ウォーターフォールモデル\n",
+			"option_html": "<p>ウォーターフォールモデル</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アジャイル開発\n",
+			"option_html": "<p>アジャイル開発</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "V字モデル\n",
+			"option_html": "<p>V字モデル</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "スパイラルモデル\n",
+			"option_html": "<p>スパイラルモデル</p>\n"
+		}
+	]
+}

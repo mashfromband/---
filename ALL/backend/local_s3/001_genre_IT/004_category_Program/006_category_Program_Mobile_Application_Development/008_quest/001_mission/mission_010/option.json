@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データベースのパフォーマンスを向上させるため</pre>\n",
+			"option_html": "<pre>データベースのパフォーマンスを向上させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリのデザインを向上させるため</pre>\n",
+			"option_html": "<pre>アプリのデザインを向上させるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>中間者攻撃（MITM）を防ぎ、ネットワーク通信を保護するため</pre>\n",
+			"option_html": "<pre>中間者攻撃（MITM）を防ぎ、ネットワーク通信を保護するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリのコードを効率的に記述するため</pre>\n",
+			"option_html": "<pre>アプリのコードを効率的に記述するため</pre>\n"
+		}
+	]
+}

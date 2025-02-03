@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "770年\n",
+			"option_html": "<p>770年</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "800年\n",
+			"option_html": "<p>800年</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "830年\n",
+			"option_html": "<p>830年</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "860年\n",
+			"option_html": "<p>860年</p>\n"
+		}
+	]
+}

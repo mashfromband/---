@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラフを挿入する</pre>\n",
+			"option_html": "<pre>グラフを挿入する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>指定した範囲から縦方向に検索し、該当する値を取得する</pre>\n",
+			"option_html": "<pre>指定した範囲から縦方向に検索し、該当する値を取得する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルの背景色を変更する</pre>\n",
+			"option_html": "<pre>セルの背景色を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>罫線を太線にする</pre>\n",
+			"option_html": "<pre>罫線を太線にする</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「選択範囲」メニューから「羽」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「羽」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「自由選択ツール」を使用する</pre>\n",
+			"option_html": "<pre>「自由選択ツール」を使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「選択範囲」メニューから「反転」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「反転」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤースタイル」から調整を行う</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」から調整を行う</pre>\n"
+		}
+	]
+}

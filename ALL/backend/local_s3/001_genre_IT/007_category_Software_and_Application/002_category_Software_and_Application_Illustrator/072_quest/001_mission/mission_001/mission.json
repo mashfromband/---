@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツールで改行を挿入する</pre>\n",
+			"option_html": "<pre>文字ツールで改行を挿入する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルで改行を追加する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで改行を追加する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > 変形で改行を設定する</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形で改行を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字パネルで改行を設定する</pre>\n",
+			"option_html": "<pre>文字パネルで改行を設定する</pre>\n"
+		}
+	]
+}

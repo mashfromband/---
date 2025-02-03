@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「編集」メニューの「環境設定」で解像度を変更する</pre>\n",
+			"option_html": "<pre>「編集」メニューの「環境設定」で解像度を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「画像」メニューの「画像解像度」を変更後、保存する</pre>\n",
+			"option_html": "<pre>「画像」メニューの「画像解像度」を変更後、保存する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ウィンドウ」メニューで「解像度」を設定する</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューで「解像度」を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>解像度は保存時に変更できない</pre>\n",
+			"option_html": "<pre>解像度は保存時に変更できない</pre>\n"
+		}
+	]
+}

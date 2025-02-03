@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "集団殺人罪\n",
+			"option_html": "<p>集団殺人罪</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "人道に対する\n罪\n",
+			"option_html": "<p>人道に対する<br>罪</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "戦争に対する\n罪\n",
+			"option_html": "<p>戦争に対する<br>罪</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "私戦予備\n陰謀罪\n",
+			"option_html": "<p>私戦予備<br>陰謀罪</p>\n"
+		}
+	]
+}

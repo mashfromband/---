@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーの個人情報を暗号化する</pre>\n",
+			"option_html": "<pre>ユーザーの個人情報を暗号化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>システムのログを削除する</pre>\n",
+			"option_html": "<pre>システムのログを削除する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>攻撃者がシステムに隠れて不正な操作を行うことを可能にする</pre>\n",
+			"option_html": "<pre>攻撃者がシステムに隠れて不正な操作を行うことを可能にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>コンピュータの性能を向上させる</pre>\n",
+			"option_html": "<pre>コンピュータの性能を向上させる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"ツール"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スマートガイドを有効にする</pre>\n",
+			"option_html": "<pre>スマートガイドを有効にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アラインパネルで分布を設定する</pre>\n",
+			"option_html": "<pre>アラインパネルで分布を設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダーを使用する</pre>\n",
+			"option_html": "<pre>パスファインダーを使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自由変形ツールで調整する</pre>\n",
+			"option_html": "<pre>自由変形ツールで調整する</pre>\n"
+		}
+	]
+}

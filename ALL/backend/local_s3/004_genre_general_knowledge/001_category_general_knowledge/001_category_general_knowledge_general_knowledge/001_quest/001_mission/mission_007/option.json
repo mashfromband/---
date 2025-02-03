@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>前で組む</pre>\n",
+			"option_html": "<pre>前で組む</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>横に自然に下ろす</pre>\n",
+			"option_html": "<pre>横に自然に下ろす</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>後ろに組む</pre>\n",
+			"option_html": "<pre>後ろに組む</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ポケットに入れる</pre>\n",
+			"option_html": "<pre>ポケットに入れる</pre>\n"
+		}
+	]
+}

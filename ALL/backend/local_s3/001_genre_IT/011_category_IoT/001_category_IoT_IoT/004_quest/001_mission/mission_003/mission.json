@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データを物理的に保存する必要がなくなるため</pre>\n",
+			"option_html": "<pre>データを物理的に保存する必要がなくなるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デバイスが常にオフラインで動作できるため</pre>\n",
+			"option_html": "<pre>デバイスが常にオフラインで動作できるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データ転送が不要になるため</pre>\n",
+			"option_html": "<pre>データ転送が不要になるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバイスが直接インターネットに接続しなくなるため</pre>\n",
+			"option_html": "<pre>デバイスが直接インターネットに接続しなくなるため</pre>\n"
+		}
+	]
+}

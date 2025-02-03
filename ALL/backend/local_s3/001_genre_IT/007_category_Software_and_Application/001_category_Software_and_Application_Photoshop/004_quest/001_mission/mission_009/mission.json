@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーマスクを使用する</pre>\n",
+			"option_html": "<pre>レイヤーマスクを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>不透明度を変更する</pre>\n",
+			"option_html": "<pre>不透明度を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルターギャラリーを適用する</pre>\n",
+			"option_html": "<pre>フィルターギャラリーを適用する</pre>\n"
+		}
+	]
+}

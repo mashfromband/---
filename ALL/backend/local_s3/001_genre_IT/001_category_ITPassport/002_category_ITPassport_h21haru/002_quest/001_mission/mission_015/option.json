@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "意匠権\n",
+			"option_html": "<p>意匠権</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "実用新案権\n",
+			"option_html": "<p>実用新案権</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "著作権\n",
+			"option_html": "<p>著作権</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "特許権\n",
+			"option_html": "<p>特許権</p>\n"
+		}
+	]
+}

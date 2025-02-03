@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「自動選択」が有効になっている</pre>\n",
+			"option_html": "<pre>「自動選択」が有効になっている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像がグループ化されている</pre>\n",
+			"option_html": "<pre>画像がグループ化されている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲が適切でない</pre>\n",
+			"option_html": "<pre>選択範囲が適切でない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「リンク」アイコンが設定されている</pre>\n",
+			"option_html": "<pre>「リンク」アイコンが設定されている</pre>\n"
+		}
+	]
+}

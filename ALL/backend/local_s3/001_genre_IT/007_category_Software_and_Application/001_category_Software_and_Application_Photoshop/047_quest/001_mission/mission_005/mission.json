@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーマスクが無効になっている</pre>\n",
+			"option_html": "<pre>レイヤーマスクが無効になっている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>マスクが選択されていない</pre>\n",
+			"option_html": "<pre>マスクが選択されていない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーマスクがリンクされていない</pre>\n",
+			"option_html": "<pre>レイヤーマスクがリンクされていない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>マスクに白が塗られている</pre>\n",
+			"option_html": "<pre>マスクに白が塗られている</pre>\n"
+		}
+	]
+}

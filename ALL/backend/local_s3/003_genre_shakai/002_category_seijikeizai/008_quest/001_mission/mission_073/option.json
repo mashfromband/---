@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "1回\n",
+			"option_html": "<p>1回</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "2回\n",
+			"option_html": "<p>2回</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "3回\n",
+			"option_html": "<p>3回</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "4回\n",
+			"option_html": "<p>4回</p>\n"
+		}
+	]
+}

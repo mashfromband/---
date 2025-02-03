@@ -1,0 +1,100 @@
+{
+	/*	スキル・ドメインデータ	*/
+	"USER": {
+		"skillsInDomain": [
+			"userSkill",			/* ユーザースキル	*/
+			"shoshikantetsu",		/* 初志貫徹			*/
+			"zentoyouyou",			/* 前途洋々			*/
+			"taiganjouju"			/* 大願成就			*/
+		],
+		"childDomains": {
+			"IT": {
+				"skillsInDomain": [
+					"IT_beginner",		/* IT初心者		*/
+					"IT_intermediate",	/* IT中級者		*/
+					"IT_advanced"		/* IT上級者		*/
+				],
+				"childDomains": {
+					"MICROSOFT": {
+						"skillsInDomain": [
+							"MS_beginner",		/* Microsoft初心者	*/
+							"MS_intermediate",	/* Microsoft中級者	*/
+							"MS_advanced"		/* Microsoft上級者	*/
+						],
+						"childDomains": {
+							"EXCEL": {
+								"skillsInDomain": [
+									"Excel_beginner",		/* Excel初心者		*/
+									"Excel_intermediate",	/* Excel中級者		*/
+									"Excel_advanced"		/* Excel上級者		*/
+								],
+								"childDomains": {
+									"EXCEL_FUNCTIONS": {
+										"skillsInDomain": [
+											"Excel_function_master"		/* 関数の達人		*/
+										]
+									}/* EXCEL_FUNCTIONS */,
+									"EXCEL_BORDERS": {
+										"skillsInDomain": [
+											"Excell_borders_magician"	/* 罫線の魔術師	*/
+										]
+									}/* EXCEL_BORDERS */,
+									"EXCEL_VBA": {
+										"skillsInDomain": [
+											"Excel_VBA_memory",			/* メモリ			*/
+											"Excel_VBA_variables"		/* 変数			*/
+										]
+									}/* EXCEL_VBA */
+								}
+							}/* Excel */,
+							"WORD": {
+								"skillsInDomain": [
+									"Word_beginner",		/* Word初心者		*/
+									"Word_intermediate",	/* Word中級者		*/
+									"Word_advanced"			/* Word上級者		*/
+								]
+							}/* Word */,
+							"PPT": {
+								"skillsInDomain": [
+									"PPT_beginner",			/* PPT初心者		*/
+									"PPT_intermediate",		/* PPT中級者		*/
+									"PPT_advanced"			/* PPT上級者		*/
+								]
+							}/* PPT */
+						}
+					}/* MS */
+				}
+			}/* IT */,
+			"business": {
+				"childDomains": {
+					"EMAIL": {				/* メール			*/
+						"skillsInDomain": [
+							"email_basics",		/* メールの基本		*/
+							"email_advanced"	/* メールの応用		*/
+						]
+					}/* email */,
+					"MANNERS": {			/* 礼儀作法		*/
+						"skillsInDomain": [
+							"manners_basics",	/* 礼儀作法の基本	*/
+							"manners_advanced"	/* 礼儀作法の応用	*/
+						]
+					}/* manners */,
+					"SALES": {				/* 営業			*/
+						"skillsInDomain": [
+							"sales_basics",		/* 営業の基本		*/
+							"sales_advanced"	/* 営業の応用		*/
+						]
+					}/* sales */,
+					"MARKETING": {			/* マーケティング	*/
+						"skillsInDomain": [
+							"marketing_basics",	/* マーケティングの基本	*/
+							"marketing_advanced"/* マーケティングの応用	*/
+						]
+					}/* marketing */
+				}
+			}/* buziness */
+		}
+	}/* USER */
+}
+
+

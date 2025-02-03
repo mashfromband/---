@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>名詞の性別で話者の性別が変わるため</pre>\n",
+			"option_html": "<pre>名詞の性別で話者の性別が変わるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>名詞の性別によってその日の気分が分かるため</pre>\n",
+			"option_html": "<pre>名詞の性別によってその日の気分が分かるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>名詞の性別によって出身国が変わるため</pre>\n",
+			"option_html": "<pre>名詞の性別によって出身国が変わるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文章上で、名詞の性別が他の語に影響を与えるため</pre>\n",
+			"option_html": "<pre>文章上で、名詞の性別が他の語に影響を与えるため</pre>\n"
+		}
+	]
+}

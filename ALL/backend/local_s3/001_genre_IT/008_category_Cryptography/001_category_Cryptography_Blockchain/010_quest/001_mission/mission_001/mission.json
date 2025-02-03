@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引の全てを中央銀行が管理する</pre>\n",
+			"option_html": "<pre>取引の全てを中央銀行が管理する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>高額な手数料でサービスを提供する</pre>\n",
+			"option_html": "<pre>高額な手数料でサービスを提供する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>銀行口座を持たない人々にも金融サービスを提供できる</pre>\n",
+			"option_html": "<pre>銀行口座を持たない人々にも金融サービスを提供できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特定の地域のみで利用可能なサービスを提供する</pre>\n",
+			"option_html": "<pre>特定の地域のみで利用可能なサービスを提供する</pre>\n"
+		}
+	]
+}

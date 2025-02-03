@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"社会人向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>マーケティングに関して専門的な回答が得られる</pre>\n",
+			"option_html": "<pre>マーケティングに関して専門的な回答が得られる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>モデルがマーケティングディレクターになる</pre>\n",
+			"option_html": "<pre>モデルがマーケティングディレクターになる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>処理速度がとても速くなる</pre>\n",
+			"option_html": "<pre>処理速度がとても速くなる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>マーケットプレイスに接続される</pre>\n",
+			"option_html": "<pre>マーケットプレイスに接続される</pre>\n"
+		}
+	]
+}

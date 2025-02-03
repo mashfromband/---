@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>衛星通信</pre>\n",
+			"option_html": "<pre>衛星通信</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>光ファイバー通信</pre>\n",
+			"option_html": "<pre>光ファイバー通信</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ZigbeeやBluetooth Low Energy (BLE)</pre>\n",
+			"option_html": "<pre>ZigbeeやBluetooth Low Energy (BLE)</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>LoRaWAN</pre>\n",
+			"option_html": "<pre>LoRaWAN</pre>\n"
+		}
+	]
+}

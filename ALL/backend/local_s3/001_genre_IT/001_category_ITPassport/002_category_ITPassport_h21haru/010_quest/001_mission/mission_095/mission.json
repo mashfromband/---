@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"中間B",
+		"ストラテジ系",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "女性30代\n",
+			"option_html": "<p>女性30代</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "女性40代\n",
+			"option_html": "<p>女性40代</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "男性40代\n",
+			"option_html": "<p>男性40代</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "男性50代\n",
+			"option_html": "<p>男性50代</p>\n"
+		}
+	]
+}

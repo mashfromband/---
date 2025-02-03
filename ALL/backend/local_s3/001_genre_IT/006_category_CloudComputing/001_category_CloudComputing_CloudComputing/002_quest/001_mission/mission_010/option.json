@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ベンダーによるロックインやデータの管理場所の不透明性</pre>\n",
+			"option_html": "<pre>ベンダーによるロックインやデータの管理場所の不透明性</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>初期費用が非常に高い</pre>\n",
+			"option_html": "<pre>初期費用が非常に高い</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>完全に自由なカスタマイズが可能である点</pre>\n",
+			"option_html": "<pre>完全に自由なカスタマイズが可能である点</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データのバックアップが自動的に行われない点</pre>\n",
+			"option_html": "<pre>データのバックアップが自動的に行われない点</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>低彩度の色</pre>\n",
+			"option_html": "<pre>低彩度の色</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>高彩度の色</pre>\n",
+			"option_html": "<pre>高彩度の色</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>明るい色</pre>\n",
+			"option_html": "<pre>明るい色</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗い色</pre>\n",
+			"option_html": "<pre>暗い色</pre>\n"
+		}
+	]
+}

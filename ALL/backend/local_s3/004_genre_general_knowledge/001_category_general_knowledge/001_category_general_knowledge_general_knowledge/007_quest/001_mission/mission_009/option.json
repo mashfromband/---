@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>身体を前のめりにする</pre>\n",
+			"option_html": "<pre>身体を前のめりにする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>背中を向ける</pre>\n",
+			"option_html": "<pre>背中を向ける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>遠くを見つめる</pre>\n",
+			"option_html": "<pre>遠くを見つめる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>椅子にもたれかかる</pre>\n",
+			"option_html": "<pre>椅子にもたれかかる</pre>\n"
+		}
+	]
+}

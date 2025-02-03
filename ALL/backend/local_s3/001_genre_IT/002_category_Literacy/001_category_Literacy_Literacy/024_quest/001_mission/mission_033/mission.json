@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "キャッシュ\n",
+			"option_html": "<p>キャッシュ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "クッキー\n",
+			"option_html": "<p>クッキー</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ファイアウォール\n",
+			"option_html": "<p>ファイアウォール</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プロトコル\n",
+			"option_html": "<p>プロトコル</p>\n"
+		}
+	]
+}
