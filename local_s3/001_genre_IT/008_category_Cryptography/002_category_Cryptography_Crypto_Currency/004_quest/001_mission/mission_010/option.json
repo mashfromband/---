@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オンライン環境で使用する</pre>\n",
+			"option_html": "<pre>オンライン環境で使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の取引を高速化する</pre>\n",
+			"option_html": "<pre>仮想通貨の取引を高速化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オフライン環境で秘密鍵を保管する</pre>\n",
+			"option_html": "<pre>オフライン環境で秘密鍵を保管する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨をリアルタイムで管理する</pre>\n",
+			"option_html": "<pre>仮想通貨をリアルタイムで管理する</pre>\n"
+		}
+	]
+}

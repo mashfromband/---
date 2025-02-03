@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"学生向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>楽譜を読み上げてくれるツールを使う</pre>\n",
+			"option_html": "<pre>楽譜を読み上げてくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>音楽の先生に楽譜の読み方を教わる</pre>\n",
+			"option_html": "<pre>音楽の先生に楽譜の読み方を教わる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>楽器を習って、楽譜を読む練習をする</pre>\n",
+			"option_html": "<pre>楽器を習って、楽譜を読む練習をする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>音楽の教科書を繰り返し読む</pre>\n",
+			"option_html": "<pre>音楽の教科書を繰り返し読む</pre>\n"
+		}
+	]
+}

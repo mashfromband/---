@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "維持する\n",
+			"option_html": "<p>維持する</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "まとめ買い\n",
+			"option_html": "<p>まとめ買い</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "押しつける\n",
+			"option_html": "<p>押しつける</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "買い戻す\n",
+			"option_html": "<p>買い戻す</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ワームはファイルに依存し、ウイルスは単独で拡散する</pre>\n",
+			"option_html": "<pre>ワームはファイルに依存し、ウイルスは単独で拡散する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ウイルスは自己増殖するが、ワームは増殖しない</pre>\n",
+			"option_html": "<pre>ウイルスは自己増殖するが、ワームは増殖しない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ワームは単独で拡散するが、ウイルスは他のファイルに依存する</pre>\n",
+			"option_html": "<pre>ワームは単独で拡散するが、ウイルスは他のファイルに依存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ウイルスはネットワークを通じてのみ拡散する</pre>\n",
+			"option_html": "<pre>ウイルスはネットワークを通じてのみ拡散する</pre>\n"
+		}
+	]
+}

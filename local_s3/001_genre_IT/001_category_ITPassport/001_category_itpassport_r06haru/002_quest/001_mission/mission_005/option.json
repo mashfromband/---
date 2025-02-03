@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "BPO\n",
+			"option_html": "<p>BPO</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "CIM\n",
+			"option_html": "<p>CIM</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "JIT\n",
+			"option_html": "<p>JIT</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "OEM\n",
+			"option_html": "<p>OEM</p>\n"
+		}
+	]
+}

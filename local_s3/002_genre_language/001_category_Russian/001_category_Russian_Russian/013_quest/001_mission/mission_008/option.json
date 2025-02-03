@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>単数形と複数形でまったくの別単語になる</pre>\n",
+			"option_html": "<pre>単数形と複数形でまったくの別単語になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>法則性はあるが不規則な形になる</pre>\n",
+			"option_html": "<pre>法則性はあるが不規則な形になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ほとんどが一定の変化をする</pre>\n",
+			"option_html": "<pre>ほとんどが一定の変化をする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>一切の法則性が存在しない</pre>\n",
+			"option_html": "<pre>一切の法則性が存在しない</pre>\n"
+		}
+	]
+}

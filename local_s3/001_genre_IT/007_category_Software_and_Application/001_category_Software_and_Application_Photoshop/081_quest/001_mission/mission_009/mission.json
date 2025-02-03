@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"選択・マスキング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>背景を削除する際に使う</pre>\n",
+			"option_html": "<pre>背景を削除する際に使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像の一部をカラー補正する際に使う</pre>\n",
+			"option_html": "<pre>画像の一部をカラー補正する際に使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像をトリミングする際に使う</pre>\n",
+			"option_html": "<pre>画像をトリミングする際に使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>複数のレイヤーを結合する際に使う</pre>\n",
+			"option_html": "<pre>複数のレイヤーを結合する際に使う</pre>\n"
+		}
+	]
+}

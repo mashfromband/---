@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"ネットワーク",
+		"無線LAN"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "データ転送速度を速めるために設計されている\n",
+			"option_html": "<p>データ転送速度を速めるために設計されている</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "過去のWEP方式に比べて安全性が高い\n",
+			"option_html": "<p>過去のWEP方式に比べて安全性が高い</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "暗号化方式は廃止され、現在使用できない\n",
+			"option_html": "<p>暗号化方式は廃止され、現在使用できない</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "無線LANの接続距離を伸ばすために設計されている\n",
+			"option_html": "<p>無線LANの接続距離を伸ばすために設計されている</p>\n"
+		}
+	]
+}

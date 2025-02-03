@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「Ctrl + Z」で戻る</pre>\n",
+			"option_html": "<pre>「Ctrl + Z」で戻る</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「Ctrl + X」で切り取り、「Ctrl + V」で貼り付ける</pre>\n",
+			"option_html": "<pre>「Ctrl + X」で切り取り、「Ctrl + V」で貼り付ける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「Ctrl + C」でコピーする</pre>\n",
+			"option_html": "<pre>「Ctrl + C」でコピーする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「Ctrl + S」で保存する</pre>\n",
+			"option_html": "<pre>「Ctrl + S」で保存する</pre>\n"
+		}
+	]
+}

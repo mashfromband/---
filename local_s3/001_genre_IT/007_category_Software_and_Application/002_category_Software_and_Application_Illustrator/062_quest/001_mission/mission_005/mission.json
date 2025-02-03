@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Altキーを押しながらスケールツールをドラッグ</pre>\n",
+			"option_html": "<pre>Altキーを押しながらスケールツールをドラッグ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Shiftキーを押しながらスケールツールをドラッグ</pre>\n",
+			"option_html": "<pre>Shiftキーを押しながらスケールツールをドラッグ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrlキーを押しながらスケールツールをドラッグ</pre>\n",
+			"option_html": "<pre>Ctrlキーを押しながらスケールツールをドラッグ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Shift + Altを押しながらスケールツールをドラッグ</pre>\n",
+			"option_html": "<pre>Shift + Altを押しながらスケールツールをドラッグ</pre>\n"
+		}
+	]
+}

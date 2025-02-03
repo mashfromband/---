@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>相手が気づいた後</pre>\n",
+			"option_html": "<pre>相手が気づいた後</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>相手が通り過ぎた後</pre>\n",
+			"option_html": "<pre>相手が通り過ぎた後</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>出会った瞬間にする</pre>\n",
+			"option_html": "<pre>出会った瞬間にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>タイミングを計らない</pre>\n",
+			"option_html": "<pre>タイミングを計らない</pre>\n"
+		}
+	]
+}

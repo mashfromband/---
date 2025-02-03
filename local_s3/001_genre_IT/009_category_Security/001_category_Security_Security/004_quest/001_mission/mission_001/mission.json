@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスワードを家族の名前にする</pre>\n",
+			"option_html": "<pre>パスワードを家族の名前にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>毎回同じパスワードを使う</pre>\n",
+			"option_html": "<pre>毎回同じパスワードを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスワードをできるだけ短く設定する</pre>\n",
+			"option_html": "<pre>パスワードをできるだけ短く設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>英数字や記号を組み合わせて複雑にする</pre>\n",
+			"option_html": "<pre>英数字や記号を組み合わせて複雑にする</pre>\n"
+		}
+	]
+}

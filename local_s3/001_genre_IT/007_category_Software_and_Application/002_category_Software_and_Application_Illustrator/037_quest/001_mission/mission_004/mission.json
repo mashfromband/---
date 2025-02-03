@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルの右上で「整列」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルの右上で「整列」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ウィンドウ > 整列を選択</pre>\n",
+			"option_html": "<pre>ウィンドウ &gt; 整列を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで「整理」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「整理」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで右クリックし「レイヤー整列」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックし「レイヤー整列」を選択</pre>\n"
+		}
+	]
+}

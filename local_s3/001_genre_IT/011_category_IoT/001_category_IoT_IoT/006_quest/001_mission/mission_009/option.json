@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全ての通信プロトコルを無効にする</pre>\n",
+			"option_html": "<pre>全ての通信プロトコルを無効にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワーク分離やトラフィックの監視を行う</pre>\n",
+			"option_html": "<pre>ネットワーク分離やトラフィックの監視を行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスの電源を頻繁に切る</pre>\n",
+			"option_html": "<pre>デバイスの電源を頻繁に切る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データのバックアップを削除する</pre>\n",
+			"option_html": "<pre>データのバックアップを削除する</pre>\n"
+		}
+	]
+}

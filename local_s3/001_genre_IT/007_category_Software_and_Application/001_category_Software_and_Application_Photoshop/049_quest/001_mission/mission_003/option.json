@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>固定比率が設定されている</pre>\n",
+			"option_html": "<pre>固定比率が設定されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スナップがオンになっている</pre>\n",
+			"option_html": "<pre>スナップがオンになっている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>背景レイヤーが選択されている</pre>\n",
+			"option_html": "<pre>背景レイヤーが選択されている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>トリミング先がロックされている</pre>\n",
+			"option_html": "<pre>トリミング先がロックされている</pre>\n"
+		}
+	]
+}

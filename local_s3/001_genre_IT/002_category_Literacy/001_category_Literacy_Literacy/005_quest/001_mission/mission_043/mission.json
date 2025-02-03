@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"システム",
+		"システム開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "FTP\n",
+			"option_html": "<p>FTP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "RPA\n",
+			"option_html": "<p>RPA</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "HTTP\n",
+			"option_html": "<p>HTTP</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ディープランニング\n",
+			"option_html": "<p>ディープランニング</p>\n"
+		}
+	]
+}

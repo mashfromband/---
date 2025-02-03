@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アンカーポイントツール</pre>\n",
+			"option_html": "<pre>アンカーポイントツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ペンツールを再び使い直す</pre>\n",
+			"option_html": "<pre>ペンツールを再び使い直す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>曲線部分を削除して直線にする</pre>\n",
+			"option_html": "<pre>曲線部分を削除して直線にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブラシツールで上書きする</pre>\n",
+			"option_html": "<pre>ブラシツールで上書きする</pre>\n"
+		}
+	]
+}

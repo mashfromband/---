@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コンピュータシステムを完全に破壊する</pre>\n",
+			"option_html": "<pre>コンピュータシステムを完全に破壊する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>無害に見えるプログラムに隠れ、システムに不正アクセスを行う</pre>\n",
+			"option_html": "<pre>無害に見えるプログラムに隠れ、システムに不正アクセスを行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク上でデータを盗聴する</pre>\n",
+			"option_html": "<pre>ネットワーク上でデータを盗聴する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>大量のデータを生成してシステムを麻痺させる</pre>\n",
+			"option_html": "<pre>大量のデータを生成してシステムを麻痺させる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像を拡大する</pre>\n",
+			"option_html": "<pre>画像を拡大する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像を分割してWeb用に最適化する</pre>\n",
+			"option_html": "<pre>画像を分割してWeb用に最適化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像を圧縮する</pre>\n",
+			"option_html": "<pre>画像を圧縮する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像を印刷用に調整する</pre>\n",
+			"option_html": "<pre>画像を印刷用に調整する</pre>\n"
+		}
+	]
+}

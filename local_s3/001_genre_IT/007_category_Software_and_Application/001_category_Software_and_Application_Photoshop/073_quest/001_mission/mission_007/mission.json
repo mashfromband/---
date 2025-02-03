@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"選択・マスキング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「クイック選択ツール」</pre>\n",
+			"option_html": "<pre>「クイック選択ツール」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「スポット修復ブラシツール」を使用する</pre>\n",
+			"option_html": "<pre>「スポット修復ブラシツール」を使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「パス選択ツール」を使う</pre>\n",
+			"option_html": "<pre>「パス選択ツール」を使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「変形ツール」を使う</pre>\n",
+			"option_html": "<pre>「変形ツール」を使う</pre>\n"
+		}
+	]
+}

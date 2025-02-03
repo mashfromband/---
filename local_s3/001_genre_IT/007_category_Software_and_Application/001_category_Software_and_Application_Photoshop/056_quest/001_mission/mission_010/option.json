@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色の変更が容易になる</pre>\n",
+			"option_html": "<pre>色の変更が容易になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイルサイズが軽減される</pre>\n",
+			"option_html": "<pre>ファイルサイズが軽減される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーの順序が変わる</pre>\n",
+			"option_html": "<pre>レイヤーの順序が変わる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>解像度が向上する</pre>\n",
+			"option_html": "<pre>解像度が向上する</pre>\n"
+		}
+	]
+}

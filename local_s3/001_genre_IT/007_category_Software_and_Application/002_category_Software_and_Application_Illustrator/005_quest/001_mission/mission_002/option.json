@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Illustrator 3.0</pre>\n",
+			"option_html": "<pre>Illustrator 3.0</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Illustrator 88</pre>\n",
+			"option_html": "<pre>Illustrator 88</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Illustrator 4.0</pre>\n",
+			"option_html": "<pre>Illustrator 4.0</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Illustrator CS</pre>\n",
+			"option_html": "<pre>Illustrator CS</pre>\n"
+		}
+	]
+}

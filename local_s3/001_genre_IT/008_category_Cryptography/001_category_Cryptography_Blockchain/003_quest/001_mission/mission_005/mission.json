@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>分散型ネットワークの一部としてデータの共有と検証</pre>\n",
+			"option_html": "<pre>分散型ネットワークの一部としてデータの共有と検証</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの隠蔽</pre>\n",
+			"option_html": "<pre>データの隠蔽</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トランザクションの削除</pre>\n",
+			"option_html": "<pre>トランザクションの削除</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブロックチェーンの中央管理</pre>\n",
+			"option_html": "<pre>ブロックチェーンの中央管理</pre>\n"
+		}
+	]
+}

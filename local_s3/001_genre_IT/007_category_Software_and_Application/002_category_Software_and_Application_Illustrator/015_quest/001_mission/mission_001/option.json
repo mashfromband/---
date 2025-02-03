@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ハサミツール</pre>\n",
+			"option_html": "<pre>ハサミツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>消しゴムツール</pre>\n",
+			"option_html": "<pre>消しゴムツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ナイフツール</pre>\n",
+			"option_html": "<pre>ナイフツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスファインダー</pre>\n",
+			"option_html": "<pre>パスファインダー</pre>\n"
+		}
+	]
+}

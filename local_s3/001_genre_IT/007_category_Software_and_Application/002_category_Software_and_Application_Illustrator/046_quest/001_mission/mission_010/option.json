@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > エクスポート > PDF形式</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; PDF形式</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 保存 > PDF</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存 &gt; PDF</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 書き出し > PDF</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; PDF</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > エクスポート形式 > PDF</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート形式 &gt; PDF</pre>\n"
+		}
+	]
+}

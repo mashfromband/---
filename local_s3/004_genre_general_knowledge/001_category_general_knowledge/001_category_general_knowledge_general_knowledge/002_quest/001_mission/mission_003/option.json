@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>軽く手を握る</pre>\n",
+			"option_html": "<pre>軽く手を握る</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>無表情で行う</pre>\n",
+			"option_html": "<pre>無表情で行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>指先だけ握る</pre>\n",
+			"option_html": "<pre>指先だけ握る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>力を強く握りしめる</pre>\n",
+			"option_html": "<pre>力を強く握りしめる</pre>\n"
+		}
+	]
+}

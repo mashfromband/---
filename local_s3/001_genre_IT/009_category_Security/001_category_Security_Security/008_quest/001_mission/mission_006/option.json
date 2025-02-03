@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスワードとユーザー名の組み合わせ</pre>\n",
+			"option_html": "<pre>パスワードとユーザー名の組み合わせ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスワードと生体認証（指紋や顔認証）の組み合わせ</pre>\n",
+			"option_html": "<pre>パスワードと生体認証（指紋や顔認証）の組み合わせ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスワードを2回入力する方法</pre>\n",
+			"option_html": "<pre>パスワードを2回入力する方法</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザー名とメールアドレスの組み合わせ</pre>\n",
+			"option_html": "<pre>ユーザー名とメールアドレスの組み合わせ</pre>\n"
+		}
+	]
+}

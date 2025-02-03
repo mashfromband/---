@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>新しい通貨を発行する仕組み</pre>\n",
+			"option_html": "<pre>新しい通貨を発行する仕組み</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>マイニングを効率化する方法</pre>\n",
+			"option_html": "<pre>マイニングを効率化する方法</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>メインネットの取引量を軽減する</pre>\n",
+			"option_html": "<pre>メインネットの取引量を軽減する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号化の強度を向上させる手段</pre>\n",
+			"option_html": "<pre>暗号化の強度を向上させる手段</pre>\n"
+		}
+	]
+}

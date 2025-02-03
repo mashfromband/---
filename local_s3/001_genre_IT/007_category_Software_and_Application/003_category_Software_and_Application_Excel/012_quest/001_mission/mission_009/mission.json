@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ホームタブの「条件付き書式」を設定する</pre>\n",
+			"option_html": "<pre>ホームタブの「条件付き書式」を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを選択して「Ctrl + P」を押す</pre>\n",
+			"option_html": "<pre>セルを選択して「Ctrl + P」を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルを右クリックし「ハイパーリンク」を選択する</pre>\n",
+			"option_html": "<pre>セルを右クリックし「ハイパーリンク」を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルをコピーして別のセルに貼り付ける</pre>\n",
+			"option_html": "<pre>セルをコピーして別のセルに貼り付ける</pre>\n"
+		}
+	]
+}

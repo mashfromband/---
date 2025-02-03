@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Backspaceキーを押す</pre>\n",
+			"option_html": "<pre>Backspaceキーを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Deleteキーを押す</pre>\n",
+			"option_html": "<pre>Deleteキーを押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ホーム」タブ→「クリア」→「すべてクリア」を選択</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「クリア」→「すべてクリア」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルを選択し「Enter」キーを押す</pre>\n",
+			"option_html": "<pre>セルを選択し「Enter」キーを押す</pre>\n"
+		}
+	]
+}

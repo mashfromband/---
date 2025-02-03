@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "第一次世界\n大戦\n",
+			"option_html": "<p>第一次世界<br>大戦</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "第二次世界\n大戦\n",
+			"option_html": "<p>第二次世界<br>大戦</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "世界恐慌\n",
+			"option_html": "<p>世界恐慌</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "リーマン\nショック\n",
+			"option_html": "<p>リーマン<br>ショック</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コンピュータにインストールされたソフトウェア</pre>\n",
+			"option_html": "<pre>コンピュータにインストールされたソフトウェア</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データが許可されていない人に見られること</pre>\n",
+			"option_html": "<pre>データが許可されていない人に見られること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>システムやデータに存在する欠陥や弱点</pre>\n",
+			"option_html": "<pre>システムやデータに存在する欠陥や弱点</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワークの通信速度が遅いこと</pre>\n",
+			"option_html": "<pre>ネットワークの通信速度が遅いこと</pre>\n"
+		}
+	]
+}

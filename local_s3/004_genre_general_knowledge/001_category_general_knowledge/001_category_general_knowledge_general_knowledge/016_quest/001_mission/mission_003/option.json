@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自分の意見だけを押し通す</pre>\n",
+			"option_html": "<pre>自分の意見だけを押し通す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>他人を否定し続ける</pre>\n",
+			"option_html": "<pre>他人を否定し続ける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>相手を尊重し、協調する</pre>\n",
+			"option_html": "<pre>相手を尊重し、協調する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>意見を言わない</pre>\n",
+			"option_html": "<pre>意見を言わない</pre>\n"
+		}
+	]
+}

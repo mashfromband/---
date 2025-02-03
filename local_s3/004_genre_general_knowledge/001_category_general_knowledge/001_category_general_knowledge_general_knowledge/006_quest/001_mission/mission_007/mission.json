@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"コミュニケーション",
+		"よい印象を与える（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>名刺を渡す際に一礼する</pre>\n",
+			"option_html": "<pre>名刺を渡す際に一礼する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自分の情報を隠す</pre>\n",
+			"option_html": "<pre>自分の情報を隠す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>相手に質問しない</pre>\n",
+			"option_html": "<pre>相手に質問しない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>無表情で接する</pre>\n",
+			"option_html": "<pre>無表情で接する</pre>\n"
+		}
+	]
+}

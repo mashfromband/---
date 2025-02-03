@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ステークホルダーエンゲージメント評価マトリクス</pre>\n",
+			"option_html": "<pre>ステークホルダーエンゲージメント評価マトリクス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ステークホルダーマップ</pre>\n",
+			"option_html": "<pre>ステークホルダーマップ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パワー・インタレストグリッド</pre>\n",
+			"option_html": "<pre>パワー・インタレストグリッド</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>リスク分析表</pre>\n",
+			"option_html": "<pre>リスク分析表</pre>\n"
+		}
+	]
+}

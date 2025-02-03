@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"実践・応用"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>72px × 72px</pre>\n",
+			"option_html": "<pre>72px × 72px</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>512px × 512px</pre>\n",
+			"option_html": "<pre>512px × 512px</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>192px × 192px</pre>\n",
+			"option_html": "<pre>192px × 192px</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>300px × 300px</pre>\n",
+			"option_html": "<pre>300px × 300px</pre>\n"
+		}
+	]
+}

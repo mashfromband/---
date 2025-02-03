@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Speed（速度）</pre>\n",
+			"option_html": "<pre>Speed（速度）</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Safe（安全）</pre>\n",
+			"option_html": "<pre>Safe（安全）</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Secure（セキュア）</pre>\n",
+			"option_html": "<pre>Secure（セキュア）</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Service（サービス）</pre>\n",
+			"option_html": "<pre>Service（サービス）</pre>\n"
+		}
+	]
+}

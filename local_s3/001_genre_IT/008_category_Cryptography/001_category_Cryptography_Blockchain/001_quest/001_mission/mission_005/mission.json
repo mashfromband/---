@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィッシング攻撃</pre>\n",
+			"option_html": "<pre>フィッシング攻撃</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>51%攻撃</pre>\n",
+			"option_html": "<pre>51%攻撃</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>マルウェア攻撃</pre>\n",
+			"option_html": "<pre>マルウェア攻撃</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ソフトフォーク</pre>\n",
+			"option_html": "<pre>ソフトフォーク</pre>\n"
+		}
+	]
+}

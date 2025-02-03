@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"選択・マスキング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ペンツール」を使用する</pre>\n",
+			"option_html": "<pre>「ペンツール」を使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「選択ツール」を使って形状を変更する</pre>\n",
+			"option_html": "<pre>「選択ツール」を使って形状を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「自由選択ツール」を使う</pre>\n",
+			"option_html": "<pre>「自由選択ツール」を使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「パスツール」を使う</pre>\n",
+			"option_html": "<pre>「パスツール」を使う</pre>\n"
+		}
+	]
+}

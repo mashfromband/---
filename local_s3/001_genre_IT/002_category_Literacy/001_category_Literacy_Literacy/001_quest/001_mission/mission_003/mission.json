@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ストラテジ",
+		"経営戦略",
+		"ビジネス経営"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アライランス　\n",
+			"option_html": "<p>アライランス　</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "M&A\n",
+			"option_html": "<p>M&amp;A</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "コアコンピタンス\n",
+			"option_html": "<p>コアコンピタンス</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アウトソーシング\n",
+			"option_html": "<p>アウトソーシング</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>DALL·E 2</pre>\n",
+			"option_html": "<pre>DALL·E 2</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Vrew</pre>\n",
+			"option_html": "<pre>Vrew</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Midjourney</pre>\n",
+			"option_html": "<pre>Midjourney</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Creative Drive</pre>\n",
+			"option_html": "<pre>Creative Drive</pre>\n"
+		}
+	]
+}

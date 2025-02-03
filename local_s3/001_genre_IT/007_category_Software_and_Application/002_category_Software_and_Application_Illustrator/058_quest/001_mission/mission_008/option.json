@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > RGBを選択して色を変更する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; RGBを選択して色を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルでRGB色を選択する</pre>\n",
+			"option_html": "<pre>スウォッチパネルでRGB色を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>カラーパネルでRGBモードを選んで色を変更する</pre>\n",
+			"option_html": "<pre>カラーパネルでRGBモードを選んで色を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルでRGBを設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでRGBを設定する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ベルギー\n",
+			"option_html": "<p>ベルギー</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "フィンランド\n",
+			"option_html": "<p>フィンランド</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "スウェーデン\n",
+			"option_html": "<p>スウェーデン</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "カザフスタン\n",
+			"option_html": "<p>カザフスタン</p>\n"
+		}
+	]
+}

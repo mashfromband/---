@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>MINUTE</pre>\n",
+			"option_html": "<pre>MINUTE</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>NOW</pre>\n",
+			"option_html": "<pre>NOW</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>HOUR</pre>\n",
+			"option_html": "<pre>HOUR</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>TIME</pre>\n",
+			"option_html": "<pre>TIME</pre>\n"
+		}
+	]
+}

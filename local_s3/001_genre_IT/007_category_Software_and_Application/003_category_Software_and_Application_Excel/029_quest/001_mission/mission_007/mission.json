@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"グラフ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラフ内で各データ系列を識別するためのラベル</pre>\n",
+			"option_html": "<pre>グラフ内で各データ系列を識別するためのラベル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラフのタイトル</pre>\n",
+			"option_html": "<pre>グラフのタイトル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラフのデータ軸</pre>\n",
+			"option_html": "<pre>グラフのデータ軸</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グラフの背景色</pre>\n",
+			"option_html": "<pre>グラフの背景色</pre>\n"
+		}
+	]
+}

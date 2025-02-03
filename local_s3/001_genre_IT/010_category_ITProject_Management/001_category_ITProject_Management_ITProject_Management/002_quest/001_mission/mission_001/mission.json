@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>要件定義、実行、品質管理、評価</pre>\n",
+			"option_html": "<pre>要件定義、実行、品質管理、評価</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>計画、立ち上げ、評価、終了</pre>\n",
+			"option_html": "<pre>計画、立ち上げ、評価、終了</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>立ち上げ、計画、実行、終了</pre>\n",
+			"option_html": "<pre>立ち上げ、計画、実行、終了</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>準備、計画、実行、報告</pre>\n",
+			"option_html": "<pre>準備、計画、実行、報告</pre>\n"
+		}
+	]
+}

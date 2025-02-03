@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラデーションの色変化が不自然な場合</pre>\n",
+			"option_html": "<pre>グラデーションの色変化が不自然な場合</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択範囲を保存したい場合</pre>\n",
+			"option_html": "<pre>選択範囲を保存したい場合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像をトリミングしたい場合</pre>\n",
+			"option_html": "<pre>画像をトリミングしたい場合</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シャドウ部分を明るくしたい場合</pre>\n",
+			"option_html": "<pre>シャドウ部分を明るくしたい場合</pre>\n"
+		}
+	]
+}

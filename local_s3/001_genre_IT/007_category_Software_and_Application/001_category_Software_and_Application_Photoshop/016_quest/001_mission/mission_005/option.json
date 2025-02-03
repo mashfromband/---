@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像全体をモノクロ化するため</pre>\n",
+			"option_html": "<pre>画像全体をモノクロ化するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択範囲を非表示にするため</pre>\n",
+			"option_html": "<pre>選択範囲を非表示にするため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを削除するため</pre>\n",
+			"option_html": "<pre>レイヤーを削除するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像を複数の部分に分割して個別に保存するため</pre>\n",
+			"option_html": "<pre>画像を複数の部分に分割して個別に保存するため</pre>\n"
+		}
+	]
+}

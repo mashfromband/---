@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>低コストで国際取引を行うことができる</pre>\n",
+			"option_html": "<pre>低コストで国際取引を行うことができる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨を使うと政府から補助金が得られる</pre>\n",
+			"option_html": "<pre>仮想通貨を使うと政府から補助金が得られる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>取引に一切の税金が課されなくなる</pre>\n",
+			"option_html": "<pre>取引に一切の税金が課されなくなる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨を持っている顧客のみにサービスを提供できる</pre>\n",
+			"option_html": "<pre>仮想通貨を持っている顧客のみにサービスを提供できる</pre>\n"
+		}
+	]
+}

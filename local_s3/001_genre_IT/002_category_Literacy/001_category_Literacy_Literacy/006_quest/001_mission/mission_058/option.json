@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "VPN\n",
+			"option_html": "<p>VPN</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "PINコード\n",
+			"option_html": "<p>PINコード</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "セキュリティトークン\n",
+			"option_html": "<p>セキュリティトークン</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "秘密の質問\n",
+			"option_html": "<p>秘密の質問</p>\n"
+		}
+	]
+}

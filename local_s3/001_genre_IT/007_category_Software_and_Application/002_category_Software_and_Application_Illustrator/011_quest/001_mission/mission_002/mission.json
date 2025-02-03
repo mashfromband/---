@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アートボードツールを使用する</pre>\n",
+			"option_html": "<pre>アートボードツールを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>各アートボードを個別に編集する</pre>\n",
+			"option_html": "<pre>各アートボードを個別に編集する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>必要な部分だけコピーして調整する</pre>\n",
+			"option_html": "<pre>必要な部分だけコピーして調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>全体を目視で整える</pre>\n",
+			"option_html": "<pre>全体を目視で整える</pre>\n"
+		}
+	]
+}

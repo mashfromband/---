@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>JavaScriptを使用して開発する</pre>\n",
+			"option_html": "<pre>JavaScriptを使用して開発する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネイティブのUIコンポーネントをそのまま使用する</pre>\n",
+			"option_html": "<pre>ネイティブのUIコンポーネントをそのまま使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Googleが提供するクロスプラットフォームフレームワークである</pre>\n",
+			"option_html": "<pre>Googleが提供するクロスプラットフォームフレームワークである</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>iOS専用アプリのみを開発できる</pre>\n",
+			"option_html": "<pre>iOS専用アプリのみを開発できる</pre>\n"
+		}
+	]
+}

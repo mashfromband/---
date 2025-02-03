@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ウィンドウ」メニューの「ワークスペース」から「新規ワークスペース」を選択する</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「ワークスペース」から「新規ワークスペース」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パネル右上の「保存」ボタンをクリックする</pre>\n",
+			"option_html": "<pre>パネル右上の「保存」ボタンをクリックする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Photoshop終了時に自動で保存される</pre>\n",
+			"option_html": "<pre>Photoshop終了時に自動で保存される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ワークスペースは保存できない</pre>\n",
+			"option_html": "<pre>ワークスペースは保存できない</pre>\n"
+		}
+	]
+}

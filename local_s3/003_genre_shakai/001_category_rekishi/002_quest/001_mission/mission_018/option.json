@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "真済\n",
+			"option_html": "<p>真済</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "空海\n",
+			"option_html": "<p>空海</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "真雅\n",
+			"option_html": "<p>真雅</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "杲隣\n",
+			"option_html": "<p>杲隣</p>\n"
+		}
+	]
+}

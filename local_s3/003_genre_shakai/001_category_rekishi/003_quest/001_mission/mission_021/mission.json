@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "紀貫之\n",
+			"option_html": "<p>紀貫之</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "在原業平\n",
+			"option_html": "<p>在原業平</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "山部赤人\n",
+			"option_html": "<p>山部赤人</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "大伴家持\n",
+			"option_html": "<p>大伴家持</p>\n"
+		}
+	]
+}

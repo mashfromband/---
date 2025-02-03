@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"カラー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルで色を変更する</pre>\n",
+			"option_html": "<pre>レイヤーパネルで色を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルで一括変更を選択する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで一括変更を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 配置 > 色変更を選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 色変更を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>カラーパネルで塗りと線の色を変更する</pre>\n",
+			"option_html": "<pre>カラーパネルで塗りと線の色を変更する</pre>\n"
+		}
+	]
+}

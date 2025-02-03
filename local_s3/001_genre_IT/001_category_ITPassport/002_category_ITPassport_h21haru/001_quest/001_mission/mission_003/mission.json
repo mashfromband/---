@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ストラテジ系",
+		"システム企画",
+		"調達計画・実施"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "情報システム部門からCIOに提示する。\n",
+			"option_html": "<p>情報システム部門からCIOに提示する。</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "情報システム部門からベンダーに提示する。\n",
+			"option_html": "<p>情報システム部門からベンダーに提示する。</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "情報システム部門から利用部門に提示する。\n",
+			"option_html": "<p>情報システム部門から利用部門に提示する。</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ベンダーからCIOに提示する。\n",
+			"option_html": "<p>ベンダーからCIOに提示する。</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"データ整理・管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>SUM関数</pre>\n",
+			"option_html": "<pre>SUM関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>参照関数（例：=A1）</pre>\n",
+			"option_html": "<pre>参照関数（例：=A1）</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>IF関数</pre>\n",
+			"option_html": "<pre>IF関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>CONCATENATE関数</pre>\n",
+			"option_html": "<pre>CONCATENATE関数</pre>\n"
+		}
+	]
+}

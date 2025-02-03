@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「高品質印刷」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「高品質印刷」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PDF保存時に「Web用に最適化」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「Web用に最適化」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>PDF保存時に「画像圧縮」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「画像圧縮」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>PDF保存時に「小さいファイルサイズ」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「小さいファイルサイズ」を選択</pre>\n"
+		}
+	]
+}

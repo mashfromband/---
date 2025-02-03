@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "北インド\n",
+			"option_html": "<p>北インド</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "南インド\n",
+			"option_html": "<p>南インド</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "東インド\n",
+			"option_html": "<p>東インド</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "西インド\n",
+			"option_html": "<p>西インド</p>\n"
+		}
+	]
+}

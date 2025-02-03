@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字の不透明度が低すぎる</pre>\n",
+			"option_html": "<pre>文字の不透明度が低すぎる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>使用フォントがインストールされていない</pre>\n",
+			"option_html": "<pre>使用フォントがインストールされていない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フォントサイズが小さすぎる</pre>\n",
+			"option_html": "<pre>フォントサイズが小さすぎる</pre>\n"
+		}
+	]
+}

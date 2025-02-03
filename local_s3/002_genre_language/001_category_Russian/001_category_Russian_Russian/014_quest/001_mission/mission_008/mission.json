@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"文法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ロシア語の母音は全部で10個ある</pre>\n",
+			"option_html": "<pre>ロシア語の母音は全部で10個ある</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ロシア語の母音には硬母音字がある</pre>\n",
+			"option_html": "<pre>ロシア語の母音には硬母音字がある</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ロシア語の母音には軟母音字がある</pre>\n",
+			"option_html": "<pre>ロシア語の母音には軟母音字がある</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ロシア語の母音はすべて日本語の母音と同じ発音である</pre>\n",
+			"option_html": "<pre>ロシア語の母音はすべて日本語の母音と同じ発音である</pre>\n"
+		}
+	]
+}

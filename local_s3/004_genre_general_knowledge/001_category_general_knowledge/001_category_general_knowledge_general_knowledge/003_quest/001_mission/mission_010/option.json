@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>業務に合ったデザインと機能性</pre>\n",
+			"option_html": "<pre>業務に合ったデザインと機能性</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>流行を優先する</pre>\n",
+			"option_html": "<pre>流行を優先する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>動きやすさを無視する</pre>\n",
+			"option_html": "<pre>動きやすさを無視する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>華美な装飾があるもの</pre>\n",
+			"option_html": "<pre>華美な装飾があるもの</pre>\n"
+		}
+	]
+}

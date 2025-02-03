@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>伺って参ります</pre>\n",
+			"option_html": "<pre>伺って参ります</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>聞いております　</pre>\n",
+			"option_html": "<pre>聞いております　</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>聞きに行ってきます</pre>\n",
+			"option_html": "<pre>聞きに行ってきます</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>聞いて参ります</pre>\n",
+			"option_html": "<pre>聞いて参ります</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "教師無し学習\n",
+			"option_html": "<p>教師無し学習</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "強化学習\n",
+			"option_html": "<p>強化学習</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "教師あり学習\n",
+			"option_html": "<p>教師あり学習</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ニューラルネットワーク\n",
+			"option_html": "<p>ニューラルネットワーク</p>\n"
+		}
+	]
+}

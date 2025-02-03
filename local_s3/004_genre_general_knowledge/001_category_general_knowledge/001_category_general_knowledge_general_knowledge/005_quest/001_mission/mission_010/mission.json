@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ビジネスマナー",
+		"上座下座（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>先に自分がチェックインを済ませる</pre>\n",
+			"option_html": "<pre>先に自分がチェックインを済ませる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>お客様や上司を先にチェックインさせる</pre>\n",
+			"option_html": "<pre>お客様や上司を先にチェックインさせる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>チェックインは同時に行う</pre>\n",
+			"option_html": "<pre>チェックインは同時に行う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分がまとめてチェックインする</pre>\n",
+			"option_html": "<pre>自分がまとめてチェックインする</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤーパネル」の「不透明度」を調整する</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」の「不透明度」を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」の「透明度」オプションを使う</pre>\n",
+			"option_html": "<pre>「文字ツール」の「透明度」オプションを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「フィルター」メニューで透明度を変更する</pre>\n",
+			"option_html": "<pre>「フィルター」メニューで透明度を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤースタイル」から「不透明度」を調整する</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」から「不透明度」を調整する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>マスクするオブジェクトが上にあること</pre>\n",
+			"option_html": "<pre>マスクするオブジェクトが上にあること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>マスクするオブジェクトが下にあること</pre>\n",
+			"option_html": "<pre>マスクするオブジェクトが下にあること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>使用するオブジェクトが線のみで構成されていること</pre>\n",
+			"option_html": "<pre>使用するオブジェクトが線のみで構成されていること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>使用するオブジェクトがグループ化されていること</pre>\n",
+			"option_html": "<pre>使用するオブジェクトがグループ化されていること</pre>\n"
+		}
+	]
+}

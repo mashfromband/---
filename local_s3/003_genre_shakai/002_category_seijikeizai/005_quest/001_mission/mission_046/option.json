@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "瓶\n",
+			"option_html": "<p>瓶</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "洗濯機\n",
+			"option_html": "<p>洗濯機</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "紙\n",
+			"option_html": "<p>紙</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プラスチック\n",
+			"option_html": "<p>プラスチック</p>\n"
+		}
+	]
+}

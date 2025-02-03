@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "セーヌ川\n",
+			"option_html": "<p>セーヌ川</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ドナウ川\n",
+			"option_html": "<p>ドナウ川</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ザール川\n",
+			"option_html": "<p>ザール川</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ライン川\n",
+			"option_html": "<p>ライン川</p>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ストラテジ系",
+		"経営戦略マネジメント",
+		"ビジネス戦略"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "見込み生産方式\n",
+			"option_html": "<p>見込み生産方式</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "セル生産方式\n",
+			"option_html": "<p>セル生産方式</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "受注生産方式\n",
+			"option_html": "<p>受注生産方式</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "JIT生産方式\n",
+			"option_html": "<p>JIT生産方式</p>\n"
+		}
+	]
+}

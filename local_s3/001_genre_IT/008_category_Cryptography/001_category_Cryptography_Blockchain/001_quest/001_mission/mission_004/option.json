@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ノード</pre>\n",
+			"option_html": "<pre>ノード</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トランザクション</pre>\n",
+			"option_html": "<pre>トランザクション</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートコントラクト</pre>\n",
+			"option_html": "<pre>スマートコントラクト</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハッシュ関数</pre>\n",
+			"option_html": "<pre>ハッシュ関数</pre>\n"
+		}
+	]
+}

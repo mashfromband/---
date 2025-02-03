@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>保有するトークンの量と保有期間</pre>\n",
+			"option_html": "<pre>保有するトークンの量と保有期間</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ノードの計算能力</pre>\n",
+			"option_html": "<pre>ノードの計算能力</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トランザクションの数</pre>\n",
+			"option_html": "<pre>トランザクションの数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブロックチェーンの年齢</pre>\n",
+			"option_html": "<pre>ブロックチェーンの年齢</pre>\n"
+		}
+	]
+}

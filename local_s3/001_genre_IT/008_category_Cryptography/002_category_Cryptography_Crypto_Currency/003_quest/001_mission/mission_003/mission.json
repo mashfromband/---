@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨を新しく発行するプロセス</pre>\n",
+			"option_html": "<pre>仮想通貨を新しく発行するプロセス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の取引記録</pre>\n",
+			"option_html": "<pre>仮想通貨の取引記録</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨の価格変動</pre>\n",
+			"option_html": "<pre>仮想通貨の価格変動</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨の保管場所</pre>\n",
+			"option_html": "<pre>仮想通貨の保管場所</pre>\n"
+		}
+	]
+}

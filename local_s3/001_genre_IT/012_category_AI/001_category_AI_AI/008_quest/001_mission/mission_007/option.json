@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>地図記号をゲーム形式で学習できるツールを使う</pre>\n",
+			"option_html": "<pre>地図記号をゲーム形式で学習できるツールを使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>地図帳を繰り返し見る</pre>\n",
+			"option_html": "<pre>地図帳を繰り返し見る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>地図記号をフラッシュカード形式にして覚える</pre>\n",
+			"option_html": "<pre>地図記号をフラッシュカード形式にして覚える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>地理の先生に地図記号を教わる</pre>\n",
+			"option_html": "<pre>地理の先生に地図記号を教わる</pre>\n"
+		}
+	]
+}

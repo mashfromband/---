@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>条件付き書式を設定する</pre>\n",
+			"option_html": "<pre>条件付き書式を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データタブの「フィルター」を設定する</pre>\n",
+			"option_html": "<pre>データタブの「フィルター」を設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ホームタブで「左揃え」ボタンをクリックする</pre>\n",
+			"option_html": "<pre>ホームタブで「左揃え」ボタンをクリックする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シート全体を選択して背景色を変更する</pre>\n",
+			"option_html": "<pre>シート全体を選択して背景色を変更する</pre>\n"
+		}
+	]
+}

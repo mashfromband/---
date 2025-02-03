@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Smooz</pre>\n",
+			"option_html": "<pre>Smooz</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>SciSpace</pre>\n",
+			"option_html": "<pre>SciSpace</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Opera</pre>\n",
+			"option_html": "<pre>Opera</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Safari</pre>\n",
+			"option_html": "<pre>Safari</pre>\n"
+		}
+	]
+}

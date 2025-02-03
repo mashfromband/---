@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 変形 > 回転 > -90°を設定</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; 回転 &gt; -90°を設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>回転ツールでAltキーを押しながら -90°を設定</pre>\n",
+			"option_html": "<pre>回転ツールでAltキーを押しながら -90°を設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートガイドを有効にして回転</pre>\n",
+			"option_html": "<pre>スマートガイドを有効にして回転</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シアーツールで角度を設定</pre>\n",
+			"option_html": "<pre>シアーツールで角度を設定</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>寄付金の使途を匿名化して公開しない</pre>\n",
+			"option_html": "<pre>寄付金の使途を匿名化して公開しない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>寄付金の受け取りから利用履歴までをブロックチェーンに記録する</pre>\n",
+			"option_html": "<pre>寄付金の受け取りから利用履歴までをブロックチェーンに記録する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>寄付金の送金プロセスを中央管理者が管理する</pre>\n",
+			"option_html": "<pre>寄付金の送金プロセスを中央管理者が管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>寄付金の分配情報を定期的に紙媒体で共有する</pre>\n",
+			"option_html": "<pre>寄付金の分配情報を定期的に紙媒体で共有する</pre>\n"
+		}
+	]
+}

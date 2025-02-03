@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ヒト\n",
+			"option_html": "<p>ヒト</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "モノ\n",
+			"option_html": "<p>モノ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "カネ\n",
+			"option_html": "<p>カネ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "情報\n",
+			"option_html": "<p>情報</p>\n"
+		}
+	]
+}

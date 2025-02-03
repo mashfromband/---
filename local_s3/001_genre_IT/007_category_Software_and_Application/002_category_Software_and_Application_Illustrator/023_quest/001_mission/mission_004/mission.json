@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ファイル」→「ドキュメントのカラーモード」で変更する</pre>\n",
+			"option_html": "<pre>「ファイル」→「ドキュメントのカラーモード」で変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーパネルで手動で調整する</pre>\n",
+			"option_html": "<pre>カラーパネルで手動で調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>必要に応じて色を再選択する</pre>\n",
+			"option_html": "<pre>必要に応じて色を再選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>新しいファイルを作成する</pre>\n",
+			"option_html": "<pre>新しいファイルを作成する</pre>\n"
+		}
+	]
+}

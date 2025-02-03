@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「3D」メニューから「テキスト」を選ぶ</pre>\n",
+			"option_html": "<pre>「3D」メニューから「テキスト」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤースタイル」の「ベベルとエンボス」を使用する</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「ベベルとエンボス」を使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「文字ツール」で「3Dオプション」を選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」で「3Dオプション」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「フィルター」メニューから「3D効果」を選ぶ</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「3D効果」を選ぶ</pre>\n"
+		}
+	]
+}

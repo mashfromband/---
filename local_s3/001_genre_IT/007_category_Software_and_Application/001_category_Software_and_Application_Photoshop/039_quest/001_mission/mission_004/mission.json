@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「編集」メニューの「環境設定」→「パフォーマンス」</pre>\n",
+			"option_html": "<pre>「編集」メニューの「環境設定」→「パフォーマンス」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ファイル」メニューの「ハードウェア設定」</pre>\n",
+			"option_html": "<pre>「ファイル」メニューの「ハードウェア設定」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ウィンドウ」メニューの「グラフィック設定」</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「グラフィック設定」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グラフィックカードは自動で使用され、設定は不要</pre>\n",
+			"option_html": "<pre>グラフィックカードは自動で使用され、設定は不要</pre>\n"
+		}
+	]
+}

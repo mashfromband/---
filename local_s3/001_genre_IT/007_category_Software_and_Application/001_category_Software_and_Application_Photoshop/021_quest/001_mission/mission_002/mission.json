@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シアンを増加させる</pre>\n",
+			"option_html": "<pre>シアンを増加させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シアンを減少させる</pre>\n",
+			"option_html": "<pre>シアンを減少させる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>マゼンタを減少させる</pre>\n",
+			"option_html": "<pre>マゼンタを減少させる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>イエローを減少させる</pre>\n",
+			"option_html": "<pre>イエローを減少させる</pre>\n"
+		}
+	]
+}

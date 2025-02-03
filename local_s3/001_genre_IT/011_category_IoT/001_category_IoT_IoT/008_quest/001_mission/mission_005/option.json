@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>配送ルートをセンサーを使用して最適化する</pre>\n",
+			"option_html": "<pre>配送ルートをセンサーを使用して最適化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トラックの運行を手動で管理する</pre>\n",
+			"option_html": "<pre>トラックの運行を手動で管理する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>配送時の通信を完全に停止する</pre>\n",
+			"option_html": "<pre>配送時の通信を完全に停止する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>すべてのトラックのデータを削除する</pre>\n",
+			"option_html": "<pre>すべてのトラックのデータを削除する</pre>\n"
+		}
+	]
+}

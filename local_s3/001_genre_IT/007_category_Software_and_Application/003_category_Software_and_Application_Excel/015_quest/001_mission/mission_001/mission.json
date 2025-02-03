@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"データ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>MEDIAN</pre>\n",
+			"option_html": "<pre>MEDIAN</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>SUM</pre>\n",
+			"option_html": "<pre>SUM</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>MAX</pre>\n",
+			"option_html": "<pre>MAX</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>COUNTIF</pre>\n",
+			"option_html": "<pre>COUNTIF</pre>\n"
+		}
+	]
+}

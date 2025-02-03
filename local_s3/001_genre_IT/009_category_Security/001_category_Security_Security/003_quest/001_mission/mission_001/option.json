@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーの本人確認を行う</pre>\n",
+			"option_html": "<pre>ユーザーの本人確認を行う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザーがアクセス可能なデータ範囲を確認する</pre>\n",
+			"option_html": "<pre>ユーザーがアクセス可能なデータ範囲を確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>システムの動作状況を確認する</pre>\n",
+			"option_html": "<pre>システムの動作状況を確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データの暗号化を行う</pre>\n",
+			"option_html": "<pre>データの暗号化を行う</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > スナップ</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; スナップ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>表示 > グリッドにスナップ</pre>\n",
+			"option_html": "<pre>表示 &gt; グリッドにスナップ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グリッドパネル > スナップ</pre>\n",
+			"option_html": "<pre>グリッドパネル &gt; スナップ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネル > スナップ</pre>\n",
+			"option_html": "<pre>レイヤーパネル &gt; スナップ</pre>\n"
+		}
+	]
+}

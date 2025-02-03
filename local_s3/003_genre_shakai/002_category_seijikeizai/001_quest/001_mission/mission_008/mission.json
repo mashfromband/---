@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "議員投票\n",
+			"option_html": "<p>議員投票</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "国民投票\n",
+			"option_html": "<p>国民投票</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "党内投票\n",
+			"option_html": "<p>党内投票</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "政府投票\n",
+			"option_html": "<p>政府投票</p>\n"
+		}
+	]
+}

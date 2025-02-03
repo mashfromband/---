@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データをリアルタイムで暗号化するため</pre>\n",
+			"option_html": "<pre>データをリアルタイムで暗号化するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>物理的なストレージを購入する必要がないため</pre>\n",
+			"option_html": "<pre>物理的なストレージを購入する必要がないため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データセンターの物理的なセキュリティを強化するため</pre>\n",
+			"option_html": "<pre>データセンターの物理的なセキュリティを強化するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>バックアップデータを自動的に削除するため</pre>\n",
+			"option_html": "<pre>バックアップデータを自動的に削除するため</pre>\n"
+		}
+	]
+}

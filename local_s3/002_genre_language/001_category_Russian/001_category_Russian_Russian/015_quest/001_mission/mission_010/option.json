@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>товарищ</pre>\n",
+			"option_html": "<pre>товарищ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>бабушка</pre>\n",
+			"option_html": "<pre>бабушка</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>училище</pre>\n",
+			"option_html": "<pre>училище</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>герой</pre>\n",
+			"option_html": "<pre>герой</pre>\n"
+		}
+	]
+}

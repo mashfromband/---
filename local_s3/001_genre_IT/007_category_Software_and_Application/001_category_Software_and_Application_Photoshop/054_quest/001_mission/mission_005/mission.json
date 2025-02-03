@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フィルターを非破壊的に適用できる</pre>\n",
+			"option_html": "<pre>フィルターを非破壊的に適用できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを分割できる</pre>\n",
+			"option_html": "<pre>レイヤーを分割できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像を自動でトリミングできる</pre>\n",
+			"option_html": "<pre>画像を自動でトリミングできる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>カラーモードを変更できる</pre>\n",
+			"option_html": "<pre>カラーモードを変更できる</pre>\n"
+		}
+	]
+}

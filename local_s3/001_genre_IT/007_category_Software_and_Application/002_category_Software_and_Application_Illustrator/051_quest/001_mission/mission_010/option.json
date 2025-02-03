@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > スタイライズ > 反射</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; 反射</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > 3D > 反射</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; 反射</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > 反射</pre>\n",
+			"option_html": "<pre>フィルター &gt; 反射</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > パス > 反射</pre>\n",
+			"option_html": "<pre>効果 &gt; パス &gt; 反射</pre>\n"
+		}
+	]
+}

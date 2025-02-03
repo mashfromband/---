@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラフ作成ボタン</pre>\n",
+			"option_html": "<pre>グラフ作成ボタン</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>罫線ボタン</pre>\n",
+			"option_html": "<pre>罫線ボタン</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルターボタン</pre>\n",
+			"option_html": "<pre>フィルターボタン</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ソートボタン</pre>\n",
+			"option_html": "<pre>ソートボタン</pre>\n"
+		}
+	]
+}

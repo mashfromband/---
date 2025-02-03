@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ガイドライン</pre>\n",
+			"option_html": "<pre>ガイドライン</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クイック選択ツール</pre>\n",
+			"option_html": "<pre>クイック選択ツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーマスク</pre>\n",
+			"option_html": "<pre>レイヤーマスク</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ぼかしツール</pre>\n",
+			"option_html": "<pre>ぼかしツール</pre>\n"
+		}
+	]
+}

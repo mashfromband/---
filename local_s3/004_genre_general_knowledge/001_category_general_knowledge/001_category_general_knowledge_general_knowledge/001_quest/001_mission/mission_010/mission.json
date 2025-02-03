@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ビジネスマナー",
+		"挨拶・姿勢態度（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>黙って手を上げる</pre>\n",
+			"option_html": "<pre>黙って手を上げる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>笑顔で「はい」と返事する</pre>\n",
+			"option_html": "<pre>笑顔で「はい」と返事する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>うなずくだけ</pre>\n",
+			"option_html": "<pre>うなずくだけ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>静かに待つ</pre>\n",
+			"option_html": "<pre>静かに待つ</pre>\n"
+		}
+	]
+}

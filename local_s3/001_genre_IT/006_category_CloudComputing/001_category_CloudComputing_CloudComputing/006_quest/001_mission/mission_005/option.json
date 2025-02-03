@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想マシンのOS管理とリソース配分を行う</pre>\n",
+			"option_html": "<pre>仮想マシンのOS管理とリソース配分を行う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>コンテナのデプロイやスケーリング、管理を自動化する</pre>\n",
+			"option_html": "<pre>コンテナのデプロイやスケーリング、管理を自動化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの暗号化とセキュリティ管理を提供する</pre>\n",
+			"option_html": "<pre>データの暗号化とセキュリティ管理を提供する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワーク機器の設定と保守を自動化する</pre>\n",
+			"option_html": "<pre>ネットワーク機器の設定と保守を自動化する</pre>\n"
+		}
+	]
+}

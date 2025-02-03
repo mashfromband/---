@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > 変形 > 水平反転</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; 水平反転</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルでリフレクションを適用する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでリフレクションを適用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文字ツールで反転を設定する</pre>\n",
+			"option_html": "<pre>文字ツールで反転を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 3D > 反転を設定する</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; 反転を設定する</pre>\n"
+		}
+	]
+}

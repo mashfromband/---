@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Color Sync</pre>\n",
+			"option_html": "<pre>Color Sync</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Creative Suite</pre>\n",
+			"option_html": "<pre>Creative Suite</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Cloud Software</pre>\n",
+			"option_html": "<pre>Cloud Software</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Creative System</pre>\n",
+			"option_html": "<pre>Creative System</pre>\n"
+		}
+	]
+}

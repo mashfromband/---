@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>部門とプロジェクトの二重構造</pre>\n",
+			"option_html": "<pre>部門とプロジェクトの二重構造</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>階層が一つだけ</pre>\n",
+			"option_html": "<pre>階層が一つだけ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>特定の部署だけが力を持つ</pre>\n",
+			"option_html": "<pre>特定の部署だけが力を持つ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトごとに解散する</pre>\n",
+			"option_html": "<pre>プロジェクトごとに解散する</pre>\n"
+		}
+	]
+}

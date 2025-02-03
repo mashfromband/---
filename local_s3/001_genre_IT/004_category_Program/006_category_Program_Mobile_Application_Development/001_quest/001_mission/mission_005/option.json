@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリのリリース手続き</pre>\n",
+			"option_html": "<pre>アプリのリリース手続き</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ターゲットユーザーの特定</pre>\n",
+			"option_html": "<pre>ターゲットユーザーの特定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プログラムのコーディング</pre>\n",
+			"option_html": "<pre>プログラムのコーディング</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバッグ作業</pre>\n",
+			"option_html": "<pre>デバッグ作業</pre>\n"
+		}
+	]
+}

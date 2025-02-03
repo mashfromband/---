@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>黙って放置する</pre>\n",
+			"option_html": "<pre>黙って放置する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>上司に事前に相談する</pre>\n",
+			"option_html": "<pre>上司に事前に相談する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自分だけで何とかする</pre>\n",
+			"option_html": "<pre>自分だけで何とかする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>提出期限を無視する</pre>\n",
+			"option_html": "<pre>提出期限を無視する</pre>\n"
+		}
+	]
+}

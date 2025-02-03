@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトをAlt + ドラッグし、Ctrl + Dで繰り返し複製</pre>\n",
+			"option_html": "<pre>オブジェクトをAlt + ドラッグし、Ctrl + Dで繰り返し複製</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 複製 > 繰り返し配置</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 複製 &gt; 繰り返し配置</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>表示 > グリッド > 配置を繰り返す</pre>\n",
+			"option_html": "<pre>表示 &gt; グリッド &gt; 配置を繰り返す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスファインダー > 繰り返し配置</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 繰り返し配置</pre>\n"
+		}
+	]
+}

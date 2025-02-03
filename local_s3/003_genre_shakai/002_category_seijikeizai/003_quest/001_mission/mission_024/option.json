@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "首相\n",
+			"option_html": "<p>首相</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "天皇\n",
+			"option_html": "<p>天皇</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "議長\n",
+			"option_html": "<p>議長</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "大統領\n",
+			"option_html": "<p>大統領</p>\n"
+		}
+	]
+}

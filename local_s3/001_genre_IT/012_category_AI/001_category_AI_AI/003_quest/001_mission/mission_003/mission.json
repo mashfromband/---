@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Google Chrome</pre>\n",
+			"option_html": "<pre>Google Chrome</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Microsoft Edge</pre>\n",
+			"option_html": "<pre>Microsoft Edge</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Internet Explorer 11</pre>\n",
+			"option_html": "<pre>Internet Explorer 11</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Elicit</pre>\n",
+			"option_html": "<pre>Elicit</pre>\n"
+		}
+	]
+}

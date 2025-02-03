@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Bluetoothは短距離通信、Wi-Fiは広範囲の通信に対応している</pre>\n",
+			"option_html": "<pre>Bluetoothは短距離通信、Wi-Fiは広範囲の通信に対応している</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Bluetoothは高速通信が可能であり、大容量データに特化している</pre>\n",
+			"option_html": "<pre>Bluetoothは高速通信が可能であり、大容量データに特化している</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Wi-Fiは低電力で動作し、Bluetoothは高消費電力である</pre>\n",
+			"option_html": "<pre>Wi-Fiは低電力で動作し、Bluetoothは高消費電力である</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Wi-Fiはセンサー情報を取得し、Bluetoothはデータ解析を行う</pre>\n",
+			"option_html": "<pre>Wi-Fiはセンサー情報を取得し、Bluetoothはデータ解析を行う</pre>\n"
+		}
+	]
+}

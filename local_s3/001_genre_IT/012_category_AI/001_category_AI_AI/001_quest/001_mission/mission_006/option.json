@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ハルシネーションカウント</pre>\n",
+			"option_html": "<pre>ハルシネーションカウント</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファクトチェック</pre>\n",
+			"option_html": "<pre>ファクトチェック</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>英語でのプログラミング</pre>\n",
+			"option_html": "<pre>英語でのプログラミング</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロンプトの生成</pre>\n",
+			"option_html": "<pre>プロンプトの生成</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データとシステム</pre>\n",
+			"option_html": "<pre>データとシステム</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>脅威と脆弱性</pre>\n",
+			"option_html": "<pre>脅威と脆弱性</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サーバーとネットワーク</pre>\n",
+			"option_html": "<pre>サーバーとネットワーク</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号化通信とパスワード</pre>\n",
+			"option_html": "<pre>暗号化通信とパスワード</pre>\n"
+		}
+	]
+}

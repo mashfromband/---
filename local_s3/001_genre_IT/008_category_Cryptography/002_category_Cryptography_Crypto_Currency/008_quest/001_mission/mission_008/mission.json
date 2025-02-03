@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全ての取引を匿名化する</pre>\n",
+			"option_html": "<pre>全ての取引を匿名化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>物流や取引履歴をブロックチェーン上で透明化する</pre>\n",
+			"option_html": "<pre>物流や取引履歴をブロックチェーン上で透明化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>各ステークホルダーが仮想通貨で取引を強制される</pre>\n",
+			"option_html": "<pre>各ステークホルダーが仮想通貨で取引を強制される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サプライチェーン全体のコストを完全に無料化する</pre>\n",
+			"option_html": "<pre>サプライチェーン全体のコストを完全に無料化する</pre>\n"
+		}
+	]
+}

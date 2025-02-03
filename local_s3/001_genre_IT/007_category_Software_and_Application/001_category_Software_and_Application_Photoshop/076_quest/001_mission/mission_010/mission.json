@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"実践・応用"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>修復ブラシツール</pre>\n",
+			"option_html": "<pre>修復ブラシツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スライスツール</pre>\n",
+			"option_html": "<pre>スライスツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ぼかしツール</pre>\n",
+			"option_html": "<pre>ぼかしツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスツール</pre>\n",
+			"option_html": "<pre>パスツール</pre>\n"
+		}
+	]
+}

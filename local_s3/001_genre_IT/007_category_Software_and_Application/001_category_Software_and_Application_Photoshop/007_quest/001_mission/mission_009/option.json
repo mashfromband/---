@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーの一部を隠したり表示したりする</pre>\n",
+			"option_html": "<pre>レイヤーの一部を隠したり表示したりする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを複製する</pre>\n",
+			"option_html": "<pre>レイヤーを複製する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーを非表示にする</pre>\n"
+		}
+	]
+}

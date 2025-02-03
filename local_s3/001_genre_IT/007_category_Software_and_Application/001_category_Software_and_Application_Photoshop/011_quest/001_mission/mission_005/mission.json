@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラデーション部分のバンディングを防ぐ</pre>\n",
+			"option_html": "<pre>グラデーション部分のバンディングを防ぐ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>明るさを調整する</pre>\n",
+			"option_html": "<pre>明るさを調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度を調整する</pre>\n",
+			"option_html": "<pre>彩度を調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲を保存する</pre>\n",
+			"option_html": "<pre>選択範囲を保存する</pre>\n"
+		}
+	]
+}

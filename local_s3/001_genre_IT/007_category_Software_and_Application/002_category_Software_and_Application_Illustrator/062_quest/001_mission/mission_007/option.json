@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>回転ツールをダブルクリックして角度を設定する</pre>\n",
+			"option_html": "<pre>回転ツールをダブルクリックして角度を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>回転ツールを使用してドラッグする</pre>\n",
+			"option_html": "<pre>回転ツールを使用してドラッグする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 変形 > 回転を選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; 回転を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>以上すべて</pre>\n",
+			"option_html": "<pre>以上すべて</pre>\n"
+		}
+	]
+}

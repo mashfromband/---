@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"テクノロジ系",
+		"情報デザイン",
+		"インタフェース設計"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "営業成績の良い担当者の取引先がある都道府県\n",
+			"option_html": "<p>営業成績の良い担当者の取引先がある都道府県</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "会社数が最も多い東京都\n",
+			"option_html": "<p>会社数が最も多い東京都</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "五十音順で先頭となる茨城県\n",
+			"option_html": "<p>五十音順で先頭となる茨城県</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "前画面で入力した都道府県\n",
+			"option_html": "<p>前画面で入力した都道府県</p>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"マネジメント系",
+		"システム開発技術",
+		"システム開発技術"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "契約前の作業着手の指示\n",
+			"option_html": "<p>契約前の作業着手の指示</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "作業者名簿の提出の要求\n",
+			"option_html": "<p>作業者名簿の提出の要求</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "作業場所や使用するコンピュータの手配\n",
+			"option_html": "<p>作業場所や使用するコンピュータの手配</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "成果物一覧や納期の提示\n",
+			"option_html": "<p>成果物一覧や納期の提示</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "スマトラ島\n",
+			"option_html": "<p>スマトラ島</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ジャワ島\n",
+			"option_html": "<p>ジャワ島</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ボルネオ島\n",
+			"option_html": "<p>ボルネオ島</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "スラウェシ島\n",
+			"option_html": "<p>スラウェシ島</p>\n"
+		}
+	]
+}

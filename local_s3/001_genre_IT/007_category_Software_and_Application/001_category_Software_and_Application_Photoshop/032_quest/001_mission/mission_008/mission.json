@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像の赤色部分が消える</pre>\n",
+			"option_html": "<pre>画像の赤色部分が消える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像全体が明るくなる</pre>\n",
+			"option_html": "<pre>画像全体が明るくなる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像に赤みが増える</pre>\n",
+			"option_html": "<pre>画像に赤みが増える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーがモノクロになる</pre>\n",
+			"option_html": "<pre>レイヤーがモノクロになる</pre>\n"
+		}
+	]
+}

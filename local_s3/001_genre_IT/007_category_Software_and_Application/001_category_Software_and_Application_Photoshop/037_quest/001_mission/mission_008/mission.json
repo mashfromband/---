@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイルをJPEG形式で保存してしまった</pre>\n",
+			"option_html": "<pre>ファイルをJPEG形式で保存してしまった</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「別名で保存」でファイル名を間違えた</pre>\n",
+			"option_html": "<pre>「別名で保存」でファイル名を間違えた</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「保存の最適化」を使用した</pre>\n",
+			"option_html": "<pre>「保存の最適化」を使用した</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤーを統合」のオプションを選択した</pre>\n",
+			"option_html": "<pre>「レイヤーを統合」のオプションを選択した</pre>\n"
+		}
+	]
+}

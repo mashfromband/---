@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスワードを短くする</pre>\n",
+			"option_html": "<pre>パスワードを短くする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>簡単な単語を繰り返し使用する</pre>\n",
+			"option_html": "<pre>簡単な単語を繰り返し使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザー名と同じパスワードを使用する</pre>\n",
+			"option_html": "<pre>ユーザー名と同じパスワードを使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>英字、数字、記号を組み合わせる</pre>\n",
+			"option_html": "<pre>英字、数字、記号を組み合わせる</pre>\n"
+		}
+	]
+}

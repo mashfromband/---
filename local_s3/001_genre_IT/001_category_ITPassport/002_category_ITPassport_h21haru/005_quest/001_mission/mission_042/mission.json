@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"マネジメント系",
+		"システム開発技術",
+		"システム開発技術"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "運用テスト\n",
+			"option_html": "<p>運用テスト</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "結合テスト\n",
+			"option_html": "<p>結合テスト</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ブラックボックステスト\n",
+			"option_html": "<p>ブラックボックステスト</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ホワイトボックステスト\n",
+			"option_html": "<p>ホワイトボックステスト</p>\n"
+		}
+	]
+}

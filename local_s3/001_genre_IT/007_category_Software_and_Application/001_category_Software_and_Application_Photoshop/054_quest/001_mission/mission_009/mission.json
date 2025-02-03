@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを永久に削除できる</pre>\n",
+			"option_html": "<pre>レイヤーを永久に削除できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを非破壊的に部分的に表示または非表示にできる</pre>\n",
+			"option_html": "<pre>レイヤーを非破壊的に部分的に表示または非表示にできる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーの透明度を固定する</pre>\n",
+			"option_html": "<pre>レイヤーの透明度を固定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの順序を変更する</pre>\n",
+			"option_html": "<pre>レイヤーの順序を変更する</pre>\n"
+		}
+	]
+}

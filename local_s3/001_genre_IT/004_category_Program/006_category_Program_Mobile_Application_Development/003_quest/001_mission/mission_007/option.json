@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>完全にネイティブ専用の開発を行う</pre>\n",
+			"option_html": "<pre>完全にネイティブ専用の開発を行う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Microsoftが提供するクロスプラットフォーム開発ツールである</pre>\n",
+			"option_html": "<pre>Microsoftが提供するクロスプラットフォーム開発ツールである</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>JavaScriptのみを使用してアプリを開発できる</pre>\n",
+			"option_html": "<pre>JavaScriptのみを使用してアプリを開発できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Android専用のアプリしか開発できない</pre>\n",
+			"option_html": "<pre>Android専用のアプリしか開発できない</pre>\n"
+		}
+	]
+}

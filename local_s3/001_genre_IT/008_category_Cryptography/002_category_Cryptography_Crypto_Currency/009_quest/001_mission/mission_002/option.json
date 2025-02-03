@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>秘密鍵を公開することで透明性を確保する</pre>\n",
+			"option_html": "<pre>秘密鍵を公開することで透明性を確保する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>全ての仮想通貨をオンラインウォレットに保存する</pre>\n",
+			"option_html": "<pre>全ての仮想通貨をオンラインウォレットに保存する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>二段階認証やコールドウォレットを活用する</pre>\n",
+			"option_html": "<pre>二段階認証やコールドウォレットを活用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引所にパスワードを保存させる</pre>\n",
+			"option_html": "<pre>取引所にパスワードを保存させる</pre>\n"
+		}
+	]
+}

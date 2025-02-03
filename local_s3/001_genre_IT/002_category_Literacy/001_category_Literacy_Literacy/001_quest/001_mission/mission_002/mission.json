@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ",
+		"通信技術",
+		"ネットワーク"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ファイアウォール\n",
+			"option_html": "<p>ファイアウォール</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "プロキシサーバー\n",
+			"option_html": "<p>プロキシサーバー</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "DNS\n",
+			"option_html": "<p>DNS</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ルーター\n",
+			"option_html": "<p>ルーター</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>テキストの可読性を確保する</pre>\n",
+			"option_html": "<pre>テキストの可読性を確保する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色を派手にしすぎないようにする</pre>\n",
+			"option_html": "<pre>色を派手にしすぎないようにする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フォントの種類を頻繁に変更しないようにする</pre>\n",
+			"option_html": "<pre>フォントの種類を頻繁に変更しないようにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>行間を広げすぎないようにする</pre>\n",
+			"option_html": "<pre>行間を広げすぎないようにする</pre>\n"
+		}
+	]
+}

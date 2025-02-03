@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > 書き出し > 書き出し形式</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; 書き出し形式</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > エクスポート > 書き出し形式を選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; 書き出し形式を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > エクスポート > アートボードをエクスポート</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; アートボードをエクスポート</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > エクスポート > 複数アートボード</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; 複数アートボード</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>DNSサーバーを定期的に再起動する</pre>\n",
+			"option_html": "<pre>DNSサーバーを定期的に再起動する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>DNSSEC（DNSセキュリティ拡張）を利用する</pre>\n",
+			"option_html": "<pre>DNSSEC（DNSセキュリティ拡張）を利用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク上のすべての通信を記録する</pre>\n",
+			"option_html": "<pre>ネットワーク上のすべての通信を記録する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスワードを複雑に設定する</pre>\n",
+			"option_html": "<pre>パスワードを複雑に設定する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ストラテジ系",
+		"ビジネス戦略",
+		"ビジネス用語"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ステークホルダ\n",
+			"option_html": "<p>ステークホルダ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "スケーラビリティ\n",
+			"option_html": "<p>スケーラビリティ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ITリテラシー\n",
+			"option_html": "<p>ITリテラシー</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "信頼性\n",
+			"option_html": "<p>信頼性</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Webブラウザを通じて利用する</pre>\n",
+			"option_html": "<pre>Webブラウザを通じて利用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>iOSやAndroid専用のプラットフォームで動作する</pre>\n",
+			"option_html": "<pre>iOSやAndroid専用のプラットフォームで動作する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>複数のプラットフォームで同じコードを使用する</pre>\n",
+			"option_html": "<pre>複数のプラットフォームで同じコードを使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>インターネット接続が必須である</pre>\n",
+			"option_html": "<pre>インターネット接続が必須である</pre>\n"
+		}
+	]
+}

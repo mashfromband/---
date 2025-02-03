@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>数式を入力している</pre>\n",
+			"option_html": "<pre>数式を入力している</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Excelのバージョンが古すぎる</pre>\n",
+			"option_html": "<pre>Excelのバージョンが古すぎる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シート保護が有効になっている</pre>\n",
+			"option_html": "<pre>シート保護が有効になっている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>背景色を変更している</pre>\n",
+			"option_html": "<pre>背景色を変更している</pre>\n"
+		}
+	]
+}

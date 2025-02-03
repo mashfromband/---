@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>挨拶をせずに帰る</pre>\n",
+			"option_html": "<pre>挨拶をせずに帰る</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>上司に一声かける</pre>\n",
+			"option_html": "<pre>上司に一声かける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>勝手に書類を持ち帰る</pre>\n",
+			"option_html": "<pre>勝手に書類を持ち帰る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>残業を黙ってする</pre>\n",
+			"option_html": "<pre>残業を黙ってする</pre>\n"
+		}
+	]
+}

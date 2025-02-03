@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラデーションエディターで右側の色を設定する</pre>\n",
+			"option_html": "<pre>グラデーションエディターで右側の色を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションエディターで左側の色を設定する</pre>\n",
+			"option_html": "<pre>グラデーションエディターで左側の色を設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションエディターで中央部分の色を設定する</pre>\n",
+			"option_html": "<pre>グラデーションエディターで中央部分の色を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>彩度スライダーを右に動かす</pre>\n",
+			"option_html": "<pre>彩度スライダーを右に動かす</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "DVD-RAM\n",
+			"option_html": "<p>DVD-RAM</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "DRAM\n",
+			"option_html": "<p>DRAM</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ROM\n",
+			"option_html": "<p>ROM</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "フラッシュメモリ\n",
+			"option_html": "<p>フラッシュメモリ</p>\n"
+		}
+	]
+}

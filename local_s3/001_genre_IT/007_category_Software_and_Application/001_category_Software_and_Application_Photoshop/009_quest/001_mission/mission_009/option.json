@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>明度範囲</pre>\n",
+			"option_html": "<pre>明度範囲</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーチャンネル</pre>\n",
+			"option_html": "<pre>カラーチャンネル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>不透明度</pre>\n",
+			"option_html": "<pre>不透明度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲</pre>\n",
+			"option_html": "<pre>選択範囲</pre>\n"
+		}
+	]
+}

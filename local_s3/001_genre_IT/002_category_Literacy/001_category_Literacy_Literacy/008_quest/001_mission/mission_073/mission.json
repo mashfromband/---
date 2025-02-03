@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ストラテジ",
+		"経営戦略",
+		"ビジネス経営"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "SWOT分析\n",
+			"option_html": "<p>SWOT分析</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ニッチ戦略\n",
+			"option_html": "<p>ニッチ戦略</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ブルーオーシャン戦略\n",
+			"option_html": "<p>ブルーオーシャン戦略</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "PPM\n",
+			"option_html": "<p>PPM</p>\n"
+		}
+	]
+}

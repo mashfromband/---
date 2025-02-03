@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーの不透明度が低すぎる</pre>\n",
+			"option_html": "<pre>レイヤーの不透明度が低すぎる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>エフェクトの不透明度が低すぎる</pre>\n",
+			"option_html": "<pre>エフェクトの不透明度が低すぎる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ドロップシャドウの角度が不適切である</pre>\n",
+			"option_html": "<pre>ドロップシャドウの角度が不適切である</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シャドウの距離がゼロに設定されている</pre>\n",
+			"option_html": "<pre>シャドウの距離がゼロに設定されている</pre>\n"
+		}
+	]
+}

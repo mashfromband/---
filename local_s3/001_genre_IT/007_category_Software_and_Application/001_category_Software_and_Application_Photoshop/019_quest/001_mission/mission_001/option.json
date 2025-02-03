@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ぼかし（ガウス）</pre>\n",
+			"option_html": "<pre>ぼかし（ガウス）</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ポスタリゼーション</pre>\n",
+			"option_html": "<pre>ポスタリゼーション</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レンズ補正</pre>\n",
+			"option_html": "<pre>レンズ補正</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シャープ（アンシャープマスク）</pre>\n",
+			"option_html": "<pre>シャープ（アンシャープマスク）</pre>\n"
+		}
+	]
+}

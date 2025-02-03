@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>最終的な製品としてリリースする</pre>\n",
+			"option_html": "<pre>最終的な製品としてリリースする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリのコードを最適化する</pre>\n",
+			"option_html": "<pre>アプリのコードを最適化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリの基本的な動作やデザインを視覚化し、確認する</pre>\n",
+			"option_html": "<pre>アプリの基本的な動作やデザインを視覚化し、確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>テストケースを実行する</pre>\n",
+			"option_html": "<pre>テストケースを実行する</pre>\n"
+		}
+	]
+}

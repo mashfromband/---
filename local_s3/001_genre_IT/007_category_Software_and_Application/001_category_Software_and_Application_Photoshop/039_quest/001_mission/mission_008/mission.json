@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スマートオブジェクトに変換する</pre>\n",
+			"option_html": "<pre>スマートオブジェクトに変換する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ツールの適用範囲を広げる</pre>\n",
+			"option_html": "<pre>ツールの適用範囲を広げる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>移動先の選択範囲を調整する</pre>\n",
+			"option_html": "<pre>移動先の選択範囲を調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>塗りつぶしモードを変更する</pre>\n",
+			"option_html": "<pre>塗りつぶしモードを変更する</pre>\n"
+		}
+	]
+}

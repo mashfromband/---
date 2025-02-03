@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ドライバソフトウェア\n",
+			"option_html": "<p>ドライバソフトウェア</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ファームウェア\n",
+			"option_html": "<p>ファームウェア</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "オペレーティングシステム\n",
+			"option_html": "<p>オペレーティングシステム</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アンチウイルスソフトウェア\n",
+			"option_html": "<p>アンチウイルスソフトウェア</p>\n"
+		}
+	]
+}

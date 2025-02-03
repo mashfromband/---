@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"選択・マスキング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「選択範囲」メニューから「改良エッジ」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「改良エッジ」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「フィルター」メニューから「ぼかし」を選ぶ</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「ぼかし」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤーパネル」から「境界線調整」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から「境界線調整」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「選択範囲」メニューから「羽」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「羽」を選ぶ</pre>\n"
+		}
+	]
+}

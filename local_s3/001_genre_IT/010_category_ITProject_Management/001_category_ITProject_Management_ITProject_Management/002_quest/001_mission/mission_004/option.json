@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトの計画を実際に進める</pre>\n",
+			"option_html": "<pre>プロジェクトの計画を実際に進める</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトの目的を定義する</pre>\n",
+			"option_html": "<pre>プロジェクトの目的を定義する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトのリスクを特定する</pre>\n",
+			"option_html": "<pre>プロジェクトのリスクを特定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの成果物を評価する</pre>\n",
+			"option_html": "<pre>プロジェクトの成果物を評価する</pre>\n"
+		}
+	]
+}

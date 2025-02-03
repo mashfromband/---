@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ストラテジ系",
+		"IT用語"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ディジタルディバイド\n",
+			"option_html": "<p>ディジタルディバイド</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "オープンイノベーション\n",
+			"option_html": "<p>オープンイノベーション</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "KPI\n",
+			"option_html": "<p>KPI</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ディジタルトランスフォーメーション\n",
+			"option_html": "<p>ディジタルトランスフォーメーション</p>\n"
+		}
+	]
+}

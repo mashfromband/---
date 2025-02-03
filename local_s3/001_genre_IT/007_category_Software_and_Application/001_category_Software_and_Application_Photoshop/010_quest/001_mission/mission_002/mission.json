@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択範囲が広がる</pre>\n",
+			"option_html": "<pre>選択範囲が広がる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択範囲が狭まる</pre>\n",
+			"option_html": "<pre>選択範囲が狭まる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度が減少する</pre>\n",
+			"option_html": "<pre>彩度が減少する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>明るさが増加する</pre>\n",
+			"option_html": "<pre>明るさが増加する</pre>\n"
+		}
+	]
+}

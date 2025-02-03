@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ビジネスマナー",
+		"服装・身だしなみ（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>控えめなデザインのもの</pre>\n",
+			"option_html": "<pre>控えめなデザインのもの</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>大ぶりで派手なもの</pre>\n",
+			"option_html": "<pre>大ぶりで派手なもの</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>何も付けない</pre>\n",
+			"option_html": "<pre>何も付けない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>個性を主張する華やかなもの</pre>\n",
+			"option_html": "<pre>個性を主張する華やかなもの</pre>\n"
+		}
+	]
+}

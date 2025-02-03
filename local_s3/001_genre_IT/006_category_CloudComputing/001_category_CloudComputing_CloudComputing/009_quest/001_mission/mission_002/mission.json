@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>システムのパフォーマンスを最適化する</pre>\n",
+			"option_html": "<pre>システムのパフォーマンスを最適化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>システム障害時にデータとサービスを迅速に復旧する仕組みを提供する</pre>\n",
+			"option_html": "<pre>システム障害時にデータとサービスを迅速に復旧する仕組みを提供する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データセンター内の物理セキュリティを強化する</pre>\n",
+			"option_html": "<pre>データセンター内の物理セキュリティを強化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザー認証を強化するための仕組みを提供する</pre>\n",
+			"option_html": "<pre>ユーザー認証を強化するための仕組みを提供する</pre>\n"
+		}
+	]
+}

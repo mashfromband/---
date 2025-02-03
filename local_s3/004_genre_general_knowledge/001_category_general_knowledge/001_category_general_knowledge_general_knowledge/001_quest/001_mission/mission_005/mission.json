@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ビジネスマナー",
+		"挨拶・姿勢態度（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>約5度</pre>\n",
+			"option_html": "<pre>約5度</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>約15度</pre>\n",
+			"option_html": "<pre>約15度</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>約45度</pre>\n",
+			"option_html": "<pre>約45度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>約90度</pre>\n",
+			"option_html": "<pre>約90度</pre>\n"
+		}
+	]
+}

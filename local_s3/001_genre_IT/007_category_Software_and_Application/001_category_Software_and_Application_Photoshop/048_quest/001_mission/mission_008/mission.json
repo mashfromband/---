@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>テキストの描画モードが「通常」以外に設定されている</pre>\n",
+			"option_html": "<pre>テキストの描画モードが「通常」以外に設定されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フォントサイズが小さすぎる</pre>\n",
+			"option_html": "<pre>フォントサイズが小さすぎる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>使用しているフォントがインストールされていない</pre>\n",
+			"option_html": "<pre>使用しているフォントがインストールされていない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		}
+	]
+}

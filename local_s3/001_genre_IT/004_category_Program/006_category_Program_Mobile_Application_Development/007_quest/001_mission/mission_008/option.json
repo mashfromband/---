@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリのコードに記述された内部データ</pre>\n",
+			"option_html": "<pre>アプリのコードに記述された内部データ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリの画面デザインを表すデータ</pre>\n",
+			"option_html": "<pre>アプリの画面デザインを表すデータ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリ名や説明、アイコンなど、ストア上で表示される情報</pre>\n",
+			"option_html": "<pre>アプリ名や説明、アイコンなど、ストア上で表示される情報</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリの価格や配信地域を制御するデータ</pre>\n",
+			"option_html": "<pre>アプリの価格や配信地域を制御するデータ</pre>\n"
+		}
+	]
+}

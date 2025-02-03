@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ハーバマス\n",
+			"option_html": "<p>ハーバマス</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "マザー・テレサ\n",
+			"option_html": "<p>マザー・テレサ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ホルクハイマー\n",
+			"option_html": "<p>ホルクハイマー</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "シュヴァイツァー\n",
+			"option_html": "<p>シュヴァイツァー</p>\n"
+		}
+	]
+}

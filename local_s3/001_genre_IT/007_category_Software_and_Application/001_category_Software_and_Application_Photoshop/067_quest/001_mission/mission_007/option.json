@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤーパネル」から角度を調整する</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」から角度を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」で角度オプションを選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」で角度オプションを選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「自由変形」ツールを使用して角度を変更する</pre>\n",
+			"option_html": "<pre>「自由変形」ツールを使用して角度を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「フィルター」メニューから「角度変更」を選ぶ</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「角度変更」を選ぶ</pre>\n"
+		}
+	]
+}

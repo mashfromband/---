@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Microsoft</pre>\n",
+			"option_html": "<pre>Microsoft</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>IBM</pre>\n",
+			"option_html": "<pre>IBM</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Lotus Development</pre>\n",
+			"option_html": "<pre>Lotus Development</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Apple</pre>\n",
+			"option_html": "<pre>Apple</pre>\n"
+		}
+	]
+}

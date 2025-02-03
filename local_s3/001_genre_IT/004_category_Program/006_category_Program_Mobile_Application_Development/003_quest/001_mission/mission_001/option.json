@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プラットフォームごとに異なるコードを書ける</pre>\n",
+			"option_html": "<pre>プラットフォームごとに異なるコードを書ける</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>同じコードを使って複数のプラットフォームに対応できる</pre>\n",
+			"option_html": "<pre>同じコードを使って複数のプラットフォームに対応できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>各プラットフォーム専用の機能を最大限に活用できる</pre>\n",
+			"option_html": "<pre>各プラットフォーム専用の機能を最大限に活用できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリのサイズを必ず小さくできる</pre>\n",
+			"option_html": "<pre>アプリのサイズを必ず小さくできる</pre>\n"
+		}
+	]
+}

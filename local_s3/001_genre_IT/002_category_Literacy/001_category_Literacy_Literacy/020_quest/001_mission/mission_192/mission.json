@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"セキュリティ系",
+		"情報セキュリティ",
+		"セキュリティ対策"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "セキュリティソフトをインストールしない\n",
+			"option_html": "<p>セキュリティソフトをインストールしない</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "定期的にソフトウェアを更新する\n",
+			"option_html": "<p>定期的にソフトウェアを更新する</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "USBメモリを共有で使う\n",
+			"option_html": "<p>USBメモリを共有で使う</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ウイルス対策ソフトは一度インストールすれば更新しなくても良い\n",
+			"option_html": "<p>ウイルス対策ソフトは一度インストールすれば更新しなくても良い</p>\n"
+		}
+	]
+}

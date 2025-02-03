@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでドラッグ</pre>\n",
+			"option_html": "<pre>レイヤーパネルでドラッグ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを統合する</pre>\n",
+			"option_html": "<pre>レイヤーを統合する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>色調補正を使う</pre>\n",
+			"option_html": "<pre>色調補正を使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スライスツールを使う</pre>\n",
+			"option_html": "<pre>スライスツールを使う</pre>\n"
+		}
+	]
+}

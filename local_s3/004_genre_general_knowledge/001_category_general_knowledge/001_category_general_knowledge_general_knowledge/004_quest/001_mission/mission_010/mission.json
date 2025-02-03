@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ビジネスマナー",
+		"言葉遣い（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>すみません</pre>\n",
+			"option_html": "<pre>すみません</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>失礼しました</pre>\n",
+			"option_html": "<pre>失礼しました</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>申し訳ありません</pre>\n",
+			"option_html": "<pre>申し訳ありません</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>申し訳ございません</pre>\n",
+			"option_html": "<pre>申し訳ございません</pre>\n"
+		}
+	]
+}

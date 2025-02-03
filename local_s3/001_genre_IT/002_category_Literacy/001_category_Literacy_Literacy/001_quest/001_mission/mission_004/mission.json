@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"テクノロジ",
+		"通信技術",
+		"ネットワーク"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "NTP\n",
+			"option_html": "<p>NTP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "FTP\n",
+			"option_html": "<p>FTP</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "DNS\n",
+			"option_html": "<p>DNS</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "HTTP\n",
+			"option_html": "<p>HTTP</p>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"テクノロジ系",
+		"アルゴリズムとプログラミング",
+		"アルゴリズムとプログラミング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "{0，0，1，2，1}\n",
+			"option_html": "<p>{0，0，1，2，1}</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "{0，1，2，1，1}\n",
+			"option_html": "<p>{0，1，2，1，1}</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "{1，0，1，2，0}\n",
+			"option_html": "<p>{1，0，1，2，0}</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "{1，1，2，1，0}\n",
+			"option_html": "<p>{1，1，2，1，0}</p>\n"
+		}
+	]
+}

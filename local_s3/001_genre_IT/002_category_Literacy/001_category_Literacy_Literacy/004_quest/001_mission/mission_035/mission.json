@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"セキュリティ",
+		"セキュリティ攻撃"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ソーシャルエンジニアリング\n",
+			"option_html": "<p>ソーシャルエンジニアリング</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "フィッシング\n",
+			"option_html": "<p>フィッシング</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ショルダーハック\n",
+			"option_html": "<p>ショルダーハック</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "マルウェア感染\n",
+			"option_html": "<p>マルウェア感染</p>\n"
+		}
+	]
+}

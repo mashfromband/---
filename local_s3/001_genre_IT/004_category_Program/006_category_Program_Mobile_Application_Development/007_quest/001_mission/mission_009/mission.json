@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリが適切な年齢層や地域のユーザーに届けられるようにするため</pre>\n",
+			"option_html": "<pre>アプリが適切な年齢層や地域のユーザーに届けられるようにするため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリの価格を自動設定するため</pre>\n",
+			"option_html": "<pre>アプリの価格を自動設定するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリの動作をテストするため</pre>\n",
+			"option_html": "<pre>アプリの動作をテストするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アプリのバージョンを管理するため</pre>\n",
+			"option_html": "<pre>アプリのバージョンを管理するため</pre>\n"
+		}
+	]
+}

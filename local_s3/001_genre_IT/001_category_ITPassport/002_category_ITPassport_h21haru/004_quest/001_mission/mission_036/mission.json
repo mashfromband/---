@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"マネジメント系",
+		"プロジェクトマネジメント",
+		"プロジェクトマネジメント"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "結合テスト工程\n",
+			"option_html": "<p>結合テスト工程</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "コーディング作業\n",
+			"option_html": "<p>コーディング作業</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "企業倫理に基づき，ルール，マニュアル，チェックシステムなどを整設計レビュー開始日\n",
+			"option_html": "<p>企業倫理に基づき，ルール，マニュアル，チェックシステムなどを整設計レビュー開始日</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "保守作業\n",
+			"option_html": "<p>保守作業</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「その通りですね」と伝える</pre>\n",
+			"option_html": "<pre>「その通りですね」と伝える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>無言で頷くだけ</pre>\n",
+			"option_html": "<pre>無言で頷くだけ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>話を無視する</pre>\n",
+			"option_html": "<pre>話を無視する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>別の話題に移る</pre>\n",
+			"option_html": "<pre>別の話題に移る</pre>\n"
+		}
+	]
+}

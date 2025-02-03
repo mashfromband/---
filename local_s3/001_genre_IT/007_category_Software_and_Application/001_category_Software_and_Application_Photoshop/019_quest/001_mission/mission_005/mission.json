@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自然な彩度は過度な彩度の強調を抑え、彩度は全体を均等に調整する</pre>\n",
+			"option_html": "<pre>自然な彩度は過度な彩度の強調を抑え、彩度は全体を均等に調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自然な彩度は色相を変更し、彩度は明るさを変更する</pre>\n",
+			"option_html": "<pre>自然な彩度は色相を変更し、彩度は明るさを変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>両者は同じ機能を持つ</pre>\n",
+			"option_html": "<pre>両者は同じ機能を持つ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自然な彩度は選択範囲にのみ影響する</pre>\n",
+			"option_html": "<pre>自然な彩度は選択範囲にのみ影響する</pre>\n"
+		}
+	]
+}

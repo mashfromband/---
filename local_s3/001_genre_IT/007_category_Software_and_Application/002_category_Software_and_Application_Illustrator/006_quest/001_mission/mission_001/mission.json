@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトが自動で同じサイズに調整される</pre>\n",
+			"option_html": "<pre>オブジェクトが自動で同じサイズに調整される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクトがガイドやグリッドに吸着する</pre>\n",
+			"option_html": "<pre>オブジェクトがガイドやグリッドに吸着する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクトが透明になる</pre>\n",
+			"option_html": "<pre>オブジェクトが透明になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクトが自動で複製される</pre>\n",
+			"option_html": "<pre>オブジェクトが自動で複製される</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルの書式設定を使う</pre>\n",
+			"option_html": "<pre>セルの書式設定を使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター機能を使って変更する</pre>\n",
+			"option_html": "<pre>フィルター機能を使って変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コピー＆ペーストを使って一括変更</pre>\n",
+			"option_html": "<pre>コピー＆ペーストを使って一括変更</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ピボットテーブルを使う</pre>\n",
+			"option_html": "<pre>ピボットテーブルを使う</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データを中央のサーバーで一括管理する</pre>\n",
+			"option_html": "<pre>データを中央のサーバーで一括管理する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべての取引を手動で承認する</pre>\n",
+			"option_html": "<pre>すべての取引を手動で承認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データをネットワーク全体で共有・管理する</pre>\n",
+			"option_html": "<pre>データをネットワーク全体で共有・管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引を個別のデバイスに保存する</pre>\n",
+			"option_html": "<pre>取引を個別のデバイスに保存する</pre>\n"
+		}
+	]
+}

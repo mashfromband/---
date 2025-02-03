@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>AI</pre>\n",
+			"option_html": "<pre>AI</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>JPG</pre>\n",
+			"option_html": "<pre>JPG</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>SVG</pre>\n",
+			"option_html": "<pre>SVG</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>EPS</pre>\n",
+			"option_html": "<pre>EPS</pre>\n"
+		}
+	]
+}

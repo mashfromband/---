@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クレジットカードや銀行口座と連携して自動で家計簿を作成してくれるアプリを使う</pre>\n",
+			"option_html": "<pre>クレジットカードや銀行口座と連携して自動で家計簿を作成してくれるアプリを使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レシートをすべて保管しておき、月末にまとめて家計簿をつける</pre>\n",
+			"option_html": "<pre>レシートをすべて保管しておき、月末にまとめて家計簿をつける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>家計簿をつけるための専用ノートを購入する</pre>\n",
+			"option_html": "<pre>家計簿をつけるための専用ノートを購入する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>収入と支出を頭の中で計算して把握する</pre>\n",
+			"option_html": "<pre>収入と支出を頭の中で計算して把握する</pre>\n"
+		}
+	]
+}

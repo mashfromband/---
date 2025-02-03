@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>銀行が発行する</pre>\n",
+			"option_html": "<pre>銀行が発行する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザーがブロックチェーンをダウンロードする</pre>\n",
+			"option_html": "<pre>ユーザーがブロックチェーンをダウンロードする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コンピュータによるマイニング（採掘）</pre>\n",
+			"option_html": "<pre>コンピュータによるマイニング（採掘）</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>中央サーバーで一括発行する</pre>\n",
+			"option_html": "<pre>中央サーバーで一括発行する</pre>\n"
+		}
+	]
+}

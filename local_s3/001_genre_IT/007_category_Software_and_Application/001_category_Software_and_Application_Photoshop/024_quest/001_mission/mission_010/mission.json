@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>明るさを均等に調整する</pre>\n",
+			"option_html": "<pre>明るさを均等に調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度を均等に下げる</pre>\n",
+			"option_html": "<pre>彩度を均等に下げる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーション部分のバンディングを防ぐ</pre>\n",
+			"option_html": "<pre>グラデーション部分のバンディングを防ぐ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		}
+	]
+}

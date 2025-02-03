@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「文字ツール」でオプションバーのサイズを変更する</pre>\n",
+			"option_html": "<pre>「文字ツール」でオプションバーのサイズを変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤースタイル」からサイズを変更する</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」からサイズを変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「文字パネル」から「サイズ変更」を選ぶ</pre>\n",
+			"option_html": "<pre>「文字パネル」から「サイズ変更」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「移動ツール」を使って手動でサイズを調整する</pre>\n",
+			"option_html": "<pre>「移動ツール」を使って手動でサイズを調整する</pre>\n"
+		}
+	]
+}

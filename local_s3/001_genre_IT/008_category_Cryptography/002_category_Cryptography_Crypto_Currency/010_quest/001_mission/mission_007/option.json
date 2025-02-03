@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引が検証されるまでの待ち時間</pre>\n",
+			"option_html": "<pre>取引が検証されるまでの待ち時間</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>新しいブロックが生成されるまでの時間</pre>\n",
+			"option_html": "<pre>新しいブロックが生成されるまでの時間</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ブロックチェーンの停止期間</pre>\n",
+			"option_html": "<pre>ブロックチェーンの停止期間</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>トランザクションの承認後の待機時間</pre>\n",
+			"option_html": "<pre>トランザクションの承認後の待機時間</pre>\n"
+		}
+	]
+}

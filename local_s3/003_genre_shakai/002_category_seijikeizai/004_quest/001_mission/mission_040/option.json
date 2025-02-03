@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ハンブルクの壁\n",
+			"option_html": "<p>ハンブルクの壁</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ミュンヘンの壁\n",
+			"option_html": "<p>ミュンヘンの壁</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ベルリンの壁\n",
+			"option_html": "<p>ベルリンの壁</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ケルンの壁\n",
+			"option_html": "<p>ケルンの壁</p>\n"
+		}
+	]
+}

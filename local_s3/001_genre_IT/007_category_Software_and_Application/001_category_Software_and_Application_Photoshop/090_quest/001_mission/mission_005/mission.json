@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"実践・応用"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画面分割</pre>\n",
+			"option_html": "<pre>画面分割</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アートボード</pre>\n",
+			"option_html": "<pre>アートボード</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像解像度</pre>\n",
+			"option_html": "<pre>画像解像度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーマスク</pre>\n",
+			"option_html": "<pre>レイヤーマスク</pre>\n"
+		}
+	]
+}

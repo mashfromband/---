@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「Web用に保存」機能</pre>\n",
+			"option_html": "<pre>「Web用に保存」機能</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーバランス</pre>\n",
+			"option_html": "<pre>カラーバランス</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートオブジェクト</pre>\n",
+			"option_html": "<pre>スマートオブジェクト</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーマスク</pre>\n",
+			"option_html": "<pre>レイヤーマスク</pre>\n"
+		}
+	]
+}

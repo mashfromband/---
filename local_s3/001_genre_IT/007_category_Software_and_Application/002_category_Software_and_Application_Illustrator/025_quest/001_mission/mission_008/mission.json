@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > 表示 > 影を選択</pre>\n",
+			"option_html": "<pre>効果 &gt; 表示 &gt; 影を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > 3D > 影を設定</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; 影を設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > ストローク > 影を追加</pre>\n",
+			"option_html": "<pre>効果 &gt; ストローク &gt; 影を追加</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > ぼかし > 影を設定</pre>\n",
+			"option_html": "<pre>効果 &gt; ぼかし &gt; 影を設定</pre>\n"
+		}
+	]
+}

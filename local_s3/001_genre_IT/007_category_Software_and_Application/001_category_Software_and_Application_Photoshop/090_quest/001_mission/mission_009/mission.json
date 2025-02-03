@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「文字ツール」の「行間オプション」を使う</pre>\n",
+			"option_html": "<pre>「文字ツール」の「行間オプション」を使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「段落」パネルで行間を設定する</pre>\n",
+			"option_html": "<pre>「段落」パネルで行間を設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤースタイル」の「行間」を設定する</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」の「行間」を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「文字パネル」の「行間」を調整する</pre>\n",
+			"option_html": "<pre>「文字パネル」の「行間」を調整する</pre>\n"
+		}
+	]
+}

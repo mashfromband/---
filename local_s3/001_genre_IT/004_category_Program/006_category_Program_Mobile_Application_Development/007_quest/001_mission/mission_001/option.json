@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Apple Developer Programに登録する</pre>\n",
+			"option_html": "<pre>Apple Developer Programに登録する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>APKまたはAABファイルをアップロードする</pre>\n",
+			"option_html": "<pre>APKまたはAABファイルをアップロードする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ソースコードを直接提出する</pre>\n",
+			"option_html": "<pre>ソースコードを直接提出する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>実機テストを省略する</pre>\n",
+			"option_html": "<pre>実機テストを省略する</pre>\n"
+		}
+	]
+}

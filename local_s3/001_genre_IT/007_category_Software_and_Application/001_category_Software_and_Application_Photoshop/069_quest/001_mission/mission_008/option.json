@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「文字パネル」で「カーニング」を調整する</pre>\n",
+			"option_html": "<pre>「文字パネル」で「カーニング」を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤーパネル」の「カーニング」を使う</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」の「カーニング」を使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「文字ツール」の「カーニング」オプションを選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」の「カーニング」オプションを選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「段落」パネルから「カーニング」を調整する</pre>\n",
+			"option_html": "<pre>「段落」パネルから「カーニング」を調整する</pre>\n"
+		}
+	]
+}

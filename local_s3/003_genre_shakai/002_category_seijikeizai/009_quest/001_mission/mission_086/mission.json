@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ロック\n",
+			"option_html": "<p>ロック</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ルソー\n",
+			"option_html": "<p>ルソー</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ホッブズ\n",
+			"option_html": "<p>ホッブズ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ヴォルフ\n",
+			"option_html": "<p>ヴォルフ</p>\n"
+		}
+	]
+}

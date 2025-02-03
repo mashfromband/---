@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "劉炟\n",
+			"option_html": "<p>劉炟</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "劉荘\n",
+			"option_html": "<p>劉荘</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "劉肇\n",
+			"option_html": "<p>劉肇</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "劉秀\n",
+			"option_html": "<p>劉秀</p>\n"
+		}
+	]
+}

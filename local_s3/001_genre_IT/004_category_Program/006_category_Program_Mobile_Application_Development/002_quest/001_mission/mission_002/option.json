@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Swift</pre>\n",
+			"option_html": "<pre>Swift</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ruby</pre>\n",
+			"option_html": "<pre>Ruby</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Kotlin</pre>\n",
+			"option_html": "<pre>Kotlin</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>PHP</pre>\n",
+			"option_html": "<pre>PHP</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>COUNT</pre>\n",
+			"option_html": "<pre>COUNT</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>AVERAGE</pre>\n",
+			"option_html": "<pre>AVERAGE</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>IF</pre>\n",
+			"option_html": "<pre>IF</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>SUM</pre>\n",
+			"option_html": "<pre>SUM</pre>\n"
+		}
+	]
+}

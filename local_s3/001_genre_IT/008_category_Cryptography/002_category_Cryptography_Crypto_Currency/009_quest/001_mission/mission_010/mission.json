@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スマートコントラクトが物理的な署名を必要とすること</pre>\n",
+			"option_html": "<pre>スマートコントラクトが物理的な署名を必要とすること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プログラムのバグや脆弱性による不正利用のリスク</pre>\n",
+			"option_html": "<pre>プログラムのバグや脆弱性による不正利用のリスク</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートコントラクトの利用が特定の国で禁止されていること</pre>\n",
+			"option_html": "<pre>スマートコントラクトの利用が特定の国で禁止されていること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートコントラクトを使用すると手数料が増加すること</pre>\n",
+			"option_html": "<pre>スマートコントラクトを使用すると手数料が増加すること</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "前4世紀\n",
+			"option_html": "<p>前4世紀</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "前3世紀\n",
+			"option_html": "<p>前3世紀</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "前2世紀\n",
+			"option_html": "<p>前2世紀</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "前1世紀\n",
+			"option_html": "<p>前1世紀</p>\n"
+		}
+	]
+}

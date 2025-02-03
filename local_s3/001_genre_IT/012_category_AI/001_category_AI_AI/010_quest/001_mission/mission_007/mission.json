@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>睡眠の質を分析し、改善点を提案してくれるツールを使う</pre>\n",
+			"option_html": "<pre>睡眠の質を分析し、改善点を提案してくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>睡眠時間を増やす</pre>\n",
+			"option_html": "<pre>睡眠時間を増やす</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>寝る前にカフェインを摂らない</pre>\n",
+			"option_html": "<pre>寝る前にカフェインを摂らない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>昼休憩の時間に仮眠をとる</pre>\n",
+			"option_html": "<pre>昼休憩の時間に仮眠をとる</pre>\n"
+		}
+	]
+}

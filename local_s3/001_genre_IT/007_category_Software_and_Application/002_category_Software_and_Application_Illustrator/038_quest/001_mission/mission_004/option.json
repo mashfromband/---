@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでレイヤーを右クリックし「複製」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーを右クリックし「複製」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > レイヤー > 複製</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; レイヤー &gt; 複製</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルでAltを押しながらドラッグする</pre>\n",
+			"option_html": "<pre>レイヤーパネルでAltを押しながらドラッグする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで新規レイヤーを作成する</pre>\n",
+			"option_html": "<pre>レイヤーパネルで新規レイヤーを作成する</pre>\n"
+		}
+	]
+}

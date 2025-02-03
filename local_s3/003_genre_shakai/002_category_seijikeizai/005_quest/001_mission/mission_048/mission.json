@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "リコール\n",
+			"option_html": "<p>リコール</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アクティブ\n",
+			"option_html": "<p>アクティブ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "イニシアティブ\n",
+			"option_html": "<p>イニシアティブ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "レファレンダム\n",
+			"option_html": "<p>レファレンダム</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シンボルパネルを使用</pre>\n",
+			"option_html": "<pre>シンボルパネルを使用</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クリップボードでコピー・ペースト</pre>\n",
+			"option_html": "<pre>クリップボードでコピー・ペースト</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アートボードツールでファイルを開く</pre>\n",
+			"option_html": "<pre>アートボードツールでファイルを開く</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>書き出し機能を使う</pre>\n",
+			"option_html": "<pre>書き出し機能を使う</pre>\n"
+		}
+	]
+}

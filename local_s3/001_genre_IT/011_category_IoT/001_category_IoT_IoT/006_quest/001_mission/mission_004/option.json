@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シンプルなパスワードを共有する</pre>\n",
+			"option_html": "<pre>シンプルなパスワードを共有する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デバイス間の通信を無制限に行う</pre>\n",
+			"option_html": "<pre>デバイス間の通信を無制限に行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスごとに固有のIDと強力なパスワードを設定する</pre>\n",
+			"option_html": "<pre>デバイスごとに固有のIDと強力なパスワードを設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号化を使用しない通信を許可する</pre>\n",
+			"option_html": "<pre>暗号化を使用しない通信を許可する</pre>\n"
+		}
+	]
+}

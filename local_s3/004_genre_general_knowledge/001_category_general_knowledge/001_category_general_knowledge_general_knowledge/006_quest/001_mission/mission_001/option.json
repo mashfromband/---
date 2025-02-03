@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>大きな声で笑う</pre>\n",
+			"option_html": "<pre>大きな声で笑う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>笑顔で明るい挨拶をする</pre>\n",
+			"option_html": "<pre>笑顔で明るい挨拶をする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>相手の名前を忘れる</pre>\n",
+			"option_html": "<pre>相手の名前を忘れる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分の話だけをする</pre>\n",
+			"option_html": "<pre>自分の話だけをする</pre>\n"
+		}
+	]
+}

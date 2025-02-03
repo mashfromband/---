@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>編集 > カラープロファイル設定</pre>\n",
+			"option_html": "<pre>編集 &gt; カラープロファイル設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 設定 > カラープロファイル</pre>\n",
+			"option_html": "<pre>ファイル &gt; 設定 &gt; カラープロファイル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>編集 > カラー設定</pre>\n",
+			"option_html": "<pre>編集 &gt; カラー設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイアウト > カラー設定</pre>\n",
+			"option_html": "<pre>レイアウト &gt; カラー設定</pre>\n"
+		}
+	]
+}

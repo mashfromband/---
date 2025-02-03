@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>彩度を完全に無視するため</pre>\n",
+			"option_html": "<pre>彩度を完全に無視するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像全体を均一に調整するため</pre>\n",
+			"option_html": "<pre>画像全体を均一に調整するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自然な彩度補正を行うため</pre>\n",
+			"option_html": "<pre>自然な彩度補正を行うため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>明るさを上げるため</pre>\n",
+			"option_html": "<pre>明るさを上げるため</pre>\n"
+		}
+	]
+}

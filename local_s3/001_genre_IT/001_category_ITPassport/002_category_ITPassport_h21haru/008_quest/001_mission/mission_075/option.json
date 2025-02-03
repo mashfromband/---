@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "PCから送信するときはPOPが利用され, 受信するときはSMTPが利用される。\n",
+			"option_html": "<p>PCから送信するときはPOPが利用され, 受信するときはSMTPが利用される。</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "PCから送信するときはSMTPが利用され, 受信するときはPOPが利用される。\n",
+			"option_html": "<p>PCから送信するときはSMTPが利用され, 受信するときはPOPが利用される。</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "PCから送信するときも, 受信するときも, ともにPOPが利用される。\n",
+			"option_html": "<p>PCから送信するときも, 受信するときも, ともにPOPが利用される。</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "PCから送信するときも, 受信するときも, ともにSMTPが利用される。\n",
+			"option_html": "<p>PCから送信するときも, 受信するときも, ともにSMTPが利用される。</p>\n"
+		}
+	]
+}

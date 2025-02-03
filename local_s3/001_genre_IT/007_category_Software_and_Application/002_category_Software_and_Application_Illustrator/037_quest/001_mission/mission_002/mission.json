@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルを右クリックして「パネルリセット」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルを右クリックして「パネルリセット」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで「リセット」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「リセット」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで「デフォルト表示」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「デフォルト表示」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ウィンドウ > レイヤーを再表示する</pre>\n",
+			"option_html": "<pre>ウィンドウ &gt; レイヤーを再表示する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ストラテジ系",
+		"法務",
+		"セキュリティ関連法規"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "電子署名法\n",
+			"option_html": "<p>電子署名法</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "不正アクセス禁止法\n",
+			"option_html": "<p>不正アクセス禁止法</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "個人情報保護法\n",
+			"option_html": "<p>個人情報保護法</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プロバイダ責任制限法\n",
+			"option_html": "<p>プロバイダ責任制限法</p>\n"
+		}
+	]
+}

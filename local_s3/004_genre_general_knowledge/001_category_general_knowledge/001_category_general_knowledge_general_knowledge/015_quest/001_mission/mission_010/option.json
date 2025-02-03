@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>常に挑戦を恐れる</pre>\n",
+			"option_html": "<pre>常に挑戦を恐れる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>完璧を目指して動かない</pre>\n",
+			"option_html": "<pre>完璧を目指して動かない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>前向きな姿勢を持つ</pre>\n",
+			"option_html": "<pre>前向きな姿勢を持つ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他人の意見を無視する</pre>\n",
+			"option_html": "<pre>他人の意見を無視する</pre>\n"
+		}
+	]
+}

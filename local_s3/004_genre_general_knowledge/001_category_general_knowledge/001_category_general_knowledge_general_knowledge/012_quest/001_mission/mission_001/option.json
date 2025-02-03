@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>さん</pre>\n",
+			"option_html": "<pre>さん</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>様</pre>\n",
+			"option_html": "<pre>様</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>呼び捨て</pre>\n",
+			"option_html": "<pre>呼び捨て</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>敬称なし</pre>\n",
+			"option_html": "<pre>敬称なし</pre>\n"
+		}
+	]
+}

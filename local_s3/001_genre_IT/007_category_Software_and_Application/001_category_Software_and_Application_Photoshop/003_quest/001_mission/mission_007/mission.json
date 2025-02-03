@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーマスク</pre>\n",
+			"option_html": "<pre>レイヤーマスク</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーをリンクする</pre>\n",
+			"option_html": "<pre>レイヤーをリンクする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グループ化する</pre>\n",
+			"option_html": "<pre>グループ化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートオブジェクトに変換する</pre>\n",
+			"option_html": "<pre>スマートオブジェクトに変換する</pre>\n"
+		}
+	]
+}

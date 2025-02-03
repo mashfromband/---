@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「選択とマスク」を使用する</pre>\n",
+			"option_html": "<pre>「選択とマスク」を使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「自由選択ツール」で手動調整を行う</pre>\n",
+			"option_html": "<pre>「自由選択ツール」で手動調整を行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ペンツール」を使用する</pre>\n",
+			"option_html": "<pre>「ペンツール」を使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「移動ツール」で調整する</pre>\n",
+			"option_html": "<pre>「移動ツール」で調整する</pre>\n"
+		}
+	]
+}

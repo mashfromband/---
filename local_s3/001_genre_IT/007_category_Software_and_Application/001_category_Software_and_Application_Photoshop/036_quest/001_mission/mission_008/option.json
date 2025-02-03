@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「編集」メニューの「環境設定」→「ガイドとグリッド」で変更する</pre>\n",
+			"option_html": "<pre>「編集」メニューの「環境設定」→「ガイドとグリッド」で変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ガイドを選択して右クリックで色を選択する</pre>\n",
+			"option_html": "<pre>ガイドを選択して右クリックで色を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ウィンドウ」メニューの「ガイド設定」から変更する</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「ガイド設定」から変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ガイドの色は変更できない</pre>\n",
+			"option_html": "<pre>ガイドの色は変更できない</pre>\n"
+		}
+	]
+}

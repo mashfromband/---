@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラデーションの2色の間の比率を変更する</pre>\n",
+			"option_html": "<pre>グラデーションの2色の間の比率を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度が増加する</pre>\n",
+			"option_html": "<pre>彩度が増加する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>明るさが増加する</pre>\n",
+			"option_html": "<pre>明るさが増加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シャドウ部分が明るくなる</pre>\n",
+			"option_html": "<pre>シャドウ部分が明るくなる</pre>\n"
+		}
+	]
+}

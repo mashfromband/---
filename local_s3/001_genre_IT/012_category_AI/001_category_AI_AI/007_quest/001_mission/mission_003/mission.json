@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>AIライティングツールで、記事の構成や内容を提案してもらい、文章作成を支援してもらう</pre>\n",
+			"option_html": "<pre>AIライティングツールで、記事の構成や内容を提案してもらい、文章作成を支援してもらう</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>他の人のブログ記事を参考に、似たようなテーマで記事を書いてみる</pre>\n",
+			"option_html": "<pre>他の人のブログ記事を参考に、似たようなテーマで記事を書いてみる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文章作成の参考書を読んで、ライティングスキルを向上させる</pre>\n",
+			"option_html": "<pre>文章作成の参考書を読んで、ライティングスキルを向上させる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロのライターに依頼して、記事を作成してもらう</pre>\n",
+			"option_html": "<pre>プロのライターに依頼して、記事を作成してもらう</pre>\n"
+		}
+	]
+}

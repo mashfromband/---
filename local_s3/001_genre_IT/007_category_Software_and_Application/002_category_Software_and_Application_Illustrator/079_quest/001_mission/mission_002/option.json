@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 選択 > 選択解除</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 選択 &gt; 選択解除</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>選択 > 選択解除</pre>\n",
+			"option_html": "<pre>選択 &gt; 選択解除</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > すべてをロック解除</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; すべてをロック解除</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで「ロックを解除」</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「ロックを解除」</pre>\n"
+		}
+	]
+}

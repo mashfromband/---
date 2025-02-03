@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "オタワ条約\n",
+			"option_html": "<p>オタワ条約</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "トロント条約\n",
+			"option_html": "<p>トロント条約</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ケベック条約\n",
+			"option_html": "<p>ケベック条約</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "サレー条約\n",
+			"option_html": "<p>サレー条約</p>\n"
+		}
+	]
+}

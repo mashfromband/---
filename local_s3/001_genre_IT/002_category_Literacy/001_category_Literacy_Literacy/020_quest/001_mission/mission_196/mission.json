@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"セキュリティ系",
+		"情報セキュリティ",
+		"セキュリティ対策"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "不審なメールは開かない\n",
+			"option_html": "<p>不審なメールは開かない</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "不審なメールのリンクは積極的にクリックする\n",
+			"option_html": "<p>不審なメールのリンクは積極的にクリックする</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "どのサイトでも同じパスワードを使う\n",
+			"option_html": "<p>どのサイトでも同じパスワードを使う</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "パスワードは簡単なものに設定する\n",
+			"option_html": "<p>パスワードは簡単なものに設定する</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>移行プロセスが物理的なストレージに依存するため</pre>\n",
+			"option_html": "<pre>移行プロセスが物理的なストレージに依存するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウド間のデータ移行は手動でしか行えないため</pre>\n",
+			"option_html": "<pre>クラウド間のデータ移行は手動でしか行えないため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>異なるプロバイダー間でデータ形式や構造が一致しないことがあるため</pre>\n",
+			"option_html": "<pre>異なるプロバイダー間でデータ形式や構造が一致しないことがあるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データ移行中に必ず暗号化が解除されるため</pre>\n",
+			"option_html": "<pre>データ移行中に必ず暗号化が解除されるため</pre>\n"
+		}
+	]
+}

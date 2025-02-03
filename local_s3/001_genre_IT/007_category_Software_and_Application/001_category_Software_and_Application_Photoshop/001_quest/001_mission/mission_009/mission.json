@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ツールバー</pre>\n",
+			"option_html": "<pre>ツールバー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネル</pre>\n",
+			"option_html": "<pre>レイヤーパネル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルターメニュー</pre>\n",
+			"option_html": "<pre>フィルターメニュー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>イメージサイズ</pre>\n",
+			"option_html": "<pre>イメージサイズ</pre>\n"
+		}
+	]
+}

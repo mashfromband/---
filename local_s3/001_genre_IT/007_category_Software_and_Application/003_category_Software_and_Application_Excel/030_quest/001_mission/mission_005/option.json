@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルの右下のフィルハンドルをドラッグする</pre>\n",
+			"option_html": "<pre>セルの右下のフィルハンドルをドラッグする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Alt + F1を押す</pre>\n",
+			"option_html": "<pre>Alt + F1を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「データ」タブ→「外部データの取得」を選択</pre>\n",
+			"option_html": "<pre>「データ」タブ→「外部データの取得」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルをダブルクリックする</pre>\n",
+			"option_html": "<pre>セルをダブルクリックする</pre>\n"
+		}
+	]
+}

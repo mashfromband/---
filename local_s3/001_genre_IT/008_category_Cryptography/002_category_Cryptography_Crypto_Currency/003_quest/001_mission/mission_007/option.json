@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨の利用者を指す</pre>\n",
+			"option_html": "<pre>仮想通貨の利用者を指す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>取引データを保存し、検証する役割を持つ</pre>\n",
+			"option_html": "<pre>取引データを保存し、検証する役割を持つ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>価格を設定するシステム</pre>\n",
+			"option_html": "<pre>価格を設定するシステム</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨を送受信するアプリケーション</pre>\n",
+			"option_html": "<pre>仮想通貨を送受信するアプリケーション</pre>\n"
+		}
+	]
+}

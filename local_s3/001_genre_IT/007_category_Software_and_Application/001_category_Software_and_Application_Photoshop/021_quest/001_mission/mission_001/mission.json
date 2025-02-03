@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ピンク</pre>\n",
+			"option_html": "<pre>ピンク</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シアン</pre>\n",
+			"option_html": "<pre>シアン</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>マゼンタ</pre>\n",
+			"option_html": "<pre>マゼンタ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ニュートラル</pre>\n",
+			"option_html": "<pre>ニュートラル</pre>\n"
+		}
+	]
+}

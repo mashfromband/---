@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クリッピングマスクの作成</pre>\n",
+			"option_html": "<pre>クリッピングマスクの作成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーの結合</pre>\n",
+			"option_html": "<pre>レイヤーの結合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>新しいレイヤーを作成</pre>\n",
+			"option_html": "<pre>新しいレイヤーを作成</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーを非表示にする</pre>\n"
+		}
+	]
+}

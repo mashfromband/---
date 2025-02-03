@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>単語帳を繰り返し読む</pre>\n",
+			"option_html": "<pre>単語帳を繰り返し読む</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>英語のニュースやドラマを見る</pre>\n",
+			"option_html": "<pre>英語のニュースやドラマを見る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>単語の意味や例文を音声で読み上げてくれるツールを使う</pre>\n",
+			"option_html": "<pre>単語の意味や例文を音声で読み上げてくれるツールを使う</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>友達と一緒に単語を覚える</pre>\n",
+			"option_html": "<pre>友達と一緒に単語を覚える</pre>\n"
+		}
+	]
+}

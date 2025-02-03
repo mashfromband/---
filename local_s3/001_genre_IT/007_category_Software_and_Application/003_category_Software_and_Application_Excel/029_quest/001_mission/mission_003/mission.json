@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルを右クリックして「コピー」を選択する</pre>\n",
+			"option_html": "<pre>セルを右クリックして「コピー」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データタブで「並べ替え」を使用する</pre>\n",
+			"option_html": "<pre>データタブで「並べ替え」を使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ホームタブで「罫線」を設定する</pre>\n",
+			"option_html": "<pre>ホームタブで「罫線」を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>小数点以下を「減らす」ボタンを押す</pre>\n",
+			"option_html": "<pre>小数点以下を「減らす」ボタンを押す</pre>\n"
+		}
+	]
+}

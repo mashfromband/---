@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>すべてのリソースが固定的に管理されるため</pre>\n",
+			"option_html": "<pre>すべてのリソースが固定的に管理されるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>公共クラウドのリソースを必要に応じて利用できるため</pre>\n",
+			"option_html": "<pre>公共クラウドのリソースを必要に応じて利用できるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データをローカルのみで管理するため</pre>\n",
+			"option_html": "<pre>データをローカルのみで管理するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他のクラウドモデルと統合ができないため</pre>\n",
+			"option_html": "<pre>他のクラウドモデルと統合ができないため</pre>\n"
+		}
+	]
+}

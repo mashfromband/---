@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"グラフ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>[グラフツール]の[書式]タブから[系列の書式設定]を選び、設定を調整する</pre>\n",
+			"option_html": "<pre>[グラフツール]の[書式]タブから[系列の書式設定]を選び、設定を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>[挿入]タブから[グラフの修正]を選ぶ</pre>\n",
+			"option_html": "<pre>[挿入]タブから[グラフの修正]を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>[グラフ]を右クリックして[データ系列の削除]を選ぶ</pre>\n",
+			"option_html": "<pre>[グラフ]を右クリックして[データ系列の削除]を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>[グラフツール]の[デザイン]タブから[系列の追加]を選ぶ</pre>\n",
+			"option_html": "<pre>[グラフツール]の[デザイン]タブから[系列の追加]を選ぶ</pre>\n"
+		}
+	]
+}

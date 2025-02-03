@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スポーツイベントのチケット価格を下げる</pre>\n",
+			"option_html": "<pre>スポーツイベントのチケット価格を下げる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>限定版のデジタルグッズを提供し、ファンが所有権を証明できる</pre>\n",
+			"option_html": "<pre>限定版のデジタルグッズを提供し、ファンが所有権を証明できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選手の契約内容をファンと共有する</pre>\n",
+			"option_html": "<pre>選手の契約内容をファンと共有する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>試合結果を改ざんできない形で記録する</pre>\n",
+			"option_html": "<pre>試合結果を改ざんできない形で記録する</pre>\n"
+		}
+	]
+}

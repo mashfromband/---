@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > エクスポート > JPEGで圧縮設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; JPEGで圧縮設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>JPEG保存時に「圧縮率：中」を選択</pre>\n",
+			"option_html": "<pre>JPEG保存時に「圧縮率：中」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>書き出し時に「低解像度」を選択</pre>\n",
+			"option_html": "<pre>書き出し時に「低解像度」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 保存形式で圧縮を設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存形式で圧縮を設定</pre>\n"
+		}
+	]
+}

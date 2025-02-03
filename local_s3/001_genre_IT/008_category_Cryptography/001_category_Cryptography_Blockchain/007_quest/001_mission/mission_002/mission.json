@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>銀行を介さずに取引が行える</pre>\n",
+			"option_html": "<pre>銀行を介さずに取引が行える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべての取引を紙で記録する</pre>\n",
+			"option_html": "<pre>すべての取引を紙で記録する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トランザクション手数料が一定で高額になる</pre>\n",
+			"option_html": "<pre>トランザクション手数料が一定で高額になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特定の国の法律に依存して運用される</pre>\n",
+			"option_html": "<pre>特定の国の法律に依存して運用される</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像全体をモノクロ化する</pre>\n",
+			"option_html": "<pre>画像全体をモノクロ化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロフェッショナルなカラープロファイルを適用して色調を変更する</pre>\n",
+			"option_html": "<pre>プロフェッショナルなカラープロファイルを適用して色調を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲を保存する</pre>\n",
+			"option_html": "<pre>選択範囲を保存する</pre>\n"
+		}
+	]
+}

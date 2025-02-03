@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 色設定 > RGBを選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 色設定 &gt; RGBを選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルでRGB色を選択する</pre>\n",
+			"option_html": "<pre>スウォッチパネルでRGB色を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>カラーパネルでRGBモードを選択して色を入力する</pre>\n",
+			"option_html": "<pre>カラーパネルでRGBモードを選択して色を入力する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルでRGB値を直接入力する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでRGB値を直接入力する</pre>\n"
+		}
+	]
+}

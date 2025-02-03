@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アートボードツールで背景色を変更</pre>\n",
+			"option_html": "<pre>アートボードツールで背景色を変更</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>編集 > アートボード設定</pre>\n",
+			"option_html": "<pre>編集 &gt; アートボード設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > ドキュメント設定で背景を変更</pre>\n",
+			"option_html": "<pre>ファイル &gt; ドキュメント設定で背景を変更</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイアウト > 背景色設定</pre>\n",
+			"option_html": "<pre>レイアウト &gt; 背景色設定</pre>\n"
+		}
+	]
+}

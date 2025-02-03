@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>塗りツール</pre>\n",
+			"option_html": "<pre>塗りツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションツール</pre>\n",
+			"option_html": "<pre>グラデーションツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>カラーパネル</pre>\n",
+			"option_html": "<pre>カラーパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スウォッチパネル</pre>\n",
+			"option_html": "<pre>スウォッチパネル</pre>\n"
+		}
+	]
+}

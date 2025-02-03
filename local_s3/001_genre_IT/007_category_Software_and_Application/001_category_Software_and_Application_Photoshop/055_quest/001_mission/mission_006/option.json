@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイルサイズを縮小するため</pre>\n",
+			"option_html": "<pre>ファイルサイズを縮小するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>印刷や表示環境に合わせて色を調整するため</pre>\n",
+			"option_html": "<pre>印刷や表示環境に合わせて色を調整するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像の透明度を保つため</pre>\n",
+			"option_html": "<pre>画像の透明度を保つため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>解像度を向上させるため</pre>\n",
+			"option_html": "<pre>解像度を向上させるため</pre>\n"
+		}
+	]
+}

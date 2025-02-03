@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"コミュニケーション",
+		"伝える（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>相手の誤りをすぐ指摘する</pre>\n",
+			"option_html": "<pre>相手の誤りをすぐ指摘する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>一度相手の意見を受け入れ、誤解を丁寧に訂正する</pre>\n",
+			"option_html": "<pre>一度相手の意見を受け入れ、誤解を丁寧に訂正する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>話を切り上げて話題を変える</pre>\n",
+			"option_html": "<pre>話を切り上げて話題を変える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>相手が気づくまで指摘しない</pre>\n",
+			"option_html": "<pre>相手が気づくまで指摘しない</pre>\n"
+		}
+	]
+}

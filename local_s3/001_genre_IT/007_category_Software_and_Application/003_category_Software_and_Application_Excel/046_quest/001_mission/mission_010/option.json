@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>SUM、AVERAGE、COUNT</pre>\n",
+			"option_html": "<pre>SUM、AVERAGE、COUNT</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>UPPER、LOWER、PROPER</pre>\n",
+			"option_html": "<pre>UPPER、LOWER、PROPER</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>LEFT、RIGHT、MID</pre>\n",
+			"option_html": "<pre>LEFT、RIGHT、MID</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>IF、AND、OR</pre>\n",
+			"option_html": "<pre>IF、AND、OR</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>人口減少に伴う労働力の不足</pre>\n",
+			"option_html": "<pre>人口減少に伴う労働力の不足</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>コンピューターウイルスの増加</pre>\n",
+			"option_html": "<pre>コンピューターウイルスの増加</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>高速インターネットの普及とデバイスコストの低下</pre>\n",
+			"option_html": "<pre>高速インターネットの普及とデバイスコストの低下</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドゲームの需要増加</pre>\n",
+			"option_html": "<pre>クラウドゲームの需要増加</pre>\n"
+		}
+	]
+}

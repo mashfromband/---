@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトの目的と範囲を明確にする</pre>\n",
+			"option_html": "<pre>プロジェクトの目的と範囲を明確にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトの成果物を納品する</pre>\n",
+			"option_html": "<pre>プロジェクトの成果物を納品する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>チームメンバーのトレーニングを実施する</pre>\n",
+			"option_html": "<pre>チームメンバーのトレーニングを実施する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの品質を検証する</pre>\n",
+			"option_html": "<pre>プロジェクトの品質を検証する</pre>\n"
+		}
+	]
+}

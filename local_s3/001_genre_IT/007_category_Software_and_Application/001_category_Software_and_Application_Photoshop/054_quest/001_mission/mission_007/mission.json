@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>特殊効果を適用する</pre>\n",
+			"option_html": "<pre>特殊効果を適用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像サイズを変更する</pre>\n",
+			"option_html": "<pre>画像サイズを変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>解像度を向上させる</pre>\n",
+			"option_html": "<pre>解像度を向上させる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを統合する</pre>\n",
+			"option_html": "<pre>レイヤーを統合する</pre>\n"
+		}
+	]
+}

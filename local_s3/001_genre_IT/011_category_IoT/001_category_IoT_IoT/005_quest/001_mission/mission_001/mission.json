@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データをクラウドに保存する</pre>\n",
+			"option_html": "<pre>データをクラウドに保存する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークの中心でデータを集約する</pre>\n",
+			"option_html": "<pre>ネットワークの中心でデータを集約する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスの近くでデータ処理を行い、効率を向上させる</pre>\n",
+			"option_html": "<pre>デバイスの近くでデータ処理を行い、効率を向上させる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>センサーを通じてデータを収集する</pre>\n",
+			"option_html": "<pre>センサーを通じてデータを収集する</pre>\n"
+		}
+	]
+}

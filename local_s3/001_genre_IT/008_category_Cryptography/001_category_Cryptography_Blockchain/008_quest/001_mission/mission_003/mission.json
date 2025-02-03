@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>保険金の支払いをリアルタイムで自動化する</pre>\n",
+			"option_html": "<pre>保険金の支払いをリアルタイムで自動化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>保険契約を手動で記録する</pre>\n",
+			"option_html": "<pre>保険契約を手動で記録する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>保険のコストを中央機関が完全に決定する</pre>\n",
+			"option_html": "<pre>保険のコストを中央機関が完全に決定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>契約内容を紙で管理する</pre>\n",
+			"option_html": "<pre>契約内容を紙で管理する</pre>\n"
+		}
+	]
+}

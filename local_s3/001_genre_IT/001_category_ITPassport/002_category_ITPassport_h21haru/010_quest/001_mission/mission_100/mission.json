@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"中間C",
+		"マネジメント系",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ア　20\n",
+			"option_html": "<p>ア　20</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "イ　25\n",
+			"option_html": "<p>イ　25</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ウ　30\n",
+			"option_html": "<p>ウ　30</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "エ　35\n",
+			"option_html": "<p>エ　35</p>\n"
+		}
+	]
+}

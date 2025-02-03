@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>写真編集業界</pre>\n",
+			"option_html": "<pre>写真編集業界</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>出版・印刷業界</pre>\n",
+			"option_html": "<pre>出版・印刷業界</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>映像制作業界</pre>\n",
+			"option_html": "<pre>映像制作業界</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ゲームデザイン業界</pre>\n",
+			"option_html": "<pre>ゲームデザイン業界</pre>\n"
+		}
+	]
+}

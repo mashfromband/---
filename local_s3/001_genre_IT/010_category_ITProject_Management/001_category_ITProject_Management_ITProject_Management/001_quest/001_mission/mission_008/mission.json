@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>チームメンバーの休憩時間を管理するため</pre>\n",
+			"option_html": "<pre>チームメンバーの休憩時間を管理するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトの最終的な品質を確認するため</pre>\n",
+			"option_html": "<pre>プロジェクトの最終的な品質を確認するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトの遅延や問題を早期に発見するため</pre>\n",
+			"option_html": "<pre>プロジェクトの遅延や問題を早期に発見するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>チームメンバーの個人的な目標を評価するため</pre>\n",
+			"option_html": "<pre>チームメンバーの個人的な目標を評価するため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ネットワーク速度を向上させるため</pre>\n",
+			"option_html": "<pre>ネットワーク速度を向上させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不正な接続を防ぐため</pre>\n",
+			"option_html": "<pre>不正な接続を防ぐため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>接続可能なデバイスを制限するため</pre>\n",
+			"option_html": "<pre>接続可能なデバイスを制限するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワークの利用料を削減するため</pre>\n",
+			"option_html": "<pre>ネットワークの利用料を削減するため</pre>\n"
+		}
+	]
+}

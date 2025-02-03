@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>解像度を自動調整する</pre>\n",
+			"option_html": "<pre>解像度を自動調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイルサイズを縮小できる</pre>\n",
+			"option_html": "<pre>ファイルサイズを縮小できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを自動結合する</pre>\n",
+			"option_html": "<pre>レイヤーを自動結合する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>元の画像データを保持したまま編集できる</pre>\n",
+			"option_html": "<pre>元の画像データを保持したまま編集できる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"文法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>語中の е と ё が入れ替わる</pre>\n",
+			"option_html": "<pre>語中の е と ё が入れ替わる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>語中の е が ё に入れ替わる</pre>\n",
+			"option_html": "<pre>語中の е が ё に入れ替わる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>変化前の単語の語末がズナーキの場合、ズナーキが е または ё に入れ替わる</pre>\n",
+			"option_html": "<pre>変化前の単語の語末がズナーキの場合、ズナーキが е または ё に入れ替わる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>変化前の単語の語末がズナーキの場合、ズナーキを削除し、語頭の е が ё に入れ替わる</pre>\n",
+			"option_html": "<pre>変化前の単語の語末がズナーキの場合、ズナーキを削除し、語頭の е が ё に入れ替わる</pre>\n"
+		}
+	]
+}

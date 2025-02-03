@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "聖徳太子\n",
+			"option_html": "<p>聖徳太子</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "物部守屋\n",
+			"option_html": "<p>物部守屋</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "蘇我馬子\n",
+			"option_html": "<p>蘇我馬子</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "小野妹子\n",
+			"option_html": "<p>小野妹子</p>\n"
+		}
+	]
+}

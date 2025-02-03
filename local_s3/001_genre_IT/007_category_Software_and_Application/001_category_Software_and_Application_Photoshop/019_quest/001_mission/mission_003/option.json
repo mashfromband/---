@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レンズ補正フィルター</pre>\n",
+			"option_html": "<pre>レンズ補正フィルター</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トーンカーブ</pre>\n",
+			"option_html": "<pre>トーンカーブ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>色相・彩度</pre>\n",
+			"option_html": "<pre>色相・彩度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤースタイル</pre>\n",
+			"option_html": "<pre>レイヤースタイル</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + Shiftを押しながらセルを選択</pre>\n",
+			"option_html": "<pre>Ctrl + Shiftを押しながらセルを選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルをコピーして貼り付ける</pre>\n",
+			"option_html": "<pre>セルをコピーして貼り付ける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データを手動で入力する</pre>\n",
+			"option_html": "<pre>データを手動で入力する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルの端にある小さな四角をドラッグする</pre>\n",
+			"option_html": "<pre>セルの端にある小さな四角をドラッグする</pre>\n"
+		}
+	]
+}

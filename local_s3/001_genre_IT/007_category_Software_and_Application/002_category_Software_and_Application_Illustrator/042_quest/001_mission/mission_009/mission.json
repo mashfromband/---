@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルで名前を変更し、階層を整理する</pre>\n",
+			"option_html": "<pre>レイヤーパネルで名前を変更し、階層を整理する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーをすべて削除してから作業を再開する</pre>\n",
+			"option_html": "<pre>レイヤーをすべて削除してから作業を再開する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべてのレイヤーを統合して管理する</pre>\n",
+			"option_html": "<pre>すべてのレイヤーを統合して管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>必要な情報を別のファイルに記録する</pre>\n",
+			"option_html": "<pre>必要な情報を別のファイルに記録する</pre>\n"
+		}
+	]
+}

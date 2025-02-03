@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "フビライ\n",
+			"option_html": "<p>フビライ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "テムル\n",
+			"option_html": "<p>テムル</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "チンギス・ハン\n",
+			"option_html": "<p>チンギス・ハン</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "オゴデイ\n",
+			"option_html": "<p>オゴデイ</p>\n"
+		}
+	]
+}

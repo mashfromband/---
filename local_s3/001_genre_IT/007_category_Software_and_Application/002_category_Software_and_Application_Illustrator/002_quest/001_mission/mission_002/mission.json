@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>小さいファイルサイズを実現するため</pre>\n",
+			"option_html": "<pre>小さいファイルサイズを実現するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>高解像度で拡大可能なデザインを作成するため</pre>\n",
+			"option_html": "<pre>高解像度で拡大可能なデザインを作成するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>写真編集を効率化するため</pre>\n",
+			"option_html": "<pre>写真編集を効率化するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>動画編集に対応するため</pre>\n",
+			"option_html": "<pre>動画編集に対応するため</pre>\n"
+		}
+	]
+}

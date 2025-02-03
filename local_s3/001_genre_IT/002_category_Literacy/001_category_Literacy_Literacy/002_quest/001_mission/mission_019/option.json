@@ -1,0 +1,20 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ソーシャルエンジニアリング\n",
+			"option_html": "<p>ソーシャルエンジニアリング</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "トロイの木馬\n[[OPTION_]]\nなりすまし\n",
+			"option_html": "<p>トロイの木馬<br>[[OPTION_]]<br>なりすまし</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "マルウェア感染\n",
+			"option_html": "<p>マルウェア感染</p>\n"
+		}
+	]
+}

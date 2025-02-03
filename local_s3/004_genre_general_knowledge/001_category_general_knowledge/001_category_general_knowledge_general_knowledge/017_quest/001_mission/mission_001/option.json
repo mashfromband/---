@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>反論し続ける</pre>\n",
+			"option_html": "<pre>反論し続ける</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>学ぶ気持ちを持つ</pre>\n",
+			"option_html": "<pre>学ぶ気持ちを持つ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>質問せず黙って聞く</pre>\n",
+			"option_html": "<pre>質問せず黙って聞く</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分の考えを押し付ける</pre>\n",
+			"option_html": "<pre>自分の考えを押し付ける</pre>\n"
+		}
+	]
+}

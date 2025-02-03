@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>WindowsとMac</pre>\n",
+			"option_html": "<pre>WindowsとMac</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Google PlayとApp Store</pre>\n",
+			"option_html": "<pre>Google PlayとApp Store</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>iOSとAndroid</pre>\n",
+			"option_html": "<pre>iOSとAndroid</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>FacebookとInstagram</pre>\n",
+			"option_html": "<pre>FacebookとInstagram</pre>\n"
+		}
+	]
+}

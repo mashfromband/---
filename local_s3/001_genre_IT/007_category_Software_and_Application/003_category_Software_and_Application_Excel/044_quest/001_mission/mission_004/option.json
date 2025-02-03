@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>MINIF関数</pre>\n",
+			"option_html": "<pre>MINIF関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>MIN関数</pre>\n",
+			"option_html": "<pre>MIN関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>MAXIF関数</pre>\n",
+			"option_html": "<pre>MAXIF関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>SUMIF関数</pre>\n",
+			"option_html": "<pre>SUMIF関数</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>根気よく努力を続ける</pre>\n",
+			"option_html": "<pre>根気よく努力を続ける</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>適当に妥協する</pre>\n",
+			"option_html": "<pre>適当に妥協する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>成果だけを追い求める</pre>\n",
+			"option_html": "<pre>成果だけを追い求める</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分一人で解決する</pre>\n",
+			"option_html": "<pre>自分一人で解決する</pre>\n"
+		}
+	]
+}

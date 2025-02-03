@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"コンピュータ構成要素",
+		"入出力デバイス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アシストGPS\n",
+			"option_html": "<p>アシストGPS</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ジャイロセンサー\n",
+			"option_html": "<p>ジャイロセンサー</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "準天頂衛星\n",
+			"option_html": "<p>準天頂衛星</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プローブカー\n",
+			"option_html": "<p>プローブカー</p>\n"
+		}
+	]
+}

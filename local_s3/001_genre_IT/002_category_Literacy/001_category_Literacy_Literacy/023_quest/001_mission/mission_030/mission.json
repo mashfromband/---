@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "OS（オペレーティングシステム）\n",
+			"option_html": "<p>OS（オペレーティングシステム）</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アプリケーションソフトウェア\n",
+			"option_html": "<p>アプリケーションソフトウェア</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "BIOS（基本入力出力システム）\n",
+			"option_html": "<p>BIOS（基本入力出力システム）</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ドライバソフトウェア\n",
+			"option_html": "<p>ドライバソフトウェア</p>\n"
+		}
+	]
+}

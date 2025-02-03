@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>デバイスの接続を限定するため</pre>\n",
+			"option_html": "<pre>デバイスの接続を限定するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>より高度なデータ解析や意思決定を可能にするため</pre>\n",
+			"option_html": "<pre>より高度なデータ解析や意思決定を可能にするため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クラウドサービスを減らすため</pre>\n",
+			"option_html": "<pre>クラウドサービスを減らすため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>インターネットの速度を低下させるため</pre>\n",
+			"option_html": "<pre>インターネットの速度を低下させるため</pre>\n"
+		}
+	]
+}

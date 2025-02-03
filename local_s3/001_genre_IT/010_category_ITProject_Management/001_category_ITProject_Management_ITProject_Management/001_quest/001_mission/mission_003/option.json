@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトのタスクを無計画に進めること</pre>\n",
+			"option_html": "<pre>プロジェクトのタスクを無計画に進めること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトの効率的な計画、実行、管理を行うこと</pre>\n",
+			"option_html": "<pre>プロジェクトの効率的な計画、実行、管理を行うこと</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>チームメンバーの個人目標を達成すること</pre>\n",
+			"option_html": "<pre>チームメンバーの個人目標を達成すること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの失敗を前提に計画を立てること</pre>\n",
+			"option_html": "<pre>プロジェクトの失敗を前提に計画を立てること</pre>\n"
+		}
+	]
+}

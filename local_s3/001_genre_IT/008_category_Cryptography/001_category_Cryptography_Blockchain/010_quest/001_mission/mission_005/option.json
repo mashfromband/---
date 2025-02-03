@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ガス料金の高さが取引処理の優先順位に影響を与える</pre>\n",
+			"option_html": "<pre>ガス料金の高さが取引処理の優先順位に影響を与える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ガス料金が高いほど取引が遅延する</pre>\n",
+			"option_html": "<pre>ガス料金が高いほど取引が遅延する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ガス料金は固定され、取引に影響を与えない</pre>\n",
+			"option_html": "<pre>ガス料金は固定され、取引に影響を与えない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ガス料金の変動はブロックサイズを変える</pre>\n",
+			"option_html": "<pre>ガス料金の変動はブロックサイズを変える</pre>\n"
+		}
+	]
+}

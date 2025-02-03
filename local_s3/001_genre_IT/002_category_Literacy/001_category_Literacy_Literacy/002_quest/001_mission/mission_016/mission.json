@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"テクノロジ",
+		"通信技術",
+		"ネットワーク"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ホスト名\n",
+			"option_html": "<p>ホスト名</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "MACアドレス\n",
+			"option_html": "<p>MACアドレス</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "IPアドレス\n",
+			"option_html": "<p>IPアドレス</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ポート番号\n",
+			"option_html": "<p>ポート番号</p>\n"
+		}
+	]
+}

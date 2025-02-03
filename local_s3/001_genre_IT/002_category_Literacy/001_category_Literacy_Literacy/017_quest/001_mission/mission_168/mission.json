@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"インターネット",
+		"HTTP"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "データの取得\n",
+			"option_html": "<p>データの取得</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "データの送信や登録\n",
+			"option_html": "<p>データの送信や登録</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "サーバーの再起動\n",
+			"option_html": "<p>サーバーの再起動</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "データの削除\n",
+			"option_html": "<p>データの削除</p>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>トランザクションのサイズ削減</pre>\n",
+			"option_html": "<pre>トランザクションのサイズ削減</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サイドチェーンやシャーディング</pre>\n",
+			"option_html": "<pre>サイドチェーンやシャーディング</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハッシュアルゴリズムの変更</pre>\n",
+			"option_html": "<pre>ハッシュアルゴリズムの変更</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ピアツーピア通信の禁止</pre>\n",
+			"option_html": "<pre>ピアツーピア通信の禁止</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルを右クリックして「リンク」を挿入</pre>\n",
+			"option_html": "<pre>セルを右クリックして「リンク」を挿入</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ホームタブの「条件付き書式」を設定</pre>\n",
+			"option_html": "<pre>ホームタブの「条件付き書式」を設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ホームタブの「塗りつぶしの色」から色を選択</pre>\n",
+			"option_html": "<pre>ホームタブの「塗りつぶしの色」から色を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>挿入タブから「グラフ」を追加</pre>\n",
+			"option_html": "<pre>挿入タブから「グラフ」を追加</pre>\n"
+		}
+	]
+}

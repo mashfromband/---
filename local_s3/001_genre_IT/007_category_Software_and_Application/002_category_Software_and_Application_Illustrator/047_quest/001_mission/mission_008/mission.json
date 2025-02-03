@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > エクスポート > 書き出し形式 > TIFF</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; 書き出し形式 &gt; TIFF</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 書き出し > アートボードをTIFFで保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; アートボードをTIFFで保存</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > エクスポート > TIFF形式で書き出し</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポート &gt; TIFF形式で書き出し</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 印刷設定でTIFFを選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷設定でTIFFを選択</pre>\n"
+		}
+	]
+}

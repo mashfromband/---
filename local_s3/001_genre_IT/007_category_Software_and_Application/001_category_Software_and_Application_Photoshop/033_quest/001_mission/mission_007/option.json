@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Photoshopを再起動する</pre>\n",
+			"option_html": "<pre>Photoshopを再起動する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「編集」メニューの「設定」からリセットする</pre>\n",
+			"option_html": "<pre>「編集」メニューの「設定」からリセットする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ウィンドウ」メニューの「ワークスペース」をリセットする</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「ワークスペース」をリセットする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パネルを手動で並び替える必要がある</pre>\n",
+			"option_html": "<pre>パネルを手動で並び替える必要がある</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "オペレーティングシステム\n",
+			"option_html": "<p>オペレーティングシステム</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "BIOS\n",
+			"option_html": "<p>BIOS</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "テキストエディタ\n",
+			"option_html": "<p>テキストエディタ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "デバイスドライバ\n",
+			"option_html": "<p>デバイスドライバ</p>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>滑らかな色の変化が追加される</pre>\n",
+			"option_html": "<pre>滑らかな色の変化が追加される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>明るさが均等になる</pre>\n",
+			"option_html": "<pre>明るさが均等になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度が上昇する</pre>\n",
+			"option_html": "<pre>彩度が上昇する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>色が単純化される</pre>\n",
+			"option_html": "<pre>色が単純化される</pre>\n"
+		}
+	]
+}

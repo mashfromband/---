@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>次回の取引で使用できる残高</pre>\n",
+			"option_html": "<pre>次回の取引で使用できる残高</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>未確認のトランザクション</pre>\n",
+			"option_html": "<pre>未確認のトランザクション</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>取引を無効化する仕組み</pre>\n",
+			"option_html": "<pre>取引を無効化する仕組み</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨ウォレットのセキュリティ機能</pre>\n",
+			"option_html": "<pre>仮想通貨ウォレットのセキュリティ機能</pre>\n"
+		}
+	]
+}

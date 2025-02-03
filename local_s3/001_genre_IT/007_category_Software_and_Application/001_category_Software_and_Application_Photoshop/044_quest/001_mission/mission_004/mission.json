@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ヒストリーパネルの設定で記録数が少なく設定されている</pre>\n",
+			"option_html": "<pre>ヒストリーパネルの設定で記録数が少なく設定されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>作業ファイルが読み取り専用で開かれている</pre>\n",
+			"option_html": "<pre>作業ファイルが読み取り専用で開かれている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>描画モードが影響を与えている</pre>\n",
+			"option_html": "<pre>描画モードが影響を与えている</pre>\n"
+		}
+	]
+}

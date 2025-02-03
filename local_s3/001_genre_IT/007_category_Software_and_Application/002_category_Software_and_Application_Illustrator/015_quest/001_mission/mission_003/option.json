@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > 外観を解除</pre>\n",
+			"option_html": "<pre>効果 &gt; 外観を解除</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルで「外観をクリア」</pre>\n",
+			"option_html": "<pre>アピアランスパネルで「外観をクリア」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>編集 > 外観を削除</pre>\n",
+			"option_html": "<pre>編集 &gt; 外観を削除</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロパティパネルで透明度をリセット</pre>\n",
+			"option_html": "<pre>プロパティパネルで透明度をリセット</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"データ入力・編集",
+		"ショートカット"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + D</pre>\n",
+			"option_html": "<pre>Ctrl + D</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + R</pre>\n",
+			"option_html": "<pre>Ctrl + R</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + A</pre>\n",
+			"option_html": "<pre>Ctrl + A</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + Y</pre>\n",
+			"option_html": "<pre>Ctrl + Y</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "足利義詮\n",
+			"option_html": "<p>足利義詮</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "足利義満\n",
+			"option_html": "<p>足利義満</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "足利義持\n",
+			"option_html": "<p>足利義持</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "足利尊氏\n",
+			"option_html": "<p>足利尊氏</p>\n"
+		}
+	]
+}

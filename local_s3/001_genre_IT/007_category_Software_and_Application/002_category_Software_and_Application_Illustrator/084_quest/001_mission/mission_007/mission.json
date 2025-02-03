@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>書き出し > 全アートボードを選択</pre>\n",
+			"option_html": "<pre>書き出し &gt; 全アートボードを選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PDF書き出し設定で「すべてのアートボード」を選択</pre>\n",
+			"option_html": "<pre>PDF書き出し設定で「すべてのアートボード」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アートボードパネルで全選択後に書き出し</pre>\n",
+			"option_html": "<pre>アートボードパネルで全選択後に書き出し</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>保存 > 書き出し形式 > すべて選択</pre>\n",
+			"option_html": "<pre>保存 &gt; 書き出し形式 &gt; すべて選択</pre>\n"
+		}
+	]
+}

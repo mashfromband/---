@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>72dpi</pre>\n",
+			"option_html": "<pre>72dpi</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>150dpi</pre>\n",
+			"option_html": "<pre>150dpi</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>300dpi</pre>\n",
+			"option_html": "<pre>300dpi</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>600dpi</pre>\n",
+			"option_html": "<pre>600dpi</pre>\n"
+		}
+	]
+}

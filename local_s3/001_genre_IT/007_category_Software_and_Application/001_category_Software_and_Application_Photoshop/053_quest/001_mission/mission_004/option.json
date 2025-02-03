@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「パッケージ」</pre>\n",
+			"option_html": "<pre>「パッケージ」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「エクスポート」</pre>\n",
+			"option_html": "<pre>「エクスポート」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「コレクション」</pre>\n",
+			"option_html": "<pre>「コレクション」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「スナップショット」</pre>\n",
+			"option_html": "<pre>「スナップショット」</pre>\n"
+		}
+	]
+}

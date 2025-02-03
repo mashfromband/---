@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "田中\n",
+			"option_html": "<p>田中</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "三木\n",
+			"option_html": "<p>三木</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "福田\n",
+			"option_html": "<p>福田</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "大平\n",
+			"option_html": "<p>大平</p>\n"
+		}
+	]
+}

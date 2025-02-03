@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "一審制\n",
+			"option_html": "<p>一審制</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "二審制\n",
+			"option_html": "<p>二審制</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "三審制\n",
+			"option_html": "<p>三審制</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "四審制\n",
+			"option_html": "<p>四審制</p>\n"
+		}
+	]
+}

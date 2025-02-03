@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"コミュニケーション",
+		"伝える（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自分の主張をはっきり言うこと</pre>\n",
+			"option_html": "<pre>自分の主張をはっきり言うこと</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>相手が理解しやすい表現を選ぶこと</pre>\n",
+			"option_html": "<pre>相手が理解しやすい表現を選ぶこと</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>専門用語を多く使うこと</pre>\n",
+			"option_html": "<pre>専門用語を多く使うこと</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分が納得できるように話すこと</pre>\n",
+			"option_html": "<pre>自分が納得できるように話すこと</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "コントロールパネル\n",
+			"option_html": "<p>コントロールパネル</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ゴミ箱\n",
+			"option_html": "<p>ゴミ箱</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "デスクトップ\n",
+			"option_html": "<p>デスクトップ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "スタートメニュー\n",
+			"option_html": "<p>スタートメニュー</p>\n"
+		}
+	]
+}

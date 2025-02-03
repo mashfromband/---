@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨の供給量の増加</pre>\n",
+			"option_html": "<pre>仮想通貨の供給量の増加</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の完全な停止</pre>\n",
+			"option_html": "<pre>仮想通貨の完全な停止</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ボラティリティの上昇と価格の不安定化</pre>\n",
+			"option_html": "<pre>ボラティリティの上昇と価格の不安定化</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引所の破産</pre>\n",
+			"option_html": "<pre>取引所の破産</pre>\n"
+		}
+	]
+}

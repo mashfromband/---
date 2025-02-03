@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クラウドはデータをローカルに保存するため</pre>\n",
+			"option_html": "<pre>クラウドはデータをローカルに保存するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クラウドを利用するとデータの解析や管理が容易になるため</pre>\n",
+			"option_html": "<pre>クラウドを利用するとデータの解析や管理が容易になるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>クラウドはインターネット接続を必要としないため</pre>\n",
+			"option_html": "<pre>クラウドはインターネット接続を必要としないため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドはデバイス間の直接通信を制限するため</pre>\n",
+			"option_html": "<pre>クラウドはデバイス間の直接通信を制限するため</pre>\n"
+		}
+	]
+}

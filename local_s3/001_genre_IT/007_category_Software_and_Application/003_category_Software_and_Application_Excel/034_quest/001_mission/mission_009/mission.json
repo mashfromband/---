@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Excel",
+		"データ入力・編集"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「挿入」タブ→「グラフを作成する」を選択する</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「グラフを作成する」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを選択して「Ctrl + C」を押す</pre>\n",
+			"option_html": "<pre>セルを選択して「Ctrl + C」を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>行番号を選択し、右クリックして「削除」を選択する</pre>\n",
+			"option_html": "<pre>行番号を選択し、右クリックして「削除」を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「データ」タブ→「フィルタを適用」を選択する</pre>\n",
+			"option_html": "<pre>「データ」タブ→「フィルタを適用」を選択する</pre>\n"
+		}
+	]
+}

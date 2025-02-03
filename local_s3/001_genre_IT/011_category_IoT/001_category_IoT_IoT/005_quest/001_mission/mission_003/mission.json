@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの長期保存が可能になる</pre>\n",
+			"option_html": "<pre>データの長期保存が可能になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>リアルタイム性を向上させ、遅延を低減できる</pre>\n",
+			"option_html": "<pre>リアルタイム性を向上させ、遅延を低減できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク接続が不要になる</pre>\n",
+			"option_html": "<pre>ネットワーク接続が不要になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウド上で全てのデータを処理できる</pre>\n",
+			"option_html": "<pre>クラウド上で全てのデータを処理できる</pre>\n"
+		}
+	]
+}

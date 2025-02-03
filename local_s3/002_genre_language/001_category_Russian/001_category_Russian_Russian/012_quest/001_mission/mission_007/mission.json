@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"文法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>医者</pre>\n",
+			"option_html": "<pre>医者</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>教師</pre>\n",
+			"option_html": "<pre>教師</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>看護婦</pre>\n",
+			"option_html": "<pre>看護婦</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>先生</pre>\n",
+			"option_html": "<pre>先生</pre>\n"
+		}
+	]
+}

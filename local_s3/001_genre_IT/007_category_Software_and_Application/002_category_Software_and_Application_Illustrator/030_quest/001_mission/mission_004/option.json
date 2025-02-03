@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字パネルでテキストの配置を設定する</pre>\n",
+			"option_html": "<pre>文字パネルでテキストの配置を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字ツールでテキストの位置を調整する</pre>\n",
+			"option_html": "<pre>文字ツールでテキストの位置を調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで位置を調整する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで位置を調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスにテキストを沿わせるツールを使って調整する</pre>\n",
+			"option_html": "<pre>パスにテキストを沿わせるツールを使って調整する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>AIやデータ分析の高度なサービス</pre>\n",
+			"option_html": "<pre>AIやデータ分析の高度なサービス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>既存のWindows環境とのシームレスな統合</pre>\n",
+			"option_html": "<pre>既存のWindows環境とのシームレスな統合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>大規模なインフラ構築と管理</pre>\n",
+			"option_html": "<pre>大規模なインフラ構築と管理</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>メールやカレンダーなどのオフィスツールの提供</pre>\n",
+			"option_html": "<pre>メールやカレンダーなどのオフィスツールの提供</pre>\n"
+		}
+	]
+}

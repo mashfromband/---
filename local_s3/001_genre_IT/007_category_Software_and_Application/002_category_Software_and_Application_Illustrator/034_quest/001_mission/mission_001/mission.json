@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スウォッチに保存されたパターンを編集する</pre>\n",
+			"option_html": "<pre>スウォッチに保存されたパターンを編集する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべてのパターンを新規作成する</pre>\n",
+			"option_html": "<pre>すべてのパターンを新規作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>元のデザインを削除してから再設計する</pre>\n",
+			"option_html": "<pre>元のデザインを削除してから再設計する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>必要なパターンを手動で作成し直す</pre>\n",
+			"option_html": "<pre>必要なパターンを手動で作成し直す</pre>\n"
+		}
+	]
+}

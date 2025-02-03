@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引速度の向上</pre>\n",
+			"option_html": "<pre>取引速度の向上</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの透明性と信頼性</pre>\n",
+			"option_html": "<pre>データの透明性と信頼性</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サプライチェーンのコスト削減</pre>\n",
+			"option_html": "<pre>サプライチェーンのコスト削減</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>個人情報の匿名性</pre>\n",
+			"option_html": "<pre>個人情報の匿名性</pre>\n"
+		}
+	]
+}

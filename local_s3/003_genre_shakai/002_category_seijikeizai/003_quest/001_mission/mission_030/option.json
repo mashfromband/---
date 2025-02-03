@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "カード\n",
+			"option_html": "<p>カード</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "券\n",
+			"option_html": "<p>券</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ポイント\n",
+			"option_html": "<p>ポイント</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "金\n",
+			"option_html": "<p>金</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ブラシサイズを小さくする</pre>\n",
+			"option_html": "<pre>ブラシサイズを小さくする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>GPUを有効にする</pre>\n",
+			"option_html": "<pre>GPUを有効にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーの不透明度を下げる</pre>\n",
+			"option_html": "<pre>レイヤーの不透明度を下げる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブラシの不透明度を上げる</pre>\n",
+			"option_html": "<pre>ブラシの不透明度を上げる</pre>\n"
+		}
+	]
+}

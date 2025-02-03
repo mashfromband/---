@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>メインネットとテストネット</pre>\n",
+			"option_html": "<pre>メインネットとテストネット</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>マイニング用の特別な装置</pre>\n",
+			"option_html": "<pre>マイニング用の特別な装置</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>公開鍵と秘密鍵</pre>\n",
+			"option_html": "<pre>公開鍵と秘密鍵</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨ウォレットの種類</pre>\n",
+			"option_html": "<pre>仮想通貨ウォレットの種類</pre>\n"
+		}
+	]
+}

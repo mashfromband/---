@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自然性が優先されている</pre>\n",
+			"option_html": "<pre>自然性が優先されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文法性が優先されている</pre>\n",
+			"option_html": "<pre>文法性が優先されている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>見分けられないものはない</pre>\n",
+			"option_html": "<pre>見分けられないものはない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>主格形である</pre>\n",
+			"option_html": "<pre>主格形である</pre>\n"
+		}
+	]
+}

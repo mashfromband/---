@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨は中央銀行が発行しているから</pre>\n",
+			"option_html": "<pre>仮想通貨は中央銀行が発行しているから</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨は現金として利用できるから</pre>\n",
+			"option_html": "<pre>仮想通貨は現金として利用できるから</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨は法定通貨と同じ価値を持つから</pre>\n",
+			"option_html": "<pre>仮想通貨は法定通貨と同じ価値を持つから</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨は全ての取引がデジタルで記録されるから</pre>\n",
+			"option_html": "<pre>仮想通貨は全ての取引がデジタルで記録されるから</pre>\n"
+		}
+	]
+}

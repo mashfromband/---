@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"データ入力・編集"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ホーム」タブ→「クリア」→「書式のクリア」を選択</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「クリア」→「書式のクリア」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「挿入」タブ→「グラフの追加」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「グラフの追加」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「データ」タブ→「フィルタを適用」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「フィルタを適用」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ファイル」タブ→「名前を付けて保存」</pre>\n",
+			"option_html": "<pre>「ファイル」タブ→「名前を付けて保存」</pre>\n"
+		}
+	]
+}

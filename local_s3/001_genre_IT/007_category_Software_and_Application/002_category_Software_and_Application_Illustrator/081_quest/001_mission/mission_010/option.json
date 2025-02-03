@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アクションパネルで保存</pre>\n",
+			"option_html": "<pre>アクションパネルで保存</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シンボルを作成して保存</pre>\n",
+			"option_html": "<pre>シンボルを作成して保存</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを複製</pre>\n",
+			"option_html": "<pre>レイヤーを複製</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>書き出し設定を保存</pre>\n",
+			"option_html": "<pre>書き出し設定を保存</pre>\n"
+		}
+	]
+}

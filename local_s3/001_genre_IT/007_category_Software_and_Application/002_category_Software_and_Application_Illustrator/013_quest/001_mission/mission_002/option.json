@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グループ化せずにそのまま選択して移動する</pre>\n",
+			"option_html": "<pre>グループ化せずにそのまま選択して移動する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>新しいアートボードを作り直してコピーする</pre>\n",
+			"option_html": "<pre>新しいアートボードを作り直してコピーする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクトを再描画する</pre>\n",
+			"option_html": "<pre>オブジェクトを再描画する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Alt（Option）キーを押しながらドラッグする</pre>\n",
+			"option_html": "<pre>Alt（Option）キーを押しながらドラッグする</pre>\n"
+		}
+	]
+}

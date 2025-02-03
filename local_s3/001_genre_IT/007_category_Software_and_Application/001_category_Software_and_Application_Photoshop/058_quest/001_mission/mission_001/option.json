@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーマスク</pre>\n",
+			"option_html": "<pre>レイヤーマスク</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ハイパスフィルター</pre>\n",
+			"option_html": "<pre>ハイパスフィルター</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スポイトツール</pre>\n",
+			"option_html": "<pre>スポイトツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レベル補正</pre>\n",
+			"option_html": "<pre>レベル補正</pre>\n"
+		}
+	]
+}

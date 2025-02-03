@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全く影響がない</pre>\n",
+			"option_html": "<pre>全く影響がない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>影響が大きい</pre>\n",
+			"option_html": "<pre>影響が大きい</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>影響が少ない</pre>\n",
+			"option_html": "<pre>影響が少ない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>彩度が均等に減少する</pre>\n",
+			"option_html": "<pre>彩度が均等に減少する</pre>\n"
+		}
+	]
+}

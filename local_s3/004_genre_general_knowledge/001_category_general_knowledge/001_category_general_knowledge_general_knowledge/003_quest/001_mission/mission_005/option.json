@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>清潔感のある短髪</pre>\n",
+			"option_html": "<pre>清潔感のある短髪</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>乱れた髪のまま出勤する</pre>\n",
+			"option_html": "<pre>乱れた髪のまま出勤する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>髪を整える</pre>\n",
+			"option_html": "<pre>髪を整える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>適度な長さに保つ</pre>\n",
+			"option_html": "<pre>適度な長さに保つ</pre>\n"
+		}
+	]
+}

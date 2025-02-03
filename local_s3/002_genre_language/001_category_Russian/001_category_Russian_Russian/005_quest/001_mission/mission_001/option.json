@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>どこ</pre>\n",
+			"option_html": "<pre>どこ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>誰</pre>\n",
+			"option_html": "<pre>誰</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>いつ</pre>\n",
+			"option_html": "<pre>いつ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>なぜ</pre>\n",
+			"option_html": "<pre>なぜ</pre>\n"
+		}
+	]
+}

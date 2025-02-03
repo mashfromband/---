@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>修復ツールのサイズが大きすぎる</pre>\n",
+			"option_html": "<pre>修復ツールのサイズが大きすぎる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サンプリングポイントが適切でない</pre>\n",
+			"option_html": "<pre>サンプリングポイントが適切でない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>修復する部分の解像度が低すぎる</pre>\n",
+			"option_html": "<pre>修復する部分の解像度が低すぎる</pre>\n"
+		}
+	]
+}

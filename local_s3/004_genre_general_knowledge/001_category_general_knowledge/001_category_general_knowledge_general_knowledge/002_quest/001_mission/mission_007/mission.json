@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ビジネスマナー",
+		"服装・身だしなみ（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シワを気にしない</pre>\n",
+			"option_html": "<pre>シワを気にしない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>上着のボタンを全て留める</pre>\n",
+			"option_html": "<pre>上着のボタンを全て留める</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>背丈に合ったサイズを選ぶ</pre>\n",
+			"option_html": "<pre>背丈に合ったサイズを選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>靴を磨かない</pre>\n",
+			"option_html": "<pre>靴を磨かない</pre>\n"
+		}
+	]
+}

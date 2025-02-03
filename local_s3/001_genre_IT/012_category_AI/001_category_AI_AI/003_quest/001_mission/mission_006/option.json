@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像生成AI</pre>\n",
+			"option_html": "<pre>画像生成AI</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>テキスト要約AI</pre>\n",
+			"option_html": "<pre>テキスト要約AI</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>音声認識AI</pre>\n",
+			"option_html": "<pre>音声認識AI</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>機械翻訳AI</pre>\n",
+			"option_html": "<pre>機械翻訳AI</pre>\n"
+		}
+	]
+}

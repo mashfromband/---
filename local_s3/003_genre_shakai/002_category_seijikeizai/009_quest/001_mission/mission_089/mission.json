@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "生存権\n",
+			"option_html": "<p>生存権</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "教育を受ける\n権利\n",
+			"option_html": "<p>教育を受ける<br>権利</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "勤労権\n",
+			"option_html": "<p>勤労権</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "労働三権\n",
+			"option_html": "<p>労働三権</p>\n"
+		}
+	]
+}

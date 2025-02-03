@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「条件付き書式」の「データバー」を設定する</pre>\n",
+			"option_html": "<pre>「条件付き書式」の「データバー」を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルの「結合」を行う</pre>\n",
+			"option_html": "<pre>セルの「結合」を行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「並べ替え」を適用する</pre>\n",
+			"option_html": "<pre>「並べ替え」を適用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「改ページ」を挿入する</pre>\n",
+			"option_html": "<pre>「改ページ」を挿入する</pre>\n"
+		}
+	]
+}

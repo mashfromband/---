@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>不透明マスク</pre>\n",
+			"option_html": "<pre>不透明マスク</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クリッピングマスク</pre>\n",
+			"option_html": "<pre>クリッピングマスク</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダー > 型抜き</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 型抜き</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>透明パネルで不透明度を調整</pre>\n",
+			"option_html": "<pre>透明パネルで不透明度を調整</pre>\n"
+		}
+	]
+}

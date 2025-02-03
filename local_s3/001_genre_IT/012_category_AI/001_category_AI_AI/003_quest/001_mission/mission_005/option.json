@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Chat PDF</pre>\n",
+			"option_html": "<pre>Chat PDF</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>AWS</pre>\n",
+			"option_html": "<pre>AWS</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Portable Document Format</pre>\n",
+			"option_html": "<pre>Portable Document Format</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Adobe Systems</pre>\n",
+			"option_html": "<pre>Adobe Systems</pre>\n"
+		}
+	]
+}

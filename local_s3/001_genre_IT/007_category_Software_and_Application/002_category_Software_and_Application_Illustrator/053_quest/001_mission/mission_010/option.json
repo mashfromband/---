@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スウォッチパネルでパターンを選択する</pre>\n",
+			"option_html": "<pre>スウォッチパネルでパターンを選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーパネルでパターン塗りを選択する</pre>\n",
+			"option_html": "<pre>カラーパネルでパターン塗りを選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 塗り > パターンを選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 塗り &gt; パターンを選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルで「パターンを塗り」に変更する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで「パターンを塗り」に変更する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像の解像度を下げる</pre>\n",
+			"option_html": "<pre>画像の解像度を下げる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字のコントラストを高くする</pre>\n",
+			"option_html": "<pre>文字のコントラストを高くする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フォントスタイルを変更する</pre>\n",
+			"option_html": "<pre>フォントスタイルを変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字の大きさを小さくする</pre>\n",
+			"option_html": "<pre>文字の大きさを小さくする</pre>\n"
+		}
+	]
+}

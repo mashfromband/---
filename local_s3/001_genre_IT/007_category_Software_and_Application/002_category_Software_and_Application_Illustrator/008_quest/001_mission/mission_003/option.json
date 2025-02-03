@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「セキュリティオプション」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「セキュリティオプション」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>エクスポート時に「パスワード設定」を選択</pre>\n",
+			"option_html": "<pre>エクスポート時に「パスワード設定」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>印刷設定で「セキュリティ」を選択</pre>\n",
+			"option_html": "<pre>印刷設定で「セキュリティ」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > 書き出し時に「セキュリティオプション」</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し時に「セキュリティオプション」</pre>\n"
+		}
+	]
+}

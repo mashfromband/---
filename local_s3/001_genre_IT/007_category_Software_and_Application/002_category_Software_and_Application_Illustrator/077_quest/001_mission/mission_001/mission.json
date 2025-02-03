@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 配置 > 不透明度を設定</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 不透明度を設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで「ロック」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「ロック」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで「不透明度」を調整</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「不透明度」を調整</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで目のアイコンをクリック</pre>\n",
+			"option_html": "<pre>レイヤーパネルで目のアイコンをクリック</pre>\n"
+		}
+	]
+}

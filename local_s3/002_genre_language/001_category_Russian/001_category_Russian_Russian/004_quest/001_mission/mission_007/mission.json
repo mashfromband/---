@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"文法"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>мной</pre>\n",
+			"option_html": "<pre>мной</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>я</pre>\n",
+			"option_html": "<pre>я</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>меня</pre>\n",
+			"option_html": "<pre>меня</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>мне</pre>\n",
+			"option_html": "<pre>мне</pre>\n"
+		}
+	]
+}

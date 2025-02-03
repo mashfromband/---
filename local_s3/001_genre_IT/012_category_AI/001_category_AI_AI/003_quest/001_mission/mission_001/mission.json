@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"一般"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Synthesia</pre>\n",
+			"option_html": "<pre>Synthesia</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Runway Gen-2</pre>\n",
+			"option_html": "<pre>Runway Gen-2</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Pika</pre>\n",
+			"option_html": "<pre>Pika</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>D-ID</pre>\n",
+			"option_html": "<pre>D-ID</pre>\n"
+		}
+	]
+}

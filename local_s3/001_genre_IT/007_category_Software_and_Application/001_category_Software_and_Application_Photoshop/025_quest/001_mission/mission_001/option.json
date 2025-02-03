@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>明るさが均等になる</pre>\n",
+			"option_html": "<pre>明るさが均等になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度が均等に下がる</pre>\n",
+			"option_html": "<pre>彩度が均等に下がる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>色の境界が滑らかになる</pre>\n",
+			"option_html": "<pre>色の境界が滑らかになる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーが結合される</pre>\n",
+			"option_html": "<pre>レイヤーが結合される</pre>\n"
+		}
+	]
+}

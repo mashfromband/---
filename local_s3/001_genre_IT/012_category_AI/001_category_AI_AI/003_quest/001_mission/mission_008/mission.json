@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"社会人向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>動画生成AI</pre>\n",
+			"option_html": "<pre>動画生成AI</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>テキスト生成AI</pre>\n",
+			"option_html": "<pre>テキスト生成AI</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>3Dモデル生成AI</pre>\n",
+			"option_html": "<pre>3Dモデル生成AI</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>音声合成AI</pre>\n",
+			"option_html": "<pre>音声合成AI</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アウトソーシング\n",
+			"option_html": "<p>アウトソーシング</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "インソーシング\n",
+			"option_html": "<p>インソーシング</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "クラウドコンピューティング\n",
+			"option_html": "<p>クラウドコンピューティング</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ダウンサイジング\n",
+			"option_html": "<p>ダウンサイジング</p>\n"
+		}
+	]
+}

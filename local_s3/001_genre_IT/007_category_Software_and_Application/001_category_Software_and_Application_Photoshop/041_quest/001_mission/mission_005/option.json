@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーマスクが有効になっている</pre>\n",
+			"option_html": "<pre>レイヤーマスクが有効になっている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>修復するレイヤーがロックされている</pre>\n",
+			"option_html": "<pre>修復するレイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートオブジェクトに適用されている</pre>\n",
+			"option_html": "<pre>スマートオブジェクトに適用されている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サンプリングモードが適切でない</pre>\n",
+			"option_html": "<pre>サンプリングモードが適切でない</pre>\n"
+		}
+	]
+}

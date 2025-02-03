@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>表示 > 表示設定を保存</pre>\n",
+			"option_html": "<pre>表示 &gt; 表示設定を保存</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 表示を保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; 表示を保存</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ウィンドウ > ワークスペース > 新規ワークスペース</pre>\n",
+			"option_html": "<pre>ウィンドウ &gt; ワークスペース &gt; 新規ワークスペース</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>表示 > 新しい表示を作成</pre>\n",
+			"option_html": "<pre>表示 &gt; 新しい表示を作成</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>彩度を一括で下げたい場合</pre>\n",
+			"option_html": "<pre>彩度を一括で下げたい場合</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像全体の明るさを均等にしたい場合</pre>\n",
+			"option_html": "<pre>画像全体の明るさを均等にしたい場合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーション部分でバンディングが発生している場合</pre>\n",
+			"option_html": "<pre>グラデーション部分でバンディングが発生している場合</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを結合したい場合</pre>\n",
+			"option_html": "<pre>レイヤーを結合したい場合</pre>\n"
+		}
+	]
+}

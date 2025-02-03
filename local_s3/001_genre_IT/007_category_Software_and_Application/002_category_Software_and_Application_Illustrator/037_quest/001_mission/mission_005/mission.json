@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルで目のアイコンをCtrl+クリックで複数選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで目のアイコンをCtrl+クリックで複数選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルでCtrl+Shift+Eを押す</pre>\n",
+			"option_html": "<pre>レイヤーパネルでCtrl+Shift+Eを押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで「非表示」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「非表示」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで複数のレイヤーを選択して右クリック</pre>\n",
+			"option_html": "<pre>レイヤーパネルで複数のレイヤーを選択して右クリック</pre>\n"
+		}
+	]
+}

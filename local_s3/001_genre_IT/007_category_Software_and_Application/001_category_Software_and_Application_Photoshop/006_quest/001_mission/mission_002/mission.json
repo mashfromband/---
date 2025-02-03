@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>複数のオブジェクトを整列させて配置を調整する</pre>\n",
+			"option_html": "<pre>複数のオブジェクトを整列させて配置を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲を保存する</pre>\n",
+			"option_html": "<pre>選択範囲を保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像をトリミングする</pre>\n",
+			"option_html": "<pre>画像をトリミングする</pre>\n"
+		}
+	]
+}

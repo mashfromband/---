@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「編集」メニューの「カラー設定」を変更する</pre>\n",
+			"option_html": "<pre>「編集」メニューの「カラー設定」を変更する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「画像」メニューの「色調補正」→「白黒」を選択する</pre>\n",
+			"option_html": "<pre>「画像」メニューの「色調補正」→「白黒」を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで「新規調整レイヤー」→「白黒」を追加する</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「新規調整レイヤー」→「白黒」を追加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>画像を直接グレースケールで保存する</pre>\n",
+			"option_html": "<pre>画像を直接グレースケールで保存する</pre>\n"
+		}
+	]
+}

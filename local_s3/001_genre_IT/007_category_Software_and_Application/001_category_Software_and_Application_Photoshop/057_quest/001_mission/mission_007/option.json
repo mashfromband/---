@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>解像度が自動調整される</pre>\n",
+			"option_html": "<pre>解像度が自動調整される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色の忠実度が若干低下する可能性がある</pre>\n",
+			"option_html": "<pre>色の忠実度が若干低下する可能性がある</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>すべての色が保持される</pre>\n",
+			"option_html": "<pre>すべての色が保持される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>透明部分が削除される</pre>\n",
+			"option_html": "<pre>透明部分が削除される</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>透明性</pre>\n",
+			"option_html": "<pre>透明性</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不変性</pre>\n",
+			"option_html": "<pre>不変性</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>互換性</pre>\n",
+			"option_html": "<pre>互換性</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>中央集権性</pre>\n",
+			"option_html": "<pre>中央集権性</pre>\n"
+		}
+	]
+}

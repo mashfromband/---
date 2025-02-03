@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アラインパネルで「キーオブジェクト」を設定する</pre>\n",
+			"option_html": "<pre>アラインパネルで「キーオブジェクト」を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スマートガイドを有効にする</pre>\n",
+			"option_html": "<pre>スマートガイドを有効にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 整列 > 境界に揃える</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 整列 &gt; 境界に揃える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パスファインダー > 整列を使用する</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 整列を使用する</pre>\n"
+		}
+	]
+}

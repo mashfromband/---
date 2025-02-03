@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ワークスペースを切り替えずに作業を進める</pre>\n",
+			"option_html": "<pre>ワークスペースを切り替えずに作業を進める</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>必要なパネルをその都度手動で開く</pre>\n",
+			"option_html": "<pre>必要なパネルをその都度手動で開く</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>一度すべてのパネルを閉じて再配置する</pre>\n",
+			"option_html": "<pre>一度すべてのパネルを閉じて再配置する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プリセットワークスペースを利用する</pre>\n",
+			"option_html": "<pre>プリセットワークスペースを利用する</pre>\n"
+		}
+	]
+}

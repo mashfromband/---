@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ハードウェアの故障</pre>\n",
+			"option_html": "<pre>ハードウェアの故障</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アクチュエーターの電力消費量の増加</pre>\n",
+			"option_html": "<pre>アクチュエーターの電力消費量の増加</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>マルウェアやDDoS攻撃</pre>\n",
+			"option_html": "<pre>マルウェアやDDoS攻撃</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>センサーの誤動作</pre>\n",
+			"option_html": "<pre>センサーの誤動作</pre>\n"
+		}
+	]
+}

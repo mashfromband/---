@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトには期限が設定されているから</pre>\n",
+			"option_html": "<pre>プロジェクトには期限が設定されているから</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトは常に同じ内容を繰り返す活動だから</pre>\n",
+			"option_html": "<pre>プロジェクトは常に同じ内容を繰り返す活動だから</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトは終了することがないから</pre>\n",
+			"option_html": "<pre>プロジェクトは終了することがないから</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトは長期的な業務の一部だから</pre>\n",
+			"option_html": "<pre>プロジェクトは長期的な業務の一部だから</pre>\n"
+		}
+	]
+}

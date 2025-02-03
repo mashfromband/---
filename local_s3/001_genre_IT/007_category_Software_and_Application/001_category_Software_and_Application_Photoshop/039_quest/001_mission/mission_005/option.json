@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>マスクが適切に設定されていない</pre>\n",
+			"option_html": "<pre>マスクが適切に設定されていない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クリッピングするレイヤーがロックされている</pre>\n",
+			"option_html": "<pre>クリッピングするレイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーの順序が間違っている</pre>\n",
+			"option_html": "<pre>レイヤーの順序が間違っている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーがスマートオブジェクトに変換されている</pre>\n",
+			"option_html": "<pre>レイヤーがスマートオブジェクトに変換されている</pre>\n"
+		}
+	]
+}

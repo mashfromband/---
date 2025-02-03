@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>通信速度を向上させるため</pre>\n",
+			"option_html": "<pre>通信速度を向上させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>通信内容を第三者から隠すため</pre>\n",
+			"option_html": "<pre>通信内容を第三者から隠すため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>通信データを圧縮するため</pre>\n",
+			"option_html": "<pre>通信データを圧縮するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>通信エラーを自動修正するため</pre>\n",
+			"option_html": "<pre>通信エラーを自動修正するため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ヒーリングブラシ</pre>\n",
+			"option_html": "<pre>ヒーリングブラシ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>クローンスタンプツール</pre>\n",
+			"option_html": "<pre>クローンスタンプツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>覆い焼きツール</pre>\n",
+			"option_html": "<pre>覆い焼きツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スライスツール</pre>\n",
+			"option_html": "<pre>スライスツール</pre>\n"
+		}
+	]
+}

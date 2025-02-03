@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ゲーム内アイテムの真正性と所有権を保証する</pre>\n",
+			"option_html": "<pre>ゲーム内アイテムの真正性と所有権を保証する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ゲーム開発のコストを完全に削減する</pre>\n",
+			"option_html": "<pre>ゲーム開発のコストを完全に削減する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ゲームデータをすべて中央サーバーで管理する</pre>\n",
+			"option_html": "<pre>ゲームデータをすべて中央サーバーで管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オフライン環境でのゲーム開発を可能にする</pre>\n",
+			"option_html": "<pre>オフライン環境でのゲーム開発を可能にする</pre>\n"
+		}
+	]
+}

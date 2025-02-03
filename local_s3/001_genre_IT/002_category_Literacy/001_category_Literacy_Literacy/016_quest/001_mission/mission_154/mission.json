@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"セキュリティ系",
+		"情報セキュリティ管理",
+		"データ暗号化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "データの保存容量を減少させる\n",
+			"option_html": "<p>データの保存容量を減少させる</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "データの可読性を向上させる\n",
+			"option_html": "<p>データの可読性を向上させる</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "不正アクセスからデータを保護する\n",
+			"option_html": "<p>不正アクセスからデータを保護する</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "データの転送速度を向上させる\n",
+			"option_html": "<p>データの転送速度を向上させる</p>\n"
+		}
+	]
+}

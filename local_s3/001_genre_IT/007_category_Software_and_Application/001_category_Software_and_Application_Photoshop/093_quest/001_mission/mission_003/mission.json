@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"実践・応用"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像サイズと圧縮</pre>\n",
+			"option_html": "<pre>画像サイズと圧縮</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像のシャープネスを強化</pre>\n",
+			"option_html": "<pre>画像のシャープネスを強化</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フォントの選択</pre>\n",
+			"option_html": "<pre>フォントの選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>テキストの配置</pre>\n",
+			"option_html": "<pre>テキストの配置</pre>\n"
+		}
+	]
+}

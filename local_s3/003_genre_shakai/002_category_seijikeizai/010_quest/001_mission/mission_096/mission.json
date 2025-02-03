@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"国際",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ウィルソン\n",
+			"option_html": "<p>ウィルソン</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "マッキンリー\n",
+			"option_html": "<p>マッキンリー</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "モンロー\n",
+			"option_html": "<p>モンロー</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "アーサー\n",
+			"option_html": "<p>アーサー</p>\n"
+		}
+	]
+}

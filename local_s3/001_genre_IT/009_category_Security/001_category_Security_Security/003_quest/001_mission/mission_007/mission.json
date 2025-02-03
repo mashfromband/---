@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>複数の認証要素を組み合わせて本人確認を行う</pre>\n",
+			"option_html": "<pre>複数の認証要素を組み合わせて本人確認を行う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザー名とパスワードのみで本人確認を行う</pre>\n",
+			"option_html": "<pre>ユーザー名とパスワードのみで本人確認を行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>1つの要素で本人確認が完了する</pre>\n",
+			"option_html": "<pre>1つの要素で本人確認が完了する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>システムが自動的に認証情報を記録する</pre>\n",
+			"option_html": "<pre>システムが自動的に認証情報を記録する</pre>\n"
+		}
+	]
+}

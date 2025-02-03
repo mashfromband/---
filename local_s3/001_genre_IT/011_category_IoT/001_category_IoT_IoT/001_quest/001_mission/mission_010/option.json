@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>意味のある情報に変換し、意思決定に役立てるため</pre>\n",
+			"option_html": "<pre>意味のある情報に変換し、意思決定に役立てるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの保存を行わないようにするため</pre>\n",
+			"option_html": "<pre>データの保存を行わないようにするため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスの動作を停止させるため</pre>\n",
+			"option_html": "<pre>デバイスの動作を停止させるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ネットワークの通信速度を遅くするため</pre>\n",
+			"option_html": "<pre>ネットワークの通信速度を遅くするため</pre>\n"
+		}
+	]
+}

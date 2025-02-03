@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引データが全てのノードで共有されるため</pre>\n",
+			"option_html": "<pre>取引データが全てのノードで共有されるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>全ての取引が匿名で行われるため</pre>\n",
+			"option_html": "<pre>全ての取引が匿名で行われるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>管理者がすべての取引を監視しているため</pre>\n",
+			"option_html": "<pre>管理者がすべての取引を監視しているため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>政府が取引記録を公表するため</pre>\n",
+			"option_html": "<pre>政府が取引記録を公表するため</pre>\n"
+		}
+	]
+}

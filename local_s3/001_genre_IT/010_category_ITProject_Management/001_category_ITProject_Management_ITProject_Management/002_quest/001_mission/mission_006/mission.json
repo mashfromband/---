@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトのコストを削減するため</pre>\n",
+			"option_html": "<pre>プロジェクトのコストを削減するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトのリスクを完全になくすため</pre>\n",
+			"option_html": "<pre>プロジェクトのリスクを完全になくすため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトの全体像を把握しやすくするため</pre>\n",
+			"option_html": "<pre>プロジェクトの全体像を把握しやすくするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトの成果物を増やすため</pre>\n",
+			"option_html": "<pre>プロジェクトの成果物を増やすため</pre>\n"
+		}
+	]
+}

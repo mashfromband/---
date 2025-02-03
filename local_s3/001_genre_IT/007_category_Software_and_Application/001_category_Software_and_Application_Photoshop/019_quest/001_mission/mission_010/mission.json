@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色相スライダーを最大値に設定する</pre>\n",
+			"option_html": "<pre>色相スライダーを最大値に設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>全体の彩度スライダーを最小値に設定する</pre>\n",
+			"option_html": "<pre>全体の彩度スライダーを最小値に設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>明度スライダーを最大値に設定する</pre>\n",
+			"option_html": "<pre>明度スライダーを最大値に設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>対象の色を選択し、彩度スライダーを最小値に設定する</pre>\n",
+			"option_html": "<pre>対象の色を選択し、彩度スライダーを最小値に設定する</pre>\n"
+		}
+	]
+}

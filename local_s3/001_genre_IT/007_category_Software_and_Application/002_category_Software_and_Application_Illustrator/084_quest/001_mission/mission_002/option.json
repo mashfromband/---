@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>フォントメニューでお気に入りを登録する</pre>\n",
+			"option_html": "<pre>フォントメニューでお気に入りを登録する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>使用するたびにフォントを検索する</pre>\n",
+			"option_html": "<pre>使用するたびにフォントを検索する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>必要なフォントを毎回インストールし直す</pre>\n",
+			"option_html": "<pre>必要なフォントを毎回インストールし直す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フォントを一覧から1つずつ手動で探す</pre>\n",
+			"option_html": "<pre>フォントを一覧から1つずつ手動で探す</pre>\n"
+		}
+	]
+}

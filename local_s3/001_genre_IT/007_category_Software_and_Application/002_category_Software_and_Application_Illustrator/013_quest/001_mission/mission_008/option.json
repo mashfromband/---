@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > スタイライズ > フリーフォーム</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; フリーフォーム</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > 変形 > フリーフォーム</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; フリーフォーム</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > フリーフォーム</pre>\n",
+			"option_html": "<pre>フィルター &gt; フリーフォーム</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 3D > フリーフォーム</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; フリーフォーム</pre>\n"
+		}
+	]
+}

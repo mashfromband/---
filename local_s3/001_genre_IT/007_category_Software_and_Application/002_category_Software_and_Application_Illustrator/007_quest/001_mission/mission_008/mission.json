@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「透明部分を保持」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「透明部分を保持」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PDF保存時に「透過PNG形式」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「透過PNG形式」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 書き出しで「透明」を選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出しで「透明」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > エクスポートで「透明」オプションを選択</pre>\n",
+			"option_html": "<pre>ファイル &gt; エクスポートで「透明」オプションを選択</pre>\n"
+		}
+	]
+}

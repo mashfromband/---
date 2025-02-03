@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトをコピーして別のアートボードに貼り付ける</pre>\n",
+			"option_html": "<pre>オブジェクトをコピーして別のアートボードに貼り付ける</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Altキーを押しながらドラッグする</pre>\n",
+			"option_html": "<pre>Altキーを押しながらドラッグする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクトをドラッグして別のアートボードに移動する</pre>\n",
+			"option_html": "<pre>オブジェクトをドラッグして別のアートボードに移動する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ショートカットキーCtrl + Shift + V</pre>\n",
+			"option_html": "<pre>ショートカットキーCtrl + Shift + V</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>88年にリリースされたから</pre>\n",
+			"option_html": "<pre>88年にリリースされたから</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>88の新機能が搭載されていたから</pre>\n",
+			"option_html": "<pre>88の新機能が搭載されていたから</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>開発コード名が「88」だったから</pre>\n",
+			"option_html": "<pre>開発コード名が「88」だったから</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>当時の人気番号だったから</pre>\n",
+			"option_html": "<pre>当時の人気番号だったから</pre>\n"
+		}
+	]
+}

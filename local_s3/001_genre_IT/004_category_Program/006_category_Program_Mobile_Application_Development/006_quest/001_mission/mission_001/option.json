@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コーディング</pre>\n",
+			"option_html": "<pre>コーディング</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>要件定義</pre>\n",
+			"option_html": "<pre>要件定義</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバッグ</pre>\n",
+			"option_html": "<pre>デバッグ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザーテスト</pre>\n",
+			"option_html": "<pre>ユーザーテスト</pre>\n"
+		}
+	]
+}

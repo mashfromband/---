@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>描画 > 背面描画</pre>\n",
+			"option_html": "<pre>描画 &gt; 背面描画</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>描画 > 上面描画</pre>\n",
+			"option_html": "<pre>描画 &gt; 上面描画</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>描画 > 内側描画</pre>\n",
+			"option_html": "<pre>描画 &gt; 内側描画</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>描画 > 前面描画</pre>\n",
+			"option_html": "<pre>描画 &gt; 前面描画</pre>\n"
+		}
+	]
+}

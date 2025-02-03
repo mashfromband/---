@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「圧縮オプション」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「圧縮オプション」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>エクスポート時に「ファイル圧縮」を選択</pre>\n",
+			"option_html": "<pre>エクスポート時に「ファイル圧縮」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アートボードツールで圧縮設定</pre>\n",
+			"option_html": "<pre>アートボードツールで圧縮設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>印刷設定で圧縮を選択</pre>\n",
+			"option_html": "<pre>印刷設定で圧縮を選択</pre>\n"
+		}
+	]
+}

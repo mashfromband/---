@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>許容量</pre>\n",
+			"option_html": "<pre>許容量</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不透明度</pre>\n",
+			"option_html": "<pre>不透明度</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度</pre>\n",
+			"option_html": "<pre>彩度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>輝度</pre>\n",
+			"option_html": "<pre>輝度</pre>\n"
+		}
+	]
+}

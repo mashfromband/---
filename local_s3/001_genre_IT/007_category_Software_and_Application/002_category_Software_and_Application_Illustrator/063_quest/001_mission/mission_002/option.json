@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>移動ツール</pre>\n",
+			"option_html": "<pre>移動ツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 変形 > 移動</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; 移動</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロパティパネル</pre>\n",
+			"option_html": "<pre>プロパティパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グリッドにスナップ</pre>\n",
+			"option_html": "<pre>グリッドにスナップ</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルの書式設定</pre>\n",
+			"option_html": "<pre>セルの書式設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データタブで並べ替え機能を使う</pre>\n",
+			"option_html": "<pre>データタブで並べ替え機能を使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>条件付き書式を使用する</pre>\n",
+			"option_html": "<pre>条件付き書式を使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>数式を入力する</pre>\n",
+			"option_html": "<pre>数式を入力する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"ITプロジェクト管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトの進捗が自動的に早まる</pre>\n",
+			"option_html": "<pre>プロジェクトの進捗が自動的に早まる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ステークホルダーの要望がすべて正確に反映される</pre>\n",
+			"option_html": "<pre>ステークホルダーの要望がすべて正確に反映される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ステークホルダーの要望が無視され、プロジェクトの進行に支障が出る</pre>\n",
+			"option_html": "<pre>ステークホルダーの要望が無視され、プロジェクトの進行に支障が出る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ステークホルダーがプロジェクトに無関心になるが、影響はない</pre>\n",
+			"option_html": "<pre>ステークホルダーがプロジェクトに無関心になるが、影響はない</pre>\n"
+		}
+	]
+}

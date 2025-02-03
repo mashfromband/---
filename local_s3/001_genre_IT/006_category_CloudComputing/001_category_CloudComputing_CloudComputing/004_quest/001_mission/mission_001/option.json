@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想サーバー、データベース、ストレージなどのインフラサービス</pre>\n",
+			"option_html": "<pre>仮想サーバー、データベース、ストレージなどのインフラサービス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>メールや文書作成のオンラインツール</pre>\n",
+			"option_html": "<pre>メールや文書作成のオンラインツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デスクトップ環境の物理的な提供</pre>\n",
+			"option_html": "<pre>デスクトップ環境の物理的な提供</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハードウェアの購入と管理</pre>\n",
+			"option_html": "<pre>ハードウェアの購入と管理</pre>\n"
+		}
+	]
+}

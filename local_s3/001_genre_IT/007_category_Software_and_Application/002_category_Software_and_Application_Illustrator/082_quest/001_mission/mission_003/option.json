@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字スタイルを設定する</pre>\n",
+			"option_html": "<pre>文字スタイルを設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>テキストを手動で設定し直す</pre>\n",
+			"option_html": "<pre>テキストを手動で設定し直す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>1つ1つ異なる設定をする</pre>\n",
+			"option_html": "<pre>1つ1つ異なる設定をする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>過去の設定を思い出しながら適用する</pre>\n",
+			"option_html": "<pre>過去の設定を思い出しながら適用する</pre>\n"
+		}
+	]
+}

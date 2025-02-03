@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「レイヤーパネル」でテキストレイヤーを右クリックし、「複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」でテキストレイヤーを右クリックし、「複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」から「複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」から「複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤースタイル」から「複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」から「複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「移動ツール」から「複製」を作成する</pre>\n",
+			"option_html": "<pre>「移動ツール」から「複製」を作成する</pre>\n"
+		}
+	]
+}

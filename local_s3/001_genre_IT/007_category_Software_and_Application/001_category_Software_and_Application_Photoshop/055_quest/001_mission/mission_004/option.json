@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>印刷</pre>\n",
+			"option_html": "<pre>印刷</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Webデザイン</pre>\n",
+			"option_html": "<pre>Webデザイン</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>モノクロ写真</pre>\n",
+			"option_html": "<pre>モノクロ写真</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>CMYK変換</pre>\n",
+			"option_html": "<pre>CMYK変換</pre>\n"
+		}
+	]
+}

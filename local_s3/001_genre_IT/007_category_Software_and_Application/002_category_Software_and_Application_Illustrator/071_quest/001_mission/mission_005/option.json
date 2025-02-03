@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字パネルで傾斜角を設定する</pre>\n",
+			"option_html": "<pre>文字パネルで傾斜角を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 変形 > 回転を選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; 回転を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルでテキストの角度を変更する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでテキストの角度を変更する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グラデーションパネルで回転を設定する</pre>\n",
+			"option_html": "<pre>グラデーションパネルで回転を設定する</pre>\n"
+		}
+	]
+}

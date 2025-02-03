@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"ネットワーク",
+		"インターネット技術"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "IPv6では、IPv4に比べてアドレス空間が狭く、利用可能なアドレス数が少ない\n",
+			"option_html": "<p>IPv6では、IPv4に比べてアドレス空間が狭く、利用可能なアドレス数が少ない</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "IPv6は、IPv4と同じアドレス形式を使用している\n",
+			"option_html": "<p>IPv6は、IPv4と同じアドレス形式を使用している</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "IPv6は、アドレスの自動設定機能があり、ネットワークの管理が簡素化されている\n",
+			"option_html": "<p>IPv6は、アドレスの自動設定機能があり、ネットワークの管理が簡素化されている</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "IPv6は、IPv4よりもセキュリティ機能が劣っている\n",
+			"option_html": "<p>IPv6は、IPv4よりもセキュリティ機能が劣っている</p>\n"
+		}
+	]
+}

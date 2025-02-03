@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コントラストが強くなる</pre>\n",
+			"option_html": "<pre>コントラストが強くなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度が減少する</pre>\n",
+			"option_html": "<pre>彩度が減少する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像全体が暗くなる</pre>\n",
+			"option_html": "<pre>画像全体が暗くなる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シャドウ部分が明るくなる</pre>\n",
+			"option_html": "<pre>シャドウ部分が明るくなる</pre>\n"
+		}
+	]
+}

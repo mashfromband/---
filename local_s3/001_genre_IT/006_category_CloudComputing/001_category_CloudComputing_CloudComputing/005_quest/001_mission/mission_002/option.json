@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>特定のソフトウェアをオンプレミスで利用する場合</pre>\n",
+			"option_html": "<pre>特定のソフトウェアをオンプレミスで利用する場合</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>急激なアクセス増加や需要の変動がある場合</pre>\n",
+			"option_html": "<pre>急激なアクセス増加や需要の変動がある場合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サーバーやネットワークを固定的に利用する場合</pre>\n",
+			"option_html": "<pre>サーバーやネットワークを固定的に利用する場合</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハードウェアを長期間にわたって固定費用で運用する場合</pre>\n",
+			"option_html": "<pre>ハードウェアを長期間にわたって固定費用で運用する場合</pre>\n"
+		}
+	]
+}

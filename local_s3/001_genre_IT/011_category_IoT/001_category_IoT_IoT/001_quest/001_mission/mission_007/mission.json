@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コンピューターの利用が減少し、紙媒体が主流になる</pre>\n",
+			"option_html": "<pre>コンピューターの利用が減少し、紙媒体が主流になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>高速インターネットの利用が制限される</pre>\n",
+			"option_html": "<pre>高速インターネットの利用が制限される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートフォンの販売が大幅に減少する</pre>\n",
+			"option_html": "<pre>スマートフォンの販売が大幅に減少する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバイス間のデータ共有が進み、生産性や生活の質が向上する</pre>\n",
+			"option_html": "<pre>デバイス間のデータ共有が進み、生産性や生活の質が向上する</pre>\n"
+		}
+	]
+}

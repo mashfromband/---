@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"バイリンガル向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>My plates.</pre>\n",
+			"option_html": "<pre>My plates.</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>We're men.</pre>\n",
+			"option_html": "<pre>We're men.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>our actors</pre>\n",
+			"option_html": "<pre>our actors</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>these cats</pre>\n",
+			"option_html": "<pre>these cats</pre>\n"
+		}
+	]
+}

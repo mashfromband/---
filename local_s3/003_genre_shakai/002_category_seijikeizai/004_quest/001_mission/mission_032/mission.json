@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "白黒テレビ\n",
+			"option_html": "<p>白黒テレビ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "洗濯機\n",
+			"option_html": "<p>洗濯機</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "冷蔵庫\n",
+			"option_html": "<p>冷蔵庫</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "エアコン\n",
+			"option_html": "<p>エアコン</p>\n"
+		}
+	]
+}

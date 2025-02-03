@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>印刷用のカラー設定を最適化するため</pre>\n",
+			"option_html": "<pre>印刷用のカラー設定を最適化するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>RGB画像をグレースケールに変換するため</pre>\n",
+			"option_html": "<pre>RGB画像をグレースケールに変換するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイルサイズを軽減するため</pre>\n",
+			"option_html": "<pre>ファイルサイズを軽減するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Photoshopの動作速度を向上させるため</pre>\n",
+			"option_html": "<pre>Photoshopの動作速度を向上させるため</pre>\n"
+		}
+	]
+}

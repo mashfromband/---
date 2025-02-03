@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "安全を求める\n権利\n",
+			"option_html": "<p>安全を求める<br>権利</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "知らされる\n権利\n",
+			"option_html": "<p>知らされる<br>権利</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "選択できる\n権利\n",
+			"option_html": "<p>選択できる<br>権利</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "平等にする\n権利\n",
+			"option_html": "<p>平等にする<br>権利</p>\n"
+		}
+	]
+}

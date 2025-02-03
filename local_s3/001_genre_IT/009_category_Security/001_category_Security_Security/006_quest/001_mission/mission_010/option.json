@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>URLが「https://」で始まっていることを確認する</pre>\n",
+			"option_html": "<pre>URLが「https://」で始まっていることを確認する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>URLが「http://」で始まっていることを確認する</pre>\n",
+			"option_html": "<pre>URLが「http://」で始まっていることを確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>インターネットの接続速度を確認する</pre>\n",
+			"option_html": "<pre>インターネットの接続速度を確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サーバー名を確認する</pre>\n",
+			"option_html": "<pre>サーバー名を確認する</pre>\n"
+		}
+	]
+}

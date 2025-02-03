@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>カラーパネルで色相を調整する</pre>\n",
+			"option_html": "<pre>カラーパネルで色相を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションパネルで色相を変更する</pre>\n",
+			"option_html": "<pre>グラデーションパネルで色相を変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スウォッチパネルで色相を選択する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで色相を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルで色相を変更する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで色相を変更する</pre>\n"
+		}
+	]
+}

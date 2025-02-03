@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>政府が価格を固定するため</pre>\n",
+			"option_html": "<pre>政府が価格を固定するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>市場の需要と供給、規制の変化や投資家心理</pre>\n",
+			"option_html": "<pre>市場の需要と供給、規制の変化や投資家心理</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨が物理的な資産と裏付けされているため</pre>\n",
+			"option_html": "<pre>仮想通貨が物理的な資産と裏付けされているため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>全ての取引が中央管理機関に依存しているため</pre>\n",
+			"option_html": "<pre>全ての取引が中央管理機関に依存しているため</pre>\n"
+		}
+	]
+}

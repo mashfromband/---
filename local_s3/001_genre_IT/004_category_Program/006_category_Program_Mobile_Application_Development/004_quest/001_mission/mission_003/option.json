@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>UIは見た目や画面デザインに関するもので、UXは操作体験や使いやすさに関するものである</pre>\n",
+			"option_html": "<pre>UIは見た目や画面デザインに関するもので、UXは操作体験や使いやすさに関するものである</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>UXは視覚的なデザインを指し、UIは使いやすさを改善するものである</pre>\n",
+			"option_html": "<pre>UXは視覚的なデザインを指し、UIは使いやすさを改善するものである</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>UIとUXは同じ意味であり、特に違いはない</pre>\n",
+			"option_html": "<pre>UIとUXは同じ意味であり、特に違いはない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>UIは開発者向けの設計を指し、UXはユーザー向けの機能開発を指す</pre>\n",
+			"option_html": "<pre>UIは開発者向けの設計を指し、UXはユーザー向けの機能開発を指す</pre>\n"
+		}
+	]
+}

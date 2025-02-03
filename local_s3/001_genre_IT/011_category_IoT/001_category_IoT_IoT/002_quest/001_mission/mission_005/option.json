@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>センサー技術</pre>\n",
+			"option_html": "<pre>センサー技術</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アクチュエーター技術</pre>\n",
+			"option_html": "<pre>アクチュエーター技術</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>通信プロトコル</pre>\n",
+			"option_html": "<pre>通信プロトコル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データ解析アルゴリズム</pre>\n",
+			"option_html": "<pre>データ解析アルゴリズム</pre>\n"
+		}
+	]
+}

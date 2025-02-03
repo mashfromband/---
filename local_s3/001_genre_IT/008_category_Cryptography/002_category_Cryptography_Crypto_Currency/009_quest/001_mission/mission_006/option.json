@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引の利便性や価格に大きな影響を与える</pre>\n",
+			"option_html": "<pre>取引の利便性や価格に大きな影響を与える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の供給量が自動的に増加する</pre>\n",
+			"option_html": "<pre>仮想通貨の供給量が自動的に増加する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨の全ての取引が即座に停止する</pre>\n",
+			"option_html": "<pre>仮想通貨の全ての取引が即座に停止する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨が物理的な形に変わる</pre>\n",
+			"option_html": "<pre>仮想通貨が物理的な形に変わる</pre>\n"
+		}
+	]
+}

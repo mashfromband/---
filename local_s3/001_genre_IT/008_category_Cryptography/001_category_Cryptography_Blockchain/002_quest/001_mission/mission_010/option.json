@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>一方向性</pre>\n",
+			"option_html": "<pre>一方向性</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>衝突耐性</pre>\n",
+			"option_html": "<pre>衝突耐性</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>雪崩効果</pre>\n",
+			"option_html": "<pre>雪崩効果</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>分散性</pre>\n",
+			"option_html": "<pre>分散性</pre>\n"
+		}
+	]
+}

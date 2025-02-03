@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"通信技術",
+		"プロトコル"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "HTTP\n",
+			"option_html": "<p>HTTP</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "UDP\n",
+			"option_html": "<p>UDP</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "SSL/TLS\n",
+			"option_html": "<p>SSL/TLS</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "IP\n",
+			"option_html": "<p>IP</p>\n"
+		}
+	]
+}

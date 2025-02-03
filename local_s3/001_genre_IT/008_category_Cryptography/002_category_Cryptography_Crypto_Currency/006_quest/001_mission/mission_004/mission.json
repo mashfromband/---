@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>暗号化技術だけで価格を維持している</pre>\n",
+			"option_html": "<pre>暗号化技術だけで価格を維持している</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>特定の法定通貨や資産と連動する仕組みを持っている</pre>\n",
+			"option_html": "<pre>特定の法定通貨や資産と連動する仕組みを持っている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>価格を取引所が手動で調整している</pre>\n",
+			"option_html": "<pre>価格を取引所が手動で調整している</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他の仮想通貨の価格に依存している</pre>\n",
+			"option_html": "<pre>他の仮想通貨の価格に依存している</pre>\n"
+		}
+	]
+}

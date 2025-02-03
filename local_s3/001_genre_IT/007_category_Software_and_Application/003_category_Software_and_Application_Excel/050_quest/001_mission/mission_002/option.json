@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シート名をダブルクリックして編集する</pre>\n",
+			"option_html": "<pre>シート名をダブルクリックして編集する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>シートを結合する</pre>\n",
+			"option_html": "<pre>シートを結合する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>シートにグラフを挿入する</pre>\n",
+			"option_html": "<pre>シートにグラフを挿入する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シートを保護する</pre>\n",
+			"option_html": "<pre>シートを保護する</pre>\n"
+		}
+	]
+}

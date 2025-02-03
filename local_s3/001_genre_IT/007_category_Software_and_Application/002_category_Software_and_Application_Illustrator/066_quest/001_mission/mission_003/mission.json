@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字パネルで斜体を選択する</pre>\n",
+			"option_html": "<pre>文字パネルで斜体を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルで斜体を設定する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで斜体を設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アピアランスパネルで斜体を設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで斜体を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 3D > 斜体を設定する</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; 斜体を設定する</pre>\n"
+		}
+	]
+}

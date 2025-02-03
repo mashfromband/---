@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>マスク</pre>\n",
+			"option_html": "<pre>マスク</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスファインダー</pre>\n",
+			"option_html": "<pre>パスファインダー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>切り抜きツール</pre>\n",
+			"option_html": "<pre>切り抜きツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>エフェクト</pre>\n",
+			"option_html": "<pre>エフェクト</pre>\n"
+		}
+	]
+}

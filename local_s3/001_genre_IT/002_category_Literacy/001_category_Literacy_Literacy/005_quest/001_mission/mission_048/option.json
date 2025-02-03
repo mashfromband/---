@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ホスティングサービス\n",
+			"option_html": "<p>ホスティングサービス</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "オンプレミス\n",
+			"option_html": "<p>オンプレミス</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "クラウドコンピューティング\n",
+			"option_html": "<p>クラウドコンピューティング</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ハウジングサービス\n",
+			"option_html": "<p>ハウジングサービス</p>\n"
+		}
+	]
+}

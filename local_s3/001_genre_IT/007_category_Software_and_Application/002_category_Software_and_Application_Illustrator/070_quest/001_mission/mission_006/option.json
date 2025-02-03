@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツールでカーブを作成する</pre>\n",
+			"option_html": "<pre>文字ツールでカーブを作成する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルでカーブに沿わせる</pre>\n",
+			"option_html": "<pre>アピアランスパネルでカーブに沿わせる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスにテキストを沿わせる</pre>\n",
+			"option_html": "<pre>パスにテキストを沿わせる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>文字パネルでカーブ設定を行う</pre>\n",
+			"option_html": "<pre>文字パネルでカーブ設定を行う</pre>\n"
+		}
+	]
+}

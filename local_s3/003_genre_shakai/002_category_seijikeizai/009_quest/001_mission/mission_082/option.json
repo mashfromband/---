@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "第一次所得\n収支\n",
+			"option_html": "<p>第一次所得<br>収支</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "第二次所得\n収支\n",
+			"option_html": "<p>第二次所得<br>収支</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "第三次所得\n収支\n",
+			"option_html": "<p>第三次所得<br>収支</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "第四次所得\n収支\n",
+			"option_html": "<p>第四次所得<br>収支</p>\n"
+		}
+	]
+}

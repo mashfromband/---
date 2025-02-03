@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"国際",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ストックホルム\n条約\n",
+			"option_html": "<p>ストックホルム<br>条約</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ヘルシンキ\n条約\n",
+			"option_html": "<p>ヘルシンキ<br>条約</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "コペンハー\nゲン条約\n",
+			"option_html": "<p>コペンハー<br>ゲン条約</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "オスロ条約\n",
+			"option_html": "<p>オスロ条約</p>\n"
+		}
+	]
+}

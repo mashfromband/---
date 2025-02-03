@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ウィンドウ」メニューで「オプション」のチェックを外す</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューで「オプション」のチェックを外す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「編集」メニューで「環境設定」を開く</pre>\n",
+			"option_html": "<pre>「編集」メニューで「環境設定」を開く</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ツールバー右上の設定アイコンをクリックする</pre>\n",
+			"option_html": "<pre>ツールバー右上の設定アイコンをクリックする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オプションバーは非表示にできない</pre>\n",
+			"option_html": "<pre>オプションバーは非表示にできない</pre>\n"
+		}
+	]
+}

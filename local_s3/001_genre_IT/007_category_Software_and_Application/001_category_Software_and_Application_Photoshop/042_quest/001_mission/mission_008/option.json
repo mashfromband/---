@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>テキストツールのオプションバーで設定する</pre>\n",
+			"option_html": "<pre>テキストツールのオプションバーで設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネル右上のメニューを使用する</pre>\n",
+			"option_html": "<pre>レイヤーパネル右上のメニューを使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「編集」メニューの「テキスト設定」を使用する</pre>\n",
+			"option_html": "<pre>「編集」メニューの「テキスト設定」を使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アンチエイリアスは設定できない</pre>\n",
+			"option_html": "<pre>アンチエイリアスは設定できない</pre>\n"
+		}
+	]
+}

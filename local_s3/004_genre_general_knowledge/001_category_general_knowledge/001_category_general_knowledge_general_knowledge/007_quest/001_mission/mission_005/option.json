@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>積極的に協力する態度</pre>\n",
+			"option_html": "<pre>積極的に協力する態度</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>他人の作業を無視する</pre>\n",
+			"option_html": "<pre>他人の作業を無視する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自分の仕事だけを優先する</pre>\n",
+			"option_html": "<pre>自分の仕事だけを優先する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>感謝の気持ちを伝えない</pre>\n",
+			"option_html": "<pre>感謝の気持ちを伝えない</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "核を作らず\n",
+			"option_html": "<p>核を作らず</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "核を持たず\n",
+			"option_html": "<p>核を持たず</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "核を持ち込ませず\n",
+			"option_html": "<p>核を持ち込ませず</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "核を解体する\n",
+			"option_html": "<p>核を解体する</p>\n"
+		}
+	]
+}

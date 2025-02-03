@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"基礎理論",
+		"情報に関する理論"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ソーシャルネットワーク\n",
+			"option_html": "<p>ソーシャルネットワーク</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ニューラルネットワーク\n",
+			"option_html": "<p>ニューラルネットワーク</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "フィージビリティスタディ\n",
+			"option_html": "<p>フィージビリティスタディ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "フォールトトレラント\n",
+			"option_html": "<p>フォールトトレラント</p>\n"
+		}
+	]
+}

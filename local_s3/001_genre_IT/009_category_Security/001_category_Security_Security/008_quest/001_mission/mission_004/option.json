@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データの可用性を向上させるため</pre>\n",
+			"option_html": "<pre>データの可用性を向上させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データが第三者に盗聴や改ざんされるのを防ぐため</pre>\n",
+			"option_html": "<pre>データが第三者に盗聴や改ざんされるのを防ぐため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの削除を簡単にするため</pre>\n",
+			"option_html": "<pre>データの削除を簡単にするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データの圧縮率を上げるため</pre>\n",
+			"option_html": "<pre>データの圧縮率を上げるため</pre>\n"
+		}
+	]
+}

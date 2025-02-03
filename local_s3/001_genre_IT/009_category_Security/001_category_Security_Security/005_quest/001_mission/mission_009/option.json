@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>通信速度を高速化するため</pre>\n",
+			"option_html": "<pre>通信速度を高速化するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークの利用料を削減するため</pre>\n",
+			"option_html": "<pre>ネットワークの利用料を削減するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの盗聴や改ざんを防ぐため</pre>\n",
+			"option_html": "<pre>データの盗聴や改ざんを防ぐため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>通信データを記録するため</pre>\n",
+			"option_html": "<pre>通信データを記録するため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ポートフォリオ管理\n",
+			"option_html": "<p>ポートフォリオ管理</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "戦略的ITプランニング\n",
+			"option_html": "<p>戦略的ITプランニング</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "プロジェクトマネジメント\n",
+			"option_html": "<p>プロジェクトマネジメント</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ベンチマーキング\n",
+			"option_html": "<p>ベンチマーキング</p>\n"
+		}
+	]
+}

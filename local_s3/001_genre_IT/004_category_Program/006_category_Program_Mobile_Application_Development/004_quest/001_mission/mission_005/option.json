@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>iOSアプリのデザインや操作性を統一するための基準を示す</pre>\n",
+			"option_html": "<pre>iOSアプリのデザインや操作性を統一するための基準を示す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Androidアプリ向けに最適なデザインルールを提供する</pre>\n",
+			"option_html": "<pre>Androidアプリ向けに最適なデザインルールを提供する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ウェブアプリケーションのセキュリティ基準を示す</pre>\n",
+			"option_html": "<pre>ウェブアプリケーションのセキュリティ基準を示す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デスクトップアプリケーションの開発ツールを管理する</pre>\n",
+			"option_html": "<pre>デスクトップアプリケーションの開発ツールを管理する</pre>\n"
+		}
+	]
+}

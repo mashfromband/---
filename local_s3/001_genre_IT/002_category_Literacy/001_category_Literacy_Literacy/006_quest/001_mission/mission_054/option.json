@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "データマイニング\n",
+			"option_html": "<p>データマイニング</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ディジタルディバイド\n",
+			"option_html": "<p>ディジタルディバイド</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ディープランニング\n",
+			"option_html": "<p>ディープランニング</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ディジタルトランスフォーメーション\n",
+			"option_html": "<p>ディジタルトランスフォーメーション</p>\n"
+		}
+	]
+}

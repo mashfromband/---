@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "DaaS\n",
+			"option_html": "<p>DaaS</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SaaS\n",
+			"option_html": "<p>SaaS</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "IaaS\n",
+			"option_html": "<p>IaaS</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "PaaS\n",
+			"option_html": "<p>PaaS</p>\n"
+		}
+	]
+}

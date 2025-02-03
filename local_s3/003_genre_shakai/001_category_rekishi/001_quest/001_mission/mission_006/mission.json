@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アンコールワット\n",
+			"option_html": "<p>アンコールワット</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "タプローム\n",
+			"option_html": "<p>タプローム</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "バンテアイスレイ\n",
+			"option_html": "<p>バンテアイスレイ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プノンバケン\n",
+			"option_html": "<p>プノンバケン</p>\n"
+		}
+	]
+}

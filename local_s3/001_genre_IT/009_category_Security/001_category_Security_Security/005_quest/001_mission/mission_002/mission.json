@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>外部からの不正アクセスを防ぐ</pre>\n",
+			"option_html": "<pre>外部からの不正アクセスを防ぐ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの暗号化と復号を行う</pre>\n",
+			"option_html": "<pre>データの暗号化と復号を行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク速度を最適化する</pre>\n",
+			"option_html": "<pre>ネットワーク速度を最適化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザー認証を自動化する</pre>\n",
+			"option_html": "<pre>ユーザー認証を自動化する</pre>\n"
+		}
+	]
+}

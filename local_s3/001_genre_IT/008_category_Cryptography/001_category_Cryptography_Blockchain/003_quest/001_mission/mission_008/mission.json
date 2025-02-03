@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"ブロックチェーン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>すべての取引を中央管理者が確認する。</pre>\n",
+			"option_html": "<pre>すべての取引を中央管理者が確認する。</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>取引が即座に完了する</pre>\n",
+			"option_html": "<pre>取引が即座に完了する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク全体でデータの改ざんを防ぐことができる。</pre>\n",
+			"option_html": "<pre>ネットワーク全体でデータの改ざんを防ぐことができる。</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>必ず一つのノードでデータが保存される。</pre>\n",
+			"option_html": "<pre>必ず一つのノードでデータが保存される。</pre>\n"
+		}
+	]
+}

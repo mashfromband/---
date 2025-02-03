@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "Read Access Memory\n",
+			"option_html": "<p>Read Access Memory</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "Random Access Memory\n",
+			"option_html": "<p>Random Access Memory</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "Run Application Memory\n",
+			"option_html": "<p>Run Application Memory</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "Repeated Access Memory\n",
+			"option_html": "<p>Repeated Access Memory</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルで目のアイコンをオフにする</pre>\n",
+			"option_html": "<pre>レイヤーパネルで目のアイコンをオフにする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > ロック > 非表示</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; ロック &gt; 非表示</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>表示 > 選択を隠す</pre>\n",
+			"option_html": "<pre>表示 &gt; 選択を隠す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロパティパネルで透明度を0%に設定する</pre>\n",
+			"option_html": "<pre>プロパティパネルで透明度を0%に設定する</pre>\n"
+		}
+	]
+}

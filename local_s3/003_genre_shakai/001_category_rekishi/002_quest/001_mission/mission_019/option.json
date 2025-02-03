@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "藤原常嗣\n",
+			"option_html": "<p>藤原常嗣</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "菅原道真\n",
+			"option_html": "<p>菅原道真</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "藤原葛野麻呂\n",
+			"option_html": "<p>藤原葛野麻呂</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "布勢清直\n",
+			"option_html": "<p>布勢清直</p>\n"
+		}
+	]
+}

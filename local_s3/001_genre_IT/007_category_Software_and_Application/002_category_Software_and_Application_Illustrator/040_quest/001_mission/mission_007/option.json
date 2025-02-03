@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ライブトレース</pre>\n",
+			"option_html": "<pre>ライブトレース</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>イメージトレース</pre>\n",
+			"option_html": "<pre>イメージトレース</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスのアウトライン化</pre>\n",
+			"option_html": "<pre>パスのアウトライン化</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>エフェクト > ベクター化</pre>\n",
+			"option_html": "<pre>エフェクト &gt; ベクター化</pre>\n"
+		}
+	]
+}

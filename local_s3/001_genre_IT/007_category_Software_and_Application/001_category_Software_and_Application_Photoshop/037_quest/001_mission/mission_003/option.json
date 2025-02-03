@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + 1（Windows） / Command + 1（Mac）</pre>\n",
+			"option_html": "<pre>Ctrl + 1（Windows） / Command + 1（Mac）</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl + 0（Windows） / Command + 0（Mac）</pre>\n",
+			"option_html": "<pre>Ctrl + 0（Windows） / Command + 0（Mac）</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + Alt + 1（Windows） / Command + Option + 1（Mac）</pre>\n",
+			"option_html": "<pre>Ctrl + Alt + 1（Windows） / Command + Option + 1（Mac）</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + Shift + 0（Windows） / Command + Shift + 0（Mac）</pre>\n",
+			"option_html": "<pre>Ctrl + Shift + 0（Windows） / Command + Shift + 0（Mac）</pre>\n"
+		}
+	]
+}

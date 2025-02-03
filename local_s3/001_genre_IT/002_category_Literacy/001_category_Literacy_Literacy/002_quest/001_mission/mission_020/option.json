@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ニッチ戦略\n",
+			"option_html": "<p>ニッチ戦略</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "アジャイル経営\n",
+			"option_html": "<p>アジャイル経営</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "BCP(事業継続計画)\n",
+			"option_html": "<p>BCP(事業継続計画)</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "CRM\n",
+			"option_html": "<p>CRM</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>患者のデータ管理とトレーサビリティの向上</pre>\n",
+			"option_html": "<pre>患者のデータ管理とトレーサビリティの向上</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>医療機器の自動制御</pre>\n",
+			"option_html": "<pre>医療機器の自動制御</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>医師の診断をAIで置き換える</pre>\n",
+			"option_html": "<pre>医師の診断をAIで置き換える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>病院間での職員の移動管理</pre>\n",
+			"option_html": "<pre>病院間での職員の移動管理</pre>\n"
+		}
+	]
+}

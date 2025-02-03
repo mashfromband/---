@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "システム要件定義\n",
+			"option_html": "<p>システム要件定義</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "システム方式設計\n",
+			"option_html": "<p>システム方式設計</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ソフトウェア方式設計\n",
+			"option_html": "<p>ソフトウェア方式設計</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ソフトウェア要件定義\n",
+			"option_html": "<p>ソフトウェア要件定義</p>\n"
+		}
+	]
+}

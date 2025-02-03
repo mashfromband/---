@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリのデザインをシンプルにするため</pre>\n",
+			"option_html": "<pre>アプリのデザインをシンプルにするため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリのパフォーマンスを向上させるため</pre>\n",
+			"option_html": "<pre>アプリのパフォーマンスを向上させるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネイティブアプリとして動作させるため</pre>\n",
+			"option_html": "<pre>ネイティブアプリとして動作させるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>さまざまな画面サイズのデバイスで快適に利用できるようにするため</pre>\n",
+			"option_html": "<pre>さまざまな画面サイズのデバイスで快適に利用できるようにするため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"バイリンガル向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>These girls are sisters</pre>\n",
+			"option_html": "<pre>These girls are sisters</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>You're already in taxi.</pre>\n",
+			"option_html": "<pre>You're already in taxi.</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Girls're eating cheese.</pre>\n",
+			"option_html": "<pre>Girls're eating cheese.</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Girls're eating apples.</pre>\n",
+			"option_html": "<pre>Girls're eating apples.</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"テキスト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字パネルでスキューを設定する</pre>\n",
+			"option_html": "<pre>文字パネルでスキューを設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 変形 > スキューを選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; スキューを選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > スキューで変形する</pre>\n",
+			"option_html": "<pre>効果 &gt; スキューで変形する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルでスキューを設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでスキューを設定する</pre>\n"
+		}
+	]
+}

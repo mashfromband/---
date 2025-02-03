@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ウィンドウ枠の固定」</pre>\n",
+			"option_html": "<pre>「ウィンドウ枠の固定」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「セルの結合」</pre>\n",
+			"option_html": "<pre>「セルの結合」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「フィルターの追加」</pre>\n",
+			"option_html": "<pre>「フィルターの追加」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「グラフの挿入」</pre>\n",
+			"option_html": "<pre>「グラフの挿入」</pre>\n"
+		}
+	]
+}

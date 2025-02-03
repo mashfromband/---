@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>リソースを完全に共有するモデルであるため</pre>\n",
+			"option_html": "<pre>リソースを完全に共有するモデルであるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>専有型リソースを利用し、カスタマイズが可能なため</pre>\n",
+			"option_html": "<pre>専有型リソースを利用し、カスタマイズが可能なため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>物理的なセキュリティ管理が不要になるため</pre>\n",
+			"option_html": "<pre>物理的なセキュリティ管理が不要になるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>すべてのデータが公共のネットワーク上で管理されるため</pre>\n",
+			"option_html": "<pre>すべてのデータが公共のネットワーク上で管理されるため</pre>\n"
+		}
+	]
+}

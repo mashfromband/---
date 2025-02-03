@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイルの圧縮</pre>\n",
+			"option_html": "<pre>ファイルの圧縮</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>複数の操作を自動化</pre>\n",
+			"option_html": "<pre>複数の操作を自動化</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像のバックアップ</pre>\n",
+			"option_html": "<pre>画像のバックアップ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他の形式への変換</pre>\n",
+			"option_html": "<pre>他の形式への変換</pre>\n"
+		}
+	]
+}

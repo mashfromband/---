@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"豆知識"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>黒と白</pre>\n",
+			"option_html": "<pre>黒と白</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>白と黒</pre>\n",
+			"option_html": "<pre>白と黒</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>赤と青</pre>\n",
+			"option_html": "<pre>赤と青</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>緑と黄色</pre>\n",
+			"option_html": "<pre>緑と黄色</pre>\n"
+		}
+	]
+}

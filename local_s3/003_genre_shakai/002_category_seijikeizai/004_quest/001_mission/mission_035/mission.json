@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "マルチ商法\n",
+			"option_html": "<p>マルチ商法</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "キャッチ\nセールス\n",
+			"option_html": "<p>キャッチ<br>セールス</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "かたり商法\n",
+			"option_html": "<p>かたり商法</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ねずみ講\n",
+			"option_html": "<p>ねずみ講</p>\n"
+		}
+	]
+}

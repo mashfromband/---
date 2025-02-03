@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>退職後は守らなくてもよい</pre>\n",
+			"option_html": "<pre>退職後は守らなくてもよい</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>SNSで業務内容を共有してよい</pre>\n",
+			"option_html": "<pre>SNSで業務内容を共有してよい</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>守秘義務は退職後も継続する</pre>\n",
+			"option_html": "<pre>守秘義務は退職後も継続する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>部署内では守秘義務は不要</pre>\n",
+			"option_html": "<pre>部署内では守秘義務は不要</pre>\n"
+		}
+	]
+}

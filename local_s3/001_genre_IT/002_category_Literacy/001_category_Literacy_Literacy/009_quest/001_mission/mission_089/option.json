@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "アライランス\n",
+			"option_html": "<p>アライランス</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ジョイントベンチャー\n",
+			"option_html": "<p>ジョイントベンチャー</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "IPO\n",
+			"option_html": "<p>IPO</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "インサイダー取引\n",
+			"option_html": "<p>インサイダー取引</p>\n"
+		}
+	]
+}

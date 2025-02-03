@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シャドウ部分</pre>\n",
+			"option_html": "<pre>シャドウ部分</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>中間トーン部分</pre>\n",
+			"option_html": "<pre>中間トーン部分</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハイライト部分</pre>\n",
+			"option_html": "<pre>ハイライト部分</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>彩度が高い部分</pre>\n",
+			"option_html": "<pre>彩度が高い部分</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>高品質な印刷を実現するため</pre>\n",
+			"option_html": "<pre>高品質な印刷を実現するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デザインを簡単にするため</pre>\n",
+			"option_html": "<pre>デザインを簡単にするため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>写真編集を可能にするため</pre>\n",
+			"option_html": "<pre>写真編集を可能にするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ベクターデータを作成するため</pre>\n",
+			"option_html": "<pre>ベクターデータを作成するため</pre>\n"
+		}
+	]
+}

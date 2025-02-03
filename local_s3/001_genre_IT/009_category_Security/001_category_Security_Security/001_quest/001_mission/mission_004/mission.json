@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>必要なときにシステムやデータが使える状態にある</pre>\n",
+			"option_html": "<pre>必要なときにシステムやデータが使える状態にある</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>システムにアクセスできるユーザーを制限する</pre>\n",
+			"option_html": "<pre>システムにアクセスできるユーザーを制限する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>システムが定期的にデータを削除する</pre>\n",
+			"option_html": "<pre>システムが定期的にデータを削除する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>システムが許可されたユーザーだけを識別できる</pre>\n",
+			"option_html": "<pre>システムが許可されたユーザーだけを識別できる</pre>\n"
+		}
+	]
+}

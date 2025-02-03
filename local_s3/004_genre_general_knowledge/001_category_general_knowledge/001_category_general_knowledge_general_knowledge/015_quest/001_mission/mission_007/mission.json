@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"組織理解",
+		"労務基礎（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>①労働基準法②男女雇用機会均等法③労働安全衛生法</pre>\n",
+			"option_html": "<pre>①労働基準法②男女雇用機会均等法③労働安全衛生法</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>①最低賃金法②雇用保険法③労働契約法</pre>\n",
+			"option_html": "<pre>①最低賃金法②雇用保険法③労働契約法</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>①労働基準法②労働組合法③労働関係調整法</pre>\n",
+			"option_html": "<pre>①労働基準法②労働組合法③労働関係調整法</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>①労働者派遣法②職業安定法③雇用保険法</pre>\n",
+			"option_html": "<pre>①労働者派遣法②職業安定法③雇用保険法</pre>\n"
+		}
+	]
+}

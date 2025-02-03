@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "BSC\n",
+			"option_html": "<p>BSC</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "CRM\n",
+			"option_html": "<p>CRM</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ERP\n",
+			"option_html": "<p>ERP</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "PPM\n",
+			"option_html": "<p>PPM</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>CorelDRAW</pre>\n",
+			"option_html": "<pre>CorelDRAW</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Microsoft Paint</pre>\n",
+			"option_html": "<pre>Microsoft Paint</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>AutoCAD</pre>\n",
+			"option_html": "<pre>AutoCAD</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>GIMP</pre>\n",
+			"option_html": "<pre>GIMP</pre>\n"
+		}
+	]
+}

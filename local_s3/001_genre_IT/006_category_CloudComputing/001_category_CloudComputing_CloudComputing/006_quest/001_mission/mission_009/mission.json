@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想マシンやデータの状態を特定の時点で保存する機能</pre>\n",
+			"option_html": "<pre>仮想マシンやデータの状態を特定の時点で保存する機能</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークの通信状況をリアルタイムで監視する機能</pre>\n",
+			"option_html": "<pre>ネットワークの通信状況をリアルタイムで監視する機能</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サーバーの物理的な状態を記録する機能</pre>\n",
+			"option_html": "<pre>サーバーの物理的な状態を記録する機能</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>物理サーバー上にコンテナを展開する技術</pre>\n",
+			"option_html": "<pre>物理サーバー上にコンテナを展開する技術</pre>\n"
+		}
+	]
+}

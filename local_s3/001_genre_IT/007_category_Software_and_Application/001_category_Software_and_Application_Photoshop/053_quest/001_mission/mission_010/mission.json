@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択範囲の境界</pre>\n",
+			"option_html": "<pre>選択範囲の境界</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーの透明度</pre>\n",
+			"option_html": "<pre>レイヤーの透明度</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>解像度</pre>\n",
+			"option_html": "<pre>解像度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>シャドウ、中間調、ハイライト</pre>\n",
+			"option_html": "<pre>シャドウ、中間調、ハイライト</pre>\n"
+		}
+	]
+}

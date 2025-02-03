@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "石橋湛山\n",
+			"option_html": "<p>石橋湛山</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "岸信介\n",
+			"option_html": "<p>岸信介</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "池田勇人\n",
+			"option_html": "<p>池田勇人</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "佐藤栄作\n",
+			"option_html": "<p>佐藤栄作</p>\n"
+		}
+	]
+}

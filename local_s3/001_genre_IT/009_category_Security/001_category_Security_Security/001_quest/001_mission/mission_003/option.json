@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データが複製される</pre>\n",
+			"option_html": "<pre>データが複製される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データが改ざんされ、正しい内容ではなくなる</pre>\n",
+			"option_html": "<pre>データが改ざんされ、正しい内容ではなくなる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データが許可されていない人に見られる</pre>\n",
+			"option_html": "<pre>データが許可されていない人に見られる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データが突然消える</pre>\n",
+			"option_html": "<pre>データが突然消える</pre>\n"
+		}
+	]
+}

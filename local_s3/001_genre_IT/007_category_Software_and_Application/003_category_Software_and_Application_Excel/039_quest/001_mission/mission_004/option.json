@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Altキーを押しながらセルを選択</pre>\n",
+			"option_html": "<pre>Altキーを押しながらセルを選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrlキーを押しながら列番号をクリック</pre>\n",
+			"option_html": "<pre>Ctrlキーを押しながら列番号をクリック</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Shiftキーを押しながらシートタブをクリック</pre>\n",
+			"option_html": "<pre>Shiftキーを押しながらシートタブをクリック</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルを選択して「Ctrl + S」を押す</pre>\n",
+			"option_html": "<pre>セルを選択して「Ctrl + S」を押す</pre>\n"
+		}
+	]
+}

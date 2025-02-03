@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"グラフ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラフはデータの順番を無視して表示される</pre>\n",
+			"option_html": "<pre>グラフはデータの順番を無視して表示される</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラフはデータの順番に従って自動的に更新される</pre>\n",
+			"option_html": "<pre>グラフはデータの順番に従って自動的に更新される</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラフの種類が自動的に変更される</pre>\n",
+			"option_html": "<pre>グラフの種類が自動的に変更される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>グラフは新しいデータ順に手動で更新する必要がある</pre>\n",
+			"option_html": "<pre>グラフは新しいデータ順に手動で更新する必要がある</pre>\n"
+		}
+	]
+}

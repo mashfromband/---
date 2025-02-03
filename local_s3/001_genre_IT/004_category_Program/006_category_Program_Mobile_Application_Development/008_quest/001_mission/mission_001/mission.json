@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリのパフォーマンスを向上させるため</pre>\n",
+			"option_html": "<pre>アプリのパフォーマンスを向上させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データを不正アクセスや盗難から保護するため</pre>\n",
+			"option_html": "<pre>データを不正アクセスや盗難から保護するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリのサイズを小さくするため</pre>\n",
+			"option_html": "<pre>アプリのサイズを小さくするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザーインターフェースを改善するため</pre>\n",
+			"option_html": "<pre>ユーザーインターフェースを改善するため</pre>\n"
+		}
+	]
+}

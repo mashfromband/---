@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>開発者がインフラ管理をせずにコード実行に集中できるモデル</pre>\n",
+			"option_html": "<pre>開発者がインフラ管理をせずにコード実行に集中できるモデル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サーバーを物理的に所有し、管理する必要があるモデル</pre>\n",
+			"option_html": "<pre>サーバーを物理的に所有し、管理する必要があるモデル</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想サーバーを固定的に運用するモデル</pre>\n",
+			"option_html": "<pre>仮想サーバーを固定的に運用するモデル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>完成されたソフトウェアを利用するモデル</pre>\n",
+			"option_html": "<pre>完成されたソフトウェアを利用するモデル</pre>\n"
+		}
+	]
+}

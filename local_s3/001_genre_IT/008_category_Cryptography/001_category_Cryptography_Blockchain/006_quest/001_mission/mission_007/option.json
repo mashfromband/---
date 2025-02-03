@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>投票結果を中央サーバーに保存するため</pre>\n",
+			"option_html": "<pre>投票結果を中央サーバーに保存するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>投票履歴が全ての参加者に公開されるため</pre>\n",
+			"option_html": "<pre>投票履歴が全ての参加者に公開されるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>全ての投票が匿名で行われるため</pre>\n",
+			"option_html": "<pre>全ての投票が匿名で行われるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>投票数をリアルタイムで変更できるため</pre>\n",
+			"option_html": "<pre>投票数をリアルタイムで変更できるため</pre>\n"
+		}
+	]
+}

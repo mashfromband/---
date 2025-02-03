@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Git</pre>\n",
+			"option_html": "<pre>Git</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Gradle</pre>\n",
+			"option_html": "<pre>Gradle</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Logcat</pre>\n",
+			"option_html": "<pre>Logcat</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Sketch</pre>\n",
+			"option_html": "<pre>Sketch</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトを選択してからレイヤーパネルでレイヤーをドラッグする</pre>\n",
+			"option_html": "<pre>オブジェクトを選択してからレイヤーパネルでレイヤーをドラッグする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで「新規レイヤーに移動」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「新規レイヤーに移動」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルでオブジェクトを右クリックして「レイヤーに移動」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルでオブジェクトを右クリックして「レイヤーに移動」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで「レイヤーコピー」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「レイヤーコピー」を選択</pre>\n"
+		}
+	]
+}

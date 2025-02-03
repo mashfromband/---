@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>色相・彩度の調整</pre>\n",
+			"option_html": "<pre>色相・彩度の調整</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レベル補正</pre>\n",
+			"option_html": "<pre>レベル補正</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルターの適用</pre>\n",
+			"option_html": "<pre>フィルターの適用</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択範囲を非表示にする</pre>\n",
+			"option_html": "<pre>選択範囲を非表示にする</pre>\n"
+		}
+	]
+}

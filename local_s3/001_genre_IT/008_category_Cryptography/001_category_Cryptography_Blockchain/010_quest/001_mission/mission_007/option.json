@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>食品廃棄物を削減するための暗号化技術を提供する</pre>\n",
+			"option_html": "<pre>食品廃棄物を削減するための暗号化技術を提供する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>食品の賞味期限を自動的に延長する</pre>\n",
+			"option_html": "<pre>食品の賞味期限を自動的に延長する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>食品の輸送コストを削減できる</pre>\n",
+			"option_html": "<pre>食品の輸送コストを削減できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>生産から消費までの履歴を透明かつ安全に追跡できる</pre>\n",
+			"option_html": "<pre>生産から消費までの履歴を透明かつ安全に追跡できる</pre>\n"
+		}
+	]
+}

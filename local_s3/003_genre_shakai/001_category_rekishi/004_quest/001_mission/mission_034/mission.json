@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "仏教\n",
+			"option_html": "<p>仏教</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ヒンドゥー教\n",
+			"option_html": "<p>ヒンドゥー教</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ユダヤ教\n",
+			"option_html": "<p>ユダヤ教</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "イスラム教\n",
+			"option_html": "<p>イスラム教</p>\n"
+		}
+	]
+}

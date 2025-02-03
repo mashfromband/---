@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ダイレクト選択ツール</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツール</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ペンツール</pre>\n",
+			"option_html": "<pre>ペンツール</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>移動ツール</pre>\n",
+			"option_html": "<pre>移動ツール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>選択ツール</pre>\n",
+			"option_html": "<pre>選択ツール</pre>\n"
+		}
+	]
+}

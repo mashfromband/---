@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "特定外来\n生物法\n",
+			"option_html": "<p>特定外来<br>生物法</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "特定秘密\n保護法\n",
+			"option_html": "<p>特定秘密<br>保護法</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "プライバシー\n保護法\n",
+			"option_html": "<p>プライバシー<br>保護法</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "完全秘密\n保護法\n",
+			"option_html": "<p>完全秘密<br>保護法</p>\n"
+		}
+	]
+}

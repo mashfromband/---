@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>新しい通貨を発行するためのプロセス</pre>\n",
+			"option_html": "<pre>新しい通貨を発行するためのプロセス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ブロックチェーンのルールを大きく変更し、新たな分岐を作ること</pre>\n",
+			"option_html": "<pre>ブロックチェーンのルールを大きく変更し、新たな分岐を作ること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>マイニングを効率化するためのソフトウェア更新</pre>\n",
+			"option_html": "<pre>マイニングを効率化するためのソフトウェア更新</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号資産を冷蔵ウォレットに移す方法</pre>\n",
+			"option_html": "<pre>暗号資産を冷蔵ウォレットに移す方法</pre>\n"
+		}
+	]
+}

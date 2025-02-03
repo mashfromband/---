@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PNG形式</pre>\n",
+			"option_html": "<pre>PNG形式</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>TIFF形式</pre>\n",
+			"option_html": "<pre>TIFF形式</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>JPEG形式</pre>\n",
+			"option_html": "<pre>JPEG形式</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>BMP形式</pre>\n",
+			"option_html": "<pre>BMP形式</pre>\n"
+		}
+	]
+}

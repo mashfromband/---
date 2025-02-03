@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>日時を改める提案をする</pre>\n",
+			"option_html": "<pre>日時を改める提案をする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>話を遮り続ける</pre>\n",
+			"option_html": "<pre>話を遮り続ける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>聞こえないふりをする</pre>\n",
+			"option_html": "<pre>聞こえないふりをする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>何も言わず離れる</pre>\n",
+			"option_html": "<pre>何も言わず離れる</pre>\n"
+		}
+	]
+}

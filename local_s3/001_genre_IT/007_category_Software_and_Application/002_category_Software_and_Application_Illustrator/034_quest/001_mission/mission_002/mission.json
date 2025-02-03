@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パターン編集モードで作成する</pre>\n",
+			"option_html": "<pre>パターン編集モードで作成する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>すべてのパターンを手動で複製する</pre>\n",
+			"option_html": "<pre>すべてのパターンを手動で複製する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>1つのパターンを画像として保存して貼り付ける</pre>\n",
+			"option_html": "<pre>1つのパターンを画像として保存して貼り付ける</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>パターンを毎回新しく作り直す</pre>\n",
+			"option_html": "<pre>パターンを毎回新しく作り直す</pre>\n"
+		}
+	]
+}

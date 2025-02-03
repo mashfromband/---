@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>右側部分</pre>\n",
+			"option_html": "<pre>右側部分</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>左側部分</pre>\n",
+			"option_html": "<pre>左側部分</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションの中央部分</pre>\n",
+			"option_html": "<pre>グラデーションの中央部分</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>設定されていない</pre>\n",
+			"option_html": "<pre>設定されていない</pre>\n"
+		}
+	]
+}

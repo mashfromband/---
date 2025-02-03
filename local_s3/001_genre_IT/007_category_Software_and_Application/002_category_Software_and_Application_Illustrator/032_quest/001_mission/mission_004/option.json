@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ペンツールでアンカーポイントを丸める</pre>\n",
+			"option_html": "<pre>ペンツールでアンカーポイントを丸める</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>角度ツールで丸みをつける</pre>\n",
+			"option_html": "<pre>角度ツールで丸みをつける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ダイレクト選択ツールでアンカーポイントを丸める</pre>\n",
+			"option_html": "<pre>ダイレクト選択ツールでアンカーポイントを丸める</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>角を丸めるツールを使用する</pre>\n",
+			"option_html": "<pre>角を丸めるツールを使用する</pre>\n"
+		}
+	]
+}

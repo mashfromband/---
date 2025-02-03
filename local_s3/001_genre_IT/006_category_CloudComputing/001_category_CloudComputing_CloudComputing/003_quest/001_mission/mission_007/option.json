@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>短期間のシステム開発プロジェクトに利用する</pre>\n",
+			"option_html": "<pre>短期間のシステム開発プロジェクトに利用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリケーションの迅速なデプロイに利用する</pre>\n",
+			"option_html": "<pre>アプリケーションの迅速なデプロイに利用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想サーバーやネットワークを柔軟に構築・管理する</pre>\n",
+			"option_html": "<pre>仮想サーバーやネットワークを柔軟に構築・管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>完成されたソフトウェアを手軽に利用する</pre>\n",
+			"option_html": "<pre>完成されたソフトウェアを手軽に利用する</pre>\n"
+		}
+	]
+}

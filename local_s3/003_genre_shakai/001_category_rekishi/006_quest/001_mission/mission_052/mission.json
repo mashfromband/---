@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "永享一揆\n",
+			"option_html": "<p>永享一揆</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "享徳一揆\n",
+			"option_html": "<p>享徳一揆</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "土一揆\n",
+			"option_html": "<p>土一揆</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "徳政一揆\n",
+			"option_html": "<p>徳政一揆</p>\n"
+		}
+	]
+}

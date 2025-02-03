@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "曹操\n",
+			"option_html": "<p>曹操</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "曹丕\n",
+			"option_html": "<p>曹丕</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "曹叡\n",
+			"option_html": "<p>曹叡</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "曹芳\n",
+			"option_html": "<p>曹芳</p>\n"
+		}
+	]
+}

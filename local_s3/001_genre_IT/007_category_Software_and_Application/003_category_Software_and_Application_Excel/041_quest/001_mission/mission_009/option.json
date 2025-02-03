@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>EXACT関数</pre>\n",
+			"option_html": "<pre>EXACT関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>IF関数</pre>\n",
+			"option_html": "<pre>IF関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>MATCH関数</pre>\n",
+			"option_html": "<pre>MATCH関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>INDEX関数</pre>\n",
+			"option_html": "<pre>INDEX関数</pre>\n"
+		}
+	]
+}

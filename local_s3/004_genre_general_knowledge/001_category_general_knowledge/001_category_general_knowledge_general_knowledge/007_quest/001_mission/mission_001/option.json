@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>周囲を気遣いながら話す</pre>\n",
+			"option_html": "<pre>周囲を気遣いながら話す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自分の話ばかりする</pre>\n",
+			"option_html": "<pre>自分の話ばかりする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>無言で飲み続ける</pre>\n",
+			"option_html": "<pre>無言で飲み続ける</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>早く帰ろうとする</pre>\n",
+			"option_html": "<pre>早く帰ろうとする</pre>\n"
+		}
+	]
+}

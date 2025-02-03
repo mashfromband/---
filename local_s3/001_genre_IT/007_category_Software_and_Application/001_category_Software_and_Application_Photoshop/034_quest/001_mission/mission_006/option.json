@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ファイル」メニューの「新規」</pre>\n",
+			"option_html": "<pre>「ファイル」メニューの「新規」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤー」メニューの「新規塗りつぶしレイヤー」</pre>\n",
+			"option_html": "<pre>「レイヤー」メニューの「新規塗りつぶしレイヤー」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「編集」メニューの「塗りつぶし」</pre>\n",
+			"option_html": "<pre>「編集」メニューの「塗りつぶし」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ウィンドウ」メニューの「レイヤー」</pre>\n",
+			"option_html": "<pre>「ウィンドウ」メニューの「レイヤー」</pre>\n"
+		}
+	]
+}

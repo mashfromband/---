@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>近所の公園をランニングする</pre>\n",
+			"option_html": "<pre>近所の公園をランニングする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スポーツジムに通うための時間を確保する</pre>\n",
+			"option_html": "<pre>スポーツジムに通うための時間を確保する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ジムに入会して、パーソナルトレーナーをつける</pre>\n",
+			"option_html": "<pre>ジムに入会して、パーソナルトレーナーをつける</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分に合った運動メニューを作成してくれるフィットネスアプリを使う</pre>\n",
+			"option_html": "<pre>自分に合った運動メニューを作成してくれるフィットネスアプリを使う</pre>\n"
+		}
+	]
+}

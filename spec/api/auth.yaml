@@ -1,0 +1,756 @@
+openapi: '3.0.3'
+
+info:
+  title: 認証API
+  version: '1.0'
+
+servers:
+  - url: http://localhost:7000/v1
+
+paths:
+  /hello:
+    get:
+      summary: Hello world
+      responses:
+        '200':
+          description: Hello world
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/getHelloResponse'
+
+  /auth/mail-login/temp-regist:
+    post:
+      summary: メールアドレス認証 仮登録
+      requestBody:
+        description: メールアドレス認証 仮アカウント登録
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postMailAuthTempRegistRequest"
+        required: true
+      responses:
+        "200":
+          description: 確認メール送信済み
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/postMailAuthTempRegistSuccessResponse"
+        "400":
+          description: パラメータ誤り
+        "409":
+          description: '登録済みメールアドレスです'
+
+  "/auth/mail-login/regist/{token}":
+    get:
+      summary: メールアドレス認証 トークン確認
+      parameters:
+        - name: token
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'メールアドレス登録用トークン'
+          example: '0123456789abcdef'
+      responses:
+        "200":
+          description: 正当なトークンと確認済み
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/getMailAuthRegistSuccessResponse"
+        "400":
+          description: パラメータ誤り
+        "404":
+          description: トークンが無効(期限切れ)
+
+    post:
+      summary: メールアドレス認証 新規登録
+      parameters:
+        - name: token
+          in: path
+          required: true
+          schema: { type: string }
+          description: 'メールアドレス登録用トークン'
+          example: '0123456789abcdef'
+      requestBody:
+        description: メールアドレス認証 新規登録
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postMailAuthRegistRequest"
+        required: true
+      responses:
+        "200":
+          description: メールアドレス認証 新規登録完了
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/postMailAuthRegistSuccessResponse"
+        "400":
+          description: パラメータ誤り
+        "404":
+          description: トークンが無効(期限切れ)
+
+  /auth/mail-login:
+    post:
+      summary: メールアドレス認証 ログイン
+      requestBody:
+        description: メールアドレス認証 ログイン
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postMailAuthLoginRequest"
+        required: true
+      responses:
+        "200":
+          description: ログイン成功
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/postMailAuthLoginSuccessResponse"
+        "400":
+          description: パラメータ誤り
+        "401":
+          description: ログイン失敗
+
+  /auth/mail-login/password:
+    put:
+      summary: メールアドレス認証 パスワード変更
+      requestBody:
+        description: メールアドレス認証 パスワード変更
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postMailAuthChangePasswordRequest"
+        required: true
+      responses:
+        "204":
+          description: パスワード変更成功
+        "400":
+          description: パラメータ誤り
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/postMailAuthChangePasswordErrorResponse"
+        "401":
+          description: パスワード間違い
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/postMailAuthChangePasswordErrorResponse"
+        "404":
+          description: ユーザーが存在しない
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/postMailAuthChangePasswordErrorResponse"
+
+  /auth/mail-login/forget-password-url:
+    post:
+      summary: メールアドレス認証 パスワード忘れた場合の URL 発行
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postMailAuthForgetPasswordUrlRequest"
+        required: true
+      responses:
+        "200":
+          description: URL 発行成功
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/postMailAuthForgetPasswordUrlSuccessRequest"
+        "400":
+          description: パラメータ誤り
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/commonErrorResponse"
+        "404":
+          description: メールアドレスが登録されていない
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/commonErrorResponse"
+
+  /auth/mail-login/reset-password:
+    post:
+      summary: メールアドレス認証 パスワードリセット
+      requestBody:
+        description: メールアドレス認証 パスワードリセット
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postMailAuthResetPasswordRequest"
+      responses:
+        "204":
+          description: パスワードリセット成功
+        "400":
+          description: パラメータ誤り
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/commonErrorResponse"
+        "404":
+          description: リセットトークン期限切れ
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/commonErrorResponse"
+
+  /auth/logout:
+    post:
+      summary: ログアウト
+      responses:
+        "204":
+          description: ログアウト成功
+
+  /auth/withdrawal:
+    post:
+      summary: 退会
+      responses:
+        "204":
+          description: 退会成功
+        "400":
+          description: パラメータ誤り
+        "404":
+          description: 'すでに退会済みのユーザー'
+
+  /auth/accessToken/valid:
+    post:
+      summary: アクセストークン有効チェック
+      responses:
+        "204":
+          description: 有効
+        "401":
+          description: 無効
+
+  /auth/accessToken:
+    post:
+      summary: アクセストークン取得
+      requestBody:
+        description: リフレッシュトークン
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postAccessTokenSuccessRequest"
+        required: true
+      responses:
+        "200":
+          description: アクセストークン発行成功
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/postAccessTokenSuccessResponse"
+        "400":
+          description: パラメータ誤り
+        "401":
+          description: ログインしていないのでログインし直す
+
+  /admin/auth/mail-login:
+    post:
+      summary: 管理ツール用メールアドレス認証 ログイン
+      requestBody:
+        description: 管理ツール用メールアドレス認証 ログイン
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postAdminMailAuthLoginRequest"
+        required: true
+      responses:
+        "200":
+          description: ログイン成功
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/postAdminMailAuthLoginSuccessResponse"
+        "400":
+          description: パラメータ誤り
+        "401":
+          description: ログイン失敗
+
+  /admin/auth/accessToken:
+    post:
+      summary: 管理ツール用アクセストークン取得
+      requestBody:
+        description: 管理ツール用リフレッシュトークン
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/postAdminAccessTokenSuccessRequest"
+        required: true
+      responses:
+        "200":
+          description: 管理ツール用アクセストークン発行成功
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/postAdminAccessTokenSuccessResponse"
+        "400":
+          description: パラメータ誤り
+        "401":
+          description: ログインしていないのでログインし直す
+
+
+components:
+  schemas:
+    postMailAuthTempRegistRequest:
+      type: object
+      properties:
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+      example:
+        mailAddress: 'user@example.com'
+      required:
+        - mailAddress
+
+    postMailAuthTempRegistSuccessResponse:
+      type: object
+      properties:
+        registUrl:
+          type: string
+          description: '登録用URL(local_develop環境のみ有効、それ以外の環境では空文字列が変える)'
+        expireAt:
+          type: number
+          description: '有効期限(unix time)'
+      example:
+        registUrl: 'http://localhost:7100/regist/0123456789abcdefg'
+        expireAt: 1735657200
+      required:
+        - registUrl
+        - expireAt
+
+    getMailAuthRegistSuccessResponse:
+      type: object
+      properties:
+        isValid:
+          type: boolean
+          description: '正当なトークンか否か'
+        token:
+          type: string
+          description: 'メールアドレス登録用トークン'
+        expireAt:
+          type: number
+          description: '有効期限(unix time)'
+        isFinish:
+          type: boolean
+          description: 'すでに登録済みのトークンか否か'
+      example:
+        isValid: true
+        token: '0123456789abcdef'
+        expireAt: 1735657200
+        isFinish: false
+      required:
+        - isValid
+        - token
+        - expireAt
+        - isFinish
+
+    postMailAuthRegistRequest:
+      type: object
+      properties:
+        password:
+          type: string
+          format: password
+          description: 'パスワード(平文)'
+        nickname:
+          type: string
+          description: 'ユーザーネーム'
+        agreeTerm:
+          type: boolean
+          description: '利用規約に同意したか否か'
+        agreePrivacy:
+          type: boolean
+          description: 'プライバシーポリシーに同意したか否か'
+      example:
+        password: 'password_raw_string'
+        nickname: 'username'
+        agreeTerm: true
+        agreePrivacy: true
+      required:
+        - password
+        - nickname
+        - agreeTerm
+        - agreePrivacy
+
+    postMailAuthRegistSuccessResponse:
+      type: object
+      properties:
+        userId:
+          type: string
+          description: 'ユーザーID'
+        nickname:
+          type: string
+          description: 'ユーザーネーム'
+        accessToken:
+          type: string
+          description: 'アクセストークン'
+        accessTokenExpireAt:
+          type: number
+          description: 'アクセストークンの有効期限(unix time)'
+        refreshToken:
+          type: string
+          description: 'リフレッシュトークン'
+        refreshTokenExpireAt:
+          type: number
+          description: 'リフレッシュトークンの有効期限(unix time)'
+        isFinish:
+          type: boolean
+          description: 'すでに登録処理済みか否か'
+      example:
+        userId: '0123456789abcdef'
+        nickname: 'username'
+        accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjF9.8lSCknTnRANlJ0AVzCgO2yF838WYA7bLaAR7vAKnofo'
+        accessTokenExpireAt: 1735659000
+        refreshToken: '53xz5kD480ax6Oaj31TyiOpYYW2zR21tRKaX91xPk-o'
+        refreshTokenExpireAt: 1735743600
+        isFinish: false
+      required:
+        - userId
+        - nickname
+        - accessToken
+        - accessTokenExpireAt
+        - refreshToken
+        - refreshTokenExpireAt
+        - isFinish
+
+    getHelloResponse:
+      type: object
+      properties:
+        message:
+          type: string
+          description: 'Hello, world!'
+      example:
+        message: 'Hello, world!'
+      required:
+        - message
+
+    postMailAuthLoginRequest:
+      type: object
+      properties:
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+        password:
+          type: string
+          format: password
+          description: 'パスワード(平文)'
+      example:
+        mailAddress: 'user@example.com'
+        password: 'password_raw_string'
+      required:
+        - mailAddress
+        - password
+
+    postAdminMailAuthLoginRequest:
+      type: object
+      properties:
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+        password:
+          type: string
+          format: password
+          description: 'パスワード'
+        cpcode:
+          type: string
+          description: 'CPコード(付与しないと管理者としてログインを試行する)'
+      example:
+        mailAddress: 'user@example.com'
+        password: 'password_raw_string'
+        cpcode: 'CP1234567890'
+      required:
+        - mailAddress
+        - password
+
+    postMailAuthLoginSuccessResponse:
+      type: object
+      properties:
+
+        userId:
+          type: string
+          description: 'ユーザーID'
+        nickname:
+          type: string
+          description: 'ユーザーネーム'
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+        accessToken:
+          type: string
+          description: 'アクセストークン'
+        accessTokenExpireAt:
+          type: number
+          description: 'アクセストークンの有効期限(unix time)'
+        refreshToken:
+          type: string
+          description: 'リフレッシュトークン'
+        refreshTokenExpireAt:
+          type: number
+          description: 'リフレッシュトークンの有効期限(unix time)'
+        userIconId:
+          type: number
+          description: 'ユーザーアイコンID'
+        userIconPath:
+          type: string
+          description: 'アイコンイメージファイルへのパス'
+        level:
+          type: number
+          description: 'ユーザーレベル'
+      example:
+        userId: '0123456789abcdef'
+        nickname: 'username'
+        mailAddress: 'user@example.com'
+        accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjF9.8lSCknTnRANlJ0AVzCgO2yF838WYA7bLaAR7vAKnofo'
+        accessTokenExpireAt: 1735659000
+        refreshToken: '53xz5kD480ax6Oaj31TyiOpYYW2zR21tRKaX91xPk-o'
+        refreshTokenExpireAt: 1735743600
+        userIconId: 1
+        userIconPath: '/icon/img01.png'
+        level: 1
+      required:
+        - userId
+        - nickname
+        - mailAddress
+        - accessToken
+        - accessTokenExpireAt
+        - refreshToken
+        - refreshTokenExpireAt
+        - userIconId
+        - userIconPath
+        - level
+
+    postMailAuthChangePasswordRequest:
+      type: object
+      properties:
+        currentPassword:
+          type: string
+          format: password
+          description: '現在のパスワード(平文)'
+        newPassword:
+          type: string
+          format: password
+          description: '新しいパスワード(平文)'
+        confirmNewPassword:
+          type: string
+          format: password
+          description: '新しいパスワード(確認用)'
+      example:
+        currentPassword: 'current_password_raw_string'
+        newPassword: 'new_password_raw_string'
+        confirmNewPassword: 'new_password_raw_string'
+      required:
+        - currentPassword
+        - newPassword
+        - confirmNewPassword
+
+    postMailAuthChangePasswordErrorResponse:
+      type: object
+      properties:
+        status:
+          type: number
+          description: 'HTTPステータスコード'
+        reason:
+          type: string
+          description: '失敗理由'
+      example:
+        status: 401
+        reason: 'パスワードが違います'
+      required:
+        - status
+        - reason
+
+    postMailAuthForgetPasswordUrlRequest:
+      type: object
+      properties:
+        mailAddress:
+          type: string
+          format: email
+          description: '登録したメールアドレス'
+      example:
+        mailAddress: 'user@example.com'
+      required:
+        - mailAddress
+
+    postMailAuthForgetPasswordUrlSuccessRequest:
+      type: object
+      properties:
+        url:
+          type: string
+          description: 'メール再発行用URL(local_develop環境のみ、他環境では空文字列が帰る)'
+        expireAt:
+          type: number
+          description: '有効期限(unix time)'
+      example:
+        url: 'http://localhost:7000/reset-password'
+        expireAt: 1735657200
+      required:
+        - url
+        - expireAt
+
+    postMailAuthResetPasswordRequest:
+      type: object
+      properties:
+        resetToken:
+          type: string
+          description: 'パスワード再発行用トークン'
+        password:
+          type: string
+          format: password
+          description: 'パスワード(平文)'
+        confirmPassword:
+          type: string
+          format: password
+          description: 'パスワード(確認用)'
+      example:
+        resetToken: 'R2wj9WEzNaIOUnbJy9fu7M3XVmudLnxkKpg3XGW2uO4'
+        password: 'password_raw_string'
+        confirmPassword: 'password_raw_string'
+      required:
+        - resetToken
+        - password
+        - confirmPassword
+
+    postAccessTokenSuccessRequest:
+      type: object
+      properties:
+        refreshToken:
+          type: string
+          description: 'リフレッシュトークン'
+      example:
+        refreshToken: 'xOP2Zw7S_WJZx2EyrNfQjZCk92r9WNzIRO0vA0hLBNM'
+      required:
+        - refreshToken
+
+    postAccessTokenSuccessResponse:
+      type: object
+      properties:
+        accessToken:
+          type: string
+          description: 'アクセストークン'
+        accessTokenExpireAt:
+          type: number
+          description: 'アクセストークンの有効期限(unix time)'
+        refreshToken:
+          type: string
+          description: 'リフレッシュトークン'
+        refreshTokenExpireAt:
+          type: number
+          description: 'リフレッシュトークンの有効期限(unix time)'
+      example:
+        accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjJ9.QYdTqJ5SfsUkimZkmwxuMmWUx1tnY7szfN2g5UT0qDg'
+        accessTokenExpireAt: 1735659000
+        refreshToken: 'FIOBPYUJsIjBPVkvivgWVbXX-L69b2PhZu9t_aKRHHc'
+        refreshTokenExpireAt: 1735743600
+      required:
+        - accessToken
+        - accessTokenExpireAt
+        - refreshToken
+        - refreshTokenExpireAt
+
+    # 暫定処置
+    commonErrorResponse:
+      type: object
+      properties:
+        status:
+          type: number
+          description: 'HTTPステータスコード'
+        reason:
+          type: string
+          description: '失敗理由'
+      example:
+        status: 401
+        reason: 'パスワードが違います'
+      required:
+        - status
+        - reason
+
+    postAdminMailAuthLoginSuccessResponse:
+      type: object
+      properties:
+        userId:
+          type: string
+          description: 'ユーザーID'
+        nickname:
+          type: string
+          description: 'ユーザーネーム'
+        mailAddress:
+          type: string
+          format: email
+          description: 'メールアドレス'
+        accessToken:
+          type: string
+          description: 'アクセストークン'
+        accessTokenExpireAt:
+          type: number
+          description: 'アクセストークンの有効期限'
+        refreshToken:
+          type: string
+          description: 'リフレッシュトークン'
+        refreshTokenExpireAt:
+          type: number
+          description: 'リフレッシュトークンの有効期限'
+        role:
+          type: string
+          description: '役割'
+      example:
+        userId: 'user0123456789'
+        nickname: 'username'
+        mailAddress: 'user@example.com'
+        accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjN9.RhmnKnohSeB_KBHmNd4zAiz7H64SiILrREPN8FkrH4Y'
+        accessTokenExpireAt: 1735659000
+        refreshToken: 'd-eaGU1Av1Lzd1FQG2vwtr0gfcM1_ojML_v0Cgt5lJQ'
+        refreshTokenExpireAt: 1735743600
+        role: 'admin'
+      required:
+        - userId
+        - nickname
+        - mailAddress
+        - accessToken
+        - accessTokenExpireAt
+        - refreshToken
+        - refreshTokenExpireAt
+        - role
+
+    postAdminAccessTokenSuccessRequest:
+      type: object
+      properties:
+        refreshToken:
+          type: string
+          description: 'リフレッシュトークン'
+      example:
+        refreshToken: '_yzk7cyXI2NybC2lk7pXhHowo9e7ZuQpY5mCoFyDcnU'
+      required:
+        - refreshToken
+
+    postAdminAccessTokenSuccessResponse:
+      type: object
+      properties:
+        accessToken:
+          type: string
+          description: 'アクセストークン'
+        accessTokenExpireAt:
+          type: number
+          description: 'アクセストークンの有効期限'
+        refreshToken:
+          type: string
+          description: 'リフレッシュトークン'
+        refreshTokenExpireAt:
+          type: number
+          description: 'リフレッシュトークンの有効期限'
+      example:
+        accessToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjN9.RhmnKnohSeB_KBHmNd4zAiz7H64SiILrREPN8FkrH4Y'
+        accessTokenExpireAt: 1735659000
+        refreshToken: 'EkiNNdrMAXD6J8gB2V69RTK1WcYxqlk0JVukm3YVlL0'
+        refreshTokenExpireAt: 1735743600
+      required:
+        - accessToken
+        - accessTokenExpireAt
+        - refreshToken
+        - refreshTokenExpireAt

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"プログラミング",
+		"エラー処理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "プログラムの速度を上げる\n",
+			"option_html": "<p>プログラムの速度を上げる</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "エラーが発生したときに異常終了を防ぎ、適切な対処を行う\n",
+			"option_html": "<p>エラーが発生したときに異常終了を防ぎ、適切な対処を行う</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "バグを自動修正する\n",
+			"option_html": "<p>バグを自動修正する</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ユーザーインターフェースを改善する\n",
+			"option_html": "<p>ユーザーインターフェースを改善する</p>\n"
+		}
+	]
+}

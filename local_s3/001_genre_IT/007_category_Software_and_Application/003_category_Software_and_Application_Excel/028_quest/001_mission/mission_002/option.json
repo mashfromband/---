@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>数式を使って通貨記号を追加する</pre>\n",
+			"option_html": "<pre>数式を使って通貨記号を追加する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルの書式設定で通貨形式を選択</pre>\n",
+			"option_html": "<pre>セルの書式設定で通貨形式を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セル内に直接「円」などの記号を入力する</pre>\n",
+			"option_html": "<pre>セル内に直接「円」などの記号を入力する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>条件付き書式を使用する</pre>\n",
+			"option_html": "<pre>条件付き書式を使用する</pre>\n"
+		}
+	]
+}

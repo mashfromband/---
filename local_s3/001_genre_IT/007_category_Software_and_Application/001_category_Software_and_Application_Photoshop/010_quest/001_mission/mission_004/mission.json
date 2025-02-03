@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>緑色部分が暗くなる</pre>\n",
+			"option_html": "<pre>緑色部分が暗くなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>緑色部分が明るくなる</pre>\n",
+			"option_html": "<pre>緑色部分が明るくなる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度が増加する</pre>\n",
+			"option_html": "<pre>彩度が増加する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハイライト部分が暗くなる</pre>\n",
+			"option_html": "<pre>ハイライト部分が暗くなる</pre>\n"
+		}
+	]
+}

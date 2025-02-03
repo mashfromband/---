@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "プログラムコードのコンパイル\n",
+			"option_html": "<p>プログラムコードのコンパイル</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "データのバックアップとリカバリ\n",
+			"option_html": "<p>データのバックアップとリカバリ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ファイルシステムの最適化\n",
+			"option_html": "<p>ファイルシステムの最適化</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "メールサーバーの運用管理\n",
+			"option_html": "<p>メールサーバーの運用管理</p>\n"
+		}
+	]
+}

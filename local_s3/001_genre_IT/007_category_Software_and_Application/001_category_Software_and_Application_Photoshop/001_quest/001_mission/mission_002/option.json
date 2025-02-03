@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤースタイル</pre>\n",
+			"option_html": "<pre>レイヤースタイル</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>トランスフォーム</pre>\n",
+			"option_html": "<pre>トランスフォーム</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ぼかし</pre>\n",
+			"option_html": "<pre>ぼかし</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルター</pre>\n",
+			"option_html": "<pre>フィルター</pre>\n"
+		}
+	]
+}

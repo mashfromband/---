@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>F2キーを押す</pre>\n",
+			"option_html": "<pre>F2キーを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルをダブルクリックする</pre>\n",
+			"option_html": "<pre>セルをダブルクリックする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルを選択してCtrl + Aを押す</pre>\n",
+			"option_html": "<pre>セルを選択してCtrl + Aを押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルを選択してCtrl + Cを押す</pre>\n",
+			"option_html": "<pre>セルを選択してCtrl + Cを押す</pre>\n"
+		}
+	]
+}

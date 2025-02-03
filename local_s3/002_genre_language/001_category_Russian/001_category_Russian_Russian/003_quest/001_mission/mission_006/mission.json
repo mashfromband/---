@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"アルファベット"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ローマ字の「ch」</pre>\n",
+			"option_html": "<pre>ローマ字の「ch」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ローマ字の「sh」</pre>\n",
+			"option_html": "<pre>ローマ字の「sh」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ローマ字の「ts」</pre>\n",
+			"option_html": "<pre>ローマ字の「ts」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ローマ字の「shch」</pre>\n",
+			"option_html": "<pre>ローマ字の「shch」</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>処理速度を向上させるため</pre>\n",
+			"option_html": "<pre>処理速度を向上させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの分散性を高めるため</pre>\n",
+			"option_html": "<pre>データの分散性を高めるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>改ざんを防止するため</pre>\n",
+			"option_html": "<pre>改ざんを防止するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートコントラクトを動作させるため</pre>\n",
+			"option_html": "<pre>スマートコントラクトを動作させるため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "通常のHTTP通信と同じである\n",
+			"option_html": "<p>通常のHTTP通信と同じである</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "暗号化された通信を行う\n",
+			"option_html": "<p>暗号化された通信を行う</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "転送速度が速い\n",
+			"option_html": "<p>転送速度が速い</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "サーバーのパフォーマンスを向上させる\n",
+			"option_html": "<p>サーバーのパフォーマンスを向上させる</p>\n"
+		}
+	]
+}

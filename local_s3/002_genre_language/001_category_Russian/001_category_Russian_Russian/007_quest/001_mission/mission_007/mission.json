@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ロシア語",
+		"基礎",
+		"バイリンガル向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>sister</pre>\n",
+			"option_html": "<pre>sister</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>men</pre>\n",
+			"option_html": "<pre>men</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>cats</pre>\n",
+			"option_html": "<pre>cats</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>dog</pre>\n",
+			"option_html": "<pre>dog</pre>\n"
+		}
+	]
+}

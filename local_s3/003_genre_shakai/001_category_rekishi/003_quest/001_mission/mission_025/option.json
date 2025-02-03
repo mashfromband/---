@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "後鳥羽上皇\n",
+			"option_html": "<p>後鳥羽上皇</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "後掘河天皇\n",
+			"option_html": "<p>後掘河天皇</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "順徳天皇\n",
+			"option_html": "<p>順徳天皇</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "土御門天皇\n",
+			"option_html": "<p>土御門天皇</p>\n"
+		}
+	]
+}

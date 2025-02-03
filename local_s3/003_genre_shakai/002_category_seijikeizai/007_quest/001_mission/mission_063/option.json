@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "国富\n",
+			"option_html": "<p>国富</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "国民所得\n",
+			"option_html": "<p>国民所得</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "収入\n",
+			"option_html": "<p>収入</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "預金\n",
+			"option_html": "<p>預金</p>\n"
+		}
+	]
+}

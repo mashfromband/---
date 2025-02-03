@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引情報を非公開にし、データの漏洩を防ぐ</pre>\n",
+			"option_html": "<pre>取引情報を非公開にし、データの漏洩を防ぐ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>全ての契約内容を一箇所に集中管理する</pre>\n",
+			"option_html": "<pre>全ての契約内容を一箇所に集中管理する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>取引履歴を改ざん不可能な形で記録し、関係者全員が確認可能にする</pre>\n",
+			"option_html": "<pre>取引履歴を改ざん不可能な形で記録し、関係者全員が確認可能にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引を手作業で管理し、正確性を保証する</pre>\n",
+			"option_html": "<pre>取引を手作業で管理し、正確性を保証する</pre>\n"
+		}
+	]
+}

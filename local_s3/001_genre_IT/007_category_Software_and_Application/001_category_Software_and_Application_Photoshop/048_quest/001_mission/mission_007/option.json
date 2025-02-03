@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーがズームアウトされている</pre>\n",
+			"option_html": "<pre>レイヤーがズームアウトされている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字サイズが小さく設定されている</pre>\n",
+			"option_html": "<pre>文字サイズが小さく設定されている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>解像度が非常に高く設定されている</pre>\n",
+			"option_html": "<pre>解像度が非常に高く設定されている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>使用しているフォントが小さいサイズに最適化されている</pre>\n",
+			"option_html": "<pre>使用しているフォントが小さいサイズに最適化されている</pre>\n"
+		}
+	]
+}

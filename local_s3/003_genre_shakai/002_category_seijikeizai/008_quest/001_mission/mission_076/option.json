@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "聖域なき\n構造改革\n",
+			"option_html": "<p>聖域なき<br>構造改革</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "聖域なし\n構造改革\n",
+			"option_html": "<p>聖域なし<br>構造改革</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "聖域なき\n政治改革\n",
+			"option_html": "<p>聖域なき<br>政治改革</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "聖域なし\n政治改革\n",
+			"option_html": "<p>聖域なし<br>政治改革</p>\n"
+		}
+	]
+}

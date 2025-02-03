@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像を切り抜く</pre>\n",
+			"option_html": "<pre>画像を切り抜く</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーを非表示にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを部分的に表示または非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーを部分的に表示または非表示にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの解像度を変更する</pre>\n",
+			"option_html": "<pre>レイヤーの解像度を変更する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>変形ツールや数値入力を活用する</pre>\n",
+			"option_html": "<pre>変形ツールや数値入力を活用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>マウスで自由に引っ張って形を調整する</pre>\n",
+			"option_html": "<pre>マウスで自由に引っ張って形を調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>一度削除して新しく作成する</pre>\n",
+			"option_html": "<pre>一度削除して新しく作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>他のソフトウェアで加工してから戻す</pre>\n",
+			"option_html": "<pre>他のソフトウェアで加工してから戻す</pre>\n"
+		}
+	]
+}

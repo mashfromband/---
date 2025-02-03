@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"良い仕事をする為に",
+		"ノウハウとマインド（25）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全て同じ重要度で扱う</pre>\n",
+			"option_html": "<pre>全て同じ重要度で扱う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>緊急性と重要性を考える</pre>\n",
+			"option_html": "<pre>緊急性と重要性を考える</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>全てを後回しにする</pre>\n",
+			"option_html": "<pre>全てを後回しにする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>直感で決める</pre>\n",
+			"option_html": "<pre>直感で決める</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクトの配置や整列が正確になる</pre>\n",
+			"option_html": "<pre>オブジェクトの配置や整列が正確になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>作業中のツールを隠すことができる</pre>\n",
+			"option_html": "<pre>作業中のツールを隠すことができる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>配置のルールを自分でメモする必要がなくなる</pre>\n",
+			"option_html": "<pre>配置のルールを自分でメモする必要がなくなる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイルサイズを小さくすることができる</pre>\n",
+			"option_html": "<pre>ファイルサイズを小さくすることができる</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ラスタ画像をベクター化する</pre>\n",
+			"option_html": "<pre>ラスタ画像をベクター化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像の解像度をそのまま保つ</pre>\n",
+			"option_html": "<pre>画像の解像度をそのまま保つ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>写真の色を調整する</pre>\n",
+			"option_html": "<pre>写真の色を調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ビットマップ画像のサイズを変更する</pre>\n",
+			"option_html": "<pre>ビットマップ画像のサイズを変更する</pre>\n"
+		}
+	]
+}

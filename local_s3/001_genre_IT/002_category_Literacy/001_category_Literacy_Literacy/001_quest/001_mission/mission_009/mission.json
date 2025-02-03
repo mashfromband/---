@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ストラテジ",
+		"経営戦略",
+		"ビジネス経営"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ベンチマーキング\n",
+			"option_html": "<p>ベンチマーキング</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "SWOT分析\n",
+			"option_html": "<p>SWOT分析</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "マーケットリサーチ\n",
+			"option_html": "<p>マーケットリサーチ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "フィジビリティスタディ\n",
+			"option_html": "<p>フィジビリティスタディ</p>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ロシア語の格は使い分けなくても良い</pre>\n",
+			"option_html": "<pre>ロシア語の格は使い分けなくても良い</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ロシア語の格は6つある</pre>\n",
+			"option_html": "<pre>ロシア語の格は6つある</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>通常、ロシア語では格が変わると単語の形も変化する</pre>\n",
+			"option_html": "<pre>通常、ロシア語では格が変わると単語の形も変化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ロシア語の格には「主格」がある</pre>\n",
+			"option_html": "<pre>ロシア語の格には「主格」がある</pre>\n"
+		}
+	]
+}

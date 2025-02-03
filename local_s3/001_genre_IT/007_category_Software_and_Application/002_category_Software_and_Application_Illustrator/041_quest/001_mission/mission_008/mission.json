@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シンボル機能を活用する</pre>\n",
+			"option_html": "<pre>シンボル機能を活用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>各デザインを別々に手動で作成する</pre>\n",
+			"option_html": "<pre>各デザインを別々に手動で作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コピー＆ペーストを繰り返す</pre>\n",
+			"option_html": "<pre>コピー＆ペーストを繰り返す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>新しいプロジェクトをその都度作る</pre>\n",
+			"option_html": "<pre>新しいプロジェクトをその都度作る</pre>\n"
+		}
+	]
+}

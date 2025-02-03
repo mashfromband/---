@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>マスクのリンクが解除されている</pre>\n",
+			"option_html": "<pre>マスクのリンクが解除されている</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>マスク部分が白で塗りつぶされている</pre>\n",
+			"option_html": "<pre>マスク部分が白で塗りつぶされている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スナップが有効になっている</pre>\n",
+			"option_html": "<pre>スナップが有効になっている</pre>\n"
+		}
+	]
+}

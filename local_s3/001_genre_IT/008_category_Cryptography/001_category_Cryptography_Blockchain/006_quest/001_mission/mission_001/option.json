@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ノードの物理的な距離</pre>\n",
+			"option_html": "<pre>ノードの物理的な距離</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>利用する通貨の種類</pre>\n",
+			"option_html": "<pre>利用する通貨の種類</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワークの速度とプライバシーのニーズ</pre>\n",
+			"option_html": "<pre>ネットワークの速度とプライバシーのニーズ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブロックチェーンの構造的な形状</pre>\n",
+			"option_html": "<pre>ブロックチェーンの構造的な形状</pre>\n"
+		}
+	]
+}

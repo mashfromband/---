@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ネットワーク速度を低下させる</pre>\n",
+			"option_html": "<pre>ネットワーク速度を低下させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セキュリティソフトをインストールする</pre>\n",
+			"option_html": "<pre>セキュリティソフトをインストールする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データを暗号化し、身代金を要求する</pre>\n",
+			"option_html": "<pre>データを暗号化し、身代金を要求する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>コンピュータを修理する</pre>\n",
+			"option_html": "<pre>コンピュータを修理する</pre>\n"
+		}
+	]
+}

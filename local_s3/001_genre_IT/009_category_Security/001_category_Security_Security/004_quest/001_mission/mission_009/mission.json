@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスワードを複数のサービスで使い回す</pre>\n",
+			"option_html": "<pre>パスワードを複数のサービスで使い回す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスワードを定期的に変更する</pre>\n",
+			"option_html": "<pre>パスワードを定期的に変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスワードマネージャーを利用する</pre>\n",
+			"option_html": "<pre>パスワードマネージャーを利用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>強力なパスワードを設定する</pre>\n",
+			"option_html": "<pre>強力なパスワードを設定する</pre>\n"
+		}
+	]
+}

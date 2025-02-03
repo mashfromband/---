@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>絵画教室に通って絵を学ぶ</pre>\n",
+			"option_html": "<pre>絵画教室に通って絵を学ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>模写をして練習する</pre>\n",
+			"option_html": "<pre>模写をして練習する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デッサンの本を参考に練習する</pre>\n",
+			"option_html": "<pre>デッサンの本を参考に練習する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>テキストで指示するだけで画像を生成してくれるツールを使う</pre>\n",
+			"option_html": "<pre>テキストで指示するだけで画像を生成してくれるツールを使う</pre>\n"
+		}
+	]
+}

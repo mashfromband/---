@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ファイル」タブ→「印刷」</pre>\n",
+			"option_html": "<pre>「ファイル」タブ→「印刷」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「挿入」タブ→「図の挿入」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「図の挿入」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「ホーム」タブ→「条件付き書式」</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「条件付き書式」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「データ」タブ→「外部データの取得」</pre>\n",
+			"option_html": "<pre>「データ」タブ→「外部データの取得」</pre>\n"
+		}
+	]
+}

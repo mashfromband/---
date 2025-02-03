@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Multiplan</pre>\n",
+			"option_html": "<pre>Multiplan</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Lotus 1-2-3</pre>\n",
+			"option_html": "<pre>Lotus 1-2-3</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Excel 1.0</pre>\n",
+			"option_html": "<pre>Excel 1.0</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>VisiCalc</pre>\n",
+			"option_html": "<pre>VisiCalc</pre>\n"
+		}
+	]
+}

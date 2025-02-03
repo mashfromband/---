@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>塗りつぶしの選択範囲が不正確</pre>\n",
+			"option_html": "<pre>塗りつぶしの選択範囲が不正確</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーがロックされている</pre>\n",
+			"option_html": "<pre>レイヤーがロックされている</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートオブジェクトが適用されている</pre>\n",
+			"option_html": "<pre>スマートオブジェクトが適用されている</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>描画モードが「通常」以外に設定されている</pre>\n",
+			"option_html": "<pre>描画モードが「通常」以外に設定されている</pre>\n"
+		}
+	]
+}

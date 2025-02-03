@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルで「新規レイヤー」を繰り返し追加</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「新規レイヤー」を繰り返し追加</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > レイヤーに分配</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; レイヤーに分配</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルの「選択オブジェクトをレイヤーに分配」を使用</pre>\n",
+			"option_html": "<pre>レイヤーパネルの「選択オブジェクトをレイヤーに分配」を使用</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルで分配設定を行う</pre>\n",
+			"option_html": "<pre>アピアランスパネルで分配設定を行う</pre>\n"
+		}
+	]
+}

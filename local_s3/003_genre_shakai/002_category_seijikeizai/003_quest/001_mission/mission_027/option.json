@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "普通選挙\n",
+			"option_html": "<p>普通選挙</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "制限選挙\n",
+			"option_html": "<p>制限選挙</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "直接選挙\n",
+			"option_html": "<p>直接選挙</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "間接選挙\n",
+			"option_html": "<p>間接選挙</p>\n"
+		}
+	]
+}

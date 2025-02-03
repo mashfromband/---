@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"マネジメント系",
+		"システム監査",
+		"ビジネス戦略"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "コーポレートガバナンス\n",
+			"option_html": "<p>コーポレートガバナンス</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "コンプライアンス監査\n",
+			"option_html": "<p>コンプライアンス監査</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "セキュリティポリシー\n",
+			"option_html": "<p>セキュリティポリシー</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プロジェクトレビュー\n",
+			"option_html": "<p>プロジェクトレビュー</p>\n"
+		}
+	]
+}

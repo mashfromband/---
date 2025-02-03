@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーをロックする</pre>\n",
+			"option_html": "<pre>レイヤーをロックする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーを非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーを非表示にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを統合する</pre>\n",
+			"option_html": "<pre>レイヤーを統合する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーに名前を付ける</pre>\n",
+			"option_html": "<pre>レイヤーに名前を付ける</pre>\n"
+		}
+	]
+}

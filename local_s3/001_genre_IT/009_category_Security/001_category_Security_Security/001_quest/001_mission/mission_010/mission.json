@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データが改ざんされていないか確認する仕組みを導入する</pre>\n",
+			"option_html": "<pre>データが改ざんされていないか確認する仕組みを導入する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データを第三者に公開する</pre>\n",
+			"option_html": "<pre>データを第三者に公開する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの使用期限を設定する</pre>\n",
+			"option_html": "<pre>データの使用期限を設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データを全て削除する</pre>\n",
+			"option_html": "<pre>データを全て削除する</pre>\n"
+		}
+	]
+}

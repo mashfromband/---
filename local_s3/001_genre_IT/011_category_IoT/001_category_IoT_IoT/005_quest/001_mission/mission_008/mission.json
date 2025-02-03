@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データを圧縮してクラウドに送信するため</pre>\n",
+			"option_html": "<pre>データを圧縮してクラウドに送信するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データをエッジで処理し、必要な情報だけをクラウドに送信するため</pre>\n",
+			"option_html": "<pre>データをエッジで処理し、必要な情報だけをクラウドに送信するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワーク速度を向上させるため</pre>\n",
+			"option_html": "<pre>ネットワーク速度を向上させるため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>クラウドとデバイスの接続を遮断するため</pre>\n",
+			"option_html": "<pre>クラウドとデバイスの接続を遮断するため</pre>\n"
+		}
+	]
+}

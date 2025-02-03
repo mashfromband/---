@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>相手が黙るまで話し続ける</pre>\n",
+			"option_html": "<pre>相手が黙るまで話し続ける</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>伝えた後に、相手に確認の質問をする</pre>\n",
+			"option_html": "<pre>伝えた後に、相手に確認の質問をする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>相手の反応を気にせず話を終える</pre>\n",
+			"option_html": "<pre>相手の反応を気にせず話を終える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>再度同じ内容を繰り返して話す</pre>\n",
+			"option_html": "<pre>再度同じ内容を繰り返して話す</pre>\n"
+		}
+	]
+}

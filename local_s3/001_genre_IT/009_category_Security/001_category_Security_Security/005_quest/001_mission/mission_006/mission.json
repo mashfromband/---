@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>不正アクセスを検出し、必要に応じて遮断する</pre>\n",
+			"option_html": "<pre>不正アクセスを検出し、必要に応じて遮断する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークの速度を最適化する</pre>\n",
+			"option_html": "<pre>ネットワークの速度を最適化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データを暗号化して送信する</pre>\n",
+			"option_html": "<pre>データを暗号化して送信する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>不正アクセスの試みを記録し、管理者に通知する</pre>\n",
+			"option_html": "<pre>不正アクセスの試みを記録し、管理者に通知する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"リテラシー",
+		"ITリテラシー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "画像ファイル\n",
+			"option_html": "<p>画像ファイル</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "圧縮されたファイル\n",
+			"option_html": "<p>圧縮されたファイル</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "テキストファイル\n",
+			"option_html": "<p>テキストファイル</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "実行可能なプログラムファイル\n",
+			"option_html": "<p>実行可能なプログラムファイル</p>\n"
+		}
+	]
+}

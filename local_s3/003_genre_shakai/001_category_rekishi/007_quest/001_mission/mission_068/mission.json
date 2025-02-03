@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"日本史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "粟田真人\n",
+			"option_html": "<p>粟田真人</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "阿倍仲麻呂\n",
+			"option_html": "<p>阿倍仲麻呂</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "吉備真備\n",
+			"option_html": "<p>吉備真備</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "犬上御田鍬\n",
+			"option_html": "<p>犬上御田鍬</p>\n"
+		}
+	]
+}

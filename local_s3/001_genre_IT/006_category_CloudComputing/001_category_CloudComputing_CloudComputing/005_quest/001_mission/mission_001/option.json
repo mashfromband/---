@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>固定費用が常に一定で予算管理が容易になる</pre>\n",
+			"option_html": "<pre>固定費用が常に一定で予算管理が容易になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サーバーやインフラの購入が必須になる</pre>\n",
+			"option_html": "<pre>サーバーやインフラの購入が必須になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>初期費用が高額になることがある</pre>\n",
+			"option_html": "<pre>初期費用が高額になることがある</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>必要な分だけ利用した分だけ費用が発生するため、コストを最適化できる</pre>\n",
+			"option_html": "<pre>必要な分だけ利用した分だけ費用が発生するため、コストを最適化できる</pre>\n"
+		}
+	]
+}

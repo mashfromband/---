@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "牽制防衛\n",
+			"option_html": "<p>牽制防衛</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "先制防衛\n",
+			"option_html": "<p>先制防衛</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "正当防衛\n",
+			"option_html": "<p>正当防衛</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "専守防衛\n",
+			"option_html": "<p>専守防衛</p>\n"
+		}
+	]
+}

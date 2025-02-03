@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像をモノクロに変換する際、各色の影響を調整できる</pre>\n",
+			"option_html": "<pre>画像をモノクロに変換する際、各色の影響を調整できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度をゼロにする</pre>\n",
+			"option_html": "<pre>彩度をゼロにする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションマップを適用する</pre>\n",
+			"option_html": "<pre>グラデーションマップを適用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーを非表示にする</pre>\n"
+		}
+	]
+}

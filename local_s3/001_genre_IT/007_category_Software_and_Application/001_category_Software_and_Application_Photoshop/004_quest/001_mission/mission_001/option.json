@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>カラーバランス</pre>\n",
+			"option_html": "<pre>カラーバランス</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションマップ</pre>\n",
+			"option_html": "<pre>グラデーションマップ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>色相・彩度</pre>\n",
+			"option_html": "<pre>色相・彩度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルターギャラリー</pre>\n",
+			"option_html": "<pre>フィルターギャラリー</pre>\n"
+		}
+	]
+}

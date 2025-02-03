@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>シンボルを使用する</pre>\n",
+			"option_html": "<pre>シンボルを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションを使用する</pre>\n",
+			"option_html": "<pre>グラデーションを使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーを複製する</pre>\n",
+			"option_html": "<pre>レイヤーを複製する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スポイトツールを使用する</pre>\n",
+			"option_html": "<pre>スポイトツールを使用する</pre>\n"
+		}
+	]
+}

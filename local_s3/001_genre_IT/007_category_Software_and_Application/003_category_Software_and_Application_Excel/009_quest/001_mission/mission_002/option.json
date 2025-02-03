@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>AND</pre>\n",
+			"option_html": "<pre>AND</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>IF</pre>\n",
+			"option_html": "<pre>IF</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>OR</pre>\n",
+			"option_html": "<pre>OR</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>COUNTIF</pre>\n",
+			"option_html": "<pre>COUNTIF</pre>\n"
+		}
+	]
+}

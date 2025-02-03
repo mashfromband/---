@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>IoTデバイスのバッテリー寿命を延ばす</pre>\n",
+			"option_html": "<pre>IoTデバイスのバッテリー寿命を延ばす</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>大量のデータを保存し、解析を行う</pre>\n",
+			"option_html": "<pre>大量のデータを保存し、解析を行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイス間の近距離通信を可能にする</pre>\n",
+			"option_html": "<pre>デバイス間の近距離通信を可能にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバイスの物理的な動作を制御する</pre>\n",
+			"option_html": "<pre>デバイスの物理的な動作を制御する</pre>\n"
+		}
+	]
+}

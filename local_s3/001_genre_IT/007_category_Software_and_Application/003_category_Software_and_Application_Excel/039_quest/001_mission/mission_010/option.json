@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>MONTH関数</pre>\n",
+			"option_html": "<pre>MONTH関数</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>DAY関数</pre>\n",
+			"option_html": "<pre>DAY関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>YEAR関数</pre>\n",
+			"option_html": "<pre>YEAR関数</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>TEXT関数</pre>\n",
+			"option_html": "<pre>TEXT関数</pre>\n"
+		}
+	]
+}

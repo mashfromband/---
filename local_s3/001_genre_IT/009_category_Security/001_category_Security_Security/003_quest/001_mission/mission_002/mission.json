@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ユーザーの本人確認を行う</pre>\n",
+			"option_html": "<pre>ユーザーの本人確認を行う</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データの暗号化を行う</pre>\n",
+			"option_html": "<pre>データの暗号化を行う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ユーザーがアクセス可能な範囲を決定する</pre>\n",
+			"option_html": "<pre>ユーザーがアクセス可能な範囲を決定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ユーザーの操作履歴を記録する</pre>\n",
+			"option_html": "<pre>ユーザーの操作履歴を記録する</pre>\n"
+		}
+	]
+}

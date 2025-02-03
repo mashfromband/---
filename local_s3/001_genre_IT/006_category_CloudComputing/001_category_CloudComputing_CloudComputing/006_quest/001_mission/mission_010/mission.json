@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリケーションとその依存関係を一つのコンテナにまとめるため</pre>\n",
+			"option_html": "<pre>アプリケーションとその依存関係を一つのコンテナにまとめるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>特定のハードウェアに依存することで動作が保証されるため</pre>\n",
+			"option_html": "<pre>特定のハードウェアに依存することで動作が保証されるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想マシンごとに異なるOSを管理するため</pre>\n",
+			"option_html": "<pre>仮想マシンごとに異なるOSを管理するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>物理サーバー上に直接アプリケーションをインストールするため</pre>\n",
+			"option_html": "<pre>物理サーバー上に直接アプリケーションをインストールするため</pre>\n"
+		}
+	]
+}

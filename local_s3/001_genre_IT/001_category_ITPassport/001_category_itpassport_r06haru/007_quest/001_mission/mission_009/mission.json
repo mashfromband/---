@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"システム構成要素",
+		"システムの構成"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "2T\n",
+			"option_html": "<p>2T</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "3T\n",
+			"option_html": "<p>3T</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "4T\n",
+			"option_html": "<p>4T</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "5T\n",
+			"option_html": "<p>5T</p>\n"
+		}
+	]
+}

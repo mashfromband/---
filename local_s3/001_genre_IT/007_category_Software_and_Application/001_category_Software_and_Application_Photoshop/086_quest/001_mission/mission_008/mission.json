@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「Ctrl + J」を押して複製した後、移動しない</pre>\n",
+			"option_html": "<pre>「Ctrl + J」を押して複製した後、移動しない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「選択範囲」メニューから「レイヤー複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「レイヤー複製」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤーパネル」からドラッグして複製する</pre>\n",
+			"option_html": "<pre>「レイヤーパネル」からドラッグして複製する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤー」メニューから「複製」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤー」メニューから「複製」を選ぶ</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>マークルツリー</pre>\n",
+			"option_html": "<pre>マークルツリー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ハッシュ関数</pre>\n",
+			"option_html": "<pre>ハッシュ関数</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トランザクションプール</pre>\n",
+			"option_html": "<pre>トランザクションプール</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートコントラクト</pre>\n",
+			"option_html": "<pre>スマートコントラクト</pre>\n"
+		}
+	]
+}

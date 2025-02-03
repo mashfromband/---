@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"コミュニケーション",
+		"人の話を聞く14）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「なるほど」と適切に挟む</pre>\n",
+			"option_html": "<pre>「なるほど」と適切に挟む</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>無言で聞き続ける</pre>\n",
+			"option_html": "<pre>無言で聞き続ける</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>相槌を全く打たない</pre>\n",
+			"option_html": "<pre>相槌を全く打たない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>笑わずに聞く</pre>\n",
+			"option_html": "<pre>笑わずに聞く</pre>\n"
+		}
+	]
+}

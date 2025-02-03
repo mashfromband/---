@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"暗号技術",
+		"仮想通貨"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想通貨は暗号資産に含まれる</pre>\n",
+			"option_html": "<pre>仮想通貨は暗号資産に含まれる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>暗号資産は仮想通貨の一部</pre>\n",
+			"option_html": "<pre>暗号資産は仮想通貨の一部</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想通貨は法定通貨と同じ意味</pre>\n",
+			"option_html": "<pre>仮想通貨は法定通貨と同じ意味</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号資産は特定の技術に依存しない</pre>\n",
+			"option_html": "<pre>暗号資産は特定の技術に依存しない</pre>\n"
+		}
+	]
+}

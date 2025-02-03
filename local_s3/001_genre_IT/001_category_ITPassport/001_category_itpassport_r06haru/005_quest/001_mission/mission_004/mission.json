@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"マネジメント系",
+		"サービスマネジメント",
+		"サービスマネジメント"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ITサービスマネジメント\n",
+			"option_html": "<p>ITサービスマネジメント</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "システム監査\n",
+			"option_html": "<p>システム監査</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ヒューマンリソースマネジメント\n",
+			"option_html": "<p>ヒューマンリソースマネジメント</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ファシリティマネジメント\n",
+			"option_html": "<p>ファシリティマネジメント</p>\n"
+		}
+	]
+}

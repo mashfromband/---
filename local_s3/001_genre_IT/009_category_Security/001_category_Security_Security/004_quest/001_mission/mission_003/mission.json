@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスワードの入力ミスを防ぐため</pre>\n",
+			"option_html": "<pre>パスワードの入力ミスを防ぐため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスワードの強度が自動的に上がるため</pre>\n",
+			"option_html": "<pre>パスワードの強度が自動的に上がるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスワードを忘れにくくするため</pre>\n",
+			"option_html": "<pre>パスワードを忘れにくくするため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>不正に取得されたパスワードの長期使用を防ぐため</pre>\n",
+			"option_html": "<pre>不正に取得されたパスワードの長期使用を防ぐため</pre>\n"
+		}
+	]
+}

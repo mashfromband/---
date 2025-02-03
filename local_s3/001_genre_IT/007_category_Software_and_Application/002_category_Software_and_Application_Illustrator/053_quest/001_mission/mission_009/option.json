@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > ノイズ > ノイズを加える</pre>\n",
+			"option_html": "<pre>効果 &gt; ノイズ &gt; ノイズを加える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター > ノイズ > ノイズを加える</pre>\n",
+			"option_html": "<pre>フィルター &gt; ノイズ &gt; ノイズを加える</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > スタイライズ > ノイズ</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; ノイズ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 変形 > ノイズ</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; ノイズ</pre>\n"
+		}
+	]
+}

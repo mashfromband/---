@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>解像度を「高」に設定</pre>\n",
+			"option_html": "<pre>解像度を「高」に設定</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>解像度を「中」に設定</pre>\n",
+			"option_html": "<pre>解像度を「中」に設定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>解像度を「低」に設定</pre>\n",
+			"option_html": "<pre>解像度を「低」に設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>解像度設定はエクスポート時に自動で行われる</pre>\n",
+			"option_html": "<pre>解像度設定はエクスポート時に自動で行われる</pre>\n"
+		}
+	]
+}

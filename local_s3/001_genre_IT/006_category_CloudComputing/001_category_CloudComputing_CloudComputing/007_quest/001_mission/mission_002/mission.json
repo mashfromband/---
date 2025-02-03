@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サーバーが物理的に存在しないため</pre>\n",
+			"option_html": "<pre>サーバーが物理的に存在しないため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>サーバー管理をクラウドプロバイダーが行うため</pre>\n",
+			"option_html": "<pre>サーバー管理をクラウドプロバイダーが行うため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリケーションがサーバーを直接使用しないため</pre>\n",
+			"option_html": "<pre>アプリケーションがサーバーを直接使用しないため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>サーバーの仮想化が行われていないため</pre>\n",
+			"option_html": "<pre>サーバーの仮想化が行われていないため</pre>\n"
+		}
+	]
+}

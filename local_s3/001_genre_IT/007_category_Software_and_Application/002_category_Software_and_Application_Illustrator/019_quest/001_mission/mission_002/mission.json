@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"オブジェクト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Altキーを押しながらドラッグ</pre>\n",
+			"option_html": "<pre>Altキーを押しながらドラッグ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > 変形 > 移動</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; 移動</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 配置 > 基準移動</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 基準移動</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + Shift + M</pre>\n",
+			"option_html": "<pre>Ctrl + Shift + M</pre>\n"
+		}
+	]
+}

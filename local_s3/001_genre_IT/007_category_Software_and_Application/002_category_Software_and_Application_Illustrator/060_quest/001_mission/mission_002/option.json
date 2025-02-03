@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アピアランスパネルで数値を入力する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで数値を入力する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルで色コードを入力する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで色コードを入力する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションパネルで色コードを入力する</pre>\n",
+			"option_html": "<pre>グラデーションパネルで色コードを入力する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>カラーパネルで数値を入力する</pre>\n",
+			"option_html": "<pre>カラーパネルで数値を入力する</pre>\n"
+		}
+	]
+}

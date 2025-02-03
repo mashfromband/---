@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>選択しているレイヤーがスマートオブジェクトかどうか</pre>\n",
+			"option_html": "<pre>選択しているレイヤーがスマートオブジェクトかどうか</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>使用しているフィルターが対応している画像モードかどうか確認する</pre>\n",
+			"option_html": "<pre>使用しているフィルターが対応している画像モードかどうか確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>適用しようとしているレイヤーの不透明度が100%であるか確認する</pre>\n",
+			"option_html": "<pre>適用しようとしているレイヤーの不透明度が100%であるか確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>フィルターをかける前に画像のサイズを小さくしているか確認する</pre>\n",
+			"option_html": "<pre>フィルターをかける前に画像のサイズを小さくしているか確認する</pre>\n"
+		}
+	]
+}

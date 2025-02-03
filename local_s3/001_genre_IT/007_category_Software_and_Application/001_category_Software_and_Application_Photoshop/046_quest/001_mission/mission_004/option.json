@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーをスマートオブジェクトに変換する</pre>\n",
+			"option_html": "<pre>レイヤーをスマートオブジェクトに変換する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>消しゴムツールの不透明度を0%に設定する</pre>\n",
+			"option_html": "<pre>消しゴムツールの不透明度を0%に設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーが「ロック解除」されていることを確認する</pre>\n",
+			"option_html": "<pre>レイヤーが「ロック解除」されていることを確認する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「編集」メニューで「透明化モード」を有効にする</pre>\n",
+			"option_html": "<pre>「編集」メニューで「透明化モード」を有効にする</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>入力データのサイズによって出力の長さが変わる</pre>\n",
+			"option_html": "<pre>入力データのサイズによって出力の長さが変わる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>暗号化キーを必要とする</pre>\n",
+			"option_html": "<pre>暗号化キーを必要とする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>出力データを元に入力データを再現できる</pre>\n",
+			"option_html": "<pre>出力データを元に入力データを再現できる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>同じ入力からは常に同じ出力が得られる</pre>\n",
+			"option_html": "<pre>同じ入力からは常に同じ出力が得られる</pre>\n"
+		}
+	]
+}

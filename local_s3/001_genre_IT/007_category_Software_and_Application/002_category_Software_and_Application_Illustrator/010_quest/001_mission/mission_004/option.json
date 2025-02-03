@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「ページサイズをアートボードに合わせる」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「ページサイズをアートボードに合わせる」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PDF保存時に「アートボードサイズを維持」</pre>\n",
+			"option_html": "<pre>PDF保存時に「アートボードサイズを維持」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 保存時にページサイズ調整</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存時にページサイズ調整</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>印刷設定でページサイズ変更</pre>\n",
+			"option_html": "<pre>印刷設定でページサイズ変更</pre>\n"
+		}
+	]
+}

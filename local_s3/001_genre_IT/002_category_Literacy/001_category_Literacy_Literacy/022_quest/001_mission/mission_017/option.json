@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "オペレーティングシステム\n",
+			"option_html": "<p>オペレーティングシステム</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "キーボード\n",
+			"option_html": "<p>キーボード</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "ワードプロセッサソフト\n",
+			"option_html": "<p>ワードプロセッサソフト</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ウェブブラウザ\n",
+			"option_html": "<p>ウェブブラウザ</p>\n"
+		}
+	]
+}

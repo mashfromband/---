@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>デバイスのデータを即座に解析・可視化するため</pre>\n",
+			"option_html": "<pre>デバイスのデータを即座に解析・可視化するため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デバイスが自動的に電源を供給するため</pre>\n",
+			"option_html": "<pre>デバイスが自動的に電源を供給するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データ転送の頻度を減らすため</pre>\n",
+			"option_html": "<pre>データ転送の頻度を減らすため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データ保存が不要になるため</pre>\n",
+			"option_html": "<pre>データ保存が不要になるため</pre>\n"
+		}
+	]
+}

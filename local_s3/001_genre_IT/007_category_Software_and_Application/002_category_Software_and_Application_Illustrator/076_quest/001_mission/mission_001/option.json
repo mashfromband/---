@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスの反転ツールを使用する</pre>\n",
+			"option_html": "<pre>パスの反転ツールを使用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パス > 方向反転を選択する</pre>\n",
+			"option_html": "<pre>パス &gt; 方向反転を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > 変形で反転を選択する</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形で反転を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ペンツールでパスの方向を手動で変更する</pre>\n",
+			"option_html": "<pre>ペンツールでパスの方向を手動で変更する</pre>\n"
+		}
+	]
+}

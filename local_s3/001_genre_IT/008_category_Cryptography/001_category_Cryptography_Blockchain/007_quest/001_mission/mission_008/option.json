@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>エネルギー取引のコストが増加する</pre>\n",
+			"option_html": "<pre>エネルギー取引のコストが増加する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>小規模エネルギープロバイダー間での直接取引を可能にする</pre>\n",
+			"option_html": "<pre>小規模エネルギープロバイダー間での直接取引を可能にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>エネルギーの取引データを中央機関が管理する</pre>\n",
+			"option_html": "<pre>エネルギーの取引データを中央機関が管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>取引履歴の透明性を低下させる</pre>\n",
+			"option_html": "<pre>取引履歴の透明性を低下させる</pre>\n"
+		}
+	]
+}

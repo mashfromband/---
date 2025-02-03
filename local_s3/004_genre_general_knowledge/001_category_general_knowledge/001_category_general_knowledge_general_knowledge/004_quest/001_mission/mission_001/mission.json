@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ビジネスマナー",
+		"言葉遣い（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>了解しました</pre>\n",
+			"option_html": "<pre>了解しました</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>理解しました</pre>\n",
+			"option_html": "<pre>理解しました</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>はい、かしこまりました</pre>\n",
+			"option_html": "<pre>はい、かしこまりました</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>分かりました</pre>\n",
+			"option_html": "<pre>分かりました</pre>\n"
+		}
+	]
+}

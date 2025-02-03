@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「オ」と「ウ」の中間</pre>\n",
+			"option_html": "<pre>「オ」と「ウ」の中間</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「ウ」と「イ」の中間</pre>\n",
+			"option_html": "<pre>「ウ」と「イ」の中間</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「エ」と「イ」の中間</pre>\n",
+			"option_html": "<pre>「エ」と「イ」の中間</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ア」と「イ」の中間</pre>\n",
+			"option_html": "<pre>「ア」と「イ」の中間</pre>\n"
+		}
+	]
+}

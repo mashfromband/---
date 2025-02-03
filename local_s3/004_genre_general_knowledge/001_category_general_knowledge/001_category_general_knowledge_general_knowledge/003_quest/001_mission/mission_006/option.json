@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>容量が多く実用的なもの</pre>\n",
+			"option_html": "<pre>容量が多く実用的なもの</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>派手なデザインのもの</pre>\n",
+			"option_html": "<pre>派手なデザインのもの</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>カジュアルなリュック</pre>\n",
+			"option_html": "<pre>カジュアルなリュック</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>質感より安価なもの</pre>\n",
+			"option_html": "<pre>質感より安価なもの</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"書式設定"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Excelがクラッシュしたため</pre>\n",
+			"option_html": "<pre>Excelがクラッシュしたため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セル幅が狭いため表示されていない</pre>\n",
+			"option_html": "<pre>セル幅が狭いため表示されていない</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データタブの「並べ替え」を実行したため</pre>\n",
+			"option_html": "<pre>データタブの「並べ替え」を実行したため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>条件付き書式が誤って設定されたため</pre>\n",
+			"option_html": "<pre>条件付き書式が誤って設定されたため</pre>\n"
+		}
+	]
+}

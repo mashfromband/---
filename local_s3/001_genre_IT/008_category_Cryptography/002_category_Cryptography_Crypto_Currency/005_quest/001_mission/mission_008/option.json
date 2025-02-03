@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>取引量が一定になる</pre>\n",
+			"option_html": "<pre>取引量が一定になる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨の供給量が減少する</pre>\n",
+			"option_html": "<pre>仮想通貨の供給量が減少する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>投資家の利益や損失が大きくなる可能性が高まる</pre>\n",
+			"option_html": "<pre>投資家の利益や損失が大きくなる可能性が高まる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>仮想通貨の価格が安定する</pre>\n",
+			"option_html": "<pre>仮想通貨の価格が安定する</pre>\n"
+		}
+	]
+}

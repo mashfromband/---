@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "厳しく\n",
+			"option_html": "<p>厳しく</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "優しく\n",
+			"option_html": "<p>優しく</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "緩く\n",
+			"option_html": "<p>緩く</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "条件付きで\n優しく\n",
+			"option_html": "<p>条件付きで<br>優しく</p>\n"
+		}
+	]
+}

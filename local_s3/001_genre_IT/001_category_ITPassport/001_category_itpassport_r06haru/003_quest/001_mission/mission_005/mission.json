@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"ストラテジ系",
+		"ビジネスインダストリ",
+		"IoTシステム・組込みシステム"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "AR\n",
+			"option_html": "<p>AR</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "GUI\n",
+			"option_html": "<p>GUI</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "VR\n",
+			"option_html": "<p>VR</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "メタバース\n",
+			"option_html": "<p>メタバース</p>\n"
+		}
+	]
+}

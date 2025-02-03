@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Appleが提唱するiOS向けのデザインガイドラインである</pre>\n",
+			"option_html": "<pre>Appleが提唱するiOS向けのデザインガイドラインである</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>色使いや影を使って立体感のあるデザインを提供する</pre>\n",
+			"option_html": "<pre>色使いや影を使って立体感のあるデザインを提供する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>テキストのみを使用してシンプルなUIを実現する</pre>\n",
+			"option_html": "<pre>テキストのみを使用してシンプルなUIを実現する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アニメーションや動きを完全に排除する</pre>\n",
+			"option_html": "<pre>アニメーションや動きを完全に排除する</pre>\n"
+		}
+	]
+}

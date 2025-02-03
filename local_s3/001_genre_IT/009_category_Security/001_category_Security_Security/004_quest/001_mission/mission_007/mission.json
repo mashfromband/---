@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>4文字</pre>\n",
+			"option_html": "<pre>4文字</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>6文字</pre>\n",
+			"option_html": "<pre>6文字</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>8文字</pre>\n",
+			"option_html": "<pre>8文字</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>12文字</pre>\n",
+			"option_html": "<pre>12文字</pre>\n"
+		}
+	]
+}

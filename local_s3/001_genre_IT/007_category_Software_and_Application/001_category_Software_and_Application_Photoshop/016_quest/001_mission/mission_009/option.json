@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを結合したいとき</pre>\n",
+			"option_html": "<pre>レイヤーを結合したいとき</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションにおけるバンディングを防ぎたいとき</pre>\n",
+			"option_html": "<pre>グラデーションにおけるバンディングを防ぎたいとき</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像をトリミングしたいとき</pre>\n",
+			"option_html": "<pre>画像をトリミングしたいとき</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>明度を均一にしたいとき</pre>\n",
+			"option_html": "<pre>明度を均一にしたいとき</pre>\n"
+		}
+	]
+}

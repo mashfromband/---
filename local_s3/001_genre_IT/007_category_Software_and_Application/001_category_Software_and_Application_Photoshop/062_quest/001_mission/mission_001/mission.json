@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"ファイル管理・出力"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl/Cmd + J</pre>\n",
+			"option_html": "<pre>Ctrl/Cmd + J</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Alt + 矢印キー</pre>\n",
+			"option_html": "<pre>Alt + 矢印キー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl/Cmd + T</pre>\n",
+			"option_html": "<pre>Ctrl/Cmd + T</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Shift + 矢印キー</pre>\n",
+			"option_html": "<pre>Shift + 矢印キー</pre>\n"
+		}
+	]
+}

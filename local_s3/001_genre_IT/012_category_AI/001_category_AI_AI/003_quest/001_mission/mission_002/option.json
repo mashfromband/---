@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Synthesia</pre>\n",
+			"option_html": "<pre>Synthesia</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Runway Gen-2</pre>\n",
+			"option_html": "<pre>Runway Gen-2</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Pika</pre>\n",
+			"option_html": "<pre>Pika</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Perplexity</pre>\n",
+			"option_html": "<pre>Perplexity</pre>\n"
+		}
+	]
+}

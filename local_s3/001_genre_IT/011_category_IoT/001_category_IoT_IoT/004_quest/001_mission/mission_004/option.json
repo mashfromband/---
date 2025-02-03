@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データを即座に削除することができる</pre>\n",
+			"option_html": "<pre>データを即座に削除することができる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デバイスにデータ保存用の大容量メモリが不要になる</pre>\n",
+			"option_html": "<pre>デバイスにデータ保存用の大容量メモリが不要になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイス同士が自動的に接続される</pre>\n",
+			"option_html": "<pre>デバイス同士が自動的に接続される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>インターネット接続が不要になる</pre>\n",
+			"option_html": "<pre>インターネット接続が不要になる</pre>\n"
+		}
+	]
+}

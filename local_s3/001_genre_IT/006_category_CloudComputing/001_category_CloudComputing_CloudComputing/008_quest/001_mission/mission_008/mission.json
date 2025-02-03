@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データが失われても復元可能にするため</pre>\n",
+			"option_html": "<pre>データが失われても復元可能にするため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>データをリアルタイムで他のユーザーと共有するため</pre>\n",
+			"option_html": "<pre>データをリアルタイムで他のユーザーと共有するため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データの暗号化を完全に自動化するため</pre>\n",
+			"option_html": "<pre>データの暗号化を完全に自動化するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>バックアップがあるとクラウドコストが削減されるため</pre>\n",
+			"option_html": "<pre>バックアップがあるとクラウドコストが削減されるため</pre>\n"
+		}
+	]
+}

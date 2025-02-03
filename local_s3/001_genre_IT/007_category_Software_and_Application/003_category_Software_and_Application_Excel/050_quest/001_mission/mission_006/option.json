@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルのサイズを調整する</pre>\n",
+			"option_html": "<pre>セルのサイズを調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ページ設定で文字を縮小して印刷</pre>\n",
+			"option_html": "<pre>ページ設定で文字を縮小して印刷</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ページレイアウトタブで調整する</pre>\n",
+			"option_html": "<pre>ページレイアウトタブで調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>印刷プレビューで調整する</pre>\n",
+			"option_html": "<pre>印刷プレビューで調整する</pre>\n"
+		}
+	]
+}

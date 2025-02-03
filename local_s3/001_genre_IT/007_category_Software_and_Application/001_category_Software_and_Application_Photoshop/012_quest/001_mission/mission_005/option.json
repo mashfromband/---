@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>許容量を高く設定する</pre>\n",
+			"option_html": "<pre>許容量を高く設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>許容量を低く設定する</pre>\n",
+			"option_html": "<pre>許容量を低く設定する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>彩度スライダーを調整する</pre>\n",
+			"option_html": "<pre>彩度スライダーを調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーを結合する</pre>\n",
+			"option_html": "<pre>レイヤーを結合する</pre>\n"
+		}
+	]
+}

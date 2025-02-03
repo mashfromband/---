@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スナップを無効にする</pre>\n",
+			"option_html": "<pre>スナップを無効にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスをスマートオブジェクトに変換する</pre>\n",
+			"option_html": "<pre>パスをスマートオブジェクトに変換する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>塗りを適切に設定する</pre>\n",
+			"option_html": "<pre>塗りを適切に設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ハンドルを調整する</pre>\n",
+			"option_html": "<pre>ハンドルを調整する</pre>\n"
+		}
+	]
+}

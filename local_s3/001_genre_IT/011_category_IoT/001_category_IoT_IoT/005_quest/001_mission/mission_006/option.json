@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データをクラウドに保存する装置</pre>\n",
+			"option_html": "<pre>データをクラウドに保存する装置</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ネットワークを監視する専用のハードウェア</pre>\n",
+			"option_html": "<pre>ネットワークを監視する専用のハードウェア</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>インターネットの接続速度を制御する装置</pre>\n",
+			"option_html": "<pre>インターネットの接続速度を制御する装置</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>デバイス近くでデータ処理を行うコンピュータやセンサー</pre>\n",
+			"option_html": "<pre>デバイス近くでデータ処理を行うコンピュータやセンサー</pre>\n"
+		}
+	]
+}

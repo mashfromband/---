@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Enterキー</pre>\n",
+			"option_html": "<pre>Enterキー</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Escキー</pre>\n",
+			"option_html": "<pre>Escキー</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Deleteキー</pre>\n",
+			"option_html": "<pre>Deleteキー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Tabキー</pre>\n",
+			"option_html": "<pre>Tabキー</pre>\n"
+		}
+	]
+}

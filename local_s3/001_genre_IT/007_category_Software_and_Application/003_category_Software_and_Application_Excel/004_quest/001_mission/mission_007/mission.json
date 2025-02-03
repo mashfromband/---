@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"グラフ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>[ページレイアウト]タブから[マーカー]を選ぶ</pre>\n",
+			"option_html": "<pre>[ページレイアウト]タブから[マーカー]を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>[挿入]タブから[マーカー]を選ぶ</pre>\n",
+			"option_html": "<pre>[挿入]タブから[マーカー]を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>[グラフ]を右クリックして[マーカーの追加]を選ぶ</pre>\n",
+			"option_html": "<pre>[グラフ]を右クリックして[マーカーの追加]を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>[グラフツール]の[書式]タブから[データ系列の書式設定]を選び、マーカーを追加する</pre>\n",
+			"option_html": "<pre>[グラフツール]の[書式]タブから[データ系列の書式設定]を選び、マーカーを追加する</pre>\n"
+		}
+	]
+}

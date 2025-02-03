@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"世界史",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "クレオパトラ\n",
+			"option_html": "<p>クレオパトラ</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ベレニケ\n",
+			"option_html": "<p>ベレニケ</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "アルシノエ\n",
+			"option_html": "<p>アルシノエ</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "プトレマイオス\n",
+			"option_html": "<p>プトレマイオス</p>\n"
+		}
+	]
+}

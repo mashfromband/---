@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"セキュリティ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>パスワードを自動的に強化する</pre>\n",
+			"option_html": "<pre>パスワードを自動的に強化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスワードの入力を不要にする</pre>\n",
+			"option_html": "<pre>パスワードの入力を不要にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスワードを記録し、安全に管理する</pre>\n",
+			"option_html": "<pre>パスワードを記録し、安全に管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>不正アクセスを完全に防ぐ</pre>\n",
+			"option_html": "<pre>不正アクセスを完全に防ぐ</pre>\n"
+		}
+	]
+}

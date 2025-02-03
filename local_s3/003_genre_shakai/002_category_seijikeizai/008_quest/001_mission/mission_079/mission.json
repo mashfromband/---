@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"国際",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "PKO\n",
+			"option_html": "<p>PKO</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "PKF\n",
+			"option_html": "<p>PKF</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "UNDP\n",
+			"option_html": "<p>UNDP</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "GNI\n",
+			"option_html": "<p>GNI</p>\n"
+		}
+	]
+}

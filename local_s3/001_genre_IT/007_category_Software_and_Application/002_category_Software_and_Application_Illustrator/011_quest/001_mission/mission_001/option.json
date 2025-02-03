@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > プリント > 複数アートボード</pre>\n",
+			"option_html": "<pre>ファイル &gt; プリント &gt; 複数アートボード</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 印刷設定 > アートボードごとに印刷</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷設定 &gt; アートボードごとに印刷</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 印刷 > アートボードごとに分ける</pre>\n",
+			"option_html": "<pre>ファイル &gt; 印刷 &gt; アートボードごとに分ける</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>印刷メニュー > 複数ページ印刷</pre>\n",
+			"option_html": "<pre>印刷メニュー &gt; 複数ページ印刷</pre>\n"
+		}
+	]
+}

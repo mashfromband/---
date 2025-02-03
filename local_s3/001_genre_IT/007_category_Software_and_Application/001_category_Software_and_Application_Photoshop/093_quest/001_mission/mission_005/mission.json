@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"実践・応用"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字の大きさとコントラスト</pre>\n",
+			"option_html": "<pre>文字の大きさとコントラスト</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>テキストの色</pre>\n",
+			"option_html": "<pre>テキストの色</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像の配置</pre>\n",
+			"option_html": "<pre>画像の配置</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーの統合</pre>\n",
+			"option_html": "<pre>レイヤーの統合</pre>\n"
+		}
+	]
+}

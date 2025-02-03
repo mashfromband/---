@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>通信内容を暗号化する</pre>\n",
+			"option_html": "<pre>通信内容を暗号化する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>不正な通信やアクセスを検知して遮断する</pre>\n",
+			"option_html": "<pre>不正な通信やアクセスを検知して遮断する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ネットワークの速度を高速化する</pre>\n",
+			"option_html": "<pre>ネットワークの速度を高速化する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>通信データをすべて記録する</pre>\n",
+			"option_html": "<pre>通信データをすべて記録する</pre>\n"
+		}
+	]
+}

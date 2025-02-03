@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>医師の診察を不要にする</pre>\n",
+			"option_html": "<pre>医師の診察を不要にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>病院の通信設備をオフライン化する</pre>\n",
+			"option_html": "<pre>病院の通信設備をオフライン化する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>患者のデータを定期的に削除する</pre>\n",
+			"option_html": "<pre>患者のデータを定期的に削除する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ウェアラブルデバイスを通じて健康データをリアルタイムで監視できる</pre>\n",
+			"option_html": "<pre>ウェアラブルデバイスを通じて健康データをリアルタイムで監視できる</pre>\n"
+		}
+	]
+}

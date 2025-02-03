@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>[グラフツール]の[書式]タブ</pre>\n",
+			"option_html": "<pre>[グラフツール]の[書式]タブ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>[挿入]タブ</pre>\n",
+			"option_html": "<pre>[挿入]タブ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>[ページレイアウト]タブ</pre>\n",
+			"option_html": "<pre>[ページレイアウト]タブ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>[デザイン]タブ</pre>\n",
+			"option_html": "<pre>[デザイン]タブ</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>PDF保存時に「最適化されたファイルサイズ」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「最適化されたファイルサイズ」を選択</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>PDF保存時に「高解像度設定」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「高解像度設定」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 書き出し > 圧縮設定</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し &gt; 圧縮設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>PDF保存時に「低解像度設定」を選択</pre>\n",
+			"option_html": "<pre>PDF保存時に「低解像度設定」を選択</pre>\n"
+		}
+	]
+}

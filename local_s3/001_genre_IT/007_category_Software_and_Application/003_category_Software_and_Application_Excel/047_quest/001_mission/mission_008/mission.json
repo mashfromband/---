@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"データ入力・編集"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>SUM</pre>\n",
+			"option_html": "<pre>SUM</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>CONCATENATE</pre>\n",
+			"option_html": "<pre>CONCATENATE</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>VLOOKUP</pre>\n",
+			"option_html": "<pre>VLOOKUP</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>LEFT</pre>\n",
+			"option_html": "<pre>LEFT</pre>\n"
+		}
+	]
+}

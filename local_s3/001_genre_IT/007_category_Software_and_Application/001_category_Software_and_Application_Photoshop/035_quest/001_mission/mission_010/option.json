@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを結合せずに編集すること</pre>\n",
+			"option_html": "<pre>レイヤーを結合せずに編集すること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイルを保存しないで編集すること</pre>\n",
+			"option_html": "<pre>ファイルを保存しないで編集すること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>編集内容を元に戻せない状態で保存すること</pre>\n",
+			"option_html": "<pre>編集内容を元に戻せない状態で保存すること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>元データを直接書き換えること</pre>\n",
+			"option_html": "<pre>元データを直接書き換えること</pre>\n"
+		}
+	]
+}

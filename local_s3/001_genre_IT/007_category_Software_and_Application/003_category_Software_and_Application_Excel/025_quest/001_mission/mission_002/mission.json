@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Excel",
+		"データ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>関数の補完</pre>\n",
+			"option_html": "<pre>関数の補完</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター機能</pre>\n",
+			"option_html": "<pre>フィルター機能</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オートフィル</pre>\n",
+			"option_html": "<pre>オートフィル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>関数の引数のヒント</pre>\n",
+			"option_html": "<pre>関数の引数のヒント</pre>\n"
+		}
+	]
+}

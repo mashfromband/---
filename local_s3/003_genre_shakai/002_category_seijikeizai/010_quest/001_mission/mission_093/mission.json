@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "大きな政府\n",
+			"option_html": "<p>大きな政府</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "デフレ脱却\n",
+			"option_html": "<p>デフレ脱却</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "完全雇用\n",
+			"option_html": "<p>完全雇用</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "貧富格差の\n脱却\n",
+			"option_html": "<p>貧富格差の<br>脱却</p>\n"
+		}
+	]
+}

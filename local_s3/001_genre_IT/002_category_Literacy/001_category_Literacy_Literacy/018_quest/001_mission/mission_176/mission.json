@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"テクノロジ系",
+		"データベース",
+		"インデックス"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "データベースの容量を増やす\n",
+			"option_html": "<p>データベースの容量を増やす</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "データの検索速度を向上させる\n",
+			"option_html": "<p>データの検索速度を向上させる</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "テーブル間のデータを統合する\n",
+			"option_html": "<p>テーブル間のデータを統合する</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "データを圧縮する\n",
+			"option_html": "<p>データを圧縮する</p>\n"
+		}
+	]
+}

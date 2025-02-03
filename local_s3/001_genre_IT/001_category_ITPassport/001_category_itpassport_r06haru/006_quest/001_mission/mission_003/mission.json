@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"マネジメント系",
+		"システム監査",
+		"内部統制"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "過去と現在\n",
+			"option_html": "<p>過去と現在</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "現在\n",
+			"option_html": "<p>現在</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "現在と将来\n",
+			"option_html": "<p>現在と将来</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "将来\n",
+			"option_html": "<p>将来</p>\n"
+		}
+	]
+}

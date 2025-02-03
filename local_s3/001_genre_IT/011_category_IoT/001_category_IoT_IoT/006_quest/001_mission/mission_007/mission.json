@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>サイバー攻撃による不正アクセスを防ぐため</pre>\n",
+			"option_html": "<pre>サイバー攻撃による不正アクセスを防ぐため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デバイスの通信速度を向上させるため</pre>\n",
+			"option_html": "<pre>デバイスの通信速度を向上させるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>古いソフトウェアの利用を停止するため</pre>\n",
+			"option_html": "<pre>古いソフトウェアの利用を停止するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データをクラウドに保存する必要がなくなるため</pre>\n",
+			"option_html": "<pre>データをクラウドに保存する必要がなくなるため</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > 3D > 回転</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; 回転</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター > 3D > 回転</pre>\n",
+			"option_html": "<pre>フィルター &gt; 3D &gt; 回転</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > 変形 > 回転</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; 回転</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>3D > 効果 > 回転</pre>\n",
+			"option_html": "<pre>3D &gt; 効果 &gt; 回転</pre>\n"
+		}
+	]
+}

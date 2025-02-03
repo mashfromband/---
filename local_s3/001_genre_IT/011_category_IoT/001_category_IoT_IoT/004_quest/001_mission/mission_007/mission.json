@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"IoT（モノのインターネット）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>データ処理をデバイス側で完結させるため</pre>\n",
+			"option_html": "<pre>データ処理をデバイス側で完結させるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>デバイスが個別にデータを保存する必要がなくなるため</pre>\n",
+			"option_html": "<pre>デバイスが個別にデータを保存する必要がなくなるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デバイスの消費電力が増加するため</pre>\n",
+			"option_html": "<pre>デバイスの消費電力が増加するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データの処理速度が低下するため</pre>\n",
+			"option_html": "<pre>データの処理速度が低下するため</pre>\n"
+		}
+	]
+}

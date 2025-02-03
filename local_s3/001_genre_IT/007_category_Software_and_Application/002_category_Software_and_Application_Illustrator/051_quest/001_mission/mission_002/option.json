@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > 3D > ボケ</pre>\n",
+			"option_html": "<pre>効果 &gt; 3D &gt; ボケ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 > スタイライズ > ボケ</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; ボケ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フィルター > ぼかし > ガウスぼかし</pre>\n",
+			"option_html": "<pre>フィルター &gt; ぼかし &gt; ガウスぼかし</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 変形 > ボケ</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; ボケ</pre>\n"
+		}
+	]
+}

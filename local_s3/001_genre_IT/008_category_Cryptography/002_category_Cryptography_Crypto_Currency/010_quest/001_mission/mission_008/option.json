@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>マイニング速度を向上させる</pre>\n",
+			"option_html": "<pre>マイニング速度を向上させる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>分散型ネットワークのセキュリティを向上させる</pre>\n",
+			"option_html": "<pre>分散型ネットワークのセキュリティを向上させる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>チェーン外で複数の取引を効率的に処理する</pre>\n",
+			"option_html": "<pre>チェーン外で複数の取引を効率的に処理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>暗号化強度を向上させる</pre>\n",
+			"option_html": "<pre>暗号化強度を向上させる</pre>\n"
+		}
+	]
+}

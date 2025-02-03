@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"レイヤー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでレイヤーをドラッグして上に移動</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーをドラッグして上に移動</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>レイヤーパネルで右クリックして「前面に移動」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックして「前面に移動」を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルでレイヤーを選択してCtrl + Shift + ]を押す</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーを選択してCtrl + Shift + ]を押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで「配置を変更」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「配置を変更」を選択</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 配置 > 移動</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 移動</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>編集 > 移動</pre>\n",
+			"option_html": "<pre>編集 &gt; 移動</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>オブジェクト > 変形 > 移動</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; 移動</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>表示 > 移動オプション</pre>\n",
+			"option_html": "<pre>表示 &gt; 移動オプション</pre>\n"
+		}
+	]
+}

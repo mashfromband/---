@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グリッドにスナップ</pre>\n",
+			"option_html": "<pre>グリッドにスナップ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスにスナップ</pre>\n",
+			"option_html": "<pre>パスにスナップ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アラインパネル</pre>\n",
+			"option_html": "<pre>アラインパネル</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > 整列 > パスに揃える</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 整列 &gt; パスに揃える</pre>\n"
+		}
+	]
+}

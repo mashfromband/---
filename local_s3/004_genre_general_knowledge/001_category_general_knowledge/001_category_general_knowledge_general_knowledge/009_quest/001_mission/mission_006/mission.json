@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"コミュニケーション",
+		"人間関係構築（10）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>お互いの緊張感を和らげるため</pre>\n",
+			"option_html": "<pre>お互いの緊張感を和らげるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>相手に気に入ってもらうため</pre>\n",
+			"option_html": "<pre>相手に気に入ってもらうため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>お互いのことを理解してもらうため</pre>\n",
+			"option_html": "<pre>お互いのことを理解してもらうため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>相手の心を開いてもらうため</pre>\n",
+			"option_html": "<pre>相手の心を開いてもらうため</pre>\n"
+		}
+	]
+}

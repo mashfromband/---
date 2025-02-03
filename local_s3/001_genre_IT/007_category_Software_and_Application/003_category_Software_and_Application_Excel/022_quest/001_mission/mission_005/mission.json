@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"データ整理・管理"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>セルの内容を一括でコピー＆ペースト</pre>\n",
+			"option_html": "<pre>セルの内容を一括でコピー＆ペースト</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>空白セルに数式を入力</pre>\n",
+			"option_html": "<pre>空白セルに数式を入力</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルの書式設定</pre>\n",
+			"option_html": "<pre>セルの書式設定</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データの並べ替え</pre>\n",
+			"option_html": "<pre>データの並べ替え</pre>\n"
+		}
+	]
+}

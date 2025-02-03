@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>曲線を描く技術</pre>\n",
+			"option_html": "<pre>曲線を描く技術</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ベジェという数学者</pre>\n",
+			"option_html": "<pre>ベジェという数学者</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>フランスのデザイナー</pre>\n",
+			"option_html": "<pre>フランスのデザイナー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Adobeの開発者の名前</pre>\n",
+			"option_html": "<pre>Adobeの開発者の名前</pre>\n"
+		}
+	]
+}

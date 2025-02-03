@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "50万\n",
+			"option_html": "<p>50万</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "100万\n",
+			"option_html": "<p>100万</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "150万\n",
+			"option_html": "<p>150万</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "200万\n",
+			"option_html": "<p>200万</p>\n"
+		}
+	]
+}

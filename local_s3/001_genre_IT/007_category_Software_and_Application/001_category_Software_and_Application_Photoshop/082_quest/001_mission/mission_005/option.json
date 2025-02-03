@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「選択範囲」メニューから「変形」を選ぶ</pre>\n",
+			"option_html": "<pre>「選択範囲」メニューから「変形」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「自由変形」ツールを使う</pre>\n",
+			"option_html": "<pre>「自由変形」ツールを使う</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「レイヤー」メニューから「変形」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤー」メニューから「変形」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ペンツール」を使って変形する</pre>\n",
+			"option_html": "<pre>「ペンツール」を使って変形する</pre>\n"
+		}
+	]
+}

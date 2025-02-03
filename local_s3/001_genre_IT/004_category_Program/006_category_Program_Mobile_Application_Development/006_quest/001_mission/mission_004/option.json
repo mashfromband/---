@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ソースコードの記述</pre>\n",
+			"option_html": "<pre>ソースコードの記述</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ユーザーインターフェースやアーキテクチャの設計</pre>\n",
+			"option_html": "<pre>ユーザーインターフェースやアーキテクチャの設計</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリの公開作業</pre>\n",
+			"option_html": "<pre>アプリの公開作業</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロトタイピングの実施</pre>\n",
+			"option_html": "<pre>プロトタイピングの実施</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>AutoCAD</pre>\n",
+			"option_html": "<pre>AutoCAD</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Aldus FreeHand</pre>\n",
+			"option_html": "<pre>Aldus FreeHand</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>CorelDRAW</pre>\n",
+			"option_html": "<pre>CorelDRAW</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>MacPaint</pre>\n",
+			"option_html": "<pre>MacPaint</pre>\n"
+		}
+	]
+}

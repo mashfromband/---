@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>仮想マシンごとに異なるOSを管理できる</pre>\n",
+			"option_html": "<pre>仮想マシンごとに異なるOSを管理できる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>物理サーバーのハードウェア管理が容易になる</pre>\n",
+			"option_html": "<pre>物理サーバーのハードウェア管理が容易になる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリケーションを軽量かつ迅速にデプロイできる</pre>\n",
+			"option_html": "<pre>アプリケーションを軽量かつ迅速にデプロイできる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データのバックアップを物理的に行いやすくなる</pre>\n",
+			"option_html": "<pre>データのバックアップを物理的に行いやすくなる</pre>\n"
+		}
+	]
+}

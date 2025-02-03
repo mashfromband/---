@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ログを確認することで不正アクセスや異常を早期に発見できるため</pre>\n",
+			"option_html": "<pre>ログを確認することで不正アクセスや異常を早期に発見できるため</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ログ管理がクラウドコストを削減する主要な手段であるため</pre>\n",
+			"option_html": "<pre>ログ管理がクラウドコストを削減する主要な手段であるため</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ログを定期的に削除することでデータの安全性が向上するため</pre>\n",
+			"option_html": "<pre>ログを定期的に削除することでデータの安全性が向上するため</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ログがバックアップを不要にするため</pre>\n",
+			"option_html": "<pre>ログがバックアップを不要にするため</pre>\n"
+		}
+	]
+}

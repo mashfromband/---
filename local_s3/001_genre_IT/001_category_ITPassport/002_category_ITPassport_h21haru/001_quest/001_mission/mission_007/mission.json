@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"ストラテジ系",
+		"企業活動",
+		"業務分析・データ利活用"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "A\n",
+			"option_html": "<p>A</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "B\n",
+			"option_html": "<p>B</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "C\n",
+			"option_html": "<p>C</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "D\n",
+			"option_html": "<p>D</p>\n"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"政治経済",
+		"",
+		""
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "国民主権\n",
+			"option_html": "<p>国民主権</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "平和主義\n",
+			"option_html": "<p>平和主義</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "基本的人権の尊重\n",
+			"option_html": "<p>基本的人権の尊重</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "保守主義\n",
+			"option_html": "<p>保守主義</p>\n"
+		}
+	]
+}

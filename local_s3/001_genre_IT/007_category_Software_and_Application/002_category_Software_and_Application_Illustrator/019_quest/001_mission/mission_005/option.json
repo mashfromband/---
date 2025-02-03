@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 配置 > 整列</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 配置 &gt; 整列</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Shiftキーを押しながらドラッグする</pre>\n",
+			"option_html": "<pre>Shiftキーを押しながらドラッグする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrlキーを押しながらドラッグする</pre>\n",
+			"option_html": "<pre>Ctrlキーを押しながらドラッグする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートガイドを有効にする</pre>\n",
+			"option_html": "<pre>スマートガイドを有効にする</pre>\n"
+		}
+	]
+}

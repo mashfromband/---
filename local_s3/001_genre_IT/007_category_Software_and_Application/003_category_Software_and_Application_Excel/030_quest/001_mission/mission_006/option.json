@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + Sを押す</pre>\n",
+			"option_html": "<pre>Ctrl + Sを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Alt + F4を押す</pre>\n",
+			"option_html": "<pre>Alt + F4を押す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrlキーを押しながらシートタブをクリックする</pre>\n",
+			"option_html": "<pre>Ctrlキーを押しながらシートタブをクリックする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Shift + Spaceを押す</pre>\n",
+			"option_html": "<pre>Shift + Spaceを押す</pre>\n"
+		}
+	]
+}

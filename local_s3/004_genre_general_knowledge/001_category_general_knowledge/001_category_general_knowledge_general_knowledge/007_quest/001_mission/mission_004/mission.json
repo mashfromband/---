@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"コミュニケーション",
+		"よい印象を与える（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>はっきりとした声で話す</pre>\n",
+			"option_html": "<pre>はっきりとした声で話す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>低い声で話す</pre>\n",
+			"option_html": "<pre>低い声で話す</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>感情を抑えすぎる</pre>\n",
+			"option_html": "<pre>感情を抑えすぎる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>長話を避ける</pre>\n",
+			"option_html": "<pre>長話を避ける</pre>\n"
+		}
+	]
+}

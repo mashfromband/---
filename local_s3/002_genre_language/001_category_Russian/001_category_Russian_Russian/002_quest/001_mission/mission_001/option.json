@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>\"lemon\" の \"l\"</pre>\n",
+			"option_html": "<pre>\"lemon\" の \"l\"</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>\"jamp\" の \"j\"</pre>\n",
+			"option_html": "<pre>\"jamp\" の \"j\"</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre> \"boy\" の \"y\"</pre>\n",
+			"option_html": "<pre> \"boy\" の \"y\"</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>\"mother\" の \"m\"</pre>\n",
+			"option_html": "<pre>\"mother\" の \"m\"</pre>\n"
+		}
+	]
+}

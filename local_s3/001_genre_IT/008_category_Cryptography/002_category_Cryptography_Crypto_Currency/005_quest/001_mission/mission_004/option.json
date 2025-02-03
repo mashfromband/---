@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全ての取引が匿名で行われる</pre>\n",
+			"option_html": "<pre>全ての取引が匿名で行われる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>仮想通貨取引所が全ての取引を管理する</pre>\n",
+			"option_html": "<pre>仮想通貨取引所が全ての取引を管理する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>中央サーバーでデータをバックアップする</pre>\n",
+			"option_html": "<pre>中央サーバーでデータをバックアップする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ブロックチェーンにより取引が暗号化されて記録される</pre>\n",
+			"option_html": "<pre>ブロックチェーンにより取引が暗号化されて記録される</pre>\n"
+		}
+	]
+}

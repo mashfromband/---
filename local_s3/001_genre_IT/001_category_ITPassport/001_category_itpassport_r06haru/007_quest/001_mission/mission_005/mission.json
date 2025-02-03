@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"基礎理論",
+		"情報に関する理論"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "",
+			"option_html": ""
+		},
+		{
+			"id": "イ",
+			"option_md": "",
+			"option_html": ""
+		},
+		{
+			"id": "ウ",
+			"option_md": "",
+			"option_html": ""
+		},
+		{
+			"id": "エ",
+			"option_md": "",
+			"option_html": ""
+		}
+	]
+}

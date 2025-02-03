@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>常に固定の倍率で作業する</pre>\n",
+			"option_html": "<pre>常に固定の倍率で作業する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Ctrl（Cmd）＋スペースキーを使用する</pre>\n",
+			"option_html": "<pre>Ctrl（Cmd）＋スペースキーを使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>手動でビューを動かして調整する</pre>\n",
+			"option_html": "<pre>手動でビューを動かして調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>必要に応じて新しいウィンドウを開く</pre>\n",
+			"option_html": "<pre>必要に応じて新しいウィンドウを開く</pre>\n"
+		}
+	]
+}

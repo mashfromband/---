@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>挿入タブで「画像」を追加する</pre>\n",
+			"option_html": "<pre>挿入タブで「画像」を追加する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セルを結合してデータを入力する</pre>\n",
+			"option_html": "<pre>セルを結合してデータを入力する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データタブの「データの検証」を使用する</pre>\n",
+			"option_html": "<pre>データタブの「データの検証」を使用する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>入力したいシートをCtrlキーを押しながら選択してデータを入力する</pre>\n",
+			"option_html": "<pre>入力したいシートをCtrlキーを押しながら選択してデータを入力する</pre>\n"
+		}
+	]
+}

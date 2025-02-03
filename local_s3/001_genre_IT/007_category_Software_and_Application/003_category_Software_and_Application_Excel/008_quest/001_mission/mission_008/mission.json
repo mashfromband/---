@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Excel",
+		"基本操作"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>数値と文字列を不適切に組み合わせて計算しようとした場合</pre>\n",
+			"option_html": "<pre>数値と文字列を不適切に組み合わせて計算しようとした場合</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>参照しているセルが削除された場合</pre>\n",
+			"option_html": "<pre>参照しているセルが削除された場合</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ゼロで割ろうとした場合</pre>\n",
+			"option_html": "<pre>ゼロで割ろうとした場合</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>セルが非表示になっている場合</pre>\n",
+			"option_html": "<pre>セルが非表示になっている場合</pre>\n"
+		}
+	]
+}

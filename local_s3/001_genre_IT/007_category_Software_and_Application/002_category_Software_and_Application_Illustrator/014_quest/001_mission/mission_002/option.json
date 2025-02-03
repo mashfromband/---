@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 → ぼかし → ガウスぼかし</pre>\n",
+			"option_html": "<pre>効果 → ぼかし → ガウスぼかし</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>効果 → スタイライズ → ドロップシャドウ</pre>\n",
+			"option_html": "<pre>効果 → スタイライズ → ドロップシャドウ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 → 変形 → ラフ</pre>\n",
+			"option_html": "<pre>効果 → 変形 → ラフ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 → パス → アウトライン化</pre>\n",
+			"option_html": "<pre>効果 → パス → アウトライン化</pre>\n"
+		}
+	]
+}

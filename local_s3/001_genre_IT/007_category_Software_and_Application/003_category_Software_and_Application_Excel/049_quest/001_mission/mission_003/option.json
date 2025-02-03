@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラフの作成</pre>\n",
+			"option_html": "<pre>グラフの作成</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ウィンドウ枠の固定</pre>\n",
+			"option_html": "<pre>ウィンドウ枠の固定</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>セルの結合</pre>\n",
+			"option_html": "<pre>セルの結合</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>条件付き書式</pre>\n",
+			"option_html": "<pre>条件付き書式</pre>\n"
+		}
+	]
+}

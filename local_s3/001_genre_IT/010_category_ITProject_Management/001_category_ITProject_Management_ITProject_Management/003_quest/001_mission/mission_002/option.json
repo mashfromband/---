@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>プロジェクトのコストと予算の管理</pre>\n",
+			"option_html": "<pre>プロジェクトのコストと予算の管理</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>プロジェクトの作業範囲や達成すべき目標</pre>\n",
+			"option_html": "<pre>プロジェクトの作業範囲や達成すべき目標</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>プロジェクトのスケジュールや進捗状況</pre>\n",
+			"option_html": "<pre>プロジェクトのスケジュールや進捗状況</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>プロジェクトに必要なリソースの一覧</pre>\n",
+			"option_html": "<pre>プロジェクトに必要なリソースの一覧</pre>\n"
+		}
+	]
+}

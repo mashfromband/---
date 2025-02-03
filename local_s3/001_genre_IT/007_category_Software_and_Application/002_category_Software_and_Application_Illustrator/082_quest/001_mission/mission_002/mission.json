@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アセットエクスポート</pre>\n",
+			"option_html": "<pre>アセットエクスポート</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>手動で1つずつ保存</pre>\n",
+			"option_html": "<pre>手動で1つずつ保存</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>必要に応じて新しいファイルを作成</pre>\n",
+			"option_html": "<pre>必要に応じて新しいファイルを作成</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>各アートボードを個別に編集</pre>\n",
+			"option_html": "<pre>各アートボードを個別に編集</pre>\n"
+		}
+	]
+}

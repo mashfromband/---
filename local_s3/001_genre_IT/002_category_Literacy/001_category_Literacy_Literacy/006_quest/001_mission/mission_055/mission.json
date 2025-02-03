@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"システム",
+		"トレンド技術"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "メタバース\n",
+			"option_html": "<p>メタバース</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ディジタルディバイド\n",
+			"option_html": "<p>ディジタルディバイド</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "VR\n",
+			"option_html": "<p>VR</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "ミラーリング\n",
+			"option_html": "<p>ミラーリング</p>\n"
+		}
+	]
+}

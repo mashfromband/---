@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"オブジェクト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>オブジェクト > 変形 > 移動を使用し、複数回繰り返す</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 変形 &gt; 移動を使用し、複数回繰り返す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスファインダー > 配列を使用する</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 配列を使用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スマートガイドを有効にしてドラッグする</pre>\n",
+			"option_html": "<pre>スマートガイドを有効にしてドラッグする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アラインパネルで「グリッド配置」を選択する</pre>\n",
+			"option_html": "<pre>アラインパネルで「グリッド配置」を選択する</pre>\n"
+		}
+	]
+}

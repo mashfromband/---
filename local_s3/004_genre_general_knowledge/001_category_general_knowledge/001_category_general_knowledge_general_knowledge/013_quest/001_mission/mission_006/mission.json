@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"組織理解",
+		"組織論の常識（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>下位層の意見が反映されやすい</pre>\n",
+			"option_html": "<pre>下位層の意見が反映されやすい</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>上司の指示が絶対</pre>\n",
+			"option_html": "<pre>上司の指示が絶対</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>社外の意見を重視する</pre>\n",
+			"option_html": "<pre>社外の意見を重視する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>意見を出す機会が少ない</pre>\n",
+			"option_html": "<pre>意見を出す機会が少ない</pre>\n"
+		}
+	]
+}

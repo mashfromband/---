@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>名前を名乗らない</pre>\n",
+			"option_html": "<pre>名前を名乗らない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>自分から先に挨拶をする</pre>\n",
+			"option_html": "<pre>自分から先に挨拶をする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>名刺を渡さない</pre>\n",
+			"option_html": "<pre>名刺を渡さない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>話しかけられるまで待つ</pre>\n",
+			"option_html": "<pre>話しかけられるまで待つ</pre>\n"
+		}
+	]
+}

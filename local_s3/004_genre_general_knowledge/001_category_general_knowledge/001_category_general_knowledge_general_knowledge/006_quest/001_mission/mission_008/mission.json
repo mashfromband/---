@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"コミュニケーション",
+		"よい印象を与える（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「助かりました、ありがとうございます」</pre>\n",
+			"option_html": "<pre>「助かりました、ありがとうございます」</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「当然のことです」</pre>\n",
+			"option_html": "<pre>「当然のことです」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「別に感謝しません」</pre>\n",
+			"option_html": "<pre>「別に感謝しません」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「これが普通でしょう」</pre>\n",
+			"option_html": "<pre>「これが普通でしょう」</pre>\n"
+		}
+	]
+}

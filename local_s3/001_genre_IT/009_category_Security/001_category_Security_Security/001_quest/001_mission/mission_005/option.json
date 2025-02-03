@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>コンピュータにインストールされたアプリケーション</pre>\n",
+			"option_html": "<pre>コンピュータにインストールされたアプリケーション</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>セキュリティポリシーの一覧</pre>\n",
+			"option_html": "<pre>セキュリティポリシーの一覧</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ウイルス対策ソフトの動作状況</pre>\n",
+			"option_html": "<pre>ウイルス対策ソフトの動作状況</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データやシステムに悪影響を与える可能性のあるもの</pre>\n",
+			"option_html": "<pre>データやシステムに悪影響を与える可能性のあるもの</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Photoshop"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを整理する</pre>\n",
+			"option_html": "<pre>レイヤーを整理する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>画像の編集履歴を確認する</pre>\n",
+			"option_html": "<pre>画像の編集履歴を確認する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デザインの配置を正確にする</pre>\n",
+			"option_html": "<pre>デザインの配置を正確にする</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特定の部分を隠す</pre>\n",
+			"option_html": "<pre>特定の部分を隠す</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>整列パネルを活用する</pre>\n",
+			"option_html": "<pre>整列パネルを活用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グリッドを使わず目測で調整する</pre>\n",
+			"option_html": "<pre>グリッドを使わず目測で調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>手動で1つずつ位置を合わせる</pre>\n",
+			"option_html": "<pre>手動で1つずつ位置を合わせる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>それぞれの位置を覚えておく</pre>\n",
+			"option_html": "<pre>それぞれの位置を覚えておく</pre>\n"
+		}
+	]
+}

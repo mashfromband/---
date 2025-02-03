@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"組織理解",
+		"組織論の常識（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>全員の意見を反映する</pre>\n",
+			"option_html": "<pre>全員の意見を反映する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>指示が上層部から降りてくる</pre>\n",
+			"option_html": "<pre>指示が上層部から降りてくる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>個人の判断で行動する</pre>\n",
+			"option_html": "<pre>個人の判断で行動する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>全ての業務を自由に進める</pre>\n",
+			"option_html": "<pre>全ての業務を自由に進める</pre>\n"
+		}
+	]
+}

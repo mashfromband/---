@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「画像サイズ」変更</pre>\n",
+			"option_html": "<pre>「画像サイズ」変更</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「レイヤーを統合」</pre>\n",
+			"option_html": "<pre>「レイヤーを統合」</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「カラーモード」変更</pre>\n",
+			"option_html": "<pre>「カラーモード」変更</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ファイルを閉じる」</pre>\n",
+			"option_html": "<pre>「ファイルを閉じる」</pre>\n"
+		}
+	]
+}

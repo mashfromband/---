@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"生成AI",
+		"効率化",
+		"社会人向け"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>テキスト要約AI</pre>\n",
+			"option_html": "<pre>テキスト要約AI</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>音楽生成AI</pre>\n",
+			"option_html": "<pre>音楽生成AI</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ナレッジマネジメントAI</pre>\n",
+			"option_html": "<pre>ナレッジマネジメントAI</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>3Dモデル生成AI</pre>\n",
+			"option_html": "<pre>3Dモデル生成AI</pre>\n"
+		}
+	]
+}

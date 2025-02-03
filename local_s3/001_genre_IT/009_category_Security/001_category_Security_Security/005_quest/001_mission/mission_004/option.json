@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>他の利用者の通信内容を確認できる可能性がある</pre>\n",
+			"option_html": "<pre>他の利用者の通信内容を確認できる可能性がある</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>通信が暗号化されていない可能性がある</pre>\n",
+			"option_html": "<pre>通信が暗号化されていない可能性がある</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>公衆Wi-Fiを利用するとパスワードが不要になる</pre>\n",
+			"option_html": "<pre>公衆Wi-Fiを利用するとパスワードが不要になる</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>公衆Wi-Fiの利用には特別なソフトウェアが必要である</pre>\n",
+			"option_html": "<pre>公衆Wi-Fiの利用には特別なソフトウェアが必要である</pre>\n"
+		}
+	]
+}

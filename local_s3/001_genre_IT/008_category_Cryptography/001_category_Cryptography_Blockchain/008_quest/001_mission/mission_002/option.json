@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>個人データを中央機関が管理する</pre>\n",
+			"option_html": "<pre>個人データを中央機関が管理する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>身元情報を完全に非公開にする</pre>\n",
+			"option_html": "<pre>身元情報を完全に非公開にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>デジタルアイデンティティを改ざん不可能な形で管理する</pre>\n",
+			"option_html": "<pre>デジタルアイデンティティを改ざん不可能な形で管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>個人情報を紙媒体で保存する</pre>\n",
+			"option_html": "<pre>個人情報を紙媒体で保存する</pre>\n"
+		}
+	]
+}

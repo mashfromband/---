@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>カラーパネルでHSLを調整する</pre>\n",
+			"option_html": "<pre>カラーパネルでHSLを調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルでHSLを調整する</pre>\n",
+			"option_html": "<pre>スウォッチパネルでHSLを調整する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションパネルでHSLを設定する</pre>\n",
+			"option_html": "<pre>グラデーションパネルでHSLを設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>アピアランスパネルでHSLを設定する</pre>\n",
+			"option_html": "<pre>アピアランスパネルでHSLを設定する</pre>\n"
+		}
+	]
+}

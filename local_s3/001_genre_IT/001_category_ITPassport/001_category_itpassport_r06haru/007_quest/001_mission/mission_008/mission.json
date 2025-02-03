@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"情報デザイン",
+		"情報デザイン"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "NUI(Natural User Interface)\n",
+			"option_html": "<p>NUI(Natural User Interface)</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "ウィザード\n",
+			"option_html": "<p>ウィザード</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "シグニファイア\n",
+			"option_html": "<p>シグニファイア</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "マルチタッチ\n",
+			"option_html": "<p>マルチタッチ</p>\n"
+		}
+	]
+}

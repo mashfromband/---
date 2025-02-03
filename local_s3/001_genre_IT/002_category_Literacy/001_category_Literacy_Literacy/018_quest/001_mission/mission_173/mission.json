@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"テクノロジ系",
+		"ハードウェア",
+		"記憶装置"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "データの読み書き速度がHDDよりも遅い\n",
+			"option_html": "<p>データの読み書き速度がHDDよりも遅い</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "動作に可動部分を含む\n",
+			"option_html": "<p>動作に可動部分を含む</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "データの読み書きがHDDよりも高速である\n",
+			"option_html": "<p>データの読み書きがHDDよりも高速である</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "長期のデータ保存には適さない\n",
+			"option_html": "<p>長期のデータ保存には適さない</p>\n"
+		}
+	]
+}

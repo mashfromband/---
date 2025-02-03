@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>スウォッチに登録する</pre>\n",
+			"option_html": "<pre>スウォッチに登録する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>グラデーションを再作成する</pre>\n",
+			"option_html": "<pre>グラデーションを再作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>コピーしたグラデーションを画像として貼り付ける</pre>\n",
+			"option_html": "<pre>コピーしたグラデーションを画像として貼り付ける</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>別のアートボードを作成して保存する</pre>\n",
+			"option_html": "<pre>別のアートボードを作成して保存する</pre>\n"
+		}
+	]
+}

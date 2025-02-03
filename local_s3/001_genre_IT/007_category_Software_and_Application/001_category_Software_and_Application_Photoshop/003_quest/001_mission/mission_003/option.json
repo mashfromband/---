@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レベル補正</pre>\n",
+			"option_html": "<pre>レベル補正</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>明るさ・コントラスト</pre>\n",
+			"option_html": "<pre>明るさ・コントラスト</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>トーンカーブ</pre>\n",
+			"option_html": "<pre>トーンカーブ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>露光量</pre>\n",
+			"option_html": "<pre>露光量</pre>\n"
+		}
+	]
+}

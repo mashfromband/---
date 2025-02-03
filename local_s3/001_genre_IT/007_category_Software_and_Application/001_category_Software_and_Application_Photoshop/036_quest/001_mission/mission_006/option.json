@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>設定を「編集」メニューの「キーボードショートカット」からエクスポートする</pre>\n",
+			"option_html": "<pre>設定を「編集」メニューの「キーボードショートカット」からエクスポートする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>設定を自動でクラウドに同期する</pre>\n",
+			"option_html": "<pre>設定を自動でクラウドに同期する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>キーボードショートカットは移行できない</pre>\n",
+			"option_html": "<pre>キーボードショートカットは移行できない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>設定を「ファイル」メニューから保存する</pre>\n",
+			"option_html": "<pre>設定を「ファイル」メニューから保存する</pre>\n"
+		}
+	]
+}

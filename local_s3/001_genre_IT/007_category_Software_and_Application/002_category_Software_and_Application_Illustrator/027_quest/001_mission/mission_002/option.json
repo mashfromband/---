@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>塗りを「なし」に設定する</pre>\n",
+			"option_html": "<pre>塗りを「なし」に設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>テキスト > アウトラインを作成</pre>\n",
+			"option_html": "<pre>テキスト &gt; アウトラインを作成</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>線パネルで「なし」に設定する</pre>\n",
+			"option_html": "<pre>線パネルで「なし」に設定する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > パス > アウトラインストローク</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; パス &gt; アウトラインストローク</pre>\n"
+		}
+	]
+}

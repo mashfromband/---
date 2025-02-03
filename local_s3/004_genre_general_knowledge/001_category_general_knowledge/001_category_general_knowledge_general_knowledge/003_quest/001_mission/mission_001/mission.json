@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"ビジネスマナー",
+		"服装・身だしなみ（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>カラフルな柄入り</pre>\n",
+			"option_html": "<pre>カラフルな柄入り</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>派手な色</pre>\n",
+			"option_html": "<pre>派手な色</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>スーツに合うダークカラー</pre>\n",
+			"option_html": "<pre>スーツに合うダークカラー</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>足元を目立たせる白色</pre>\n",
+			"option_html": "<pre>足元を目立たせる白色</pre>\n"
+		}
+	]
+}

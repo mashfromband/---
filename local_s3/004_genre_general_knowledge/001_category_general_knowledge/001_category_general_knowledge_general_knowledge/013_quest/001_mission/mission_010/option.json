@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>自分の仕事を減らす</pre>\n",
+			"option_html": "<pre>自分の仕事を減らす</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>上司や同僚と情報を共有する</pre>\n",
+			"option_html": "<pre>上司や同僚と情報を共有する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>決裁を得ずに行動する</pre>\n",
+			"option_html": "<pre>決裁を得ずに行動する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>問題を隠す</pre>\n",
+			"option_html": "<pre>問題を隠す</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>相手の話を途中で遮らない</pre>\n",
+			"option_html": "<pre>相手の話を途中で遮らない</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>相手が話し終わるのを待つだけでなく、相づちや質問をする</pre>\n",
+			"option_html": "<pre>相手が話し終わるのを待つだけでなく、相づちや質問をする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>自分の意見を伝えるタイミングを考える</pre>\n",
+			"option_html": "<pre>自分の意見を伝えるタイミングを考える</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>自分が話しやすい話題に変える</pre>\n",
+			"option_html": "<pre>自分が話しやすい話題に変える</pre>\n"
+		}
+	]
+}

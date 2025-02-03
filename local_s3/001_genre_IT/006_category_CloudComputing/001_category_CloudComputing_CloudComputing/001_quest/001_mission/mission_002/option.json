@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>すべてのデータをローカルに保存する</pre>\n",
+			"option_html": "<pre>すべてのデータをローカルに保存する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>必要なときにリソースを柔軟に利用できる</pre>\n",
+			"option_html": "<pre>必要なときにリソースを柔軟に利用できる</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>サーバーの物理的な管理が必要</pre>\n",
+			"option_html": "<pre>サーバーの物理的な管理が必要</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>初期費用が非常に高い</pre>\n",
+			"option_html": "<pre>初期費用が非常に高い</pre>\n"
+		}
+	]
+}

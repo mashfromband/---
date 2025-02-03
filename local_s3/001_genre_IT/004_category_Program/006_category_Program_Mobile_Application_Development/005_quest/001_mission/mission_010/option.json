@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリのパフォーマンスを測定する</pre>\n",
+			"option_html": "<pre>アプリのパフォーマンスを測定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アプリのデザインを作成する</pre>\n",
+			"option_html": "<pre>アプリのデザインを作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリのバージョンを管理する</pre>\n",
+			"option_html": "<pre>アプリのバージョンを管理する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>実機テストを行う</pre>\n",
+			"option_html": "<pre>実機テストを行う</pre>\n"
+		}
+	]
+}

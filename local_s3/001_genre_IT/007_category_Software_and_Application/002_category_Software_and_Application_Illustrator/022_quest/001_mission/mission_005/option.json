@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>カラーガイドパネルから色を選んで適用する</pre>\n",
+			"option_html": "<pre>カラーガイドパネルから色を選んで適用する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>直接カラーガイドパネルで色をドラッグしてオブジェクトに適用する</pre>\n",
+			"option_html": "<pre>直接カラーガイドパネルで色をドラッグしてオブジェクトに適用する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>カラーウィンドウで「カラーを選択」を押す</pre>\n",
+			"option_html": "<pre>カラーウィンドウで「カラーを選択」を押す</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オブジェクト > 色の変更を選択する</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; 色の変更を選択する</pre>\n"
+		}
+	]
+}

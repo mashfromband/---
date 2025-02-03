@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"コミュニケーション",
+		"よい印象を与える（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>扉を開けたまま入る</pre>\n",
+			"option_html": "<pre>扉を開けたまま入る</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ノックをしてから入る</pre>\n",
+			"option_html": "<pre>ノックをしてから入る</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>無言で部屋に入る</pre>\n",
+			"option_html": "<pre>無言で部屋に入る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマホをいじりながら入る</pre>\n",
+			"option_html": "<pre>スマホをいじりながら入る</pre>\n"
+		}
+	]
+}

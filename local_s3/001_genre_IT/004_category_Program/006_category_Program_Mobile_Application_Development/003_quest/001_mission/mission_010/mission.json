@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"モバイルアプリ開発"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Swift</pre>\n",
+			"option_html": "<pre>Swift</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Kotlin</pre>\n",
+			"option_html": "<pre>Kotlin</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Java</pre>\n",
+			"option_html": "<pre>Java</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>JavaScript</pre>\n",
+			"option_html": "<pre>JavaScript</pre>\n"
+		}
+	]
+}

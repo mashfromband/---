@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"インターフェース"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>Ctrl + C でコピーして Ctrl + V で貼り付け</pre>\n",
+			"option_html": "<pre>Ctrl + C でコピーして Ctrl + V で貼り付け</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Altキーを押しながらドラッグ</pre>\n",
+			"option_html": "<pre>Altキーを押しながらドラッグ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>Ctrl + C でコピーして Ctrl + F で前面に貼り付け</pre>\n",
+			"option_html": "<pre>Ctrl + C でコピーして Ctrl + F で前面に貼り付け</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>Ctrl + D で複製</pre>\n",
+			"option_html": "<pre>Ctrl + D で複製</pre>\n"
+		}
+	]
+}

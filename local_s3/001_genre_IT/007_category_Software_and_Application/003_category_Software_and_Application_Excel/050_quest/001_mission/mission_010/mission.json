@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Excel",
+		"データ入力・編集"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「ホーム」タブ→「セルの結合」を選択する</pre>\n",
+			"option_html": "<pre>「ホーム」タブ→「セルの結合」を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「データ」タブ→「区切り位置」を選択する</pre>\n",
+			"option_html": "<pre>「データ」タブ→「区切り位置」を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「挿入」タブ→「ハイパーリンクを追加する」</pre>\n",
+			"option_html": "<pre>「挿入」タブ→「ハイパーリンクを追加する」</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「ファイル」タブ→「印刷」を選択する</pre>\n",
+			"option_html": "<pre>「ファイル」タブ→「印刷」を選択する</pre>\n"
+		}
+	]
+}

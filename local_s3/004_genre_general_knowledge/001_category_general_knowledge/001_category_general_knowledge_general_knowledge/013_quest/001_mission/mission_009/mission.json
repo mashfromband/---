@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"組織理解",
+		"組織論の常識（15）"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>社員の福利厚生</pre>\n",
+			"option_html": "<pre>社員の福利厚生</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>会社の目的や使命</pre>\n",
+			"option_html": "<pre>会社の目的や使命</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>会社の短期的目標</pre>\n",
+			"option_html": "<pre>会社の短期的目標</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>会社の構造改革</pre>\n",
+			"option_html": "<pre>会社の構造改革</pre>\n"
+		}
+	]
+}

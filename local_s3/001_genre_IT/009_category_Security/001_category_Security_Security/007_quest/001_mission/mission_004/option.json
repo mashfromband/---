@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ネットワーク全体を停止させるプログラム</pre>\n",
+			"option_html": "<pre>ネットワーク全体を停止させるプログラム</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>暗号化したデータを自動的に削除する</pre>\n",
+			"option_html": "<pre>暗号化したデータを自動的に削除する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>有用なソフトウェアに見せかけてシステムに侵入する</pre>\n",
+			"option_html": "<pre>有用なソフトウェアに見せかけてシステムに侵入する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>コンピュータの動作を高速化するソフトウェア</pre>\n",
+			"option_html": "<pre>コンピュータの動作を高速化するソフトウェア</pre>\n"
+		}
+	]
+}

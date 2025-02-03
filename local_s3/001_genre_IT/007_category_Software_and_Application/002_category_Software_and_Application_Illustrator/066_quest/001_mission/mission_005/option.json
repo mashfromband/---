@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アピアランスパネルで文字を拡大・縮小する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで文字を拡大・縮小する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>文字パネルで文字サイズを変更する</pre>\n",
+			"option_html": "<pre>文字パネルで文字サイズを変更する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>文字ツールで文字を拡大・縮小する</pre>\n",
+			"option_html": "<pre>文字ツールで文字を拡大・縮小する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スウォッチパネルで文字を拡大・縮小する</pre>\n",
+			"option_html": "<pre>スウォッチパネルで文字を拡大・縮小する</pre>\n"
+		}
+	]
+}

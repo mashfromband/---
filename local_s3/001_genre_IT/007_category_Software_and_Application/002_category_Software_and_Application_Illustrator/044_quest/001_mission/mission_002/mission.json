@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"効率化"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイルを別名で保存して管理する</pre>\n",
+			"option_html": "<pre>ファイルを別名で保存して管理する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>作業内容を1つのファイルに上書き保存する</pre>\n",
+			"option_html": "<pre>作業内容を1つのファイルに上書き保存する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>他の形式に変換して保存する</pre>\n",
+			"option_html": "<pre>他の形式に変換して保存する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>すべてのバージョンをプリントアウトして記録する</pre>\n",
+			"option_html": "<pre>すべてのバージョンをプリントアウトして記録する</pre>\n"
+		}
+	]
+}

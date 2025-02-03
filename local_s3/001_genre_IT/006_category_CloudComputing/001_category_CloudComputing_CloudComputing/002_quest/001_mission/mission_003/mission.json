@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>複数の公共クラウドを組み合わせた環境</pre>\n",
+			"option_html": "<pre>複数の公共クラウドを組み合わせた環境</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オンプレミスのみで構成された環境</pre>\n",
+			"option_html": "<pre>オンプレミスのみで構成された環境</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>特定のベンダーに依存したクラウド環境</pre>\n",
+			"option_html": "<pre>特定のベンダーに依存したクラウド環境</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>公共クラウドとプライベートクラウドを組み合わせた環境</pre>\n",
+			"option_html": "<pre>公共クラウドとプライベートクラウドを組み合わせた環境</pre>\n"
+		}
+	]
+}

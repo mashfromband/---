@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>許容値を下げる</pre>\n",
+			"option_html": "<pre>許容値を下げる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ブラシサイズを小さくする</pre>\n",
+			"option_html": "<pre>ブラシサイズを小さくする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>選択範囲を手動で調整する</pre>\n",
+			"option_html": "<pre>選択範囲を手動で調整する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ツールを「自動選択」に切り替える</pre>\n",
+			"option_html": "<pre>ツールを「自動選択」に切り替える</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>画像全体が明るくなる</pre>\n",
+			"option_html": "<pre>画像全体が明るくなる</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>彩度が減少する</pre>\n",
+			"option_html": "<pre>彩度が減少する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>画像がモノクロに変換される</pre>\n",
+			"option_html": "<pre>画像がモノクロに変換される</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーが非表示になる</pre>\n",
+			"option_html": "<pre>レイヤーが非表示になる</pre>\n"
+		}
+	]
+}

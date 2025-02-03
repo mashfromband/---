@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>売上総利益</pre>\n",
+			"option_html": "<pre>売上総利益</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>営業利益</pre>\n",
+			"option_html": "<pre>営業利益</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>経常利益</pre>\n",
+			"option_html": "<pre>経常利益</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>特別利益</pre>\n",
+			"option_html": "<pre>特別利益</pre>\n"
+		}
+	]
+}

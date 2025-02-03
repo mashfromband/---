@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーを非表示にする</pre>\n",
+			"option_html": "<pre>レイヤーを非表示にする</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>モノクロ画像を作成する</pre>\n",
+			"option_html": "<pre>モノクロ画像を作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ウェブ用の画像を作成する</pre>\n",
+			"option_html": "<pre>ウェブ用の画像を作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>印刷用のカラー設定に適合させる</pre>\n",
+			"option_html": "<pre>印刷用のカラー設定に適合させる</pre>\n"
+		}
+	]
+}

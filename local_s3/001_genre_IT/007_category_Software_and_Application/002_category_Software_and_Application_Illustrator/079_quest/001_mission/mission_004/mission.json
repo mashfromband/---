@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Illustrator",
+		"オブジェクト"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アラインパネルで「垂直方向の分布」を設定する</pre>\n",
+			"option_html": "<pre>アラインパネルで「垂直方向の分布」を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>パスファインダー > 分布を適用</pre>\n",
+			"option_html": "<pre>パスファインダー &gt; 分布を適用</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで「整列」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「整列」を選択</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スマートガイドを使用して配置</pre>\n",
+			"option_html": "<pre>スマートガイドを使用して配置</pre>\n"
+		}
+	]
+}

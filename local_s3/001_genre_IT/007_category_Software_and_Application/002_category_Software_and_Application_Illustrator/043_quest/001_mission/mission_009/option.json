@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>ファイル > 保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; 保存</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ファイル > 名前を付けて保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; 名前を付けて保存</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ファイル > 書き出し</pre>\n",
+			"option_html": "<pre>ファイル &gt; 書き出し</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>ファイル > クラウドドキュメントとして保存</pre>\n",
+			"option_html": "<pre>ファイル &gt; クラウドドキュメントとして保存</pre>\n"
+		}
+	]
+}

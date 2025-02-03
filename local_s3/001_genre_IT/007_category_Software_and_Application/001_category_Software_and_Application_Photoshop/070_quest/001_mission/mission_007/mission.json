@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"テキスト・タイポグラフィ"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>「変形」メニューから「ワープ」を選ぶ</pre>\n",
+			"option_html": "<pre>「変形」メニューから「ワープ」を選ぶ</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>「文字ツール」で「ワープ」を選ぶ</pre>\n",
+			"option_html": "<pre>「文字ツール」で「ワープ」を選ぶ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>「フィルター」メニューから「ワープ」を選ぶ</pre>\n",
+			"option_html": "<pre>「フィルター」メニューから「ワープ」を選ぶ</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>「レイヤースタイル」から「ワープ」を選ぶ</pre>\n",
+			"option_html": "<pre>「レイヤースタイル」から「ワープ」を選ぶ</pre>\n"
+		}
+	]
+}

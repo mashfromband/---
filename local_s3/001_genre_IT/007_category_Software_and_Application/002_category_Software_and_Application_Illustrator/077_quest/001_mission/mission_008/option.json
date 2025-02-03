@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>レイヤーパネルでレイヤーを選択してCtrl + Gを押す</pre>\n",
+			"option_html": "<pre>レイヤーパネルでレイヤーを選択してCtrl + Gを押す</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オブジェクト > グループ化を選択</pre>\n",
+			"option_html": "<pre>オブジェクト &gt; グループ化を選択</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>レイヤーパネルで「新規レイヤー」を作成し、オブジェクトを移動</pre>\n",
+			"option_html": "<pre>レイヤーパネルで「新規レイヤー」を作成し、オブジェクトを移動</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>レイヤーパネルで右クリックし「グループ化」を選択</pre>\n",
+			"option_html": "<pre>レイヤーパネルで右クリックし「グループ化」を選択</pre>\n"
+		}
+	]
+}

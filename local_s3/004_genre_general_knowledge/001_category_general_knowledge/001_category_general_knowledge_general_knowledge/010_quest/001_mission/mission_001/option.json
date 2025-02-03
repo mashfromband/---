@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>背景を詳しく話してから要点を伝える</pre>\n",
+			"option_html": "<pre>背景を詳しく話してから要点を伝える</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>最初に結論を伝え、その後に説明を加える</pre>\n",
+			"option_html": "<pre>最初に結論を伝え、その後に説明を加える</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>まずは雑談をしてから本題に入る</pre>\n",
+			"option_html": "<pre>まずは雑談をしてから本題に入る</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>相手に質問してから自分の話をする</pre>\n",
+			"option_html": "<pre>相手に質問してから自分の話をする</pre>\n"
+		}
+	]
+}

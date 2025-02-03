@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"システム構成要素",
+		"システムの評価指標"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "0.81\n",
+			"option_html": "<p>0.81</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "0.90\n",
+			"option_html": "<p>0.90</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "0.95\n",
+			"option_html": "<p>0.95</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "0.99\n",
+			"option_html": "<p>0.99</p>\n"
+		}
+	]
+}

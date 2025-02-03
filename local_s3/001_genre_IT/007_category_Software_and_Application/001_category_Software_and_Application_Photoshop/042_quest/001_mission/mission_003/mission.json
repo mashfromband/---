@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"Photoshop",
+		"トラブルシューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>許容値を調整する</pre>\n",
+			"option_html": "<pre>許容値を調整する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スマート半径を有効にする</pre>\n",
+			"option_html": "<pre>スマート半径を有効にする</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>背景レイヤーをロック解除する</pre>\n",
+			"option_html": "<pre>背景レイヤーをロック解除する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>描画モードを「通常」に設定する</pre>\n",
+			"option_html": "<pre>描画モードを「通常」に設定する</pre>\n"
+		}
+	]
+}

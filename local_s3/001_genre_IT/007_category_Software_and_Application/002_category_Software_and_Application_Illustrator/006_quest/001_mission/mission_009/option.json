@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>青</pre>\n",
+			"option_html": "<pre>青</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>オレンジ</pre>\n",
+			"option_html": "<pre>オレンジ</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>緑</pre>\n",
+			"option_html": "<pre>緑</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>紫</pre>\n",
+			"option_html": "<pre>紫</pre>\n"
+		}
+	]
+}

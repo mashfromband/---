@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 2,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>クラウド上で仮想サーバーを提供する</pre>\n",
+			"option_html": "<pre>クラウド上で仮想サーバーを提供する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>Windows ServerやActive Directoryとの連携が容易である</pre>\n",
+			"option_html": "<pre>Windows ServerやActive Directoryとの連携が容易である</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>データ分析の高度な機能を提供する</pre>\n",
+			"option_html": "<pre>データ分析の高度な機能を提供する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オンラインで完成されたソフトウェアを提供する</pre>\n",
+			"option_html": "<pre>オンラインで完成されたソフトウェアを提供する</pre>\n"
+		}
+	]
+}

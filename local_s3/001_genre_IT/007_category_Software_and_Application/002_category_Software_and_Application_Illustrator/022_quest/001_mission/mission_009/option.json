@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>グラデーションパネルで色コードを入力する</pre>\n",
+			"option_html": "<pre>グラデーションパネルで色コードを入力する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スウォッチパネルから色を選択して入力する</pre>\n",
+			"option_html": "<pre>スウォッチパネルから色を選択して入力する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>色相スライダーで色コードを入力する</pre>\n",
+			"option_html": "<pre>色相スライダーで色コードを入力する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>カラーパネルの色コード入力欄に直接入力する</pre>\n",
+			"option_html": "<pre>カラーパネルの色コード入力欄に直接入力する</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アプリケーションの開発環境を提供する</pre>\n",
+			"option_html": "<pre>アプリケーションの開発環境を提供する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>完成されたソフトウェアを提供する</pre>\n",
+			"option_html": "<pre>完成されたソフトウェアを提供する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>仮想サーバーやネットワークを提供する</pre>\n",
+			"option_html": "<pre>仮想サーバーやネットワークを提供する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>イベントベースで関数を実行する</pre>\n",
+			"option_html": "<pre>イベントベースで関数を実行する</pre>\n"
+		}
+	]
+}

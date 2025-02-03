@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>中央管理者が存在する</pre>\n",
+			"option_html": "<pre>中央管理者が存在する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ブロックチェーン上で動作する</pre>\n",
+			"option_html": "<pre>ブロックチェーン上で動作する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>取引手数料が発生しない</pre>\n",
+			"option_html": "<pre>取引手数料が発生しない</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オフライン環境で動作する</pre>\n",
+			"option_html": "<pre>オフライン環境で動作する</pre>\n"
+		}
+	]
+}

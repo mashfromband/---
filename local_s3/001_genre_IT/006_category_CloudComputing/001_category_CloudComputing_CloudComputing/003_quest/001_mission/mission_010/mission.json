@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"IT",
+		"クラウドコンピューティング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>複数の仮想サーバーやリソースを1台の物理サーバー上に作成すること</pre>\n",
+			"option_html": "<pre>複数の仮想サーバーやリソースを1台の物理サーバー上に作成すること</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>ソフトウェアの利用がインターネット経由で可能になること</pre>\n",
+			"option_html": "<pre>ソフトウェアの利用がインターネット経由で可能になること</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>アプリケーション開発環境をオンラインで提供すること</pre>\n",
+			"option_html": "<pre>アプリケーション開発環境をオンラインで提供すること</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>データセンター全体を物理的に分散すること</pre>\n",
+			"option_html": "<pre>データセンター全体を物理的に分散すること</pre>\n"
+		}
+	]
+}

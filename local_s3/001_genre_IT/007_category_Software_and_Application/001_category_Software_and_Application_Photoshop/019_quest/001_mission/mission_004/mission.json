@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"Photoshop",
+		"色調"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>差の絶対値</pre>\n",
+			"option_html": "<pre>差の絶対値</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>スクリーン</pre>\n",
+			"option_html": "<pre>スクリーン</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>ハードミックス</pre>\n",
+			"option_html": "<pre>ハードミックス</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>オーバーレイ</pre>\n",
+			"option_html": "<pre>オーバーレイ</pre>\n"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 3,
+	"tags": [
+		"Illustrator",
+		"フィルター"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>効果 > 変形 > 輝度</pre>\n",
+			"option_html": "<pre>効果 &gt; 変形 &gt; 輝度</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>フィルター > アーティスティック > 輝度</pre>\n",
+			"option_html": "<pre>フィルター &gt; アーティスティック &gt; 輝度</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>効果 > スタイライズ > 輝度</pre>\n",
+			"option_html": "<pre>効果 &gt; スタイライズ &gt; 輝度</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > アピアランス > 輝度</pre>\n",
+			"option_html": "<pre>効果 &gt; アピアランス &gt; 輝度</pre>\n"
+		}
+	]
+}

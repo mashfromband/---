@@ -1,0 +1,32 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 1,
+	"tags": [
+		"テクノロジ系",
+		"ネットワーク",
+		"パケットスニッフィング"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "ネットワーク上の通信データを傍受する行為\n",
+			"option_html": "<p>ネットワーク上の通信データを傍受する行為</p>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "不正なパケットを破棄する技術\n",
+			"option_html": "<p>不正なパケットを破棄する技術</p>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "データを暗号化する技術\n",
+			"option_html": "<p>データを暗号化する技術</p>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "インターネット接続速度を向上させる技術\n",
+			"option_html": "<p>インターネット接続速度を向上させる技術</p>\n"
+		}
+	]
+}

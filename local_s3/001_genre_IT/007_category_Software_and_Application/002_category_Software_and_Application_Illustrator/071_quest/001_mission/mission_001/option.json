@@ -1,0 +1,25 @@
+{
+	"quest_type": "one_choice",
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>文字ツールで枠線を設定する</pre>\n",
+			"option_html": "<pre>文字ツールで枠線を設定する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>アピアランスパネルで枠線を作成する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで枠線を作成する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>パスファインダーで枠線を作成する</pre>\n",
+			"option_html": "<pre>パスファインダーで枠線を作成する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>効果 > 3Dで枠線を設定する</pre>\n",
+			"option_html": "<pre>効果 &gt; 3Dで枠線を設定する</pre>\n"
+		}
+	]
+}

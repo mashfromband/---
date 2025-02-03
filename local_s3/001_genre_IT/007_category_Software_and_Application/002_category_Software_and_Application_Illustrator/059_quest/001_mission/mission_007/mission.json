@@ -1,0 +1,31 @@
+{
+	"quest_type": "one_choice",
+	"option_index": "katakana_aiueo",
+	"correct_value": 4,
+	"tags": [
+		"Illustrator",
+		"カラー"
+	],
+	"options": [
+		{
+			"id": "ア",
+			"option_md": "<pre>アピアランスパネルで色を選択する</pre>\n",
+			"option_html": "<pre>アピアランスパネルで色を選択する</pre>\n"
+		},
+		{
+			"id": "イ",
+			"option_md": "<pre>カラーパネルで色を選択する</pre>\n",
+			"option_html": "<pre>カラーパネルで色を選択する</pre>\n"
+		},
+		{
+			"id": "ウ",
+			"option_md": "<pre>グラデーションパネルで色を選択する</pre>\n",
+			"option_html": "<pre>グラデーションパネルで色を選択する</pre>\n"
+		},
+		{
+			"id": "エ",
+			"option_md": "<pre>スウォッチパネルから色をクリックする</pre>\n",
+			"option_html": "<pre>スウォッチパネルから色をクリックする</pre>\n"
+		}
+	]
+}
